@@ -1,0 +1,9 @@
+name: EntryGate
+version: '${version}'
+main: com.bwsiracecar.entrygate.EntryGatePlugin
+api-version: '1.21'
+description: Asks configured questions before letting a player move or build
+permissions:
+  entrygate.bypass:
+    description: Skip the questions
+    default: false

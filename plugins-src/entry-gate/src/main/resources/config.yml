@@ -1,0 +1,8 @@
+# Template only. The real questions live in
+# data/plugins/EntryGate/config.yml on the server and are not in this repo.
+# With no questions configured the gate stays open.
+max-attempts: 3
+
+questions: []
+#  - prompt: "your question here"
+#    answer: "expected answer"
