@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Minecraft world data is binary; keep it out of the git object store
+*.mca filter=lfs diff=lfs merge=lfs -text
+*.mcc filter=lfs diff=lfs merge=lfs -text

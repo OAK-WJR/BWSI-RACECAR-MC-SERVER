@@ -1,0 +1,12 @@
+# secrets and server state, except the world itself
+.env
+data/*
+!data/BWSI Racecar/
+data/BWSI Racecar/session.lock
+data/BWSI Racecar/level.dat_old
+backups/
+
+# build output
+build/
+.gradle/
+*.jar

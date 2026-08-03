@@ -1,0 +1,41 @@
+name: build
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  plugins:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Build
+        run: |
+          for d in plugins-src/*/; do
+            [ -f "$d/build.gradle.kts" ] || [ -f "$d/build.gradle" ] || continue
+            (cd "$d" && gradle --no-daemon build)
+          done
+
+      - name: Collect jars
+        run: |
+          mkdir -p dist
+          find plugins-src -path '*/build/libs/*.jar' ! -name '*-sources.jar' \
+            -exec cp {} dist/ \; 2>/dev/null || true
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: plugin-jars
+          path: dist/
+          if-no-files-found: ignore
+
+      - name: Check no secrets committed
+        run: |
+          git ls-files | grep -qE '^(\.env|data/)' && { echo "secrets committed"; exit 1; }
+          exit 0

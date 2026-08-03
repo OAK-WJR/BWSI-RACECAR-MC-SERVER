@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# Build every plugin in plugins-src/ and deploy to the running server.
+set -euo pipefail
+
+cd "$(dirname "${BASH_SOURCE[0]}")/.."
+
+for d in plugins-src/*/; do
+    [ -f "$d/build.gradle.kts" ] || [ -f "$d/build.gradle" ] || continue
+    echo "building $d"
+    docker run --rm -v "$PWD/$d":/w -w /w --user "$(id -u):$(id -g)" \
+        gradle:8-jdk21 gradle --no-daemon build
+done
+
+jars=$(find plugins-src -path '*/build/libs/*.jar' ! -name '*-sources.jar')
+[ -n "$jars" ] || { echo "nothing to deploy"; exit 0; }
+
+docker exec minecraft rcon-cli save-all
+for jar in $jars; do
+    echo "deploying $(basename "$jar")"
+    install -o 1000 -g 1000 -m 644 "$jar" data/plugins/
+done
+
+docker compose restart mc

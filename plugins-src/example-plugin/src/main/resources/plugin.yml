@@ -1,0 +1,7 @@
+name: ExamplePlugin
+version: '${version}'
+main: com.bwsiracecar.example.ExamplePlugin
+api-version: '1.21'
+commands:
+  hello:
+    description: Prints a greeting
