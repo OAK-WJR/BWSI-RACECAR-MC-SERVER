@@ -44,6 +44,29 @@ well and the repo grows with every snapshot — move to Git LFS once it nears 1 
 Everything else under `data/` is ignored, including `server.properties`, which
 holds the RCON password. `.env` is ignored for the same reason.
 
+## Deployment
+
+`mc-auto-deploy.timer` polls GitHub every 5 minutes and deploys new plugin
+builds. Nothing listens on a port for this — the host reaches out — so this adds
+no inbound attack surface. Three gates before anything runs:
+
+1. the remote must fast-forward; a rewritten or force-pushed `main` is refused
+2. CI must have succeeded for that exact commit
+3. the build happens in a separate clone (`/root/mc-deploy`) as uid 1000 with all
+   capabilities dropped, so the live world is never touched
+
+Merging to `main` therefore puts code on the server within 5 minutes. Protect the
+branch and require review, or that gate is only a convention.
+
+Compose changes are not applied automatically — deploys restart the server, they
+do not re-create it. Run `docker compose up -d` by hand for those.
+
+```bash
+systemctl start mc-auto-deploy      # deploy now instead of waiting
+journalctl -u mc-auto-deploy -n 50  # what happened
+./scripts/deploy.sh                 # build and deploy the local tree
+```
+
 ## World snapshots
 
 ```bash

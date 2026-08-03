@@ -6,8 +6,10 @@ cd "$(dirname "${BASH_SOURCE[0]}")/.."
 
 for d in plugins-src/*/; do
     [ -f "$d/build.gradle.kts" ] || [ -f "$d/build.gradle" ] || continue
-    echo "building $d"
-    docker run --rm -v "$PWD/$d":/w -w /w --user "$(id -u):$(id -g)" \
+    name=$(basename "$d")
+    echo "building $name"
+    docker run --rm --user 1000:1000 --cap-drop ALL --security-opt no-new-privileges \
+        -v "$PWD/$d":"/build/$name" -w "/build/$name" \
         gradle:8-jdk21 gradle --no-daemon build
 done
 
