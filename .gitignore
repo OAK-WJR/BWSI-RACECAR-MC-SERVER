@@ -5,11 +5,6 @@ data/*
 data/BWSI Racecar/session.lock
 data/BWSI Racecar/level.dat_old
 
-# Paper stores every world under the main level's dimensions/ folder, so the
-# 1:1 MIT campus build world lands inside the tracked world. Keep it out: it is
-# generated from campus-data/ and would burn the LFS quota. The hourly backup
-# container still covers it.
-data/BWSI Racecar/dimensions/minecraft/campus/
 backups/
 
 # build output
@@ -18,5 +13,4 @@ build/
 *.jar
 
 # generated build artefacts
-campus-data/
 data/plugins/

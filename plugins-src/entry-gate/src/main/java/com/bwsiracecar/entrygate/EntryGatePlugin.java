@@ -4,7 +4,10 @@ import io.papermc.paper.event.player.AsyncChatEvent;
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
 import net.kyori.adventure.text.serializer.plain.PlainTextComponentSerializer;
+import net.kyori.adventure.title.Title;
 import org.bukkit.entity.Player;
+import org.bukkit.potion.PotionEffect;
+import org.bukkit.potion.PotionEffectType;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
@@ -16,6 +19,7 @@ import org.bukkit.event.player.PlayerMoveEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 import org.bukkit.plugin.java.JavaPlugin;
 
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -24,6 +28,12 @@ import java.util.UUID;
 
 /**
  * Asks a few questions before letting someone play.
+ *
+ * Minecraft has no way to prompt during the login handshake -- a player is
+ * already in the world by the time a plugin can talk to them. The next best
+ * thing, and what auth plugins do, is to hold them the moment they arrive:
+ * blind, frozen, and unable to build until they answer. Short of running a
+ * proxy with a separate limbo server, nothing gets closer to gating entry.
  *
  * The questions and answers live in config.yml on the server and are not part
  * of this repository. Without a config the gate stays open, so a fresh checkout
@@ -64,15 +74,28 @@ public class EntryGatePlugin extends JavaPlugin implements Listener {
         return position.containsKey(player.getUniqueId());
     }
 
+    /** Blind and immobilise, so the world is not visible before answering. */
+    private void hold(Player player) {
+        player.addPotionEffect(new PotionEffect(
+                PotionEffectType.BLINDNESS, PotionEffect.INFINITE_DURATION, 0, false, false));
+        player.setInvulnerable(true);
+    }
+
     private void ask(Player player) {
         int index = position.getOrDefault(player.getUniqueId(), 0);
+        player.showTitle(Title.title(
+                Component.text(questions.get(index).prompt(), NamedTextColor.AQUA),
+                Component.text("Answer in chat", NamedTextColor.GRAY),
+                Title.Times.times(Duration.ZERO, Duration.ofDays(1), Duration.ZERO)));
         player.sendMessage(Component.text(questions.get(index).prompt(), NamedTextColor.AQUA));
-        player.sendMessage(Component.text("Type your answer in chat.", NamedTextColor.GRAY));
     }
 
     private void release(Player player) {
         position.remove(player.getUniqueId());
         attempts.remove(player.getUniqueId());
+        player.removePotionEffect(PotionEffectType.BLINDNESS);
+        player.setInvulnerable(false);
+        player.clearTitle();
         player.sendMessage(Component.text("Welcome to BWSI Racecar.", NamedTextColor.GREEN));
     }
 
@@ -87,11 +110,12 @@ public class EntryGatePlugin extends JavaPlugin implements Listener {
         }
         position.put(player.getUniqueId(), 0);
         attempts.put(player.getUniqueId(), 0);
+        hold(player);
         getServer().getScheduler().runTaskLater(this, () -> {
             if (player.isOnline()) {
                 ask(player);
             }
-        }, 20L);
+        }, 10L);
     }
 
     @EventHandler

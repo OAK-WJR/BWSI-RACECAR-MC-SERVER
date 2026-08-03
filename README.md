@@ -7,7 +7,11 @@ Open building server. Anyone with a Minecraft account can join and build.
 - **Address:** `66.94.124.157`
 - **Server:** Paper 26.1.2 (newer clients work via ViaVersion)
 
-No registration, no password, no whitelist. Just connect.
+No whitelist and no password. On your first moments in you are asked a couple
+of questions; until you answer them the screen stays dark and you cannot move
+or build. The questions and answers live in `data/plugins/EntryGate/config.yml`
+on the server and are deliberately not in this repo — the shipped template is
+empty, so a fresh checkout leaves the gate open.
 
 ## Rules
 
@@ -30,12 +34,12 @@ Target Paper 26.1.2 and Java 21.
 ## Layout
 
 ```
-docker-compose.yml       production server
-data/BWSI Racecar/       the world, overworld + nether + end
-plugins-src/             plugin sources
+docker-compose.yml         production server
+data/BWSI Racecar/         the world, overworld + nether + end
+plugins-src/               plugin sources
 scripts/snapshot-world.sh  commit the current world
-scripts/deploy.sh        build plugins and deploy to production
-scripts/mc-isolation.sh  container network isolation (installed as a systemd unit)
+scripts/deploy.sh          build plugins and deploy to production
+scripts/mc-isolation.sh    container network isolation (systemd unit)
 ```
 
 The world is tracked here. Region files are binary, so git cannot delta them
@@ -43,51 +47,6 @@ well and the repo grows with every snapshot — move to Git LFS once it nears 1 
 
 Everything else under `data/` is ignored, including `server.properties`, which
 holds the RCON password. `.env` is ignored for the same reason.
-
-## MIT campus (1:1)
-
-A second world, `campus`, holds a 1:1 rebuild of MIT. One block is one metre.
-Get there with `/mvtp campus`; it is creative and separate from the survival
-world.
-
-The Stata Center interior is generated, not hand-built. MIT CSAIL published the
-as-built floor plans as part of the [Stata Center Data Set](https://projects.csail.mit.edu/stata/)
-(CC BY 3.0): 15 floors of room polygons carrying the real MIT room numbers, room
-types, and the doorways between them.
-
-The buildings around it are extruded from OpenStreetMap, which has MIT mapped by
-building number with surveyed heights. Those are exterior shells only — hollow,
-because no interior data is published for them.
-
-```bash
-./scripts/build_stata.sh     # Stata: 15 floors of real rooms
-./scripts/build_campus.sh    # 33, 9 and 13 neighbours: exterior shells
-```
-
-Everything is anchored on one origin — the centroid of the Stata floor 1
-outline. Use it for every other building or the pieces will not line up:
-
-```
-source CRS  EPSG:26786 (NAD27 / Massachusetts Mainland)
-origin      x=710545.124 y=496378.473, mapped to campus (0, 64, 0)
-storeys     5 blocks apart, ground floor slab at y=64
-```
-
-Going through the CRS matters: OSM is WGS84, and skipping the NAD27 datum shift
-puts the floor plans 35 m east of the building.
-
-Two things are deliberately left to people:
-
-- **Stata's exterior.** Its OSM outline is the ground projection of Gehry's
-  tilted, cantilevered massing; extruded straight up it becomes a lumpy prism.
-  Build it from photographs instead.
-- **Interiors of 33 and 9.** Nothing is published. People who have been in them
-  are the only source.
-
-Only the CSAIL plans are CC BY — do not put MIT-internal floor plans in this repo.
-
-The campus world is deliberately **not** tracked in git: a 1:1 campus would burn
-the LFS quota. The hourly backup container still covers it.
 
 ## Deployment
 

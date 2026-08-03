@@ -39,8 +39,7 @@ services:
       USE_AIKAR_FLAGS: "TRUE"
       TZ: "UTC"
       RCON_PASSWORD: ${RCON_PASSWORD}
-      # multiverse-core hosts the separate 1:1 MIT campus build world
-      MODRINTH_PROJECTS: "coreprotect,luckperms,worldedit,worldguard,viaversion,multiverse-core"
+      MODRINTH_PROJECTS: "coreprotect,luckperms,worldedit,worldguard,viaversion"
 
     volumes:
       - ./data:/data

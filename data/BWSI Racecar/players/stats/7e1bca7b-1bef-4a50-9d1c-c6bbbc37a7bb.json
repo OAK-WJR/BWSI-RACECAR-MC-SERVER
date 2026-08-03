@@ -1,42 +1,42 @@
 {
   "stats": {
-    "minecraft:picked_up": {
-      "minecraft:dandelion": 2,
-      "minecraft:wheat_seeds": 1
-    },
     "minecraft:mined": {
       "minecraft:short_grass": 19,
       "minecraft:oak_leaves": 2
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 20566,
-      "minecraft:walk_one_cm": 76295,
-      "minecraft:leave_game": 8,
-      "minecraft:horse_one_cm": 57707,
-      "minecraft:mob_kills": 1,
-      "minecraft:walk_under_water_one_cm": 3897,
-      "minecraft:damage_taken": 1787,
-      "minecraft:damage_dealt": 401,
-      "minecraft:play_time": 84006,
-      "minecraft:jump": 259,
-      "minecraft:time_since_death": 20536,
-      "minecraft:sprint_one_cm": 24423,
-      "minecraft:fall_one_cm": 7025,
-      "minecraft:swim_one_cm": 4233,
-      "minecraft:total_world_time": 84006,
-      "minecraft:fly_one_cm": 50314,
-      "minecraft:walk_on_water_one_cm": 5328,
-      "minecraft:crouch_one_cm": 126,
-      "minecraft:sneak_time": 81,
-      "minecraft:deaths": 7
     },
     "minecraft:killed_by": {
       "minecraft:enderman": 1,
       "minecraft:spider": 1,
       "minecraft:zombie": 4
     },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 30644,
+      "minecraft:walk_one_cm": 81286,
+      "minecraft:leave_game": 10,
+      "minecraft:horse_one_cm": 57707,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 3897,
+      "minecraft:damage_taken": 1787,
+      "minecraft:damage_dealt": 441,
+      "minecraft:play_time": 94084,
+      "minecraft:jump": 266,
+      "minecraft:time_since_death": 30614,
+      "minecraft:sprint_one_cm": 30762,
+      "minecraft:fall_one_cm": 7025,
+      "minecraft:swim_one_cm": 4233,
+      "minecraft:total_world_time": 94084,
+      "minecraft:fly_one_cm": 70657,
+      "minecraft:walk_on_water_one_cm": 5768,
+      "minecraft:crouch_one_cm": 126,
+      "minecraft:sneak_time": 82,
+      "minecraft:deaths": 7
+    },
     "minecraft:used": {
       "minecraft:dandelion": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:dandelion": 2,
+      "minecraft:wheat_seeds": 1
     }
   },
   "DataVersion": 4790
