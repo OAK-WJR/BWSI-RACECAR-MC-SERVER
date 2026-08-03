@@ -1,0 +1,9 @@
+name: Racecar
+version: '${version}'
+main: com.bwsiracecar.racecar.RacecarPlugin
+api-version: '1.21'
+description: A drivable real-scale model of the BWSI RACECAR
+commands:
+  racecar:
+    description: Place a RACECAR in front of you, or "remove" to take it away
+    usage: /racecar [remove]
