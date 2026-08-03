@@ -44,6 +44,40 @@ well and the repo grows with every snapshot — move to Git LFS once it nears 1 
 Everything else under `data/` is ignored, including `server.properties`, which
 holds the RCON password. `.env` is ignored for the same reason.
 
+## MIT campus (1:1)
+
+A second world, `campus`, holds a 1:1 rebuild of MIT. One block is one metre.
+Get there with `/mvtp campus`; it is creative and separate from the survival
+world.
+
+The Stata Center interior is generated, not hand-built. MIT CSAIL published the
+as-built floor plans as part of the [Stata Center Data Set](https://projects.csail.mit.edu/stata/)
+(CC BY 3.0): 15 floors of room polygons carrying the real MIT room numbers, room
+types, and the doorways between them.
+
+```bash
+./scripts/build_stata.sh    # regenerate and place all 15 floors
+```
+
+Everything is anchored on one origin — the centroid of the Stata floor 1
+outline. Use it for every other building or the pieces will not line up:
+
+```
+source CRS  EPSG:26786 (NAD27 / Massachusetts Mainland)
+origin      x=710545.124 y=496378.473, mapped to campus (0, 64, 0)
+storeys     5 blocks apart, ground floor slab at y=64
+```
+
+Going through the CRS matters: OSM is WGS84, and skipping the NAD27 datum shift
+puts the floor plans 35 m east of the building.
+
+Buildings 33 and 9 have no published interior data, so those are hand-built.
+Only the CSAIL plans are CC BY — do not put MIT-internal floor plans in this
+repo.
+
+The campus world is deliberately **not** tracked in git: a 1:1 campus would burn
+the LFS quota. The hourly backup container still covers it.
+
 ## Deployment
 
 `mc-auto-deploy.timer` polls GitHub every 5 minutes and deploys new plugin
