@@ -55,8 +55,13 @@ as-built floor plans as part of the [Stata Center Data Set](https://projects.csa
 (CC BY 3.0): 15 floors of room polygons carrying the real MIT room numbers, room
 types, and the doorways between them.
 
+The buildings around it are extruded from OpenStreetMap, which has MIT mapped by
+building number with surveyed heights. Those are exterior shells only — hollow,
+because no interior data is published for them.
+
 ```bash
-./scripts/build_stata.sh    # regenerate and place all 15 floors
+./scripts/build_stata.sh     # Stata: 15 floors of real rooms
+./scripts/build_campus.sh    # 33, 9 and 13 neighbours: exterior shells
 ```
 
 Everything is anchored on one origin — the centroid of the Stata floor 1
@@ -71,9 +76,15 @@ storeys     5 blocks apart, ground floor slab at y=64
 Going through the CRS matters: OSM is WGS84, and skipping the NAD27 datum shift
 puts the floor plans 35 m east of the building.
 
-Buildings 33 and 9 have no published interior data, so those are hand-built.
-Only the CSAIL plans are CC BY — do not put MIT-internal floor plans in this
-repo.
+Two things are deliberately left to people:
+
+- **Stata's exterior.** Its OSM outline is the ground projection of Gehry's
+  tilted, cantilevered massing; extruded straight up it becomes a lumpy prism.
+  Build it from photographs instead.
+- **Interiors of 33 and 9.** Nothing is published. People who have been in them
+  are the only source.
+
+Only the CSAIL plans are CC BY — do not put MIT-internal floor plans in this repo.
 
 The campus world is deliberately **not** tracked in git: a 1:1 campus would burn
 the LFS quota. The hourly backup container still covers it.
