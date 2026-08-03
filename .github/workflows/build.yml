@@ -37,5 +37,11 @@ jobs:
 
       - name: Check no secrets committed
         run: |
-          git ls-files | grep -qE '^(\.env|data/)' && { echo "secrets committed"; exit 1; }
-          exit 0
+          # The world is tracked on purpose; nothing else under data/ may be,
+          # least of all server.properties, which holds the RCON password.
+          bad=$(git ls-files | grep -E '^\.env$|^data/' | grep -v '^data/BWSI Racecar/' || true)
+          if [ -n "$bad" ]; then
+            echo "these must not be committed:"
+            echo "$bad"
+            exit 1
+          fi
