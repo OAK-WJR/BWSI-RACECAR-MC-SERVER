@@ -83,11 +83,16 @@ public class EntryGatePlugin extends JavaPlugin implements Listener {
 
     private void ask(Player player) {
         int index = position.getOrDefault(player.getUniqueId(), 0);
+        String prompt = questions.get(index).prompt();
+        // The title line is rendered huge and does not wrap, so a question of
+        // any length runs off both edges. Keep the counter up there and put the
+        // question in the smaller subtitle, plus chat, which wraps properly.
         player.showTitle(Title.title(
-                Component.text(questions.get(index).prompt(), NamedTextColor.AQUA),
-                Component.text("Answer in chat", NamedTextColor.GRAY),
+                Component.text((index + 1) + " / " + questions.size(), NamedTextColor.YELLOW),
+                Component.text(prompt, NamedTextColor.AQUA),
                 Title.Times.times(Duration.ZERO, Duration.ofDays(1), Duration.ZERO)));
-        player.sendMessage(Component.text(questions.get(index).prompt(), NamedTextColor.AQUA));
+        player.sendMessage(Component.text(prompt, NamedTextColor.AQUA));
+        player.sendActionBar(Component.text("Type your answer in chat", NamedTextColor.GRAY));
     }
 
     private void release(Player player) {
