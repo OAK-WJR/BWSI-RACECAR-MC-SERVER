@@ -32,14 +32,20 @@ services:
       SERVER_NAME: "BWSI Racecar"
       MOTD: "BWSI Racecar"
       LEVEL: "BWSI Racecar"
+      SEED: "4405134068028"
       DIFFICULTY: "normal"
       MAX_PLAYERS: "20"
       VIEW_DISTANCE: "10"
       ONLINE_MODE: "TRUE"
+      # Accounts without a chat-signing key are rejected with "Invalid session"
+      # when this is on. Turning it off does not weaken account verification.
+      ENFORCE_SECURE_PROFILE: "FALSE"
       USE_AIKAR_FLAGS: "TRUE"
       TZ: "UTC"
       RCON_PASSWORD: ${RCON_PASSWORD}
-      MODRINTH_PROJECTS: "coreprotect,luckperms,worldedit,worldguard,viaversion"
+      # ViaVersion tracks beta: only the snapshots support clients newer than
+      # the pinned 26.1.2 server, and the current Minecraft release is ahead of it.
+      MODRINTH_PROJECTS: "coreprotect,luckperms,worldedit,worldguard,viaversion:beta,multiverse-core"
 
     volumes:
       - ./data:/data
