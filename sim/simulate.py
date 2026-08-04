@@ -62,9 +62,12 @@ def main():
         if car.finished_at is None and car.error is None:
             # code returned without ever calling rc.go(): nothing was driven
             car.error = "your code finished without running the car (call rc.go())"
-    except Exception:
-        lines = traceback.format_exc().strip().splitlines()
-        result = {"status": "error", "error": lines[-1]}
+    except Exception as e:
+        # point at the player's own line, not wherever it surfaced inside numpy
+        frames = traceback.extract_tb(sys.exc_info()[2])
+        mine = [f for f in frames if f.filename == "player.py"]
+        where = f"line {mine[-1].lineno}: " if mine else ""
+        result = {"status": "error", "error": f"{where}{type(e).__name__}: {e}"}
 
     if result is None:
         if car.error:
