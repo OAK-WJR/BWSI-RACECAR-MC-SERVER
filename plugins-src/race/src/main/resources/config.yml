@@ -2,10 +2,10 @@
 # builds the track, and writes the matching sim/track_meta.json.
 world: "test"
 start:
-  x: -159.7
+  x: 150.5
   y: -59.0
-  z: -112.3
-  yaw: -95.2
+  z: 0.5
+  yaw: 0.0
 
 # Directories inside this plugin's data folder, shared with the host-side
 # runner through the ./data volume.
@@ -15,9 +15,9 @@ dirs:
 
 hologram:
   enabled: true
-  x: -159.7
+  x: 150.5
   y: -45.0
-  z: -112.3
+  z: 0.5
   lines: 10
 
 replay:

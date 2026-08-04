@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
-"""Build the Minecraft track from the simulator's map, and the metadata the
-simulator and the replay both need.
+"""Generate the ring circuit: the track in game, the map the simulator
+drives, and the metadata that ties them together.
 
-The map is the real BWSI track as scanned by the car's lidar, so the track in
-game is a scale replica of the one the simulator drives. Like the upstream
-Unity pipeline, the course is start to finish along the corridor rather than
-a lap: the finish is the point of the corridor geodesically furthest from the
-start, and the centerline between them is the path through the middle.
+One geometry definition feeds all three, so what players see and what the
+simulator drives can never drift apart. The circuit is centred on the hall
+origin and raced counter-clockwise from the start line at its eastern point.
 
 Run it inside the sim image, which has the imaging dependencies:
 
@@ -17,189 +15,125 @@ The lobby interior is filled with invisible minecraft:light blocks, so fills
 here never use a replace filter: an unfiltered fill overwrites them, while a
 "replace air" would miss them.
 """
-import heapq
 import json
 import math
 import os
-import sys
 
 import cv2
 import numpy as np
 
 ROOT = "/mc" if os.path.isdir("/mc/sim") else os.path.join(
     os.path.dirname(os.path.abspath(__file__)), "..")
-sys.path.insert(0, os.path.join(ROOT, "sim", "sim2d"))
 
-from world import World
-
-MAP = "sim2d/maps/repaired_track.yaml"
 BLOCKS_PER_METRE = 8
-Y_FLOOR = -60
-Y_STAND = -59
-WALL_HEIGHT = 3
-MAX_TIME_S = 90
-OFFSET_X = -100             # where the track sits in the hall
-OFFSET_Z = -100
-FINISH_RADIUS_M = 1.5      # how close to the start line counts as home
-COARSE = 5                      # pathfinding cell = COARSE map pixels
+R_MID = 150.0               # blocks
+WIDTH = 12.0                # blocks
+R_IN, R_OUT = R_MID - WIDTH / 2, R_MID + WIDTH / 2
+OFFSET_X, OFFSET_Z = 0, 0   # circuit centre in the hall
+Y_FLOOR, Y_STAND = -60, -59
+MAX_TIME_S = 150
+START_RADIUS_M = 1.5
+RESOLUTION = 0.02           # simulator map, metres per pixel
 
-world = World(os.path.join(ROOT, "sim", MAP))
-res = world.resolution
-H, W = world.occupancy.shape
-sx, sy, sth = world.start_pose
+FUNC_DIR = os.path.join(ROOT, "data/BWSI Racecar/datapacks/lobby/data/bwsi/function")
+SIM_DIR = os.path.join(ROOT, "sim")
 
-# ---------------------------------------------------------------- the corridor
-free = (~world.occupancy).astype(np.uint8)
-count, labels = cv2.connectedComponents(free, connectivity=4)
-srow, scol = H - 1 - int(sy / res), int(sx / res)
-track_mask = (labels == labels[srow, scol]).astype(np.uint8)
-
-# coarse grid for pathfinding: cheap and still far finer than the car
-ch, cw = H // COARSE, W // COARSE
-coarse = cv2.resize(track_mask, (cw, ch), interpolation=cv2.INTER_AREA) > 0.5
-clearance = cv2.distanceTransform(coarse.astype(np.uint8), cv2.DIST_L2, 3) * COARSE * res
-
-start_cell = (srow // COARSE, scol // COARSE)
-
-def neighbours(cell):
-    r, c = cell
-    for dr in (-1, 0, 1):
-        for dc in (-1, 0, 1):
-            if dr or dc:
-                nr, nc = r + dr, c + dc
-                if 0 <= nr < ch and 0 <= nc < cw and coarse[nr, nc]:
-                    yield (nr, nc), math.hypot(dr, dc)
-
-def dijkstra(source, weight):
-    dist = np.full((ch, cw), np.inf)
-    prev = {}
-    dist[source] = 0.0
-    queue = [(0.0, source)]
-    while queue:
-        d, cell = heapq.heappop(queue)
-        if d > dist[cell]:
-            continue
-        for nxt, step in neighbours(cell):
-            nd = d + step * weight(nxt)
-            if nd < dist[nxt]:
-                dist[nxt] = nd
-                prev[nxt] = cell
-                heapq.heappush(queue, (nd, nxt))
-    return dist, prev
-
-# finish = furthest point of the corridor from the start, measured along it
-plain, _ = dijkstra(start_cell, lambda cell: 1.0)
-plain[~coarse] = -np.inf
-finish_cell = np.unravel_index(np.argmax(np.where(np.isfinite(plain), plain, -np.inf)),
-                               plain.shape)
-
-# centerline = the same route, but pushed towards the middle of the corridor
-middle, prev = dijkstra(start_cell, lambda cell: 1.0 + 1.0 / max(clearance[cell], 0.05))
-path = [tuple(finish_cell)]
-while path[-1] != start_cell:
-    path.append(prev[path[-1]])
-path.reverse()
-
-def cell_to_metres(cell):
-    r, c = cell
-    return ((c + 0.5) * COARSE * res, (H - 1 - (r + 0.5) * COARSE) * res)
-
-centerline = [cell_to_metres(cell) for cell in path[::4]]
-finish_xy = cell_to_metres(tuple(finish_cell))
-corridor_m = sum(math.dist(centerline[i], centerline[i + 1])
-                 for i in range(len(centerline) - 1))
-
-# ---------------------------------------------------------------- the build
-scale = BLOCKS_PER_METRE
-width_b = math.ceil(world.width_m * scale)
-depth_b = math.ceil(world.height_m * scale)
-origin_x = OFFSET_X - width_b // 2
-origin_z = OFFSET_Z + depth_b // 2
-
+# ---------------------------------------------------------------- in game
 build, clear = [], []
 
-def emit(cmd_build, cmd_clear):
+def both(cmd_build, cmd_clear):
     build.append(cmd_build)
     clear.append(cmd_clear)
 
-# Row-scan: runs of wall become wall, runs of corridor become asphalt. Free
-# space outside the corridor keeps the hall's quartz floor.
-for bz in range(depth_b):
-    z = origin_z - bz
-    run_start, run_kind = None, None
-    for bx in range(width_b + 1):
-        if bx < width_b:
-            mx, my = (bx + 0.5) / scale, (bz + 0.5) / scale
-            col, row = int(mx / res), H - 1 - int(my / res)
-            if 0 <= row < H and 0 <= col < W:
-                kind = "wall" if world.occupancy[row, col] else (
-                    "road" if track_mask[row, col] else None)
-            else:
-                kind = None
-        else:
-            kind = "end"
-        if kind != run_kind:
-            if run_kind in ("wall", "road"):
-                x1, x2 = origin_x + run_start, origin_x + bx - 1
-                if run_kind == "wall":
-                    emit(f"fill {x1} {Y_STAND} {z} {x2} {Y_STAND + WALL_HEIGHT - 1} {z} "
-                         "minecraft:white_concrete",
-                         f"fill {x1} {Y_STAND} {z} {x2} {Y_STAND + WALL_HEIGHT - 1} {z} "
-                         "minecraft:light[level=15]")
-                else:
-                    emit(f"fill {x1} {Y_FLOOR} {z} {x2} {Y_FLOOR} {z} minecraft:black_concrete",
-                         f"fill {x1} {Y_FLOOR} {z} {x2} {Y_FLOOR} {z} minecraft:smooth_quartz")
-            run_start, run_kind = bx, kind
+lo2, hi2 = R_IN * R_IN, R_OUT * R_OUT
+for z in range(-int(R_OUT) - 1, int(R_OUT) + 2):
+    run = None
+    for x in range(-int(R_OUT) - 1, int(R_OUT) + 3):
+        inside = lo2 <= x * x + z * z <= hi2
+        if inside and run is None:
+            run = x
+        elif not inside and run is not None:
+            x1, x2, zz = run + OFFSET_X, x - 1 + OFFSET_X, z + OFFSET_Z
+            both(f"fill {x1} {Y_FLOOR} {zz} {x2} {Y_FLOOR} {zz} minecraft:black_concrete",
+                 f"fill {x1} {Y_FLOOR} {zz} {x2} {Y_FLOOR} {zz} minecraft:smooth_quartz")
+            run = None
 
-def to_blocks(x, y):
-    return origin_x + x * scale, origin_z - y * scale
+# kerbs: alternating red and white, hugging both boundaries
+kerb = {}
+for a10 in range(3600):
+    t = math.radians(a10 / 10)
+    stripe = (a10 // 60) % 2
+    for r in (R_IN - 0.6, R_OUT + 0.6):
+        kerb[(round(r * math.cos(t)), round(r * math.sin(t)))] = stripe
+for (x, z), stripe in sorted(kerb.items()):
+    colour = "red_concrete" if stripe else "white_concrete"
+    both(f"setblock {x + OFFSET_X} {Y_STAND} {z + OFFSET_Z} minecraft:{colour}",
+         f"setblock {x + OFFSET_X} {Y_STAND} {z + OFFSET_Z} minecraft:light[level=15]")
 
-def paint_line(centre, direction, colour_a, colour_b):
-    """A checker strip across the corridor, perpendicular to the direction."""
-    px, pz = -direction[1], direction[0]
-    cx, cz = to_blocks(*centre)
-    for step in range(-int(1.4 * scale), int(1.4 * scale) + 1):
-        for along in (0, 1):
-            bx = round(cx + px * step + direction[0] * along)
-            bz = round(cz + pz * step + direction[1] * along)
-            colour = colour_a if (bx + bz) % 2 == 0 else colour_b
-            emit(f"setblock {bx} {Y_FLOOR} {bz} minecraft:{colour}",
-                 f"setblock {bx} {Y_FLOOR} {bz} minecraft:black_concrete")
+# start line and gate at the eastern point
+for x in range(int(R_IN), int(R_OUT) + 1):
+    for z in (-1, 0):
+        colour = "white_concrete" if (x + z) % 2 == 0 else "gray_concrete"
+        both(f"setblock {x + OFFSET_X} {Y_FLOOR} {z + OFFSET_Z} minecraft:{colour}",
+             f"setblock {x + OFFSET_X} {Y_FLOOR} {z + OFFSET_Z} minecraft:black_concrete")
+gate_in, gate_out = int(R_IN) - 1 + OFFSET_X, int(R_OUT) + 1 + OFFSET_X
+for gx in (gate_in, gate_out):
+    both(f"fill {gx} {Y_STAND} {OFFSET_Z} {gx} -53 {OFFSET_Z} minecraft:quartz_pillar",
+         f"fill {gx} {Y_STAND} {OFFSET_Z} {gx} -53 {OFFSET_Z} minecraft:light[level=15]")
+both(f"fill {gate_in} -52 {OFFSET_Z} {gate_out} -52 {OFFSET_Z} minecraft:smooth_quartz",
+     f"fill {gate_in} -52 {OFFSET_Z} {gate_out} -52 {OFFSET_Z} minecraft:light[level=15]")
+both(f"setblock {(gate_in + gate_out) // 2} -53 {OFFSET_Z} minecraft:sea_lantern",
+     f"setblock {(gate_in + gate_out) // 2} -53 {OFFSET_Z} minecraft:light[level=15]")
 
-def block_direction(a, b):
-    ax, az = to_blocks(*a)
-    bx, bz = to_blocks(*b)
-    length = math.hypot(bx - ax, bz - az) or 1.0
-    return ((bx - ax) / length, (bz - az) / length)
+os.makedirs(FUNC_DIR, exist_ok=True)
+open(os.path.join(FUNC_DIR, "track.mcfunction"), "w").write("\n".join(build) + "\n")
+open(os.path.join(FUNC_DIR, "track_clear.mcfunction"), "w").write("\n".join(clear) + "\n")
 
-# one start/finish line: the course is a circuit of the corridor
-paint_line(centerline[0], block_direction(centerline[0], centerline[3]),
-           "white_concrete", "gray_concrete")
+# ---------------------------------------------------------------- simulator map
+scale = BLOCKS_PER_METRE
+r_mid_m, r_in_m, r_out_m = R_MID / scale, R_IN / scale, R_OUT / scale
+half_m = r_out_m + 1.0
+size_px = int(round(2 * half_m / RESOLUTION))
 
-func_dir = os.path.join(ROOT, "data/BWSI Racecar/datapacks/lobby/data/bwsi/function")
-os.makedirs(func_dir, exist_ok=True)
-open(os.path.join(func_dir, "track.mcfunction"), "w").write("\n".join(build) + "\n")
-open(os.path.join(func_dir, "track_clear.mcfunction"), "w").write("\n".join(clear) + "\n")
+# black = wall, white = free (ROS map convention, occupied_thresh 128)
+image = np.zeros((size_px, size_px), np.uint8)
+yy, xx = np.mgrid[0:size_px, 0:size_px]
+x_m = (xx + 0.5) * RESOLUTION
+y_m = (size_px - 1 - yy + 0.5) * RESOLUTION
+radius = np.hypot(x_m - half_m, y_m - half_m)
+image[(radius >= r_in_m) & (radius <= r_out_m)] = 255
 
+maps_dir = os.path.join(SIM_DIR, "sim2d", "maps")
+cv2.imwrite(os.path.join(maps_dir, "ring.png"), image)
+
+# start on the eastern point, heading north: counter-clockwise
+start_x_m, start_y_m = half_m + r_mid_m, half_m
+open(os.path.join(maps_dir, "ring.yaml"), "w").write(
+    "# ring circuit, generated by scripts/gen_track.py - do not edit\n"
+    "image: ring.png\n"
+    f"resolution: {RESOLUTION}\n"
+    f"start_pose: [{start_x_m:.3f}, {start_y_m:.3f}, {math.pi / 2:.4f}]\n"
+    "occupied_thresh: 128\n")
+
+# ---------------------------------------------------------------- metadata
+lap_m = 2 * math.pi * r_mid_m
+# the simulator works in its own map metres; place that map's corner here
 meta = {
-    "map": MAP,
+    "map": "sim2d/maps/ring.yaml",
     "blocks_per_metre": scale,
-    "origin_x": origin_x,
-    "origin_z": origin_z,
+    "origin_x": OFFSET_X - half_m * scale,
+    "origin_z": OFFSET_Z + half_m * scale,
     "max_time_s": MAX_TIME_S,
     "realism": False,
-    "start_radius_m": FINISH_RADIUS_M,
-    "min_travel_m": round(0.7 * corridor_m, 1),
-    "corridor_m": round(corridor_m, 2),
-    "centerline": [[round(x, 3), round(y, 3)] for x, y in centerline],
+    "start_radius_m": START_RADIUS_M,
+    "min_travel_m": round(0.7 * lap_m, 1),
+    "corridor_m": round(lap_m, 2),
 }
-open(os.path.join(ROOT, "sim/track_meta.json"), "w").write(json.dumps(meta) + "\n")
+open(os.path.join(SIM_DIR, "track_meta.json"), "w").write(json.dumps(meta) + "\n")
 
-start_mc_x, start_mc_z = to_blocks(sx, sy)
-print(f"track {world.width_m:.2f}x{world.height_m:.2f} m -> {width_b}x{depth_b} blocks "
-      f"at {scale} blocks/m")
-print(f"corridor {corridor_m:.1f} m, lap needs {0.7 * corridor_m:.1f} m travelled")
+print(f"ring r={r_mid_m:.2f} m, width {WIDTH / scale:.2f} m, lap {lap_m:.1f} m")
+print(f"sim map {size_px}x{size_px} px at {RESOLUTION} m/px")
 print(f"{len(build)} build commands")
 print("plugin config:")
-print(f"start:\n  x: {start_mc_x:.1f}\n  y: {Y_STAND}.0\n  z: {start_mc_z:.1f}\n"
-      f"  yaw: {-(math.degrees(sth) + 90):.1f}")
+print(f"start:\n  x: {R_MID + OFFSET_X + 0.5}\n  y: {Y_STAND}.0\n"
+      f"  z: {OFFSET_Z + 0.5}\n  yaw: 0.0")
