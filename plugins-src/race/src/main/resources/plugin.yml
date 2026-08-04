@@ -1,0 +1,12 @@
+name: Race
+version: '${version}'
+main: com.bwsiracecar.race.RacePlugin
+api-version: '1.21'
+description: Code-controlled racecar racing and ranking
+commands:
+  race:
+    description: Submit racecar code and view the rankings
+    usage: /race <submit|top|status|admin>
+permissions:
+  race.admin:
+    default: op

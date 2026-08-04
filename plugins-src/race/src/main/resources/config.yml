@@ -1,0 +1,29 @@
+# Race world and start pose. Keep in step with sim/track.json, which
+# scripts/gen_track.py generates alongside the visible track.
+world: "test"
+start:
+  x: 150.5
+  y: -59.0
+  z: 0.5
+  yaw: 0.0
+
+# Directories inside this plugin's data folder, shared with the host-side
+# runner through the ./data volume.
+dirs:
+  queue: "queue"
+  results: "results"
+
+hologram:
+  enabled: true
+  x: 0.5
+  y: -45.0
+  z: 25.5
+  lines: 10
+
+replay:
+  enabled: true
+  podium-seconds: 10
+
+submit:
+  max-code-bytes: 32768
+  cooldown-seconds: 10

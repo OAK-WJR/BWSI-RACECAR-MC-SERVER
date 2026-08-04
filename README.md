@@ -13,6 +13,32 @@ or build. The questions and answers live in `data/plugins/EntryGate/config.yml`
 on the server and are deliberately not in this repo — the shipped template is
 empty, so a fresh checkout leaves the gate open.
 
+## Racing
+
+Write Python that drives the racecar, put it in a book, hold the book and run
+`/race submit`. Your lap is simulated, replayed on the track in the `test`
+world for everyone to watch, and your best time goes on the leaderboard.
+
+```python
+rc.set_speed(15.0, 1.91)   # metres per second, steering in degrees
+rc.wait(120)               # hold those controls
+```
+
+`/race top` prints the ranking; the hologram in the lobby shows it too.
+
+Submitted code never runs on the server. It runs on the host in a throwaway
+container with no network, a read-only filesystem, and cpu, memory and time
+limits — see `scripts/race-runner.sh`. The simulator behind it is pluggable:
+`sim/README.md` documents the contract.
+
+Regenerate the track (and the matching `sim/track.json`) with:
+
+```bash
+python3 scripts/gen_track.py
+docker exec minecraft rcon-cli "minecraft:reload"
+docker exec minecraft rcon-cli "execute in minecraft:test run function bwsi:track"
+```
+
 ## Rules
 
 Build anywhere except spawn. Every block change is logged by CoreProtect and can be
