@@ -13,39 +13,41 @@
       "minecraft:polished_blackstone_pressure_plate": 1
     },
     "minecraft:used": {
-      "minecraft:black_concrete": 9,
-      "minecraft:writable_book": 1,
       "minecraft:netherrack": 3,
-      "minecraft:smooth_quartz": 50,
-      "minecraft:bookshelf": 2,
       "minecraft:black_wool": 1,
-      "minecraft:dandelion": 2,
+      "minecraft:red_concrete": 1,
+      "minecraft:quartz_bricks": 1,
       "minecraft:netherite_axe": 8,
+      "minecraft:smooth_quartz_slab": 1,
+      "minecraft:black_concrete": 52,
+      "minecraft:writable_book": 1,
+      "minecraft:smooth_quartz": 215,
+      "minecraft:bookshelf": 2,
+      "minecraft:dandelion": 2,
       "minecraft:torch": 4,
-      "minecraft:quartz_block": 1,
-      "minecraft:smooth_quartz_slab": 1
+      "minecraft:quartz_block": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 8812,
-      "minecraft:walk_one_cm": 237298,
-      "minecraft:leave_game": 32,
+      "minecraft:time_since_rest": 16863,
+      "minecraft:walk_one_cm": 253914,
+      "minecraft:leave_game": 33,
       "minecraft:horse_one_cm": 57707,
-      "minecraft:mob_kills": 1,
       "minecraft:walk_under_water_one_cm": 3897,
+      "minecraft:mob_kills": 1,
       "minecraft:damage_taken": 4132,
+      "minecraft:play_time": 662826,
       "minecraft:damage_dealt": 605,
-      "minecraft:play_time": 654775,
-      "minecraft:jump": 542,
-      "minecraft:time_since_death": 8786,
-      "minecraft:drop": 3,
-      "minecraft:sprint_one_cm": 98891,
+      "minecraft:jump": 565,
+      "minecraft:time_since_death": 16837,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 99452,
       "minecraft:fall_one_cm": 27080,
+      "minecraft:total_world_time": 662826,
       "minecraft:swim_one_cm": 4233,
-      "minecraft:total_world_time": 654775,
-      "minecraft:fly_one_cm": 568194,
+      "minecraft:fly_one_cm": 700647,
       "minecraft:walk_on_water_one_cm": 7397,
       "minecraft:crouch_one_cm": 515,
-      "minecraft:sneak_time": 1591,
+      "minecraft:sneak_time": 1833,
       "minecraft:deaths": 11
     },
     "minecraft:killed_by": {
@@ -57,7 +59,8 @@
     "minecraft:dropped": {
       "minecraft:writable_book": 1,
       "minecraft:elytra": 1,
-      "minecraft:firework_rocket": 64
+      "minecraft:firework_rocket": 64,
+      "minecraft:netherite_axe": 1
     }
   },
   "DataVersion": 4790
