@@ -49,7 +49,7 @@ public class CoinModel {
         for (RawPart rawPart : raw.parts) {
             Material material = Material.matchMaterial(rawPart.block);
             BlockData data = Bukkit.createBlockData(
-                    material == null ? Material.GOLD_BLOCK : material);
+                    material == null ? Material.IRON_BLOCK : material);
             parts.add(new Part(rawPart.x, rawPart.y, rawPart.z,
                     rawPart.w, rawPart.h, rawPart.d, data));
         }

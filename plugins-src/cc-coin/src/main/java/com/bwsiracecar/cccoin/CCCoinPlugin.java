@@ -92,7 +92,7 @@ public class CCCoinPlugin extends JavaPlugin implements Listener {
         coin.tag();
         coins.put(player.getUniqueId(), coin);
 
-        player.sendMessage(Component.text("CC Coin placed.", NamedTextColor.GOLD));
+        player.sendMessage(Component.text("CC Coin placed.", NamedTextColor.WHITE));
         return true;
     }
 
