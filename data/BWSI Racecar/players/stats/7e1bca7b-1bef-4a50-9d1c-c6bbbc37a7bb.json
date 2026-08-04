@@ -7,10 +7,6 @@
       "minecraft:quartz_block": 1,
       "minecraft:smooth_quartz_slab": 1
     },
-    "minecraft:mined": {
-      "minecraft:short_grass": 19,
-      "minecraft:oak_leaves": 2
-    },
     "minecraft:picked_up": {
       "minecraft:egg": 2,
       "minecraft:quartz": 1,
@@ -18,33 +14,37 @@
       "minecraft:dandelion": 2,
       "minecraft:wheat_seeds": 1
     },
-    "minecraft:killed_by": {
-      "minecraft:player": 1,
-      "minecraft:enderman": 1,
-      "minecraft:spider": 1,
-      "minecraft:zombie": 4
+    "minecraft:mined": {
+      "minecraft:short_grass": 19,
+      "minecraft:oak_leaves": 2
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 44495,
-      "minecraft:walk_one_cm": 214399,
-      "minecraft:leave_game": 29,
+      "minecraft:time_since_rest": 68309,
+      "minecraft:walk_one_cm": 216205,
+      "minecraft:leave_game": 30,
       "minecraft:horse_one_cm": 57707,
       "minecraft:mob_kills": 1,
       "minecraft:walk_under_water_one_cm": 3897,
       "minecraft:damage_taken": 3512,
       "minecraft:damage_dealt": 471,
-      "minecraft:play_time": 568862,
-      "minecraft:jump": 492,
-      "minecraft:time_since_death": 44467,
-      "minecraft:sprint_one_cm": 87963,
+      "minecraft:play_time": 592676,
+      "minecraft:jump": 499,
+      "minecraft:time_since_death": 68281,
+      "minecraft:sprint_one_cm": 93964,
       "minecraft:fall_one_cm": 21012,
       "minecraft:swim_one_cm": 4233,
-      "minecraft:total_world_time": 568862,
-      "minecraft:fly_one_cm": 300185,
+      "minecraft:total_world_time": 592676,
+      "minecraft:fly_one_cm": 380794,
       "minecraft:walk_on_water_one_cm": 7397,
       "minecraft:crouch_one_cm": 515,
-      "minecraft:sneak_time": 932,
+      "minecraft:sneak_time": 1023,
       "minecraft:deaths": 9
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1,
+      "minecraft:enderman": 1,
+      "minecraft:spider": 1,
+      "minecraft:zombie": 4
     }
   },
   "DataVersion": 4790
