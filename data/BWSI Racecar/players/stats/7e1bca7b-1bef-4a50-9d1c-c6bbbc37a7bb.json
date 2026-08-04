@@ -1,50 +1,63 @@
 {
   "stats": {
-    "minecraft:used": {
-      "minecraft:netherrack": 3,
-      "minecraft:smooth_quartz": 1,
-      "minecraft:dandelion": 2,
-      "minecraft:quartz_block": 1,
-      "minecraft:smooth_quartz_slab": 1
+    "minecraft:mined": {
+      "minecraft:short_grass": 19,
+      "minecraft:oak_leaves": 2
     },
     "minecraft:picked_up": {
       "minecraft:egg": 2,
       "minecraft:quartz": 1,
       "minecraft:netherrack": 28,
       "minecraft:dandelion": 2,
-      "minecraft:wheat_seeds": 1
+      "minecraft:wheat_seeds": 1,
+      "minecraft:polished_blackstone_pressure_plate": 1
     },
-    "minecraft:mined": {
-      "minecraft:short_grass": 19,
-      "minecraft:oak_leaves": 2
+    "minecraft:used": {
+      "minecraft:black_concrete": 9,
+      "minecraft:writable_book": 1,
+      "minecraft:netherrack": 3,
+      "minecraft:smooth_quartz": 50,
+      "minecraft:bookshelf": 2,
+      "minecraft:black_wool": 1,
+      "minecraft:dandelion": 2,
+      "minecraft:netherite_axe": 8,
+      "minecraft:torch": 4,
+      "minecraft:quartz_block": 1,
+      "minecraft:smooth_quartz_slab": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 68309,
-      "minecraft:walk_one_cm": 216205,
-      "minecraft:leave_game": 30,
+      "minecraft:time_since_rest": 8812,
+      "minecraft:walk_one_cm": 237298,
+      "minecraft:leave_game": 32,
       "minecraft:horse_one_cm": 57707,
       "minecraft:mob_kills": 1,
       "minecraft:walk_under_water_one_cm": 3897,
-      "minecraft:damage_taken": 3512,
-      "minecraft:damage_dealt": 471,
-      "minecraft:play_time": 592676,
-      "minecraft:jump": 499,
-      "minecraft:time_since_death": 68281,
-      "minecraft:sprint_one_cm": 93964,
-      "minecraft:fall_one_cm": 21012,
+      "minecraft:damage_taken": 4132,
+      "minecraft:damage_dealt": 605,
+      "minecraft:play_time": 654775,
+      "minecraft:jump": 542,
+      "minecraft:time_since_death": 8786,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 98891,
+      "minecraft:fall_one_cm": 27080,
       "minecraft:swim_one_cm": 4233,
-      "minecraft:total_world_time": 592676,
-      "minecraft:fly_one_cm": 380794,
+      "minecraft:total_world_time": 654775,
+      "minecraft:fly_one_cm": 568194,
       "minecraft:walk_on_water_one_cm": 7397,
       "minecraft:crouch_one_cm": 515,
-      "minecraft:sneak_time": 1023,
-      "minecraft:deaths": 9
+      "minecraft:sneak_time": 1591,
+      "minecraft:deaths": 11
     },
     "minecraft:killed_by": {
       "minecraft:player": 1,
       "minecraft:enderman": 1,
       "minecraft:spider": 1,
       "minecraft:zombie": 4
+    },
+    "minecraft:dropped": {
+      "minecraft:writable_book": 1,
+      "minecraft:elytra": 1,
+      "minecraft:firework_rocket": 64
     }
   },
   "DataVersion": 4790
