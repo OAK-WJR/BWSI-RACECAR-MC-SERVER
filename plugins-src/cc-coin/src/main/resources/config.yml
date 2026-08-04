@@ -1,0 +1,11 @@
+# Optional permanent lobby coin: a giant CC Coin spinning at a fixed spot.
+lobby:
+  enabled: false
+  world: ""
+  x: 0.0
+  y: 0.0
+  z: 0.0
+  # multiplies the handheld coin's 2-block diameter
+  scale: 8.0
+  # degrees per update (one update every 2 ticks)
+  spin-step: 2.0

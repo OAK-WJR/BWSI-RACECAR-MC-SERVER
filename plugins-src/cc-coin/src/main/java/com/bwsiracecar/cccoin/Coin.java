@@ -24,11 +24,17 @@ public class Coin {
     private final CoinModel model;
     private final ArmorStand base;
     private final List<BlockDisplay> parts = new ArrayList<>();
+    private final double scaleMultiplier;
 
     private float yaw;
 
     public Coin(CoinModel model, Location spawn) {
+        this(model, spawn, 1.0, null);
+    }
+
+    public Coin(CoinModel model, Location spawn, double scaleMultiplier, String extraTag) {
         this.model = model;
+        this.scaleMultiplier = scaleMultiplier;
         this.yaw = spawn.getYaw();
 
         World world = spawn.getWorld();
@@ -40,11 +46,17 @@ public class Coin {
             stand.setPersistent(true);
         });
 
+        if (extraTag != null) {
+            base.addScoreboardTag(extraTag);
+        }
         for (CoinModel.Part part : model.parts()) {
             BlockDisplay display = world.spawn(spawn, BlockDisplay.class, d -> {
                 d.setBlock(part.blockData());
                 d.setPersistent(true);
                 d.setInterpolationDuration(INTERPOLATION_TICKS);
+                if (extraTag != null) {
+                    d.addScoreboardTag(extraTag);
+                }
             });
             parts.add(display);
             base.addPassenger(display);
@@ -61,7 +73,7 @@ public class Coin {
     private void applyTransforms() {
         float radians = (float) Math.toRadians(-yaw);
         AxisAngle4f rotation = new AxisAngle4f(radians, 0f, 1f, 0f);
-        float scale = (float) model.voxelMetres();
+        float scale = (float) (model.voxelMetres() * scaleMultiplier);
 
         List<CoinModel.Part> definitions = model.parts();
         for (int i = 0; i < parts.size(); i++) {
