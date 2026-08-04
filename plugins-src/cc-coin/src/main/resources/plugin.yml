@@ -1,0 +1,9 @@
+name: CCCoin
+version: '${version}'
+main: com.bwsiracecar.cccoin.CCCoinPlugin
+api-version: '1.21'
+description: A pixelated, slowly spinning CC Coin
+commands:
+  cccoin:
+    description: Place a spinning CC Coin in front of you, or "remove" to take it away
+    usage: /cccoin [remove]
