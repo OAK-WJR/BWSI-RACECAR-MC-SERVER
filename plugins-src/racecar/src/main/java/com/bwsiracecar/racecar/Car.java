@@ -25,9 +25,12 @@ import java.util.List;
  */
 public class Car {
 
-    /** Heading change that is worth re-transforming 271 parts for. */
+    /** Heading change that is worth re-transforming the whole body for. */
     private static final float YAW_EPSILON = 1.0f;
     private static final int INTERPOLATION_TICKS = 2;
+
+    /** The model's nose points to -z, so the body renders turned around. */
+    private static final float MODEL_FLIP = (float) Math.PI;
 
     private final CarModel model;
     private final ArmorStand base;
@@ -36,6 +39,7 @@ public class Car {
     private float yaw;
     private float renderedYaw = Float.NaN;
     private double speed;
+    private int ticks;
 
     public Car(CarModel model, Location spawn) {
         this.model = model;
@@ -64,7 +68,7 @@ public class Car {
 
     /** Re-place every part for the current heading. */
     private void applyTransforms() {
-        float radians = (float) Math.toRadians(-yaw);
+        float radians = (float) Math.toRadians(-yaw) + MODEL_FLIP;
         AxisAngle4f rotation = new AxisAngle4f(radians, 0f, 1f, 0f);
         float scale = (float) model.voxelMetres();
 
@@ -137,7 +141,10 @@ public class Car {
                 base.teleport(target);
             }
         }
-        if (Math.abs(yaw - renderedYaw) > YAW_EPSILON) {
+        // With thousands of parts, retransforming every tick would flood the
+        // client; every INTERPOLATION_TICKS is enough, interpolation hides it.
+        if (++ticks % INTERPOLATION_TICKS == 0
+                && Math.abs(yaw - renderedYaw) > YAW_EPSILON) {
             applyTransforms();
         }
         return true;
