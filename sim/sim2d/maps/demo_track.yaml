@@ -1,0 +1,5 @@
+# demo loop track, 12x8m, width ~1.4m
+image: demo_track.png
+resolution: 0.02
+start_pose: [10.20, 4.00, -1.5708]   # rightmost centerline point, along tangent
+occupied_thresh: 128

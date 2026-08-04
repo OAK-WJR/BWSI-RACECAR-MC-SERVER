@@ -69,7 +69,8 @@ public class Replay {
                 "Now racing: " + result.player_name, NamedTextColor.AQUA));
 
         Location start = plugin.startLocation();
-        car = new Car(plugin.model(), start);
+        car = new Car(plugin.model(), start,
+                plugin.getConfig().getDouble("replay.car-scale", 1.0));
         car.baseEntity().addScoreboardTag(TAG);
 
         List<List<Double>> points = result.trajectory;

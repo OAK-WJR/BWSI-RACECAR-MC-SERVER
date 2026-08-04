@@ -1,11 +1,11 @@
-# Race world and start pose. Keep in step with sim/track.json, which
-# scripts/gen_track.py generates alongside the visible track.
+# Race world and start pose. scripts/gen_track.py prints these when it
+# builds the track, and writes the matching sim/track_meta.json.
 world: "test"
 start:
-  x: 150.5
+  x: -60.7
   y: -59.0
-  z: 0.5
-  yaw: 0.0
+  z: -12.3
+  yaw: -95.2
 
 # Directories inside this plugin's data folder, shared with the host-side
 # runner through the ./data volume.
@@ -15,14 +15,16 @@ dirs:
 
 hologram:
   enabled: true
-  x: 0.5
+  x: -60.7
   y: -45.0
-  z: 25.5
+  z: -12.3
   lines: 10
 
 replay:
   enabled: true
   podium-seconds: 10
+  # the car is 0.44 m long; scale it by the track's blocks per metre
+  car-scale: 8.0
 
 submit:
   max-code-bytes: 32768

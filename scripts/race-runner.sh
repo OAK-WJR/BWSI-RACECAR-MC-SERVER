@@ -9,7 +9,7 @@ QUEUE=/root/minecraft/data/plugins/Race/queue
 RESULTS=/root/minecraft/data/plugins/Race/results
 SIM=/root/minecraft/sim
 WORK_ROOT=/root/mc-race-work
-IMAGE=python:3.12-slim
+IMAGE=bwsi-race-sim          # built from sim/Dockerfile
 
 mkdir -p -- "$QUEUE" "$RESULTS" "$WORK_ROOT"
 
@@ -59,15 +59,15 @@ PYEOF
     fi
 
     rc=0
-    timeout --kill-after=5s 75s docker run --rm \
+    timeout --kill-after=5s 240s docker run --rm \
         --network none \
         --user 1000:1000 --cap-drop ALL --security-opt no-new-privileges \
-        --memory 512m --memory-swap 512m --cpus 1 --pids-limit 64 \
+        --memory 1g --memory-swap 1g --cpus 1 --pids-limit 64 \
         --read-only --tmpfs /tmp:size=64m \
         -v "$SIM":/sim:ro \
         -v "$work":/job \
         "$IMAGE" \
-        python /sim/simulate.py --code /job/code.py --track /sim/track.json \
+        python /sim/simulate.py --code /job/code.py --track /sim/track_meta.json \
             --out /job/out.json >/dev/null 2>&1 || rc=$?
 
     python3 - "$work" "$RESULTS/$name" "$rc" <<'PYEOF'
@@ -76,7 +76,7 @@ work, dest, rc = sys.argv[1], sys.argv[2], int(sys.argv[3])
 sub = json.load(open(f"{work}/submission.json"))
 out_path = f"{work}/out.json"
 if rc in (124, 137):
-    result = {"status": "error", "error": "timeout: your code ran longer than 75s"}
+    result = {"status": "error", "error": "timeout: your run took too long to simulate"}
 elif rc != 0 or not os.path.exists(out_path) or os.path.getsize(out_path) > 5_000_000:
     result = {"status": "error", "error": "simulator crashed"}
 else:

@@ -15,26 +15,40 @@ empty, so a fresh checkout leaves the gate open.
 
 ## Racing
 
-Write Python that drives the racecar, put it in a book, hold the book and run
-`/race submit`. Your lap is simulated, replayed on the track in the `test`
-world for everyone to watch, and your best time goes on the leaderboard.
+Write racecar code, put it in a book, hold the book and run `/race submit`.
+Your run is simulated, replayed on the track in the `test` world for everyone
+to watch, and your best time goes on the leaderboard.
 
 ```python
-rc.set_speed(15.0, 1.91)   # metres per second, steering in degrees
-rc.wait(120)               # hold those controls
+import racecar_core
+
+rc = racecar_core.create_racecar()
+
+def update():
+    scan = rc.lidar.get_samples()
+    rc.drive.set_speed_angle(0.4, 0.0)
+
+rc.set_start_update(lambda: None, update)
+rc.go()
 ```
 
-`/race top` prints the ranking; the hologram in the lobby shows it too.
+Ordinary racecar_core code: the same file runs on the real car, in the
+official RacecarSim, and here. The physics and lidar come from sim2d,
+calibrated 1:1 against the real car, and the track is the real BWSI track as
+the car scanned it, rebuilt in Minecraft at 8 blocks per metre.
+`sim/sample_wall_follower.py` completes the course in about 40 seconds.
+
+`/race top` prints the ranking; the hologram above the start line shows it too.
 
 Submitted code never runs on the server. It runs on the host in a throwaway
 container with no network, a read-only filesystem, and cpu, memory and time
-limits — see `scripts/race-runner.sh`. The simulator behind it is pluggable:
-`sim/README.md` documents the contract.
+limits — see `scripts/race-runner.sh`. `sim/README.md` documents the rest.
 
-Regenerate the track (and the matching `sim/track.json`) with:
+Rebuild the track (and the matching `sim/track_meta.json`) with:
 
 ```bash
-python3 scripts/gen_track.py
+docker build -t bwsi-race-sim sim/
+docker run --rm -v /root/minecraft:/mc -w /mc bwsi-race-sim python scripts/gen_track.py
 docker exec minecraft rcon-cli "minecraft:reload"
 docker exec minecraft rcon-cli "execute in minecraft:test run function bwsi:track"
 ```

@@ -36,13 +36,20 @@ public class Car {
     private final ArmorStand base;
     private final List<BlockDisplay> parts = new ArrayList<>();
 
+    private final double scaleMultiplier;
+
     private float yaw;
     private float renderedYaw = Float.NaN;
     private double speed;
     private int ticks;
 
     public Car(CarModel model, Location spawn) {
+        this(model, spawn, 1.0);
+    }
+
+    public Car(CarModel model, Location spawn, double scaleMultiplier) {
         this.model = model;
+        this.scaleMultiplier = scaleMultiplier;
         this.yaw = spawn.getYaw();
 
         World world = spawn.getWorld();
@@ -70,7 +77,7 @@ public class Car {
     private void applyTransforms() {
         float radians = (float) Math.toRadians(-yaw) + MODEL_FLIP;
         AxisAngle4f rotation = new AxisAngle4f(radians, 0f, 1f, 0f);
-        float scale = (float) model.voxelMetres();
+        float scale = (float) (model.voxelMetres() * scaleMultiplier);
 
         List<CarModel.Part> definitions = model.parts();
         for (int i = 0; i < parts.size(); i++) {

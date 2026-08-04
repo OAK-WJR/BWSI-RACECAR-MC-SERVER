@@ -1,0 +1,6 @@
+# real track, occupancy map built by the real car's lidar (map_fixed.pgm, repaired)
+# 21.4 x 8.2 m @ 1cm/px
+image: real/map_fixed.pgm
+resolution: 0.01
+start_pose: [11.11, 3.31, -1.571]   # widest corridor point (0.96m clearance)
+occupied_thresh: 128

@@ -1,0 +1,5 @@
+# real track, colored point-cloud export (image_repaire666.png)
+# color images: real color = wall, white/near-white and transparent = free
+image: real/image_repaire666.png
+resolution: 0.01
+start_pose: [3.16, 5.66, 0.09]

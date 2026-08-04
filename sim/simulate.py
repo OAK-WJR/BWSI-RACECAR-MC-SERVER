@@ -1,92 +1,41 @@
 #!/usr/bin/env python3
-"""Race simulator contract. CLI, schemas and conventions are fixed; the
-physics inside is a placeholder to be replaced with the real simulator.
+"""Race simulator: runs student racecar code and returns a lap.
 
-    python3 simulate.py --code player.py --track track.json --out out.json
+    python3 simulate.py --code player.py --track track_meta.json --out out.json
 
 out.json, always written (exit 0) unless the infrastructure itself fails:
     {"status": "ok", "time_s": 42.15, "trajectory": [[x, z, yaw_deg, speed], ...]}
     {"status": "error", "error": "message"}
 
-Conventions: Minecraft world coordinates; yaw in Minecraft degrees
-(yaw 0 = +z, yaw 90 = -x); trajectory sampled at exactly 20 Hz.
+Physics and sensors come from sim2d (1:1 calibrated against the real
+BWSI RACECAR); this file only runs the code and converts the resulting
+path into Minecraft coordinates for replay.
 
 Player code runs via exec() with no Python-level sandboxing on purpose:
-the Docker container this runs in (no network, read-only, cpu/mem/pid
-limits) is the security boundary, not this process.
+the container this runs in (no network, read-only, cpu/mem/pid limits)
+is the security boundary, not this process.
 """
 import argparse
 import json
 import math
+import os
+import sys
+import traceback
 
-DT = 0.05                 # 20 Hz
-MAX_SPEED = 15.0          # m/s; the 942 m lap needs pace to fit max_time_s
-MAX_STEER = 30.0          # degrees
-STEER_RATE = 90.0         # deg/s of heading change at full steering
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+import racecar_core
 
-class Simulation:
-    def __init__(self, track):
-        self.track = track
-        self.x = track["start"]["x"]
-        self.z = track["start"]["z"]
-        self.yaw = track["start"]["yaw_deg"]
-        self.speed = 0.0
-        self.steer = 0.0
-        self.t = 0.0
-        self.trajectory = [[self.x, self.z, self.yaw, self.speed]]
-        self.progress = 0            # furthest centerline index reached
-        self.finished_at = None
-        half = track["track_width"] / 2
-        self._half2 = half * half
-        self._center = track["centerline"]
-
-    def set_controls(self, speed, steer):
-        self.speed = max(-MAX_SPEED, min(MAX_SPEED, speed))
-        self.steer = max(-MAX_STEER, min(MAX_STEER, steer))
-
-    def advance(self, seconds):
-        steps = max(1, round(seconds / DT))
-        for _ in range(steps):
-            if self.finished_at is not None:
-                return
-            self._step()
-
-    def _step(self):
-        self.t += DT
-        if self.t > self.track["max_time_s"]:
-            raise RaceError(f"did not finish within {self.track['max_time_s']}s")
-        self.yaw += STEER_RATE * (self.steer / MAX_STEER) * DT
-        radians = math.radians(self.yaw)
-        old_z = self.z
-        self.x += -math.sin(radians) * self.speed * DT
-        self.z += math.cos(radians) * self.speed * DT
-        self.trajectory.append(
-            [round(self.x, 3), round(self.z, 3), round(self.yaw, 2), round(self.speed, 3)])
-
-        idx = self._nearest_index()
-        d2 = ((self.x - self._center[idx][0]) ** 2
-              + (self.z - self._center[idx][1]) ** 2)
-        if d2 > self._half2:
-            raise RaceError(f"off track at t={self.t:.2f}s")
-        if idx > self.progress:
-            self.progress = idx
-
-        # finish: crossed the z=0 line at the start sector, most waypoints done
-        f = self.track["finish_line"]
-        if (self.progress > len(self._center) * 0.5
-                and old_z < 0 <= self.z
-                and f[0][0] <= self.x <= f[1][0]):
-            self.finished_at = self.t
-
-    def _nearest_index(self):
-        return min(range(len(self._center)),
-                   key=lambda i: (self.x - self._center[i][0]) ** 2
-                                 + (self.z - self._center[i][1]) ** 2)
+MC_HZ = 20                      # replay is one trajectory point per server tick
 
 
-class RaceError(Exception):
-    pass
+def to_minecraft(x, y, theta, meta):
+    """sim metres -> Minecraft blocks. Sim +y is north, so it maps to -z;
+    Minecraft yaw 0 = +z, hence the -(theta + 90) heading."""
+    scale = meta["blocks_per_metre"]
+    return (round(meta["origin_x"] + x * scale, 3),
+            round(meta["origin_z"] - y * scale, 3),
+            round(-(math.degrees(theta) + 90.0), 2))
 
 
 def main():
@@ -96,28 +45,41 @@ def main():
     ap.add_argument("--out", required=True)
     args = ap.parse_args()
 
-    track = json.load(open(args.track))
-    sim = Simulation(track)
+    meta = json.load(open(args.track))
+    map_yaml = os.path.join(os.path.dirname(os.path.abspath(args.track)), meta["map"])
 
-    import rc_api
-    rc = rc_api.RC(sim)
+    car = racecar_core.Racecar(map_yaml, realism=meta.get("realism", False),
+                               max_time_s=meta.get("max_time_s", 180),
+                               min_travel_m=meta.get("min_travel_m", 25.0),
+                               start_radius=meta.get("start_radius_m", 1.5))
+    racecar_core._install(car)
 
     result = None
     try:
         code = open(args.code).read()
-        exec(compile(code, "player.py", "exec"), {"rc": rc})
-        # let the car coast on its last controls until finish or timeout
-        while sim.finished_at is None:
-            sim._step()
-    except RaceError as e:
-        result = {"status": "error", "error": str(e)}
-    except Exception as e:
-        result = {"status": "error", "error": f"{type(e).__name__}: {e}"}
+        namespace = {"__name__": "__main__", "rc": car}
+        exec(compile(code, "player.py", "exec"), namespace)
+        if car.finished_at is None and car.error is None:
+            # code returned without ever calling rc.go(): nothing was driven
+            car.error = "your code finished without running the car (call rc.go())"
+    except Exception:
+        lines = traceback.format_exc().strip().splitlines()
+        result = {"status": "error", "error": lines[-1]}
 
     if result is None:
-        result = {"status": "ok",
-                  "time_s": round(sim.finished_at, 2),
-                  "trajectory": sim.trajectory}
+        if car.error:
+            result = {"status": "error", "error": car.error}
+        else:
+            step = max(1, round(racecar_core.P.SIM_HZ / MC_HZ))
+            trajectory = []
+            for i in range(0, len(car.trajectory), step):
+                x, y, theta = car.trajectory[i]
+                mx, mz, yaw = to_minecraft(x, y, theta, meta)
+                trajectory.append([mx, mz, yaw, 0.0])
+            result = {"status": "ok",
+                      "time_s": round(car.finished_at, 2),
+                      "trajectory": trajectory}
+
     with open(args.out, "w") as fh:
         json.dump(result, fh)
 
