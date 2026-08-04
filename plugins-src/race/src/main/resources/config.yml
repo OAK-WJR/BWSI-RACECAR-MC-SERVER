@@ -2,9 +2,9 @@
 # builds the track, and writes the matching sim/track_meta.json.
 world: "test"
 start:
-  x: -60.7
+  x: -159.7
   y: -59.0
-  z: -12.3
+  z: -112.3
   yaw: -95.2
 
 # Directories inside this plugin's data folder, shared with the host-side
@@ -15,9 +15,9 @@ dirs:
 
 hologram:
   enabled: true
-  x: -60.7
+  x: -159.7
   y: -45.0
-  z: -12.3
+  z: -112.3
   lines: 10
 
 replay:
@@ -29,3 +29,12 @@ replay:
 submit:
   max-code-bytes: 32768
   cooldown-seconds: 10
+
+# The submission desk by the start line: stand on the plate holding your book
+# to submit, take a blank book from the chest. scripts/gen_kiosk.py builds it
+# and prints these coordinates.
+kiosk:
+  enabled: false
+  plate: {x: -94, y: -59, z: 25}
+  chest: {x: -97, y: -59, z: 23}
+  books: 16

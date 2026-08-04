@@ -38,6 +38,8 @@ Y_FLOOR = -60
 Y_STAND = -59
 WALL_HEIGHT = 3
 MAX_TIME_S = 90
+OFFSET_X = -100             # where the track sits in the hall
+OFFSET_Z = -100
 FINISH_RADIUS_M = 1.5      # how close to the start line counts as home
 COARSE = 5                      # pathfinding cell = COARSE map pixels
 
@@ -111,8 +113,8 @@ corridor_m = sum(math.dist(centerline[i], centerline[i + 1])
 scale = BLOCKS_PER_METRE
 width_b = math.ceil(world.width_m * scale)
 depth_b = math.ceil(world.height_m * scale)
-origin_x = -width_b // 2
-origin_z = depth_b // 2
+origin_x = OFFSET_X - width_b // 2
+origin_z = OFFSET_Z + depth_b // 2
 
 build, clear = [], []
 

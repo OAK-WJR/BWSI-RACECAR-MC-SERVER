@@ -32,6 +32,7 @@ public class RacePlugin extends JavaPlugin {
     private SubmissionQueue queue;
     private Hologram hologram;
     private Replay replay;
+    private Kiosk kiosk;
 
     @Override
     public void onEnable() {
@@ -51,6 +52,7 @@ public class RacePlugin extends JavaPlugin {
         queue.rescan();
         replay = new Replay(this, this::onRunFinished);
         hologram = new Hologram(leaderboard, getConfig().getInt("hologram.lines", 10));
+        kiosk = new Kiosk(this);
 
         Path results = data.resolve(getConfig().getString("dirs.results", "results"));
         try {
@@ -69,6 +71,7 @@ public class RacePlugin extends JavaPlugin {
                 return;
             }
             replay.cleanup(world);
+            kiosk.enable();
             if (getConfig().getBoolean("hologram.enabled", true)) {
                 hologram.spawn(new Location(world,
                         getConfig().getDouble("hologram.x"),
@@ -158,25 +161,31 @@ public class RacePlugin extends JavaPlugin {
             sender.sendMessage("Players only.");
             return true;
         }
+        submitHeldBook(player);
+        return true;
+    }
+
+    /** Queue the book the player is holding. Shared by /race submit and the kiosk. */
+    public void submitHeldBook(Player player) {
         ItemStack held = player.getInventory().getItemInMainHand();
         if (held.getType() != Material.WRITABLE_BOOK
                 && held.getType() != Material.WRITTEN_BOOK) {
             player.sendMessage(Component.text(
                     "Hold a book with your Python code and run /race submit again.",
                     NamedTextColor.RED));
-            return true;
+            return;
         }
         if (queue.hasInFlight(player.getUniqueId())) {
             player.sendMessage(Component.text("You already have a run in progress.",
                     NamedTextColor.RED));
-            return true;
+            return;
         }
         long cooldown = queue.cooldownLeft(player.getUniqueId(),
                 getConfig().getLong("submit.cooldown-seconds", 10));
         if (cooldown > 0) {
             player.sendMessage(Component.text("Wait " + cooldown + "s before submitting again.",
                     NamedTextColor.RED));
-            return true;
+            return;
         }
 
         BookMeta meta = (BookMeta) held.getItemMeta();
@@ -186,12 +195,12 @@ public class RacePlugin extends JavaPlugin {
         int limit = getConfig().getInt("submit.max-code-bytes", 32768);
         if (code.isBlank()) {
             player.sendMessage(Component.text("That book is empty.", NamedTextColor.RED));
-            return true;
+            return;
         }
         if (code.getBytes().length > limit) {
             player.sendMessage(Component.text("Your code is over " + limit + " bytes.",
                     NamedTextColor.RED));
-            return true;
+            return;
         }
 
         try {
@@ -199,11 +208,10 @@ public class RacePlugin extends JavaPlugin {
         } catch (Exception e) {
             player.sendMessage(Component.text("Could not queue your run: " + e.getMessage(),
                     NamedTextColor.RED));
-            return true;
+            return;
         }
         player.sendMessage(Component.text("Submitted. Simulating your lap...",
                 NamedTextColor.GREEN));
-        return true;
     }
 
     private boolean top(CommandSender sender) {
