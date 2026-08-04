@@ -2,7 +2,10 @@
   "stats": {
     "minecraft:used": {
       "minecraft:netherrack": 3,
-      "minecraft:dandelion": 2
+      "minecraft:smooth_quartz": 1,
+      "minecraft:dandelion": 2,
+      "minecraft:quartz_block": 1,
+      "minecraft:smooth_quartz_slab": 1
     },
     "minecraft:mined": {
       "minecraft:short_grass": 19,
@@ -22,25 +25,25 @@
       "minecraft:zombie": 4
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 49,
-      "minecraft:walk_one_cm": 203829,
-      "minecraft:leave_game": 27,
+      "minecraft:time_since_rest": 44495,
+      "minecraft:walk_one_cm": 214399,
+      "minecraft:leave_game": 29,
       "minecraft:horse_one_cm": 57707,
       "minecraft:mob_kills": 1,
       "minecraft:walk_under_water_one_cm": 3897,
       "minecraft:damage_taken": 3512,
       "minecraft:damage_dealt": 471,
-      "minecraft:play_time": 524416,
-      "minecraft:jump": 476,
-      "minecraft:time_since_death": 21,
-      "minecraft:sprint_one_cm": 83018,
+      "minecraft:play_time": 568862,
+      "minecraft:jump": 492,
+      "minecraft:time_since_death": 44467,
+      "minecraft:sprint_one_cm": 87963,
       "minecraft:fall_one_cm": 21012,
       "minecraft:swim_one_cm": 4233,
-      "minecraft:total_world_time": 524416,
+      "minecraft:total_world_time": 568862,
       "minecraft:fly_one_cm": 300185,
       "minecraft:walk_on_water_one_cm": 7397,
       "minecraft:crouch_one_cm": 515,
-      "minecraft:sneak_time": 891,
+      "minecraft:sneak_time": 932,
       "minecraft:deaths": 9
     }
   },
