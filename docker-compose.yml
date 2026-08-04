@@ -35,7 +35,7 @@ services:
       SEED: "4405134068028"
       DIFFICULTY: "normal"
       MAX_PLAYERS: "20"
-      VIEW_DISTANCE: "10"
+      VIEW_DISTANCE: "16"
       ONLINE_MODE: "TRUE"
       # Accounts without a chat-signing key are rejected with "Invalid session"
       # when this is on. Turning it off does not weaken account verification.
