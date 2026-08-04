@@ -1,0 +1,10756 @@
+fill -95 -59 -95 0 -59 95 minecraft:air
+fill 1 -59 -95 95 -59 95 minecraft:air
+fill -95 -58 -95 0 -58 95 minecraft:air
+fill 1 -58 -95 95 -58 95 minecraft:air
+fill -95 -57 -95 0 -57 95 minecraft:air
+fill 1 -57 -95 95 -57 95 minecraft:air
+fill -95 -56 -95 0 -56 95 minecraft:air
+fill 1 -56 -95 95 -56 95 minecraft:air
+fill -95 -55 -95 0 -55 95 minecraft:air
+fill 1 -55 -95 95 -55 95 minecraft:air
+fill -95 -54 -95 0 -54 95 minecraft:air
+fill 1 -54 -95 95 -54 95 minecraft:air
+fill -95 -53 -95 0 -53 95 minecraft:air
+fill 1 -53 -95 95 -53 95 minecraft:air
+fill -95 -52 -95 0 -52 95 minecraft:air
+fill 1 -52 -95 95 -52 95 minecraft:air
+fill -95 -51 -95 0 -51 95 minecraft:air
+fill 1 -51 -95 95 -51 95 minecraft:air
+fill -95 -50 -95 0 -50 95 minecraft:air
+fill 1 -50 -95 95 -50 95 minecraft:air
+fill -95 -49 -95 0 -49 95 minecraft:air
+fill 1 -49 -95 95 -49 95 minecraft:air
+fill -95 -48 -95 0 -48 95 minecraft:air
+fill 1 -48 -95 95 -48 95 minecraft:air
+fill -95 -47 -95 0 -47 95 minecraft:air
+fill 1 -47 -95 95 -47 95 minecraft:air
+fill -95 -46 -95 0 -46 95 minecraft:air
+fill 1 -46 -95 95 -46 95 minecraft:air
+fill -95 -45 -95 0 -45 95 minecraft:air
+fill 1 -45 -95 95 -45 95 minecraft:air
+fill -95 -44 -95 0 -44 95 minecraft:air
+fill 1 -44 -95 95 -44 95 minecraft:air
+fill -95 -43 -95 0 -43 95 minecraft:air
+fill 1 -43 -95 95 -43 95 minecraft:air
+fill -95 -42 -95 0 -42 95 minecraft:air
+fill 1 -42 -95 95 -42 95 minecraft:air
+fill -95 -41 -95 0 -41 95 minecraft:air
+fill 1 -41 -95 95 -41 95 minecraft:air
+fill -95 -40 -95 0 -40 95 minecraft:air
+fill 1 -40 -95 95 -40 95 minecraft:air
+fill -95 -39 -95 0 -39 95 minecraft:air
+fill 1 -39 -95 95 -39 95 minecraft:air
+fill -95 -38 -95 0 -38 95 minecraft:air
+fill 1 -38 -95 95 -38 95 minecraft:air
+fill -95 -37 -95 0 -37 95 minecraft:air
+fill 1 -37 -95 95 -37 95 minecraft:air
+fill -95 -36 -95 0 -36 95 minecraft:air
+fill 1 -36 -95 95 -36 95 minecraft:air
+fill -95 -35 -95 0 -35 95 minecraft:air
+fill 1 -35 -95 95 -35 95 minecraft:air
+fill -95 -34 -95 0 -34 95 minecraft:air
+fill 1 -34 -95 95 -34 95 minecraft:air
+fill -95 -33 -95 0 -33 95 minecraft:air
+fill 1 -33 -95 95 -33 95 minecraft:air
+fill -95 -32 -95 0 -32 95 minecraft:air
+fill 1 -32 -95 95 -32 95 minecraft:air
+fill -95 -31 -95 0 -31 95 minecraft:air
+fill 1 -31 -95 95 -31 95 minecraft:air
+fill -95 -30 -95 0 -30 95 minecraft:air
+fill 1 -30 -95 95 -30 95 minecraft:air
+fill -95 -29 -95 0 -29 95 minecraft:air
+fill 1 -29 -95 95 -29 95 minecraft:air
+fill -95 -28 -95 0 -28 95 minecraft:air
+fill 1 -28 -95 95 -28 95 minecraft:air
+fill -95 -27 -95 0 -27 95 minecraft:air
+fill 1 -27 -95 95 -27 95 minecraft:air
+fill -95 -26 -95 0 -26 95 minecraft:air
+fill 1 -26 -95 95 -26 95 minecraft:air
+fill -95 -25 -95 0 -25 95 minecraft:air
+fill 1 -25 -95 95 -25 95 minecraft:air
+fill -95 -24 -95 0 -24 95 minecraft:air
+fill 1 -24 -95 95 -24 95 minecraft:air
+fill -95 -23 -95 0 -23 95 minecraft:air
+fill 1 -23 -95 95 -23 95 minecraft:air
+fill -95 -22 -95 0 -22 95 minecraft:air
+fill 1 -22 -95 95 -22 95 minecraft:air
+fill -95 -21 -95 0 -21 95 minecraft:air
+fill 1 -21 -95 95 -21 95 minecraft:air
+fill -95 -20 -95 0 -20 95 minecraft:air
+fill 1 -20 -95 95 -20 95 minecraft:air
+fill -95 -19 -95 0 -19 95 minecraft:air
+fill 1 -19 -95 95 -19 95 minecraft:air
+fill -95 -18 -95 0 -18 95 minecraft:air
+fill 1 -18 -95 95 -18 95 minecraft:air
+fill -95 -17 -95 0 -17 95 minecraft:air
+fill 1 -17 -95 95 -17 95 minecraft:air
+fill -95 -16 -95 0 -16 95 minecraft:air
+fill 1 -16 -95 95 -16 95 minecraft:air
+fill -95 -15 -95 0 -15 95 minecraft:air
+fill 1 -15 -95 95 -15 95 minecraft:air
+fill -95 -60 -95 0 -60 95 minecraft:grass_block
+fill 1 -60 -95 95 -60 95 minecraft:grass_block
+fill -8 -60 -64 8 -60 -64 minecraft:quartz_bricks
+fill -13 -60 -63 13 -60 -63 minecraft:quartz_bricks
+fill -17 -60 -62 -8 -60 -62 minecraft:quartz_bricks
+fill -7 -60 -62 -2 -60 -62 minecraft:smooth_quartz
+fill -1 -60 -62 1 -60 -62 minecraft:quartz_bricks
+fill 2 -60 -62 7 -60 -62 minecraft:smooth_quartz
+fill 8 -60 -62 17 -60 -62 minecraft:quartz_bricks
+fill -20 -60 -61 -14 -60 -61 minecraft:quartz_bricks
+fill -13 -60 -61 -2 -60 -61 minecraft:smooth_quartz
+fill -1 -60 -61 1 -60 -61 minecraft:quartz_bricks
+fill 2 -60 -61 13 -60 -61 minecraft:smooth_quartz
+fill 14 -60 -61 20 -60 -61 minecraft:quartz_bricks
+fill -23 -60 -60 -18 -60 -60 minecraft:quartz_bricks
+fill -17 -60 -60 -2 -60 -60 minecraft:smooth_quartz
+fill -1 -60 -60 1 -60 -60 minecraft:quartz_bricks
+fill 2 -60 -60 17 -60 -60 minecraft:smooth_quartz
+fill 18 -60 -60 23 -60 -60 minecraft:quartz_bricks
+fill -26 -60 -59 -21 -60 -59 minecraft:quartz_bricks
+fill -20 -60 -59 -2 -60 -59 minecraft:smooth_quartz
+fill -1 -60 -59 1 -60 -59 minecraft:quartz_bricks
+fill 2 -60 -59 20 -60 -59 minecraft:smooth_quartz
+fill 21 -60 -59 26 -60 -59 minecraft:quartz_bricks
+fill -28 -60 -58 -24 -60 -58 minecraft:quartz_bricks
+fill -23 -60 -58 -2 -60 -58 minecraft:smooth_quartz
+fill -1 -60 -58 1 -60 -58 minecraft:quartz_bricks
+fill 2 -60 -58 23 -60 -58 minecraft:smooth_quartz
+fill 24 -60 -58 28 -60 -58 minecraft:quartz_bricks
+fill -30 -60 -57 -26 -60 -57 minecraft:quartz_bricks
+fill -25 -60 -57 -2 -60 -57 minecraft:smooth_quartz
+fill -1 -60 -57 1 -60 -57 minecraft:quartz_bricks
+fill 2 -60 -57 25 -60 -57 minecraft:smooth_quartz
+fill 26 -60 -57 30 -60 -57 minecraft:quartz_bricks
+fill -32 -60 -56 -28 -60 -56 minecraft:quartz_bricks
+fill -27 -60 -56 -2 -60 -56 minecraft:smooth_quartz
+fill -1 -60 -56 1 -60 -56 minecraft:quartz_bricks
+fill 2 -60 -56 27 -60 -56 minecraft:smooth_quartz
+fill 28 -60 -56 32 -60 -56 minecraft:quartz_bricks
+fill -33 -60 -55 -30 -60 -55 minecraft:quartz_bricks
+fill -29 -60 -55 -2 -60 -55 minecraft:smooth_quartz
+fill -1 -60 -55 1 -60 -55 minecraft:quartz_bricks
+fill 2 -60 -55 29 -60 -55 minecraft:smooth_quartz
+fill 30 -60 -55 33 -60 -55 minecraft:quartz_bricks
+fill -35 -60 -54 -32 -60 -54 minecraft:quartz_bricks
+fill -31 -60 -54 -2 -60 -54 minecraft:smooth_quartz
+fill -1 -60 -54 1 -60 -54 minecraft:quartz_bricks
+fill 2 -60 -54 31 -60 -54 minecraft:smooth_quartz
+fill 32 -60 -54 35 -60 -54 minecraft:quartz_bricks
+fill -36 -60 -53 -34 -60 -53 minecraft:quartz_bricks
+fill -33 -60 -53 -2 -60 -53 minecraft:smooth_quartz
+fill -1 -60 -53 1 -60 -53 minecraft:quartz_bricks
+fill 2 -60 -53 33 -60 -53 minecraft:smooth_quartz
+fill 34 -60 -53 36 -60 -53 minecraft:quartz_bricks
+fill -38 -60 -52 -35 -60 -52 minecraft:quartz_bricks
+fill -34 -60 -52 -2 -60 -52 minecraft:smooth_quartz
+fill -1 -60 -52 1 -60 -52 minecraft:quartz_bricks
+fill 2 -60 -52 34 -60 -52 minecraft:smooth_quartz
+fill 35 -60 -52 38 -60 -52 minecraft:quartz_bricks
+fill -39 -60 -51 -37 -60 -51 minecraft:quartz_bricks
+fill -36 -60 -51 -2 -60 -51 minecraft:smooth_quartz
+fill -1 -60 -51 1 -60 -51 minecraft:quartz_bricks
+fill 2 -60 -51 36 -60 -51 minecraft:smooth_quartz
+fill 37 -60 -51 39 -60 -51 minecraft:quartz_bricks
+fill -40 -60 -50 -38 -60 -50 minecraft:quartz_bricks
+fill -37 -60 -50 -2 -60 -50 minecraft:smooth_quartz
+fill -1 -60 -50 1 -60 -50 minecraft:quartz_bricks
+fill 2 -60 -50 37 -60 -50 minecraft:smooth_quartz
+fill 38 -60 -50 40 -60 -50 minecraft:quartz_bricks
+fill -41 -60 -49 -39 -60 -49 minecraft:quartz_bricks
+fill -38 -60 -49 -2 -60 -49 minecraft:smooth_quartz
+fill -1 -60 -49 1 -60 -49 minecraft:quartz_bricks
+fill 2 -60 -49 38 -60 -49 minecraft:smooth_quartz
+fill 39 -60 -49 41 -60 -49 minecraft:quartz_bricks
+fill -43 -60 -48 -41 -60 -48 minecraft:quartz_bricks
+fill -40 -60 -48 -7 -60 -48 minecraft:smooth_quartz
+fill -6 -60 -48 6 -60 -48 minecraft:quartz_bricks
+fill 7 -60 -48 40 -60 -48 minecraft:smooth_quartz
+fill 41 -60 -48 43 -60 -48 minecraft:quartz_bricks
+fill -44 -60 -47 -42 -60 -47 minecraft:quartz_bricks
+fill -41 -60 -47 -12 -60 -47 minecraft:smooth_quartz
+fill -11 -60 -47 11 -60 -47 minecraft:quartz_bricks
+fill 12 -60 -47 41 -60 -47 minecraft:smooth_quartz
+fill 42 -60 -47 44 -60 -47 minecraft:quartz_bricks
+fill -45 -60 -46 -43 -60 -46 minecraft:quartz_bricks
+fill -42 -60 -46 -16 -60 -46 minecraft:smooth_quartz
+fill -15 -60 -46 -7 -60 -46 minecraft:quartz_bricks
+fill -6 -60 -46 -2 -60 -46 minecraft:smooth_quartz
+fill -1 -60 -46 1 -60 -46 minecraft:quartz_bricks
+fill 2 -60 -46 6 -60 -46 minecraft:smooth_quartz
+fill 7 -60 -46 15 -60 -46 minecraft:quartz_bricks
+fill 16 -60 -46 42 -60 -46 minecraft:smooth_quartz
+fill 43 -60 -46 45 -60 -46 minecraft:quartz_bricks
+fill -46 -60 -45 -43 -60 -45 minecraft:quartz_bricks
+fill -42 -60 -45 -19 -60 -45 minecraft:smooth_quartz
+fill -18 -60 -45 -12 -60 -45 minecraft:quartz_bricks
+fill -11 -60 -45 -2 -60 -45 minecraft:smooth_quartz
+fill -1 -60 -45 1 -60 -45 minecraft:quartz_bricks
+fill 2 -60 -45 11 -60 -45 minecraft:smooth_quartz
+fill 12 -60 -45 18 -60 -45 minecraft:quartz_bricks
+fill 19 -60 -45 42 -60 -45 minecraft:smooth_quartz
+fill 43 -60 -45 46 -60 -45 minecraft:quartz_bricks
+fill -47 -60 -44 -42 -60 -44 minecraft:quartz_bricks
+fill -41 -60 -44 -21 -60 -44 minecraft:smooth_quartz
+fill -20 -60 -44 -16 -60 -44 minecraft:quartz_bricks
+fill -15 -60 -44 -2 -60 -44 minecraft:smooth_quartz
+fill -1 -60 -44 1 -60 -44 minecraft:quartz_bricks
+fill 2 -60 -44 15 -60 -44 minecraft:smooth_quartz
+fill 16 -60 -44 20 -60 -44 minecraft:quartz_bricks
+fill 21 -60 -44 41 -60 -44 minecraft:smooth_quartz
+fill 42 -60 -44 47 -60 -44 minecraft:quartz_bricks
+fill -48 -60 -43 -41 -60 -43 minecraft:quartz_bricks
+fill -40 -60 -43 -23 -60 -43 minecraft:smooth_quartz
+fill -22 -60 -43 -18 -60 -43 minecraft:quartz_bricks
+fill -17 -60 -43 -2 -60 -43 minecraft:smooth_quartz
+fill -1 -60 -43 1 -60 -43 minecraft:quartz_bricks
+fill 2 -60 -43 17 -60 -43 minecraft:smooth_quartz
+fill 18 -60 -43 22 -60 -43 minecraft:quartz_bricks
+fill 23 -60 -43 40 -60 -43 minecraft:smooth_quartz
+fill 41 -60 -43 48 -60 -43 minecraft:quartz_bricks
+fill -48 -60 -42 -47 -60 -42 minecraft:quartz_bricks
+fill -46 -60 -42 -45 -60 -42 minecraft:smooth_quartz
+fill -44 -60 -42 -40 -60 -42 minecraft:quartz_bricks
+fill -39 -60 -42 -25 -60 -42 minecraft:smooth_quartz
+fill -24 -60 -42 -20 -60 -42 minecraft:quartz_bricks
+fill -19 -60 -42 -2 -60 -42 minecraft:smooth_quartz
+fill -1 -60 -42 1 -60 -42 minecraft:quartz_bricks
+fill 2 -60 -42 19 -60 -42 minecraft:smooth_quartz
+fill 20 -60 -42 24 -60 -42 minecraft:quartz_bricks
+fill 25 -60 -42 39 -60 -42 minecraft:smooth_quartz
+fill 40 -60 -42 44 -60 -42 minecraft:quartz_bricks
+fill 45 -60 -42 46 -60 -42 minecraft:smooth_quartz
+fill 47 -60 -42 48 -60 -42 minecraft:quartz_bricks
+fill -49 -60 -41 -48 -60 -41 minecraft:quartz_bricks
+fill -47 -60 -41 -44 -60 -41 minecraft:smooth_quartz
+fill -43 -60 -41 -39 -60 -41 minecraft:quartz_bricks
+fill -38 -60 -41 -26 -60 -41 minecraft:smooth_quartz
+fill -25 -60 -41 -22 -60 -41 minecraft:quartz_bricks
+fill -21 -60 -41 -2 -60 -41 minecraft:smooth_quartz
+fill -1 -60 -41 1 -60 -41 minecraft:quartz_bricks
+fill 2 -60 -41 21 -60 -41 minecraft:smooth_quartz
+fill 22 -60 -41 25 -60 -41 minecraft:quartz_bricks
+fill 26 -60 -41 38 -60 -41 minecraft:smooth_quartz
+fill 39 -60 -41 43 -60 -41 minecraft:quartz_bricks
+fill 44 -60 -41 47 -60 -41 minecraft:smooth_quartz
+fill 48 -60 -41 49 -60 -41 minecraft:quartz_bricks
+fill -50 -60 -40 -49 -60 -40 minecraft:quartz_bricks
+fill -48 -60 -40 -43 -60 -40 minecraft:smooth_quartz
+fill -42 -60 -40 -38 -60 -40 minecraft:quartz_bricks
+fill -37 -60 -40 -28 -60 -40 minecraft:smooth_quartz
+fill -27 -60 -40 -24 -60 -40 minecraft:quartz_bricks
+fill -23 -60 -40 -2 -60 -40 minecraft:smooth_quartz
+fill -1 -60 -40 1 -60 -40 minecraft:quartz_bricks
+fill 2 -60 -40 23 -60 -40 minecraft:smooth_quartz
+fill 24 -60 -40 27 -60 -40 minecraft:quartz_bricks
+fill 28 -60 -40 37 -60 -40 minecraft:smooth_quartz
+fill 38 -60 -40 42 -60 -40 minecraft:quartz_bricks
+fill 43 -60 -40 48 -60 -40 minecraft:smooth_quartz
+fill 49 -60 -40 50 -60 -40 minecraft:quartz_bricks
+fill -51 -60 -39 -49 -60 -39 minecraft:quartz_bricks
+fill -48 -60 -39 -42 -60 -39 minecraft:smooth_quartz
+fill -41 -60 -39 -37 -60 -39 minecraft:quartz_bricks
+fill -36 -60 -39 -29 -60 -39 minecraft:smooth_quartz
+fill -28 -60 -39 -26 -60 -39 minecraft:quartz_bricks
+fill -25 -60 -39 -2 -60 -39 minecraft:smooth_quartz
+fill -1 -60 -39 1 -60 -39 minecraft:quartz_bricks
+fill 2 -60 -39 25 -60 -39 minecraft:smooth_quartz
+fill 26 -60 -39 28 -60 -39 minecraft:quartz_bricks
+fill 29 -60 -39 36 -60 -39 minecraft:smooth_quartz
+fill 37 -60 -39 41 -60 -39 minecraft:quartz_bricks
+fill 42 -60 -39 48 -60 -39 minecraft:smooth_quartz
+fill 49 -60 -39 51 -60 -39 minecraft:quartz_bricks
+fill -52 -60 -38 -50 -60 -38 minecraft:quartz_bricks
+fill -49 -60 -38 -41 -60 -38 minecraft:smooth_quartz
+fill -40 -60 -38 -36 -60 -38 minecraft:quartz_bricks
+fill -35 -60 -38 -31 -60 -38 minecraft:smooth_quartz
+fill -30 -60 -38 -27 -60 -38 minecraft:quartz_bricks
+fill -26 -60 -38 -2 -60 -38 minecraft:smooth_quartz
+fill -1 -60 -38 1 -60 -38 minecraft:quartz_bricks
+fill 2 -60 -38 26 -60 -38 minecraft:smooth_quartz
+fill 27 -60 -38 30 -60 -38 minecraft:quartz_bricks
+fill 31 -60 -38 35 -60 -38 minecraft:smooth_quartz
+fill 36 -60 -38 40 -60 -38 minecraft:quartz_bricks
+fill 41 -60 -38 49 -60 -38 minecraft:smooth_quartz
+fill 50 -60 -38 52 -60 -38 minecraft:quartz_bricks
+fill -52 -60 -37 -51 -60 -37 minecraft:quartz_bricks
+fill -50 -60 -37 -40 -60 -37 minecraft:smooth_quartz
+fill -39 -60 -37 -35 -60 -37 minecraft:quartz_bricks
+fill -34 -60 -37 -32 -60 -37 minecraft:smooth_quartz
+fill -31 -60 -37 -29 -60 -37 minecraft:quartz_bricks
+fill -28 -60 -37 -2 -60 -37 minecraft:smooth_quartz
+fill -1 -60 -37 1 -60 -37 minecraft:quartz_bricks
+fill 2 -60 -37 28 -60 -37 minecraft:smooth_quartz
+fill 29 -60 -37 31 -60 -37 minecraft:quartz_bricks
+fill 32 -60 -37 34 -60 -37 minecraft:smooth_quartz
+fill 35 -60 -37 39 -60 -37 minecraft:quartz_bricks
+fill 40 -60 -37 50 -60 -37 minecraft:smooth_quartz
+fill 51 -60 -37 52 -60 -37 minecraft:quartz_bricks
+fill -53 -60 -36 -52 -60 -36 minecraft:quartz_bricks
+fill -51 -60 -36 -39 -60 -36 minecraft:smooth_quartz
+fill -38 -60 -36 -34 -60 -36 minecraft:quartz_bricks
+fill -33 -60 -36 -33 -60 -36 minecraft:smooth_quartz
+fill -32 -60 -36 -30 -60 -36 minecraft:quartz_bricks
+fill -29 -60 -36 -2 -60 -36 minecraft:smooth_quartz
+fill -1 -60 -36 1 -60 -36 minecraft:quartz_bricks
+fill 2 -60 -36 29 -60 -36 minecraft:smooth_quartz
+fill 30 -60 -36 32 -60 -36 minecraft:quartz_bricks
+fill 33 -60 -36 33 -60 -36 minecraft:smooth_quartz
+fill 34 -60 -36 38 -60 -36 minecraft:quartz_bricks
+fill 39 -60 -36 51 -60 -36 minecraft:smooth_quartz
+fill 52 -60 -36 53 -60 -36 minecraft:quartz_bricks
+fill -54 -60 -35 -52 -60 -35 minecraft:quartz_bricks
+fill -51 -60 -35 -38 -60 -35 minecraft:smooth_quartz
+fill -37 -60 -35 -31 -60 -35 minecraft:quartz_bricks
+fill -30 -60 -35 -2 -60 -35 minecraft:smooth_quartz
+fill -1 -60 -35 1 -60 -35 minecraft:quartz_bricks
+fill 2 -60 -35 30 -60 -35 minecraft:smooth_quartz
+fill 31 -60 -35 37 -60 -35 minecraft:quartz_bricks
+fill 38 -60 -35 51 -60 -35 minecraft:smooth_quartz
+fill 52 -60 -35 54 -60 -35 minecraft:quartz_bricks
+fill -54 -60 -34 -53 -60 -34 minecraft:quartz_bricks
+fill -52 -60 -34 -37 -60 -34 minecraft:smooth_quartz
+fill -36 -60 -34 -32 -60 -34 minecraft:quartz_bricks
+fill -31 -60 -34 -2 -60 -34 minecraft:smooth_quartz
+fill -1 -60 -34 1 -60 -34 minecraft:quartz_bricks
+fill 2 -60 -34 31 -60 -34 minecraft:smooth_quartz
+fill 32 -60 -34 36 -60 -34 minecraft:quartz_bricks
+fill 37 -60 -34 52 -60 -34 minecraft:smooth_quartz
+fill 53 -60 -34 54 -60 -34 minecraft:quartz_bricks
+fill -55 -60 -33 -54 -60 -33 minecraft:quartz_bricks
+fill -53 -60 -33 -36 -60 -33 minecraft:smooth_quartz
+fill -35 -60 -33 -31 -60 -33 minecraft:quartz_bricks
+fill -30 -60 -33 -2 -60 -33 minecraft:smooth_quartz
+fill -1 -60 -33 1 -60 -33 minecraft:quartz_bricks
+fill 2 -60 -33 30 -60 -33 minecraft:smooth_quartz
+fill 31 -60 -33 35 -60 -33 minecraft:quartz_bricks
+fill 36 -60 -33 53 -60 -33 minecraft:smooth_quartz
+fill 54 -60 -33 55 -60 -33 minecraft:quartz_bricks
+fill -56 -60 -32 -54 -60 -32 minecraft:quartz_bricks
+fill -53 -60 -32 -37 -60 -32 minecraft:smooth_quartz
+fill -36 -60 -32 -30 -60 -32 minecraft:quartz_bricks
+fill -29 -60 -32 -2 -60 -32 minecraft:smooth_quartz
+fill -1 -60 -32 1 -60 -32 minecraft:quartz_bricks
+fill 2 -60 -32 29 -60 -32 minecraft:smooth_quartz
+fill 30 -60 -32 36 -60 -32 minecraft:quartz_bricks
+fill 37 -60 -32 53 -60 -32 minecraft:smooth_quartz
+fill 54 -60 -32 56 -60 -32 minecraft:quartz_bricks
+fill -56 -60 -31 -55 -60 -31 minecraft:quartz_bricks
+fill -54 -60 -31 -38 -60 -31 minecraft:smooth_quartz
+fill -37 -60 -31 -35 -60 -31 minecraft:quartz_bricks
+fill -34 -60 -31 -34 -60 -31 minecraft:smooth_quartz
+fill -33 -60 -31 -29 -60 -31 minecraft:quartz_bricks
+fill -28 -60 -31 -2 -60 -31 minecraft:smooth_quartz
+fill -1 -60 -31 1 -60 -31 minecraft:quartz_bricks
+fill 2 -60 -31 28 -60 -31 minecraft:smooth_quartz
+fill 29 -60 -31 33 -60 -31 minecraft:quartz_bricks
+fill 34 -60 -31 34 -60 -31 minecraft:smooth_quartz
+fill 35 -60 -31 37 -60 -31 minecraft:quartz_bricks
+fill 38 -60 -31 54 -60 -31 minecraft:smooth_quartz
+fill 55 -60 -31 56 -60 -31 minecraft:quartz_bricks
+fill -57 -60 -30 -55 -60 -30 minecraft:quartz_bricks
+fill -54 -60 -30 -39 -60 -30 minecraft:smooth_quartz
+fill -38 -60 -30 -36 -60 -30 minecraft:quartz_bricks
+fill -35 -60 -30 -33 -60 -30 minecraft:smooth_quartz
+fill -32 -60 -30 -28 -60 -30 minecraft:quartz_bricks
+fill -27 -60 -30 -2 -60 -30 minecraft:smooth_quartz
+fill -1 -60 -30 1 -60 -30 minecraft:quartz_bricks
+fill 2 -60 -30 27 -60 -30 minecraft:smooth_quartz
+fill 28 -60 -30 32 -60 -30 minecraft:quartz_bricks
+fill 33 -60 -30 35 -60 -30 minecraft:smooth_quartz
+fill 36 -60 -30 38 -60 -30 minecraft:quartz_bricks
+fill 39 -60 -30 54 -60 -30 minecraft:smooth_quartz
+fill 55 -60 -30 57 -60 -30 minecraft:quartz_bricks
+fill -57 -60 -29 -56 -60 -29 minecraft:quartz_bricks
+fill -55 -60 -29 -39 -60 -29 minecraft:smooth_quartz
+fill -38 -60 -29 -37 -60 -29 minecraft:quartz_bricks
+fill -36 -60 -29 -32 -60 -29 minecraft:smooth_quartz
+fill -31 -60 -29 -27 -60 -29 minecraft:quartz_bricks
+fill -26 -60 -29 -2 -60 -29 minecraft:smooth_quartz
+fill -1 -60 -29 1 -60 -29 minecraft:quartz_bricks
+fill 2 -60 -29 26 -60 -29 minecraft:smooth_quartz
+fill 27 -60 -29 31 -60 -29 minecraft:quartz_bricks
+fill 32 -60 -29 36 -60 -29 minecraft:smooth_quartz
+fill 37 -60 -29 38 -60 -29 minecraft:quartz_bricks
+fill 39 -60 -29 55 -60 -29 minecraft:smooth_quartz
+fill 56 -60 -29 57 -60 -29 minecraft:quartz_bricks
+fill -58 -60 -28 -56 -60 -28 minecraft:quartz_bricks
+fill -55 -60 -28 -40 -60 -28 minecraft:smooth_quartz
+fill -39 -60 -28 -38 -60 -28 minecraft:quartz_bricks
+fill -37 -60 -28 -31 -60 -28 minecraft:smooth_quartz
+fill -30 -60 -28 -26 -60 -28 minecraft:quartz_bricks
+fill -25 -60 -28 -2 -60 -28 minecraft:smooth_quartz
+fill -1 -60 -28 1 -60 -28 minecraft:quartz_bricks
+fill 2 -60 -28 25 -60 -28 minecraft:smooth_quartz
+fill 26 -60 -28 30 -60 -28 minecraft:quartz_bricks
+fill 31 -60 -28 37 -60 -28 minecraft:smooth_quartz
+fill 38 -60 -28 39 -60 -28 minecraft:quartz_bricks
+fill 40 -60 -28 55 -60 -28 minecraft:smooth_quartz
+fill 56 -60 -28 58 -60 -28 minecraft:quartz_bricks
+fill -58 -60 -27 -57 -60 -27 minecraft:quartz_bricks
+fill -56 -60 -27 -41 -60 -27 minecraft:smooth_quartz
+fill -40 -60 -27 -38 -60 -27 minecraft:quartz_bricks
+fill -37 -60 -27 -30 -60 -27 minecraft:smooth_quartz
+fill -29 -60 -27 -25 -60 -27 minecraft:quartz_bricks
+fill -24 -60 -27 -2 -60 -27 minecraft:smooth_quartz
+fill -1 -60 -27 1 -60 -27 minecraft:quartz_bricks
+fill 2 -60 -27 24 -60 -27 minecraft:smooth_quartz
+fill 25 -60 -27 29 -60 -27 minecraft:quartz_bricks
+fill 30 -60 -27 37 -60 -27 minecraft:smooth_quartz
+fill 38 -60 -27 40 -60 -27 minecraft:quartz_bricks
+fill 41 -60 -27 56 -60 -27 minecraft:smooth_quartz
+fill 57 -60 -27 58 -60 -27 minecraft:quartz_bricks
+fill -59 -60 -26 -57 -60 -26 minecraft:quartz_bricks
+fill -56 -60 -26 -41 -60 -26 minecraft:smooth_quartz
+fill -40 -60 -26 -39 -60 -26 minecraft:quartz_bricks
+fill -38 -60 -26 -29 -60 -26 minecraft:smooth_quartz
+fill -28 -60 -26 -24 -60 -26 minecraft:quartz_bricks
+fill -23 -60 -26 -2 -60 -26 minecraft:smooth_quartz
+fill -1 -60 -26 1 -60 -26 minecraft:quartz_bricks
+fill 2 -60 -26 23 -60 -26 minecraft:smooth_quartz
+fill 24 -60 -26 28 -60 -26 minecraft:quartz_bricks
+fill 29 -60 -26 38 -60 -26 minecraft:smooth_quartz
+fill 39 -60 -26 40 -60 -26 minecraft:quartz_bricks
+fill 41 -60 -26 56 -60 -26 minecraft:smooth_quartz
+fill 57 -60 -26 59 -60 -26 minecraft:quartz_bricks
+fill -59 -60 -25 -58 -60 -25 minecraft:quartz_bricks
+fill -57 -60 -25 -42 -60 -25 minecraft:smooth_quartz
+fill -41 -60 -25 -40 -60 -25 minecraft:quartz_bricks
+fill -39 -60 -25 -28 -60 -25 minecraft:smooth_quartz
+fill -27 -60 -25 -23 -60 -25 minecraft:quartz_bricks
+fill -22 -60 -25 -2 -60 -25 minecraft:smooth_quartz
+fill -1 -60 -25 1 -60 -25 minecraft:quartz_bricks
+fill 2 -60 -25 22 -60 -25 minecraft:smooth_quartz
+fill 23 -60 -25 27 -60 -25 minecraft:quartz_bricks
+fill 28 -60 -25 39 -60 -25 minecraft:smooth_quartz
+fill 40 -60 -25 41 -60 -25 minecraft:quartz_bricks
+fill 42 -60 -25 57 -60 -25 minecraft:smooth_quartz
+fill 58 -60 -25 59 -60 -25 minecraft:quartz_bricks
+fill -59 -60 -24 -58 -60 -24 minecraft:quartz_bricks
+fill -57 -60 -24 -43 -60 -24 minecraft:smooth_quartz
+fill -42 -60 -24 -40 -60 -24 minecraft:quartz_bricks
+fill -39 -60 -24 -27 -60 -24 minecraft:smooth_quartz
+fill -26 -60 -24 -22 -60 -24 minecraft:quartz_bricks
+fill -21 -60 -24 -2 -60 -24 minecraft:smooth_quartz
+fill -1 -60 -24 1 -60 -24 minecraft:quartz_bricks
+fill 2 -60 -24 21 -60 -24 minecraft:smooth_quartz
+fill 22 -60 -24 26 -60 -24 minecraft:quartz_bricks
+fill 27 -60 -24 39 -60 -24 minecraft:smooth_quartz
+fill 40 -60 -24 42 -60 -24 minecraft:quartz_bricks
+fill 43 -60 -24 57 -60 -24 minecraft:smooth_quartz
+fill 58 -60 -24 59 -60 -24 minecraft:quartz_bricks
+fill -60 -60 -23 -59 -60 -23 minecraft:quartz_bricks
+fill -58 -60 -23 -43 -60 -23 minecraft:smooth_quartz
+fill -42 -60 -23 -41 -60 -23 minecraft:quartz_bricks
+fill -40 -60 -23 -26 -60 -23 minecraft:smooth_quartz
+fill -25 -60 -23 -21 -60 -23 minecraft:quartz_bricks
+fill -20 -60 -23 -2 -60 -23 minecraft:smooth_quartz
+fill -1 -60 -23 1 -60 -23 minecraft:quartz_bricks
+fill 2 -60 -23 20 -60 -23 minecraft:smooth_quartz
+fill 21 -60 -23 25 -60 -23 minecraft:quartz_bricks
+fill 26 -60 -23 40 -60 -23 minecraft:smooth_quartz
+fill 41 -60 -23 42 -60 -23 minecraft:quartz_bricks
+fill 43 -60 -23 58 -60 -23 minecraft:smooth_quartz
+fill 59 -60 -23 60 -60 -23 minecraft:quartz_bricks
+fill -60 -60 -22 -59 -60 -22 minecraft:quartz_bricks
+fill -58 -60 -22 -44 -60 -22 minecraft:smooth_quartz
+fill -43 -60 -22 -41 -60 -22 minecraft:quartz_bricks
+fill -40 -60 -22 -25 -60 -22 minecraft:smooth_quartz
+fill -24 -60 -22 -20 -60 -22 minecraft:quartz_bricks
+fill -19 -60 -22 -5 -60 -22 minecraft:smooth_quartz
+fill -4 -60 -22 4 -60 -22 minecraft:quartz_block
+fill 5 -60 -22 19 -60 -22 minecraft:smooth_quartz
+fill 20 -60 -22 24 -60 -22 minecraft:quartz_bricks
+fill 25 -60 -22 40 -60 -22 minecraft:smooth_quartz
+fill 41 -60 -22 43 -60 -22 minecraft:quartz_bricks
+fill 44 -60 -22 58 -60 -22 minecraft:smooth_quartz
+fill 59 -60 -22 60 -60 -22 minecraft:quartz_bricks
+fill -60 -60 -21 -59 -60 -21 minecraft:quartz_bricks
+fill -58 -60 -21 -44 -60 -21 minecraft:smooth_quartz
+fill -43 -60 -21 -42 -60 -21 minecraft:quartz_bricks
+fill -41 -60 -21 -24 -60 -21 minecraft:smooth_quartz
+fill -23 -60 -21 -19 -60 -21 minecraft:quartz_bricks
+fill -18 -60 -21 -9 -60 -21 minecraft:smooth_quartz
+fill -8 -60 -21 8 -60 -21 minecraft:quartz_block
+fill 9 -60 -21 18 -60 -21 minecraft:smooth_quartz
+fill 19 -60 -21 23 -60 -21 minecraft:quartz_bricks
+fill 24 -60 -21 41 -60 -21 minecraft:smooth_quartz
+fill 42 -60 -21 43 -60 -21 minecraft:quartz_bricks
+fill 44 -60 -21 58 -60 -21 minecraft:smooth_quartz
+fill 59 -60 -21 60 -60 -21 minecraft:quartz_bricks
+fill -61 -60 -20 -60 -60 -20 minecraft:quartz_bricks
+fill -59 -60 -20 -45 -60 -20 minecraft:smooth_quartz
+fill -44 -60 -20 -42 -60 -20 minecraft:quartz_bricks
+fill -41 -60 -20 -23 -60 -20 minecraft:smooth_quartz
+fill -22 -60 -20 -18 -60 -20 minecraft:quartz_bricks
+fill -17 -60 -20 -11 -60 -20 minecraft:smooth_quartz
+fill -10 -60 -20 -5 -60 -20 minecraft:quartz_block
+fill -4 -60 -20 4 -60 -20 minecraft:smooth_quartz
+fill 5 -60 -20 10 -60 -20 minecraft:quartz_block
+fill 11 -60 -20 17 -60 -20 minecraft:smooth_quartz
+fill 18 -60 -20 22 -60 -20 minecraft:quartz_bricks
+fill 23 -60 -20 41 -60 -20 minecraft:smooth_quartz
+fill 42 -60 -20 44 -60 -20 minecraft:quartz_bricks
+fill 45 -60 -20 59 -60 -20 minecraft:smooth_quartz
+fill 60 -60 -20 61 -60 -20 minecraft:quartz_bricks
+fill -61 -60 -19 -60 -60 -19 minecraft:quartz_bricks
+fill -59 -60 -19 -45 -60 -19 minecraft:smooth_quartz
+fill -44 -60 -19 -43 -60 -19 minecraft:quartz_bricks
+fill -42 -60 -19 -22 -60 -19 minecraft:smooth_quartz
+fill -21 -60 -19 -17 -60 -19 minecraft:quartz_bricks
+fill -16 -60 -19 -13 -60 -19 minecraft:smooth_quartz
+fill -12 -60 -19 -8 -60 -19 minecraft:quartz_block
+fill -7 -60 -19 7 -60 -19 minecraft:smooth_quartz
+fill 8 -60 -19 12 -60 -19 minecraft:quartz_block
+fill 13 -60 -19 16 -60 -19 minecraft:smooth_quartz
+fill 17 -60 -19 21 -60 -19 minecraft:quartz_bricks
+fill 22 -60 -19 42 -60 -19 minecraft:smooth_quartz
+fill 43 -60 -19 44 -60 -19 minecraft:quartz_bricks
+fill 45 -60 -19 59 -60 -19 minecraft:smooth_quartz
+fill 60 -60 -19 61 -60 -19 minecraft:quartz_bricks
+fill -61 -60 -18 -60 -60 -18 minecraft:quartz_bricks
+fill -59 -60 -18 -46 -60 -18 minecraft:smooth_quartz
+fill -45 -60 -18 -43 -60 -18 minecraft:quartz_bricks
+fill -42 -60 -18 -21 -60 -18 minecraft:smooth_quartz
+fill -20 -60 -18 -16 -60 -18 minecraft:quartz_bricks
+fill -15 -60 -18 -14 -60 -18 minecraft:smooth_quartz
+fill -13 -60 -18 -10 -60 -18 minecraft:quartz_block
+fill -9 -60 -18 9 -60 -18 minecraft:smooth_quartz
+fill 10 -60 -18 13 -60 -18 minecraft:quartz_block
+fill 14 -60 -18 15 -60 -18 minecraft:smooth_quartz
+fill 16 -60 -18 20 -60 -18 minecraft:quartz_bricks
+fill 21 -60 -18 42 -60 -18 minecraft:smooth_quartz
+fill 43 -60 -18 45 -60 -18 minecraft:quartz_bricks
+fill 46 -60 -18 59 -60 -18 minecraft:smooth_quartz
+fill 60 -60 -18 61 -60 -18 minecraft:quartz_bricks
+fill -62 -60 -17 -61 -60 -17 minecraft:quartz_bricks
+fill -60 -60 -17 -46 -60 -17 minecraft:smooth_quartz
+fill -45 -60 -17 -44 -60 -17 minecraft:quartz_bricks
+fill -43 -60 -17 -20 -60 -17 minecraft:smooth_quartz
+fill -19 -60 -17 -15 -60 -17 minecraft:quartz_bricks
+fill -14 -60 -17 -12 -60 -17 minecraft:quartz_block
+fill -11 -60 -17 11 -60 -17 minecraft:smooth_quartz
+fill 12 -60 -17 14 -60 -17 minecraft:quartz_block
+fill 15 -60 -17 19 -60 -17 minecraft:quartz_bricks
+fill 20 -60 -17 43 -60 -17 minecraft:smooth_quartz
+fill 44 -60 -17 45 -60 -17 minecraft:quartz_bricks
+fill 46 -60 -17 60 -60 -17 minecraft:smooth_quartz
+fill 61 -60 -17 62 -60 -17 minecraft:quartz_bricks
+fill -62 -60 -16 -61 -60 -16 minecraft:quartz_bricks
+fill -60 -60 -16 -46 -60 -16 minecraft:smooth_quartz
+fill -45 -60 -16 -44 -60 -16 minecraft:quartz_bricks
+fill -43 -60 -16 -19 -60 -16 minecraft:smooth_quartz
+fill -18 -60 -16 -16 -60 -16 minecraft:quartz_bricks
+fill -15 -60 -16 -13 -60 -16 minecraft:quartz_block
+fill -12 -60 -16 12 -60 -16 minecraft:smooth_quartz
+fill 13 -60 -16 15 -60 -16 minecraft:quartz_block
+fill 16 -60 -16 18 -60 -16 minecraft:quartz_bricks
+fill 19 -60 -16 43 -60 -16 minecraft:smooth_quartz
+fill 44 -60 -16 45 -60 -16 minecraft:quartz_bricks
+fill 46 -60 -16 60 -60 -16 minecraft:smooth_quartz
+fill 61 -60 -16 62 -60 -16 minecraft:quartz_bricks
+fill -62 -60 -15 -61 -60 -15 minecraft:quartz_bricks
+fill -60 -60 -15 -47 -60 -15 minecraft:smooth_quartz
+fill -46 -60 -15 -45 -60 -15 minecraft:quartz_bricks
+fill -44 -60 -15 -18 -60 -15 minecraft:smooth_quartz
+fill -17 -60 -15 -17 -60 -15 minecraft:quartz_bricks
+fill -16 -60 -15 -14 -60 -15 minecraft:quartz_block
+fill -13 -60 -15 13 -60 -15 minecraft:smooth_quartz
+fill 14 -60 -15 16 -60 -15 minecraft:quartz_block
+fill 17 -60 -15 17 -60 -15 minecraft:quartz_bricks
+fill 18 -60 -15 44 -60 -15 minecraft:smooth_quartz
+fill 45 -60 -15 46 -60 -15 minecraft:quartz_bricks
+fill 47 -60 -15 60 -60 -15 minecraft:smooth_quartz
+fill 61 -60 -15 62 -60 -15 minecraft:quartz_bricks
+fill -62 -60 -14 -61 -60 -14 minecraft:quartz_bricks
+fill -60 -60 -14 -47 -60 -14 minecraft:smooth_quartz
+fill -46 -60 -14 -45 -60 -14 minecraft:quartz_bricks
+fill -44 -60 -14 -18 -60 -14 minecraft:smooth_quartz
+fill -17 -60 -14 -15 -60 -14 minecraft:quartz_block
+fill -14 -60 -14 14 -60 -14 minecraft:smooth_quartz
+fill 15 -60 -14 17 -60 -14 minecraft:quartz_block
+fill 18 -60 -14 44 -60 -14 minecraft:smooth_quartz
+fill 45 -60 -14 46 -60 -14 minecraft:quartz_bricks
+fill 47 -60 -14 60 -60 -14 minecraft:smooth_quartz
+fill 61 -60 -14 62 -60 -14 minecraft:quartz_bricks
+fill -63 -60 -13 -62 -60 -13 minecraft:quartz_bricks
+fill -61 -60 -13 -47 -60 -13 minecraft:smooth_quartz
+fill -46 -60 -13 -45 -60 -13 minecraft:quartz_bricks
+fill -44 -60 -13 -19 -60 -13 minecraft:smooth_quartz
+fill -18 -60 -13 -16 -60 -13 minecraft:quartz_block
+fill -15 -60 -13 15 -60 -13 minecraft:smooth_quartz
+fill 16 -60 -13 18 -60 -13 minecraft:quartz_block
+fill 19 -60 -13 44 -60 -13 minecraft:smooth_quartz
+fill 45 -60 -13 46 -60 -13 minecraft:quartz_bricks
+fill 47 -60 -13 61 -60 -13 minecraft:smooth_quartz
+fill 62 -60 -13 63 -60 -13 minecraft:quartz_bricks
+fill -63 -60 -12 -62 -60 -12 minecraft:quartz_bricks
+fill -61 -60 -12 -47 -60 -12 minecraft:smooth_quartz
+fill -46 -60 -12 -45 -60 -12 minecraft:quartz_bricks
+fill -44 -60 -12 -20 -60 -12 minecraft:smooth_quartz
+fill -19 -60 -12 -17 -60 -12 minecraft:quartz_block
+fill -16 -60 -12 16 -60 -12 minecraft:smooth_quartz
+fill 17 -60 -12 19 -60 -12 minecraft:quartz_block
+fill 20 -60 -12 44 -60 -12 minecraft:smooth_quartz
+fill 45 -60 -12 46 -60 -12 minecraft:quartz_bricks
+fill 47 -60 -12 61 -60 -12 minecraft:smooth_quartz
+fill 62 -60 -12 63 -60 -12 minecraft:quartz_bricks
+fill -63 -60 -11 -62 -60 -11 minecraft:quartz_bricks
+fill -61 -60 -11 -48 -60 -11 minecraft:smooth_quartz
+fill -47 -60 -11 -46 -60 -11 minecraft:quartz_bricks
+fill -45 -60 -11 -20 -60 -11 minecraft:smooth_quartz
+fill -19 -60 -11 -18 -60 -11 minecraft:quartz_block
+fill -17 -60 -11 17 -60 -11 minecraft:smooth_quartz
+fill 18 -60 -11 19 -60 -11 minecraft:quartz_block
+fill 20 -60 -11 45 -60 -11 minecraft:smooth_quartz
+fill 46 -60 -11 47 -60 -11 minecraft:quartz_bricks
+fill 48 -60 -11 61 -60 -11 minecraft:smooth_quartz
+fill 62 -60 -11 63 -60 -11 minecraft:quartz_bricks
+fill -63 -60 -10 -62 -60 -10 minecraft:quartz_bricks
+fill -61 -60 -10 -48 -60 -10 minecraft:smooth_quartz
+fill -47 -60 -10 -46 -60 -10 minecraft:quartz_bricks
+fill -45 -60 -10 -21 -60 -10 minecraft:smooth_quartz
+fill -20 -60 -10 -18 -60 -10 minecraft:quartz_block
+fill -17 -60 -10 17 -60 -10 minecraft:smooth_quartz
+fill 18 -60 -10 20 -60 -10 minecraft:quartz_block
+fill 21 -60 -10 45 -60 -10 minecraft:smooth_quartz
+fill 46 -60 -10 47 -60 -10 minecraft:quartz_bricks
+fill 48 -60 -10 61 -60 -10 minecraft:smooth_quartz
+fill 62 -60 -10 63 -60 -10 minecraft:quartz_bricks
+fill -63 -60 -9 -62 -60 -9 minecraft:quartz_bricks
+fill -61 -60 -9 -48 -60 -9 minecraft:smooth_quartz
+fill -47 -60 -9 -46 -60 -9 minecraft:quartz_bricks
+fill -45 -60 -9 -21 -60 -9 minecraft:smooth_quartz
+fill -20 -60 -9 -19 -60 -9 minecraft:quartz_block
+fill -18 -60 -9 18 -60 -9 minecraft:smooth_quartz
+fill 19 -60 -9 20 -60 -9 minecraft:quartz_block
+fill 21 -60 -9 45 -60 -9 minecraft:smooth_quartz
+fill 46 -60 -9 47 -60 -9 minecraft:quartz_bricks
+fill 48 -60 -9 61 -60 -9 minecraft:smooth_quartz
+fill 62 -60 -9 63 -60 -9 minecraft:quartz_bricks
+fill -64 -60 -8 -62 -60 -8 minecraft:quartz_bricks
+fill -61 -60 -8 -48 -60 -8 minecraft:smooth_quartz
+fill -47 -60 -8 -46 -60 -8 minecraft:quartz_bricks
+fill -45 -60 -8 -22 -60 -8 minecraft:smooth_quartz
+fill -21 -60 -8 -19 -60 -8 minecraft:quartz_block
+fill -18 -60 -8 18 -60 -8 minecraft:smooth_quartz
+fill 19 -60 -8 21 -60 -8 minecraft:quartz_block
+fill 22 -60 -8 45 -60 -8 minecraft:smooth_quartz
+fill 46 -60 -8 47 -60 -8 minecraft:quartz_bricks
+fill 48 -60 -8 61 -60 -8 minecraft:smooth_quartz
+fill 62 -60 -8 64 -60 -8 minecraft:quartz_bricks
+fill -64 -60 -7 -63 -60 -7 minecraft:quartz_bricks
+fill -62 -60 -7 -48 -60 -7 minecraft:smooth_quartz
+fill -47 -60 -7 -46 -60 -7 minecraft:quartz_bricks
+fill -45 -60 -7 -22 -60 -7 minecraft:smooth_quartz
+fill -21 -60 -7 -20 -60 -7 minecraft:quartz_block
+fill -19 -60 -7 19 -60 -7 minecraft:smooth_quartz
+fill 20 -60 -7 21 -60 -7 minecraft:quartz_block
+fill 22 -60 -7 45 -60 -7 minecraft:smooth_quartz
+fill 46 -60 -7 47 -60 -7 minecraft:quartz_bricks
+fill 48 -60 -7 62 -60 -7 minecraft:smooth_quartz
+fill 63 -60 -7 64 -60 -7 minecraft:quartz_bricks
+fill -64 -60 -6 -63 -60 -6 minecraft:quartz_bricks
+fill -62 -60 -6 -49 -60 -6 minecraft:smooth_quartz
+fill -48 -60 -6 -47 -60 -6 minecraft:quartz_bricks
+fill -46 -60 -6 -22 -60 -6 minecraft:smooth_quartz
+fill -21 -60 -6 -20 -60 -6 minecraft:quartz_block
+fill -19 -60 -6 19 -60 -6 minecraft:smooth_quartz
+fill 20 -60 -6 21 -60 -6 minecraft:quartz_block
+fill 22 -60 -6 46 -60 -6 minecraft:smooth_quartz
+fill 47 -60 -6 48 -60 -6 minecraft:quartz_bricks
+fill 49 -60 -6 62 -60 -6 minecraft:smooth_quartz
+fill 63 -60 -6 64 -60 -6 minecraft:quartz_bricks
+fill -64 -60 -5 -63 -60 -5 minecraft:quartz_bricks
+fill -62 -60 -5 -49 -60 -5 minecraft:smooth_quartz
+fill -48 -60 -5 -47 -60 -5 minecraft:quartz_bricks
+fill -46 -60 -5 -22 -60 -5 minecraft:smooth_quartz
+fill -21 -60 -5 -20 -60 -5 minecraft:quartz_block
+fill -19 -60 -5 19 -60 -5 minecraft:smooth_quartz
+fill 20 -60 -5 21 -60 -5 minecraft:quartz_block
+fill 22 -60 -5 46 -60 -5 minecraft:smooth_quartz
+fill 47 -60 -5 48 -60 -5 minecraft:quartz_bricks
+fill 49 -60 -5 62 -60 -5 minecraft:smooth_quartz
+fill 63 -60 -5 64 -60 -5 minecraft:quartz_bricks
+fill -64 -60 -4 -63 -60 -4 minecraft:quartz_bricks
+fill -62 -60 -4 -49 -60 -4 minecraft:smooth_quartz
+fill -48 -60 -4 -47 -60 -4 minecraft:quartz_bricks
+fill -46 -60 -4 -23 -60 -4 minecraft:smooth_quartz
+fill -22 -60 -4 -21 -60 -4 minecraft:quartz_block
+fill -20 -60 -4 20 -60 -4 minecraft:smooth_quartz
+fill 21 -60 -4 22 -60 -4 minecraft:quartz_block
+fill 23 -60 -4 46 -60 -4 minecraft:smooth_quartz
+fill 47 -60 -4 48 -60 -4 minecraft:quartz_bricks
+fill 49 -60 -4 62 -60 -4 minecraft:smooth_quartz
+fill 63 -60 -4 64 -60 -4 minecraft:quartz_bricks
+fill -64 -60 -3 -63 -60 -3 minecraft:quartz_bricks
+fill -62 -60 -3 -49 -60 -3 minecraft:smooth_quartz
+fill -48 -60 -3 -47 -60 -3 minecraft:quartz_bricks
+fill -46 -60 -3 -23 -60 -3 minecraft:smooth_quartz
+fill -22 -60 -3 -21 -60 -3 minecraft:quartz_block
+fill -20 -60 -3 20 -60 -3 minecraft:smooth_quartz
+fill 21 -60 -3 22 -60 -3 minecraft:quartz_block
+fill 23 -60 -3 46 -60 -3 minecraft:smooth_quartz
+fill 47 -60 -3 48 -60 -3 minecraft:quartz_bricks
+fill 49 -60 -3 62 -60 -3 minecraft:smooth_quartz
+fill 63 -60 -3 64 -60 -3 minecraft:quartz_bricks
+fill -64 -60 -2 -63 -60 -2 minecraft:quartz_bricks
+fill -62 -60 -2 -49 -60 -2 minecraft:smooth_quartz
+fill -48 -60 -2 -47 -60 -2 minecraft:quartz_bricks
+fill -46 -60 -2 -23 -60 -2 minecraft:smooth_quartz
+fill -22 -60 -2 -21 -60 -2 minecraft:quartz_block
+fill -20 -60 -2 20 -60 -2 minecraft:smooth_quartz
+fill 21 -60 -2 22 -60 -2 minecraft:quartz_block
+fill 23 -60 -2 46 -60 -2 minecraft:smooth_quartz
+fill 47 -60 -2 48 -60 -2 minecraft:quartz_bricks
+fill 49 -60 -2 62 -60 -2 minecraft:smooth_quartz
+fill 63 -60 -2 64 -60 -2 minecraft:quartz_bricks
+fill -64 -60 -1 -23 -60 -1 minecraft:quartz_bricks
+fill -22 -60 -1 -21 -60 -1 minecraft:quartz_block
+fill -20 -60 -1 20 -60 -1 minecraft:smooth_quartz
+fill 21 -60 -1 22 -60 -1 minecraft:quartz_block
+fill 23 -60 -1 64 -60 -1 minecraft:quartz_bricks
+fill -64 -60 0 -23 -60 0 minecraft:quartz_bricks
+fill -22 -60 0 -21 -60 0 minecraft:quartz_block
+fill -20 -60 0 20 -60 0 minecraft:smooth_quartz
+fill 21 -60 0 22 -60 0 minecraft:quartz_block
+fill 23 -60 0 64 -60 0 minecraft:quartz_bricks
+fill -64 -60 1 -23 -60 1 minecraft:quartz_bricks
+fill -22 -60 1 -21 -60 1 minecraft:quartz_block
+fill -20 -60 1 20 -60 1 minecraft:smooth_quartz
+fill 21 -60 1 22 -60 1 minecraft:quartz_block
+fill 23 -60 1 64 -60 1 minecraft:quartz_bricks
+fill -64 -60 2 -63 -60 2 minecraft:quartz_bricks
+fill -62 -60 2 -49 -60 2 minecraft:smooth_quartz
+fill -48 -60 2 -47 -60 2 minecraft:quartz_bricks
+fill -46 -60 2 -23 -60 2 minecraft:smooth_quartz
+fill -22 -60 2 -21 -60 2 minecraft:quartz_block
+fill -20 -60 2 20 -60 2 minecraft:smooth_quartz
+fill 21 -60 2 22 -60 2 minecraft:quartz_block
+fill 23 -60 2 46 -60 2 minecraft:smooth_quartz
+fill 47 -60 2 48 -60 2 minecraft:quartz_bricks
+fill 49 -60 2 62 -60 2 minecraft:smooth_quartz
+fill 63 -60 2 64 -60 2 minecraft:quartz_bricks
+fill -64 -60 3 -63 -60 3 minecraft:quartz_bricks
+fill -62 -60 3 -49 -60 3 minecraft:smooth_quartz
+fill -48 -60 3 -47 -60 3 minecraft:quartz_bricks
+fill -46 -60 3 -23 -60 3 minecraft:smooth_quartz
+fill -22 -60 3 -21 -60 3 minecraft:quartz_block
+fill -20 -60 3 20 -60 3 minecraft:smooth_quartz
+fill 21 -60 3 22 -60 3 minecraft:quartz_block
+fill 23 -60 3 46 -60 3 minecraft:smooth_quartz
+fill 47 -60 3 48 -60 3 minecraft:quartz_bricks
+fill 49 -60 3 62 -60 3 minecraft:smooth_quartz
+fill 63 -60 3 64 -60 3 minecraft:quartz_bricks
+fill -64 -60 4 -63 -60 4 minecraft:quartz_bricks
+fill -62 -60 4 -49 -60 4 minecraft:smooth_quartz
+fill -48 -60 4 -47 -60 4 minecraft:quartz_bricks
+fill -46 -60 4 -23 -60 4 minecraft:smooth_quartz
+fill -22 -60 4 -21 -60 4 minecraft:quartz_block
+fill -20 -60 4 20 -60 4 minecraft:smooth_quartz
+fill 21 -60 4 22 -60 4 minecraft:quartz_block
+fill 23 -60 4 46 -60 4 minecraft:smooth_quartz
+fill 47 -60 4 48 -60 4 minecraft:quartz_bricks
+fill 49 -60 4 62 -60 4 minecraft:smooth_quartz
+fill 63 -60 4 64 -60 4 minecraft:quartz_bricks
+fill -64 -60 5 -63 -60 5 minecraft:quartz_bricks
+fill -62 -60 5 -49 -60 5 minecraft:smooth_quartz
+fill -48 -60 5 -47 -60 5 minecraft:quartz_bricks
+fill -46 -60 5 -22 -60 5 minecraft:smooth_quartz
+fill -21 -60 5 -20 -60 5 minecraft:quartz_block
+fill -19 -60 5 19 -60 5 minecraft:smooth_quartz
+fill 20 -60 5 21 -60 5 minecraft:quartz_block
+fill 22 -60 5 46 -60 5 minecraft:smooth_quartz
+fill 47 -60 5 48 -60 5 minecraft:quartz_bricks
+fill 49 -60 5 62 -60 5 minecraft:smooth_quartz
+fill 63 -60 5 64 -60 5 minecraft:quartz_bricks
+fill -64 -60 6 -63 -60 6 minecraft:quartz_bricks
+fill -62 -60 6 -49 -60 6 minecraft:smooth_quartz
+fill -48 -60 6 -47 -60 6 minecraft:quartz_bricks
+fill -46 -60 6 -22 -60 6 minecraft:smooth_quartz
+fill -21 -60 6 -20 -60 6 minecraft:quartz_block
+fill -19 -60 6 19 -60 6 minecraft:smooth_quartz
+fill 20 -60 6 21 -60 6 minecraft:quartz_block
+fill 22 -60 6 46 -60 6 minecraft:smooth_quartz
+fill 47 -60 6 48 -60 6 minecraft:quartz_bricks
+fill 49 -60 6 62 -60 6 minecraft:smooth_quartz
+fill 63 -60 6 64 -60 6 minecraft:quartz_bricks
+fill -64 -60 7 -63 -60 7 minecraft:quartz_bricks
+fill -62 -60 7 -48 -60 7 minecraft:smooth_quartz
+fill -47 -60 7 -46 -60 7 minecraft:quartz_bricks
+fill -45 -60 7 -22 -60 7 minecraft:smooth_quartz
+fill -21 -60 7 -20 -60 7 minecraft:quartz_block
+fill -19 -60 7 19 -60 7 minecraft:smooth_quartz
+fill 20 -60 7 21 -60 7 minecraft:quartz_block
+fill 22 -60 7 45 -60 7 minecraft:smooth_quartz
+fill 46 -60 7 47 -60 7 minecraft:quartz_bricks
+fill 48 -60 7 62 -60 7 minecraft:smooth_quartz
+fill 63 -60 7 64 -60 7 minecraft:quartz_bricks
+fill -64 -60 8 -62 -60 8 minecraft:quartz_bricks
+fill -61 -60 8 -48 -60 8 minecraft:smooth_quartz
+fill -47 -60 8 -46 -60 8 minecraft:quartz_bricks
+fill -45 -60 8 -22 -60 8 minecraft:smooth_quartz
+fill -21 -60 8 -19 -60 8 minecraft:quartz_block
+fill -18 -60 8 18 -60 8 minecraft:smooth_quartz
+fill 19 -60 8 21 -60 8 minecraft:quartz_block
+fill 22 -60 8 45 -60 8 minecraft:smooth_quartz
+fill 46 -60 8 47 -60 8 minecraft:quartz_bricks
+fill 48 -60 8 61 -60 8 minecraft:smooth_quartz
+fill 62 -60 8 64 -60 8 minecraft:quartz_bricks
+fill -63 -60 9 -62 -60 9 minecraft:quartz_bricks
+fill -61 -60 9 -48 -60 9 minecraft:smooth_quartz
+fill -47 -60 9 -46 -60 9 minecraft:quartz_bricks
+fill -45 -60 9 -21 -60 9 minecraft:smooth_quartz
+fill -20 -60 9 -19 -60 9 minecraft:quartz_block
+fill -18 -60 9 18 -60 9 minecraft:smooth_quartz
+fill 19 -60 9 20 -60 9 minecraft:quartz_block
+fill 21 -60 9 45 -60 9 minecraft:smooth_quartz
+fill 46 -60 9 47 -60 9 minecraft:quartz_bricks
+fill 48 -60 9 61 -60 9 minecraft:smooth_quartz
+fill 62 -60 9 63 -60 9 minecraft:quartz_bricks
+fill -63 -60 10 -62 -60 10 minecraft:quartz_bricks
+fill -61 -60 10 -48 -60 10 minecraft:smooth_quartz
+fill -47 -60 10 -46 -60 10 minecraft:quartz_bricks
+fill -45 -60 10 -21 -60 10 minecraft:smooth_quartz
+fill -20 -60 10 -18 -60 10 minecraft:quartz_block
+fill -17 -60 10 17 -60 10 minecraft:smooth_quartz
+fill 18 -60 10 20 -60 10 minecraft:quartz_block
+fill 21 -60 10 45 -60 10 minecraft:smooth_quartz
+fill 46 -60 10 47 -60 10 minecraft:quartz_bricks
+fill 48 -60 10 61 -60 10 minecraft:smooth_quartz
+fill 62 -60 10 63 -60 10 minecraft:quartz_bricks
+fill -63 -60 11 -62 -60 11 minecraft:quartz_bricks
+fill -61 -60 11 -48 -60 11 minecraft:smooth_quartz
+fill -47 -60 11 -46 -60 11 minecraft:quartz_bricks
+fill -45 -60 11 -20 -60 11 minecraft:smooth_quartz
+fill -19 -60 11 -18 -60 11 minecraft:quartz_block
+fill -17 -60 11 17 -60 11 minecraft:smooth_quartz
+fill 18 -60 11 19 -60 11 minecraft:quartz_block
+fill 20 -60 11 45 -60 11 minecraft:smooth_quartz
+fill 46 -60 11 47 -60 11 minecraft:quartz_bricks
+fill 48 -60 11 61 -60 11 minecraft:smooth_quartz
+fill 62 -60 11 63 -60 11 minecraft:quartz_bricks
+fill -63 -60 12 -62 -60 12 minecraft:quartz_bricks
+fill -61 -60 12 -47 -60 12 minecraft:smooth_quartz
+fill -46 -60 12 -45 -60 12 minecraft:quartz_bricks
+fill -44 -60 12 -20 -60 12 minecraft:smooth_quartz
+fill -19 -60 12 -17 -60 12 minecraft:quartz_block
+fill -16 -60 12 16 -60 12 minecraft:smooth_quartz
+fill 17 -60 12 19 -60 12 minecraft:quartz_block
+fill 20 -60 12 44 -60 12 minecraft:smooth_quartz
+fill 45 -60 12 46 -60 12 minecraft:quartz_bricks
+fill 47 -60 12 61 -60 12 minecraft:smooth_quartz
+fill 62 -60 12 63 -60 12 minecraft:quartz_bricks
+fill -63 -60 13 -62 -60 13 minecraft:quartz_bricks
+fill -61 -60 13 -47 -60 13 minecraft:smooth_quartz
+fill -46 -60 13 -45 -60 13 minecraft:quartz_bricks
+fill -44 -60 13 -19 -60 13 minecraft:smooth_quartz
+fill -18 -60 13 -16 -60 13 minecraft:quartz_block
+fill -15 -60 13 15 -60 13 minecraft:smooth_quartz
+fill 16 -60 13 18 -60 13 minecraft:quartz_block
+fill 19 -60 13 44 -60 13 minecraft:smooth_quartz
+fill 45 -60 13 46 -60 13 minecraft:quartz_bricks
+fill 47 -60 13 61 -60 13 minecraft:smooth_quartz
+fill 62 -60 13 63 -60 13 minecraft:quartz_bricks
+fill -62 -60 14 -61 -60 14 minecraft:quartz_bricks
+fill -60 -60 14 -47 -60 14 minecraft:smooth_quartz
+fill -46 -60 14 -45 -60 14 minecraft:quartz_bricks
+fill -44 -60 14 -18 -60 14 minecraft:smooth_quartz
+fill -17 -60 14 -15 -60 14 minecraft:quartz_block
+fill -14 -60 14 14 -60 14 minecraft:smooth_quartz
+fill 15 -60 14 17 -60 14 minecraft:quartz_block
+fill 18 -60 14 44 -60 14 minecraft:smooth_quartz
+fill 45 -60 14 46 -60 14 minecraft:quartz_bricks
+fill 47 -60 14 60 -60 14 minecraft:smooth_quartz
+fill 61 -60 14 62 -60 14 minecraft:quartz_bricks
+fill -62 -60 15 -61 -60 15 minecraft:quartz_bricks
+fill -60 -60 15 -47 -60 15 minecraft:smooth_quartz
+fill -46 -60 15 -45 -60 15 minecraft:quartz_bricks
+fill -44 -60 15 -18 -60 15 minecraft:smooth_quartz
+fill -17 -60 15 -17 -60 15 minecraft:quartz_bricks
+fill -16 -60 15 -14 -60 15 minecraft:quartz_block
+fill -13 -60 15 13 -60 15 minecraft:smooth_quartz
+fill 14 -60 15 16 -60 15 minecraft:quartz_block
+fill 17 -60 15 17 -60 15 minecraft:quartz_bricks
+fill 18 -60 15 44 -60 15 minecraft:smooth_quartz
+fill 45 -60 15 46 -60 15 minecraft:quartz_bricks
+fill 47 -60 15 60 -60 15 minecraft:smooth_quartz
+fill 61 -60 15 62 -60 15 minecraft:quartz_bricks
+fill -62 -60 16 -61 -60 16 minecraft:quartz_bricks
+fill -60 -60 16 -46 -60 16 minecraft:smooth_quartz
+fill -45 -60 16 -44 -60 16 minecraft:quartz_bricks
+fill -43 -60 16 -19 -60 16 minecraft:smooth_quartz
+fill -18 -60 16 -16 -60 16 minecraft:quartz_bricks
+fill -15 -60 16 -13 -60 16 minecraft:quartz_block
+fill -12 -60 16 12 -60 16 minecraft:smooth_quartz
+fill 13 -60 16 15 -60 16 minecraft:quartz_block
+fill 16 -60 16 18 -60 16 minecraft:quartz_bricks
+fill 19 -60 16 43 -60 16 minecraft:smooth_quartz
+fill 44 -60 16 45 -60 16 minecraft:quartz_bricks
+fill 46 -60 16 60 -60 16 minecraft:smooth_quartz
+fill 61 -60 16 62 -60 16 minecraft:quartz_bricks
+fill -62 -60 17 -61 -60 17 minecraft:quartz_bricks
+fill -60 -60 17 -46 -60 17 minecraft:smooth_quartz
+fill -45 -60 17 -44 -60 17 minecraft:quartz_bricks
+fill -43 -60 17 -20 -60 17 minecraft:smooth_quartz
+fill -19 -60 17 -15 -60 17 minecraft:quartz_bricks
+fill -14 -60 17 -12 -60 17 minecraft:quartz_block
+fill -11 -60 17 11 -60 17 minecraft:smooth_quartz
+fill 12 -60 17 14 -60 17 minecraft:quartz_block
+fill 15 -60 17 19 -60 17 minecraft:quartz_bricks
+fill 20 -60 17 43 -60 17 minecraft:smooth_quartz
+fill 44 -60 17 45 -60 17 minecraft:quartz_bricks
+fill 46 -60 17 60 -60 17 minecraft:smooth_quartz
+fill 61 -60 17 62 -60 17 minecraft:quartz_bricks
+fill -61 -60 18 -60 -60 18 minecraft:quartz_bricks
+fill -59 -60 18 -46 -60 18 minecraft:smooth_quartz
+fill -45 -60 18 -43 -60 18 minecraft:quartz_bricks
+fill -42 -60 18 -21 -60 18 minecraft:smooth_quartz
+fill -20 -60 18 -16 -60 18 minecraft:quartz_bricks
+fill -15 -60 18 -14 -60 18 minecraft:smooth_quartz
+fill -13 -60 18 -10 -60 18 minecraft:quartz_block
+fill -9 -60 18 9 -60 18 minecraft:smooth_quartz
+fill 10 -60 18 13 -60 18 minecraft:quartz_block
+fill 14 -60 18 15 -60 18 minecraft:smooth_quartz
+fill 16 -60 18 20 -60 18 minecraft:quartz_bricks
+fill 21 -60 18 42 -60 18 minecraft:smooth_quartz
+fill 43 -60 18 45 -60 18 minecraft:quartz_bricks
+fill 46 -60 18 59 -60 18 minecraft:smooth_quartz
+fill 60 -60 18 61 -60 18 minecraft:quartz_bricks
+fill -61 -60 19 -60 -60 19 minecraft:quartz_bricks
+fill -59 -60 19 -45 -60 19 minecraft:smooth_quartz
+fill -44 -60 19 -43 -60 19 minecraft:quartz_bricks
+fill -42 -60 19 -22 -60 19 minecraft:smooth_quartz
+fill -21 -60 19 -17 -60 19 minecraft:quartz_bricks
+fill -16 -60 19 -13 -60 19 minecraft:smooth_quartz
+fill -12 -60 19 -8 -60 19 minecraft:quartz_block
+fill -7 -60 19 7 -60 19 minecraft:smooth_quartz
+fill 8 -60 19 12 -60 19 minecraft:quartz_block
+fill 13 -60 19 16 -60 19 minecraft:smooth_quartz
+fill 17 -60 19 21 -60 19 minecraft:quartz_bricks
+fill 22 -60 19 42 -60 19 minecraft:smooth_quartz
+fill 43 -60 19 44 -60 19 minecraft:quartz_bricks
+fill 45 -60 19 59 -60 19 minecraft:smooth_quartz
+fill 60 -60 19 61 -60 19 minecraft:quartz_bricks
+fill -61 -60 20 -60 -60 20 minecraft:quartz_bricks
+fill -59 -60 20 -45 -60 20 minecraft:smooth_quartz
+fill -44 -60 20 -42 -60 20 minecraft:quartz_bricks
+fill -41 -60 20 -23 -60 20 minecraft:smooth_quartz
+fill -22 -60 20 -18 -60 20 minecraft:quartz_bricks
+fill -17 -60 20 -11 -60 20 minecraft:smooth_quartz
+fill -10 -60 20 -5 -60 20 minecraft:quartz_block
+fill -4 -60 20 4 -60 20 minecraft:smooth_quartz
+fill 5 -60 20 10 -60 20 minecraft:quartz_block
+fill 11 -60 20 17 -60 20 minecraft:smooth_quartz
+fill 18 -60 20 22 -60 20 minecraft:quartz_bricks
+fill 23 -60 20 41 -60 20 minecraft:smooth_quartz
+fill 42 -60 20 44 -60 20 minecraft:quartz_bricks
+fill 45 -60 20 59 -60 20 minecraft:smooth_quartz
+fill 60 -60 20 61 -60 20 minecraft:quartz_bricks
+fill -60 -60 21 -59 -60 21 minecraft:quartz_bricks
+fill -58 -60 21 -44 -60 21 minecraft:smooth_quartz
+fill -43 -60 21 -42 -60 21 minecraft:quartz_bricks
+fill -41 -60 21 -24 -60 21 minecraft:smooth_quartz
+fill -23 -60 21 -19 -60 21 minecraft:quartz_bricks
+fill -18 -60 21 -9 -60 21 minecraft:smooth_quartz
+fill -8 -60 21 8 -60 21 minecraft:quartz_block
+fill 9 -60 21 18 -60 21 minecraft:smooth_quartz
+fill 19 -60 21 23 -60 21 minecraft:quartz_bricks
+fill 24 -60 21 41 -60 21 minecraft:smooth_quartz
+fill 42 -60 21 43 -60 21 minecraft:quartz_bricks
+fill 44 -60 21 58 -60 21 minecraft:smooth_quartz
+fill 59 -60 21 60 -60 21 minecraft:quartz_bricks
+fill -60 -60 22 -59 -60 22 minecraft:quartz_bricks
+fill -58 -60 22 -44 -60 22 minecraft:smooth_quartz
+fill -43 -60 22 -41 -60 22 minecraft:quartz_bricks
+fill -40 -60 22 -25 -60 22 minecraft:smooth_quartz
+fill -24 -60 22 -20 -60 22 minecraft:quartz_bricks
+fill -19 -60 22 -5 -60 22 minecraft:smooth_quartz
+fill -4 -60 22 4 -60 22 minecraft:quartz_block
+fill 5 -60 22 19 -60 22 minecraft:smooth_quartz
+fill 20 -60 22 24 -60 22 minecraft:quartz_bricks
+fill 25 -60 22 40 -60 22 minecraft:smooth_quartz
+fill 41 -60 22 43 -60 22 minecraft:quartz_bricks
+fill 44 -60 22 58 -60 22 minecraft:smooth_quartz
+fill 59 -60 22 60 -60 22 minecraft:quartz_bricks
+fill -60 -60 23 -59 -60 23 minecraft:quartz_bricks
+fill -58 -60 23 -43 -60 23 minecraft:smooth_quartz
+fill -42 -60 23 -41 -60 23 minecraft:quartz_bricks
+fill -40 -60 23 -26 -60 23 minecraft:smooth_quartz
+fill -25 -60 23 -21 -60 23 minecraft:quartz_bricks
+fill -20 -60 23 -2 -60 23 minecraft:smooth_quartz
+fill -1 -60 23 1 -60 23 minecraft:quartz_bricks
+fill 2 -60 23 20 -60 23 minecraft:smooth_quartz
+fill 21 -60 23 25 -60 23 minecraft:quartz_bricks
+fill 26 -60 23 40 -60 23 minecraft:smooth_quartz
+fill 41 -60 23 42 -60 23 minecraft:quartz_bricks
+fill 43 -60 23 58 -60 23 minecraft:smooth_quartz
+fill 59 -60 23 60 -60 23 minecraft:quartz_bricks
+fill -59 -60 24 -58 -60 24 minecraft:quartz_bricks
+fill -57 -60 24 -43 -60 24 minecraft:smooth_quartz
+fill -42 -60 24 -40 -60 24 minecraft:quartz_bricks
+fill -39 -60 24 -27 -60 24 minecraft:smooth_quartz
+fill -26 -60 24 -22 -60 24 minecraft:quartz_bricks
+fill -21 -60 24 -2 -60 24 minecraft:smooth_quartz
+fill -1 -60 24 1 -60 24 minecraft:quartz_bricks
+fill 2 -60 24 21 -60 24 minecraft:smooth_quartz
+fill 22 -60 24 26 -60 24 minecraft:quartz_bricks
+fill 27 -60 24 39 -60 24 minecraft:smooth_quartz
+fill 40 -60 24 42 -60 24 minecraft:quartz_bricks
+fill 43 -60 24 57 -60 24 minecraft:smooth_quartz
+fill 58 -60 24 59 -60 24 minecraft:quartz_bricks
+fill -59 -60 25 -58 -60 25 minecraft:quartz_bricks
+fill -57 -60 25 -42 -60 25 minecraft:smooth_quartz
+fill -41 -60 25 -40 -60 25 minecraft:quartz_bricks
+fill -39 -60 25 -28 -60 25 minecraft:smooth_quartz
+fill -27 -60 25 -23 -60 25 minecraft:quartz_bricks
+fill -22 -60 25 -2 -60 25 minecraft:smooth_quartz
+fill -1 -60 25 1 -60 25 minecraft:quartz_bricks
+fill 2 -60 25 22 -60 25 minecraft:smooth_quartz
+fill 23 -60 25 27 -60 25 minecraft:quartz_bricks
+fill 28 -60 25 39 -60 25 minecraft:smooth_quartz
+fill 40 -60 25 41 -60 25 minecraft:quartz_bricks
+fill 42 -60 25 57 -60 25 minecraft:smooth_quartz
+fill 58 -60 25 59 -60 25 minecraft:quartz_bricks
+fill -59 -60 26 -57 -60 26 minecraft:quartz_bricks
+fill -56 -60 26 -41 -60 26 minecraft:smooth_quartz
+fill -40 -60 26 -39 -60 26 minecraft:quartz_bricks
+fill -38 -60 26 -29 -60 26 minecraft:smooth_quartz
+fill -28 -60 26 -24 -60 26 minecraft:quartz_bricks
+fill -23 -60 26 -2 -60 26 minecraft:smooth_quartz
+fill -1 -60 26 1 -60 26 minecraft:quartz_bricks
+fill 2 -60 26 23 -60 26 minecraft:smooth_quartz
+fill 24 -60 26 28 -60 26 minecraft:quartz_bricks
+fill 29 -60 26 38 -60 26 minecraft:smooth_quartz
+fill 39 -60 26 40 -60 26 minecraft:quartz_bricks
+fill 41 -60 26 56 -60 26 minecraft:smooth_quartz
+fill 57 -60 26 59 -60 26 minecraft:quartz_bricks
+fill -58 -60 27 -57 -60 27 minecraft:quartz_bricks
+fill -56 -60 27 -41 -60 27 minecraft:smooth_quartz
+fill -40 -60 27 -38 -60 27 minecraft:quartz_bricks
+fill -37 -60 27 -30 -60 27 minecraft:smooth_quartz
+fill -29 -60 27 -25 -60 27 minecraft:quartz_bricks
+fill -24 -60 27 -2 -60 27 minecraft:smooth_quartz
+fill -1 -60 27 1 -60 27 minecraft:quartz_bricks
+fill 2 -60 27 24 -60 27 minecraft:smooth_quartz
+fill 25 -60 27 29 -60 27 minecraft:quartz_bricks
+fill 30 -60 27 37 -60 27 minecraft:smooth_quartz
+fill 38 -60 27 40 -60 27 minecraft:quartz_bricks
+fill 41 -60 27 56 -60 27 minecraft:smooth_quartz
+fill 57 -60 27 58 -60 27 minecraft:quartz_bricks
+fill -58 -60 28 -56 -60 28 minecraft:quartz_bricks
+fill -55 -60 28 -40 -60 28 minecraft:smooth_quartz
+fill -39 -60 28 -38 -60 28 minecraft:quartz_bricks
+fill -37 -60 28 -31 -60 28 minecraft:smooth_quartz
+fill -30 -60 28 -26 -60 28 minecraft:quartz_bricks
+fill -25 -60 28 -2 -60 28 minecraft:smooth_quartz
+fill -1 -60 28 1 -60 28 minecraft:quartz_bricks
+fill 2 -60 28 25 -60 28 minecraft:smooth_quartz
+fill 26 -60 28 30 -60 28 minecraft:quartz_bricks
+fill 31 -60 28 37 -60 28 minecraft:smooth_quartz
+fill 38 -60 28 39 -60 28 minecraft:quartz_bricks
+fill 40 -60 28 55 -60 28 minecraft:smooth_quartz
+fill 56 -60 28 58 -60 28 minecraft:quartz_bricks
+fill -57 -60 29 -56 -60 29 minecraft:quartz_bricks
+fill -55 -60 29 -39 -60 29 minecraft:smooth_quartz
+fill -38 -60 29 -37 -60 29 minecraft:quartz_bricks
+fill -36 -60 29 -32 -60 29 minecraft:smooth_quartz
+fill -31 -60 29 -27 -60 29 minecraft:quartz_bricks
+fill -26 -60 29 -2 -60 29 minecraft:smooth_quartz
+fill -1 -60 29 1 -60 29 minecraft:quartz_bricks
+fill 2 -60 29 26 -60 29 minecraft:smooth_quartz
+fill 27 -60 29 31 -60 29 minecraft:quartz_bricks
+fill 32 -60 29 36 -60 29 minecraft:smooth_quartz
+fill 37 -60 29 38 -60 29 minecraft:quartz_bricks
+fill 39 -60 29 55 -60 29 minecraft:smooth_quartz
+fill 56 -60 29 57 -60 29 minecraft:quartz_bricks
+fill -57 -60 30 -55 -60 30 minecraft:quartz_bricks
+fill -54 -60 30 -39 -60 30 minecraft:smooth_quartz
+fill -38 -60 30 -36 -60 30 minecraft:quartz_bricks
+fill -35 -60 30 -33 -60 30 minecraft:smooth_quartz
+fill -32 -60 30 -28 -60 30 minecraft:quartz_bricks
+fill -27 -60 30 -2 -60 30 minecraft:smooth_quartz
+fill -1 -60 30 1 -60 30 minecraft:quartz_bricks
+fill 2 -60 30 27 -60 30 minecraft:smooth_quartz
+fill 28 -60 30 32 -60 30 minecraft:quartz_bricks
+fill 33 -60 30 35 -60 30 minecraft:smooth_quartz
+fill 36 -60 30 38 -60 30 minecraft:quartz_bricks
+fill 39 -60 30 54 -60 30 minecraft:smooth_quartz
+fill 55 -60 30 57 -60 30 minecraft:quartz_bricks
+fill -56 -60 31 -55 -60 31 minecraft:quartz_bricks
+fill -54 -60 31 -38 -60 31 minecraft:smooth_quartz
+fill -37 -60 31 -35 -60 31 minecraft:quartz_bricks
+fill -34 -60 31 -34 -60 31 minecraft:smooth_quartz
+fill -33 -60 31 -29 -60 31 minecraft:quartz_bricks
+fill -28 -60 31 -2 -60 31 minecraft:smooth_quartz
+fill -1 -60 31 1 -60 31 minecraft:quartz_bricks
+fill 2 -60 31 28 -60 31 minecraft:smooth_quartz
+fill 29 -60 31 33 -60 31 minecraft:quartz_bricks
+fill 34 -60 31 34 -60 31 minecraft:smooth_quartz
+fill 35 -60 31 37 -60 31 minecraft:quartz_bricks
+fill 38 -60 31 54 -60 31 minecraft:smooth_quartz
+fill 55 -60 31 56 -60 31 minecraft:quartz_bricks
+fill -56 -60 32 -54 -60 32 minecraft:quartz_bricks
+fill -53 -60 32 -37 -60 32 minecraft:smooth_quartz
+fill -36 -60 32 -30 -60 32 minecraft:quartz_bricks
+fill -29 -60 32 -2 -60 32 minecraft:smooth_quartz
+fill -1 -60 32 1 -60 32 minecraft:quartz_bricks
+fill 2 -60 32 29 -60 32 minecraft:smooth_quartz
+fill 30 -60 32 36 -60 32 minecraft:quartz_bricks
+fill 37 -60 32 53 -60 32 minecraft:smooth_quartz
+fill 54 -60 32 56 -60 32 minecraft:quartz_bricks
+fill -55 -60 33 -54 -60 33 minecraft:quartz_bricks
+fill -53 -60 33 -36 -60 33 minecraft:smooth_quartz
+fill -35 -60 33 -31 -60 33 minecraft:quartz_bricks
+fill -30 -60 33 -2 -60 33 minecraft:smooth_quartz
+fill -1 -60 33 1 -60 33 minecraft:quartz_bricks
+fill 2 -60 33 30 -60 33 minecraft:smooth_quartz
+fill 31 -60 33 35 -60 33 minecraft:quartz_bricks
+fill 36 -60 33 53 -60 33 minecraft:smooth_quartz
+fill 54 -60 33 55 -60 33 minecraft:quartz_bricks
+fill -54 -60 34 -53 -60 34 minecraft:quartz_bricks
+fill -52 -60 34 -37 -60 34 minecraft:smooth_quartz
+fill -36 -60 34 -32 -60 34 minecraft:quartz_bricks
+fill -31 -60 34 -2 -60 34 minecraft:smooth_quartz
+fill -1 -60 34 1 -60 34 minecraft:quartz_bricks
+fill 2 -60 34 31 -60 34 minecraft:smooth_quartz
+fill 32 -60 34 36 -60 34 minecraft:quartz_bricks
+fill 37 -60 34 52 -60 34 minecraft:smooth_quartz
+fill 53 -60 34 54 -60 34 minecraft:quartz_bricks
+fill -54 -60 35 -52 -60 35 minecraft:quartz_bricks
+fill -51 -60 35 -38 -60 35 minecraft:smooth_quartz
+fill -37 -60 35 -31 -60 35 minecraft:quartz_bricks
+fill -30 -60 35 -2 -60 35 minecraft:smooth_quartz
+fill -1 -60 35 1 -60 35 minecraft:quartz_bricks
+fill 2 -60 35 30 -60 35 minecraft:smooth_quartz
+fill 31 -60 35 37 -60 35 minecraft:quartz_bricks
+fill 38 -60 35 51 -60 35 minecraft:smooth_quartz
+fill 52 -60 35 54 -60 35 minecraft:quartz_bricks
+fill -53 -60 36 -52 -60 36 minecraft:quartz_bricks
+fill -51 -60 36 -39 -60 36 minecraft:smooth_quartz
+fill -38 -60 36 -34 -60 36 minecraft:quartz_bricks
+fill -33 -60 36 -33 -60 36 minecraft:smooth_quartz
+fill -32 -60 36 -30 -60 36 minecraft:quartz_bricks
+fill -29 -60 36 -2 -60 36 minecraft:smooth_quartz
+fill -1 -60 36 1 -60 36 minecraft:quartz_bricks
+fill 2 -60 36 29 -60 36 minecraft:smooth_quartz
+fill 30 -60 36 32 -60 36 minecraft:quartz_bricks
+fill 33 -60 36 33 -60 36 minecraft:smooth_quartz
+fill 34 -60 36 38 -60 36 minecraft:quartz_bricks
+fill 39 -60 36 51 -60 36 minecraft:smooth_quartz
+fill 52 -60 36 53 -60 36 minecraft:quartz_bricks
+fill -52 -60 37 -51 -60 37 minecraft:quartz_bricks
+fill -50 -60 37 -40 -60 37 minecraft:smooth_quartz
+fill -39 -60 37 -35 -60 37 minecraft:quartz_bricks
+fill -34 -60 37 -32 -60 37 minecraft:smooth_quartz
+fill -31 -60 37 -29 -60 37 minecraft:quartz_bricks
+fill -28 -60 37 -2 -60 37 minecraft:smooth_quartz
+fill -1 -60 37 1 -60 37 minecraft:quartz_bricks
+fill 2 -60 37 28 -60 37 minecraft:smooth_quartz
+fill 29 -60 37 31 -60 37 minecraft:quartz_bricks
+fill 32 -60 37 34 -60 37 minecraft:smooth_quartz
+fill 35 -60 37 39 -60 37 minecraft:quartz_bricks
+fill 40 -60 37 50 -60 37 minecraft:smooth_quartz
+fill 51 -60 37 52 -60 37 minecraft:quartz_bricks
+fill -52 -60 38 -50 -60 38 minecraft:quartz_bricks
+fill -49 -60 38 -41 -60 38 minecraft:smooth_quartz
+fill -40 -60 38 -36 -60 38 minecraft:quartz_bricks
+fill -35 -60 38 -31 -60 38 minecraft:smooth_quartz
+fill -30 -60 38 -27 -60 38 minecraft:quartz_bricks
+fill -26 -60 38 -2 -60 38 minecraft:smooth_quartz
+fill -1 -60 38 1 -60 38 minecraft:quartz_bricks
+fill 2 -60 38 26 -60 38 minecraft:smooth_quartz
+fill 27 -60 38 30 -60 38 minecraft:quartz_bricks
+fill 31 -60 38 35 -60 38 minecraft:smooth_quartz
+fill 36 -60 38 40 -60 38 minecraft:quartz_bricks
+fill 41 -60 38 49 -60 38 minecraft:smooth_quartz
+fill 50 -60 38 52 -60 38 minecraft:quartz_bricks
+fill -51 -60 39 -49 -60 39 minecraft:quartz_bricks
+fill -48 -60 39 -42 -60 39 minecraft:smooth_quartz
+fill -41 -60 39 -37 -60 39 minecraft:quartz_bricks
+fill -36 -60 39 -29 -60 39 minecraft:smooth_quartz
+fill -28 -60 39 -26 -60 39 minecraft:quartz_bricks
+fill -25 -60 39 -2 -60 39 minecraft:smooth_quartz
+fill -1 -60 39 1 -60 39 minecraft:quartz_bricks
+fill 2 -60 39 25 -60 39 minecraft:smooth_quartz
+fill 26 -60 39 28 -60 39 minecraft:quartz_bricks
+fill 29 -60 39 36 -60 39 minecraft:smooth_quartz
+fill 37 -60 39 41 -60 39 minecraft:quartz_bricks
+fill 42 -60 39 48 -60 39 minecraft:smooth_quartz
+fill 49 -60 39 51 -60 39 minecraft:quartz_bricks
+fill -50 -60 40 -49 -60 40 minecraft:quartz_bricks
+fill -48 -60 40 -43 -60 40 minecraft:smooth_quartz
+fill -42 -60 40 -38 -60 40 minecraft:quartz_bricks
+fill -37 -60 40 -28 -60 40 minecraft:smooth_quartz
+fill -27 -60 40 -24 -60 40 minecraft:quartz_bricks
+fill -23 -60 40 -2 -60 40 minecraft:smooth_quartz
+fill -1 -60 40 1 -60 40 minecraft:quartz_bricks
+fill 2 -60 40 23 -60 40 minecraft:smooth_quartz
+fill 24 -60 40 27 -60 40 minecraft:quartz_bricks
+fill 28 -60 40 37 -60 40 minecraft:smooth_quartz
+fill 38 -60 40 42 -60 40 minecraft:quartz_bricks
+fill 43 -60 40 48 -60 40 minecraft:smooth_quartz
+fill 49 -60 40 50 -60 40 minecraft:quartz_bricks
+fill -49 -60 41 -48 -60 41 minecraft:quartz_bricks
+fill -47 -60 41 -44 -60 41 minecraft:smooth_quartz
+fill -43 -60 41 -39 -60 41 minecraft:quartz_bricks
+fill -38 -60 41 -26 -60 41 minecraft:smooth_quartz
+fill -25 -60 41 -22 -60 41 minecraft:quartz_bricks
+fill -21 -60 41 -2 -60 41 minecraft:smooth_quartz
+fill -1 -60 41 1 -60 41 minecraft:quartz_bricks
+fill 2 -60 41 21 -60 41 minecraft:smooth_quartz
+fill 22 -60 41 25 -60 41 minecraft:quartz_bricks
+fill 26 -60 41 38 -60 41 minecraft:smooth_quartz
+fill 39 -60 41 43 -60 41 minecraft:quartz_bricks
+fill 44 -60 41 47 -60 41 minecraft:smooth_quartz
+fill 48 -60 41 49 -60 41 minecraft:quartz_bricks
+fill -48 -60 42 -47 -60 42 minecraft:quartz_bricks
+fill -46 -60 42 -45 -60 42 minecraft:smooth_quartz
+fill -44 -60 42 -40 -60 42 minecraft:quartz_bricks
+fill -39 -60 42 -25 -60 42 minecraft:smooth_quartz
+fill -24 -60 42 -20 -60 42 minecraft:quartz_bricks
+fill -19 -60 42 -2 -60 42 minecraft:smooth_quartz
+fill -1 -60 42 1 -60 42 minecraft:quartz_bricks
+fill 2 -60 42 19 -60 42 minecraft:smooth_quartz
+fill 20 -60 42 24 -60 42 minecraft:quartz_bricks
+fill 25 -60 42 39 -60 42 minecraft:smooth_quartz
+fill 40 -60 42 44 -60 42 minecraft:quartz_bricks
+fill 45 -60 42 46 -60 42 minecraft:smooth_quartz
+fill 47 -60 42 48 -60 42 minecraft:quartz_bricks
+fill -48 -60 43 -41 -60 43 minecraft:quartz_bricks
+fill -40 -60 43 -23 -60 43 minecraft:smooth_quartz
+fill -22 -60 43 -18 -60 43 minecraft:quartz_bricks
+fill -17 -60 43 -2 -60 43 minecraft:smooth_quartz
+fill -1 -60 43 1 -60 43 minecraft:quartz_bricks
+fill 2 -60 43 17 -60 43 minecraft:smooth_quartz
+fill 18 -60 43 22 -60 43 minecraft:quartz_bricks
+fill 23 -60 43 40 -60 43 minecraft:smooth_quartz
+fill 41 -60 43 48 -60 43 minecraft:quartz_bricks
+fill -47 -60 44 -42 -60 44 minecraft:quartz_bricks
+fill -41 -60 44 -21 -60 44 minecraft:smooth_quartz
+fill -20 -60 44 -16 -60 44 minecraft:quartz_bricks
+fill -15 -60 44 -2 -60 44 minecraft:smooth_quartz
+fill -1 -60 44 1 -60 44 minecraft:quartz_bricks
+fill 2 -60 44 15 -60 44 minecraft:smooth_quartz
+fill 16 -60 44 20 -60 44 minecraft:quartz_bricks
+fill 21 -60 44 41 -60 44 minecraft:smooth_quartz
+fill 42 -60 44 47 -60 44 minecraft:quartz_bricks
+fill -46 -60 45 -43 -60 45 minecraft:quartz_bricks
+fill -42 -60 45 -19 -60 45 minecraft:smooth_quartz
+fill -18 -60 45 -12 -60 45 minecraft:quartz_bricks
+fill -11 -60 45 -2 -60 45 minecraft:smooth_quartz
+fill -1 -60 45 1 -60 45 minecraft:quartz_bricks
+fill 2 -60 45 11 -60 45 minecraft:smooth_quartz
+fill 12 -60 45 18 -60 45 minecraft:quartz_bricks
+fill 19 -60 45 42 -60 45 minecraft:smooth_quartz
+fill 43 -60 45 46 -60 45 minecraft:quartz_bricks
+fill -45 -60 46 -43 -60 46 minecraft:quartz_bricks
+fill -42 -60 46 -16 -60 46 minecraft:smooth_quartz
+fill -15 -60 46 -7 -60 46 minecraft:quartz_bricks
+fill -6 -60 46 -2 -60 46 minecraft:smooth_quartz
+fill -1 -60 46 1 -60 46 minecraft:quartz_bricks
+fill 2 -60 46 6 -60 46 minecraft:smooth_quartz
+fill 7 -60 46 15 -60 46 minecraft:quartz_bricks
+fill 16 -60 46 42 -60 46 minecraft:smooth_quartz
+fill 43 -60 46 45 -60 46 minecraft:quartz_bricks
+fill -44 -60 47 -42 -60 47 minecraft:quartz_bricks
+fill -41 -60 47 -12 -60 47 minecraft:smooth_quartz
+fill -11 -60 47 11 -60 47 minecraft:quartz_bricks
+fill 12 -60 47 41 -60 47 minecraft:smooth_quartz
+fill 42 -60 47 44 -60 47 minecraft:quartz_bricks
+fill -43 -60 48 -41 -60 48 minecraft:quartz_bricks
+fill -40 -60 48 -7 -60 48 minecraft:smooth_quartz
+fill -6 -60 48 6 -60 48 minecraft:quartz_bricks
+fill 7 -60 48 40 -60 48 minecraft:smooth_quartz
+fill 41 -60 48 43 -60 48 minecraft:quartz_bricks
+fill -41 -60 49 -39 -60 49 minecraft:quartz_bricks
+fill -38 -60 49 -2 -60 49 minecraft:smooth_quartz
+fill -1 -60 49 1 -60 49 minecraft:quartz_bricks
+fill 2 -60 49 38 -60 49 minecraft:smooth_quartz
+fill 39 -60 49 41 -60 49 minecraft:quartz_bricks
+fill -40 -60 50 -38 -60 50 minecraft:quartz_bricks
+fill -37 -60 50 -2 -60 50 minecraft:smooth_quartz
+fill -1 -60 50 1 -60 50 minecraft:quartz_bricks
+fill 2 -60 50 37 -60 50 minecraft:smooth_quartz
+fill 38 -60 50 40 -60 50 minecraft:quartz_bricks
+fill -39 -60 51 -37 -60 51 minecraft:quartz_bricks
+fill -36 -60 51 -2 -60 51 minecraft:smooth_quartz
+fill -1 -60 51 1 -60 51 minecraft:quartz_bricks
+fill 2 -60 51 36 -60 51 minecraft:smooth_quartz
+fill 37 -60 51 39 -60 51 minecraft:quartz_bricks
+fill -38 -60 52 -35 -60 52 minecraft:quartz_bricks
+fill -34 -60 52 -2 -60 52 minecraft:smooth_quartz
+fill -1 -60 52 1 -60 52 minecraft:quartz_bricks
+fill 2 -60 52 34 -60 52 minecraft:smooth_quartz
+fill 35 -60 52 38 -60 52 minecraft:quartz_bricks
+fill -36 -60 53 -34 -60 53 minecraft:quartz_bricks
+fill -33 -60 53 -2 -60 53 minecraft:smooth_quartz
+fill -1 -60 53 1 -60 53 minecraft:quartz_bricks
+fill 2 -60 53 33 -60 53 minecraft:smooth_quartz
+fill 34 -60 53 36 -60 53 minecraft:quartz_bricks
+fill -35 -60 54 -32 -60 54 minecraft:quartz_bricks
+fill -31 -60 54 -2 -60 54 minecraft:smooth_quartz
+fill -1 -60 54 1 -60 54 minecraft:quartz_bricks
+fill 2 -60 54 31 -60 54 minecraft:smooth_quartz
+fill 32 -60 54 35 -60 54 minecraft:quartz_bricks
+fill -33 -60 55 -30 -60 55 minecraft:quartz_bricks
+fill -29 -60 55 -2 -60 55 minecraft:smooth_quartz
+fill -1 -60 55 1 -60 55 minecraft:quartz_bricks
+fill 2 -60 55 29 -60 55 minecraft:smooth_quartz
+fill 30 -60 55 33 -60 55 minecraft:quartz_bricks
+fill -32 -60 56 -28 -60 56 minecraft:quartz_bricks
+fill -27 -60 56 -2 -60 56 minecraft:smooth_quartz
+fill -1 -60 56 1 -60 56 minecraft:quartz_bricks
+fill 2 -60 56 27 -60 56 minecraft:smooth_quartz
+fill 28 -60 56 32 -60 56 minecraft:quartz_bricks
+fill -30 -60 57 -26 -60 57 minecraft:quartz_bricks
+fill -25 -60 57 -2 -60 57 minecraft:smooth_quartz
+fill -1 -60 57 1 -60 57 minecraft:quartz_bricks
+fill 2 -60 57 25 -60 57 minecraft:smooth_quartz
+fill 26 -60 57 30 -60 57 minecraft:quartz_bricks
+fill -28 -60 58 -24 -60 58 minecraft:quartz_bricks
+fill -23 -60 58 -2 -60 58 minecraft:smooth_quartz
+fill -1 -60 58 1 -60 58 minecraft:quartz_bricks
+fill 2 -60 58 23 -60 58 minecraft:smooth_quartz
+fill 24 -60 58 28 -60 58 minecraft:quartz_bricks
+fill -26 -60 59 -21 -60 59 minecraft:quartz_bricks
+fill -20 -60 59 -2 -60 59 minecraft:smooth_quartz
+fill -1 -60 59 1 -60 59 minecraft:quartz_bricks
+fill 2 -60 59 20 -60 59 minecraft:smooth_quartz
+fill 21 -60 59 26 -60 59 minecraft:quartz_bricks
+fill -23 -60 60 -18 -60 60 minecraft:quartz_bricks
+fill -17 -60 60 -2 -60 60 minecraft:smooth_quartz
+fill -1 -60 60 1 -60 60 minecraft:quartz_bricks
+fill 2 -60 60 17 -60 60 minecraft:smooth_quartz
+fill 18 -60 60 23 -60 60 minecraft:quartz_bricks
+fill -20 -60 61 -14 -60 61 minecraft:quartz_bricks
+fill -13 -60 61 -2 -60 61 minecraft:smooth_quartz
+fill -1 -60 61 1 -60 61 minecraft:quartz_bricks
+fill 2 -60 61 13 -60 61 minecraft:smooth_quartz
+fill 14 -60 61 20 -60 61 minecraft:quartz_bricks
+fill -17 -60 62 -8 -60 62 minecraft:quartz_bricks
+fill -7 -60 62 -2 -60 62 minecraft:smooth_quartz
+fill -1 -60 62 1 -60 62 minecraft:quartz_bricks
+fill 2 -60 62 7 -60 62 minecraft:smooth_quartz
+fill 8 -60 62 17 -60 62 minecraft:quartz_bricks
+fill -13 -60 63 13 -60 63 minecraft:quartz_bricks
+fill -8 -60 64 8 -60 64 minecraft:quartz_bricks
+setblock -16 -60 -16 minecraft:quartz_bricks
+setblock -15 -60 -16 minecraft:quartz_bricks
+setblock -14 -60 -16 minecraft:quartz_bricks
+setblock -13 -60 -16 minecraft:quartz_bricks
+setblock -12 -60 -16 minecraft:quartz_bricks
+setblock -11 -60 -16 minecraft:quartz_bricks
+setblock -10 -60 -16 minecraft:quartz_bricks
+setblock -9 -60 -16 minecraft:quartz_bricks
+setblock -8 -60 -16 minecraft:quartz_bricks
+setblock -7 -60 -16 minecraft:quartz_bricks
+setblock -6 -60 -16 minecraft:quartz_bricks
+setblock -5 -60 -16 minecraft:quartz_bricks
+setblock -4 -60 -16 minecraft:quartz_bricks
+setblock -3 -60 -16 minecraft:quartz_bricks
+setblock -2 -60 -16 minecraft:quartz_bricks
+setblock -1 -60 -16 minecraft:quartz_bricks
+setblock 0 -60 -16 minecraft:quartz_bricks
+setblock 1 -60 -16 minecraft:quartz_bricks
+setblock 2 -60 -16 minecraft:quartz_bricks
+setblock 3 -60 -16 minecraft:quartz_bricks
+setblock 4 -60 -16 minecraft:quartz_bricks
+setblock 5 -60 -16 minecraft:quartz_bricks
+setblock 6 -60 -16 minecraft:quartz_bricks
+setblock 7 -60 -16 minecraft:quartz_bricks
+setblock 8 -60 -16 minecraft:quartz_bricks
+setblock 9 -60 -16 minecraft:quartz_bricks
+setblock 10 -60 -16 minecraft:quartz_bricks
+setblock 11 -60 -16 minecraft:quartz_bricks
+setblock 12 -60 -16 minecraft:quartz_bricks
+setblock 13 -60 -16 minecraft:quartz_bricks
+setblock 14 -60 -16 minecraft:quartz_bricks
+setblock 15 -60 -16 minecraft:quartz_bricks
+setblock 16 -60 -16 minecraft:quartz_bricks
+setblock -16 -60 16 minecraft:quartz_bricks
+setblock -15 -60 16 minecraft:quartz_bricks
+setblock -14 -60 16 minecraft:quartz_bricks
+setblock -13 -60 16 minecraft:quartz_bricks
+setblock -12 -60 16 minecraft:quartz_bricks
+setblock -11 -60 16 minecraft:quartz_bricks
+setblock -10 -60 16 minecraft:quartz_bricks
+setblock -9 -60 16 minecraft:quartz_bricks
+setblock -8 -60 16 minecraft:quartz_bricks
+setblock -7 -60 16 minecraft:quartz_bricks
+setblock -6 -60 16 minecraft:quartz_bricks
+setblock -5 -60 16 minecraft:quartz_bricks
+setblock -4 -60 16 minecraft:quartz_bricks
+setblock -3 -60 16 minecraft:quartz_bricks
+setblock -2 -60 16 minecraft:quartz_bricks
+setblock -1 -60 16 minecraft:quartz_bricks
+setblock 0 -60 16 minecraft:quartz_bricks
+setblock 1 -60 16 minecraft:quartz_bricks
+setblock 2 -60 16 minecraft:quartz_bricks
+setblock 3 -60 16 minecraft:quartz_bricks
+setblock 4 -60 16 minecraft:quartz_bricks
+setblock 5 -60 16 minecraft:quartz_bricks
+setblock 6 -60 16 minecraft:quartz_bricks
+setblock 7 -60 16 minecraft:quartz_bricks
+setblock 8 -60 16 minecraft:quartz_bricks
+setblock 9 -60 16 minecraft:quartz_bricks
+setblock 10 -60 16 minecraft:quartz_bricks
+setblock 11 -60 16 minecraft:quartz_bricks
+setblock 12 -60 16 minecraft:quartz_bricks
+setblock 13 -60 16 minecraft:quartz_bricks
+setblock 14 -60 16 minecraft:quartz_bricks
+setblock 15 -60 16 minecraft:quartz_bricks
+setblock 16 -60 16 minecraft:quartz_bricks
+setblock -16 -60 -16 minecraft:quartz_bricks
+setblock -16 -60 -15 minecraft:quartz_bricks
+setblock -16 -60 -14 minecraft:quartz_bricks
+setblock -16 -60 -13 minecraft:quartz_bricks
+setblock -16 -60 -12 minecraft:quartz_bricks
+setblock -16 -60 -11 minecraft:quartz_bricks
+setblock -16 -60 -10 minecraft:quartz_bricks
+setblock -16 -60 -9 minecraft:quartz_bricks
+setblock -16 -60 -8 minecraft:quartz_bricks
+setblock -16 -60 -7 minecraft:quartz_bricks
+setblock -16 -60 -6 minecraft:quartz_bricks
+setblock -16 -60 -5 minecraft:quartz_bricks
+setblock -16 -60 -4 minecraft:quartz_bricks
+setblock -16 -60 -3 minecraft:quartz_bricks
+setblock -16 -60 -2 minecraft:quartz_bricks
+setblock -16 -60 -1 minecraft:quartz_bricks
+setblock -16 -60 0 minecraft:quartz_bricks
+setblock -16 -60 1 minecraft:quartz_bricks
+setblock -16 -60 2 minecraft:quartz_bricks
+setblock -16 -60 3 minecraft:quartz_bricks
+setblock -16 -60 4 minecraft:quartz_bricks
+setblock -16 -60 5 minecraft:quartz_bricks
+setblock -16 -60 6 minecraft:quartz_bricks
+setblock -16 -60 7 minecraft:quartz_bricks
+setblock -16 -60 8 minecraft:quartz_bricks
+setblock -16 -60 9 minecraft:quartz_bricks
+setblock -16 -60 10 minecraft:quartz_bricks
+setblock -16 -60 11 minecraft:quartz_bricks
+setblock -16 -60 12 minecraft:quartz_bricks
+setblock -16 -60 13 minecraft:quartz_bricks
+setblock -16 -60 14 minecraft:quartz_bricks
+setblock -16 -60 15 minecraft:quartz_bricks
+setblock -16 -60 16 minecraft:quartz_bricks
+setblock 16 -60 -16 minecraft:quartz_bricks
+setblock 16 -60 -15 minecraft:quartz_bricks
+setblock 16 -60 -14 minecraft:quartz_bricks
+setblock 16 -60 -13 minecraft:quartz_bricks
+setblock 16 -60 -12 minecraft:quartz_bricks
+setblock 16 -60 -11 minecraft:quartz_bricks
+setblock 16 -60 -10 minecraft:quartz_bricks
+setblock 16 -60 -9 minecraft:quartz_bricks
+setblock 16 -60 -8 minecraft:quartz_bricks
+setblock 16 -60 -7 minecraft:quartz_bricks
+setblock 16 -60 -6 minecraft:quartz_bricks
+setblock 16 -60 -5 minecraft:quartz_bricks
+setblock 16 -60 -4 minecraft:quartz_bricks
+setblock 16 -60 -3 minecraft:quartz_bricks
+setblock 16 -60 -2 minecraft:quartz_bricks
+setblock 16 -60 -1 minecraft:quartz_bricks
+setblock 16 -60 0 minecraft:quartz_bricks
+setblock 16 -60 1 minecraft:quartz_bricks
+setblock 16 -60 2 minecraft:quartz_bricks
+setblock 16 -60 3 minecraft:quartz_bricks
+setblock 16 -60 4 minecraft:quartz_bricks
+setblock 16 -60 5 minecraft:quartz_bricks
+setblock 16 -60 6 minecraft:quartz_bricks
+setblock 16 -60 7 minecraft:quartz_bricks
+setblock 16 -60 8 minecraft:quartz_bricks
+setblock 16 -60 9 minecraft:quartz_bricks
+setblock 16 -60 10 minecraft:quartz_bricks
+setblock 16 -60 11 minecraft:quartz_bricks
+setblock 16 -60 12 minecraft:quartz_bricks
+setblock 16 -60 13 minecraft:quartz_bricks
+setblock 16 -60 14 minecraft:quartz_bricks
+setblock 16 -60 15 minecraft:quartz_bricks
+setblock 16 -60 16 minecraft:quartz_bricks
+setblock -7 -60 -7 minecraft:quartz_bricks
+setblock -6 -60 -7 minecraft:quartz_bricks
+setblock -5 -60 -7 minecraft:quartz_bricks
+setblock -4 -60 -7 minecraft:quartz_bricks
+setblock -3 -60 -7 minecraft:quartz_bricks
+setblock -2 -60 -7 minecraft:quartz_bricks
+setblock -1 -60 -7 minecraft:quartz_bricks
+setblock 0 -60 -7 minecraft:quartz_bricks
+setblock 1 -60 -7 minecraft:quartz_bricks
+setblock 2 -60 -7 minecraft:quartz_bricks
+setblock 3 -60 -7 minecraft:quartz_bricks
+setblock 4 -60 -7 minecraft:quartz_bricks
+setblock 5 -60 -7 minecraft:quartz_bricks
+setblock 6 -60 -7 minecraft:quartz_bricks
+setblock 7 -60 -7 minecraft:quartz_bricks
+setblock -7 -60 7 minecraft:quartz_bricks
+setblock -6 -60 7 minecraft:quartz_bricks
+setblock -5 -60 7 minecraft:quartz_bricks
+setblock -4 -60 7 minecraft:quartz_bricks
+setblock -3 -60 7 minecraft:quartz_bricks
+setblock -2 -60 7 minecraft:quartz_bricks
+setblock -1 -60 7 minecraft:quartz_bricks
+setblock 0 -60 7 minecraft:quartz_bricks
+setblock 1 -60 7 minecraft:quartz_bricks
+setblock 2 -60 7 minecraft:quartz_bricks
+setblock 3 -60 7 minecraft:quartz_bricks
+setblock 4 -60 7 minecraft:quartz_bricks
+setblock 5 -60 7 minecraft:quartz_bricks
+setblock 6 -60 7 minecraft:quartz_bricks
+setblock 7 -60 7 minecraft:quartz_bricks
+setblock -7 -60 -7 minecraft:quartz_bricks
+setblock -7 -60 -6 minecraft:quartz_bricks
+setblock -7 -60 -5 minecraft:quartz_bricks
+setblock -7 -60 -4 minecraft:quartz_bricks
+setblock -7 -60 -3 minecraft:quartz_bricks
+setblock -7 -60 -2 minecraft:quartz_bricks
+setblock -7 -60 -1 minecraft:quartz_bricks
+setblock -7 -60 0 minecraft:quartz_bricks
+setblock -7 -60 1 minecraft:quartz_bricks
+setblock -7 -60 2 minecraft:quartz_bricks
+setblock -7 -60 3 minecraft:quartz_bricks
+setblock -7 -60 4 minecraft:quartz_bricks
+setblock -7 -60 5 minecraft:quartz_bricks
+setblock -7 -60 6 minecraft:quartz_bricks
+setblock -7 -60 7 minecraft:quartz_bricks
+setblock 7 -60 -7 minecraft:quartz_bricks
+setblock 7 -60 -6 minecraft:quartz_bricks
+setblock 7 -60 -5 minecraft:quartz_bricks
+setblock 7 -60 -4 minecraft:quartz_bricks
+setblock 7 -60 -3 minecraft:quartz_bricks
+setblock 7 -60 -2 minecraft:quartz_bricks
+setblock 7 -60 -1 minecraft:quartz_bricks
+setblock 7 -60 0 minecraft:quartz_bricks
+setblock 7 -60 1 minecraft:quartz_bricks
+setblock 7 -60 2 minecraft:quartz_bricks
+setblock 7 -60 3 minecraft:quartz_bricks
+setblock 7 -60 4 minecraft:quartz_bricks
+setblock 7 -60 5 minecraft:quartz_bricks
+setblock 7 -60 6 minecraft:quartz_bricks
+setblock 7 -60 7 minecraft:quartz_bricks
+setblock 16 -60 16 minecraft:quartz_bricks
+setblock 15 -60 15 minecraft:quartz_bricks
+setblock 14 -60 14 minecraft:quartz_bricks
+setblock 13 -60 13 minecraft:quartz_bricks
+setblock 12 -60 12 minecraft:quartz_bricks
+setblock 11 -60 11 minecraft:quartz_bricks
+setblock 10 -60 10 minecraft:quartz_bricks
+setblock 9 -60 9 minecraft:quartz_bricks
+setblock 8 -60 8 minecraft:quartz_bricks
+setblock 7 -60 7 minecraft:quartz_bricks
+setblock 16 -60 16 minecraft:sea_lantern
+setblock 7 -60 7 minecraft:sea_lantern
+setblock 16 -60 -16 minecraft:quartz_bricks
+setblock 15 -60 -15 minecraft:quartz_bricks
+setblock 14 -60 -14 minecraft:quartz_bricks
+setblock 13 -60 -13 minecraft:quartz_bricks
+setblock 12 -60 -12 minecraft:quartz_bricks
+setblock 11 -60 -11 minecraft:quartz_bricks
+setblock 10 -60 -10 minecraft:quartz_bricks
+setblock 9 -60 -9 minecraft:quartz_bricks
+setblock 8 -60 -8 minecraft:quartz_bricks
+setblock 7 -60 -7 minecraft:quartz_bricks
+setblock 16 -60 -16 minecraft:sea_lantern
+setblock 7 -60 -7 minecraft:sea_lantern
+setblock -16 -60 16 minecraft:quartz_bricks
+setblock -15 -60 15 minecraft:quartz_bricks
+setblock -14 -60 14 minecraft:quartz_bricks
+setblock -13 -60 13 minecraft:quartz_bricks
+setblock -12 -60 12 minecraft:quartz_bricks
+setblock -11 -60 11 minecraft:quartz_bricks
+setblock -10 -60 10 minecraft:quartz_bricks
+setblock -9 -60 9 minecraft:quartz_bricks
+setblock -8 -60 8 minecraft:quartz_bricks
+setblock -7 -60 7 minecraft:quartz_bricks
+setblock -16 -60 16 minecraft:sea_lantern
+setblock -7 -60 7 minecraft:sea_lantern
+setblock -16 -60 -16 minecraft:quartz_bricks
+setblock -15 -60 -15 minecraft:quartz_bricks
+setblock -14 -60 -14 minecraft:quartz_bricks
+setblock -13 -60 -13 minecraft:quartz_bricks
+setblock -12 -60 -12 minecraft:quartz_bricks
+setblock -11 -60 -11 minecraft:quartz_bricks
+setblock -10 -60 -10 minecraft:quartz_bricks
+setblock -9 -60 -9 minecraft:quartz_bricks
+setblock -8 -60 -8 minecraft:quartz_bricks
+setblock -7 -60 -7 minecraft:quartz_bricks
+setblock -16 -60 -16 minecraft:sea_lantern
+setblock -7 -60 -7 minecraft:sea_lantern
+setblock 28 -60 0 minecraft:sea_lantern
+setblock 36 -60 0 minecraft:sea_lantern
+setblock 44 -60 0 minecraft:sea_lantern
+setblock 52 -60 0 minecraft:sea_lantern
+setblock 60 -60 0 minecraft:sea_lantern
+setblock 20 -60 20 minecraft:sea_lantern
+setblock 25 -60 25 minecraft:sea_lantern
+setblock 31 -60 31 minecraft:sea_lantern
+setblock 37 -60 37 minecraft:sea_lantern
+setblock 42 -60 42 minecraft:sea_lantern
+setblock 0 -60 28 minecraft:sea_lantern
+setblock 0 -60 36 minecraft:sea_lantern
+setblock 0 -60 44 minecraft:sea_lantern
+setblock 0 -60 52 minecraft:sea_lantern
+setblock 0 -60 60 minecraft:sea_lantern
+setblock -20 -60 20 minecraft:sea_lantern
+setblock -25 -60 25 minecraft:sea_lantern
+setblock -31 -60 31 minecraft:sea_lantern
+setblock -37 -60 37 minecraft:sea_lantern
+setblock -42 -60 42 minecraft:sea_lantern
+setblock -28 -60 0 minecraft:sea_lantern
+setblock -36 -60 0 minecraft:sea_lantern
+setblock -44 -60 0 minecraft:sea_lantern
+setblock -52 -60 0 minecraft:sea_lantern
+setblock -60 -60 0 minecraft:sea_lantern
+setblock -20 -60 -20 minecraft:sea_lantern
+setblock -25 -60 -25 minecraft:sea_lantern
+setblock -31 -60 -31 minecraft:sea_lantern
+setblock -37 -60 -37 minecraft:sea_lantern
+setblock -42 -60 -42 minecraft:sea_lantern
+setblock 0 -60 -28 minecraft:sea_lantern
+setblock 0 -60 -36 minecraft:sea_lantern
+setblock 0 -60 -44 minecraft:sea_lantern
+setblock 0 -60 -52 minecraft:sea_lantern
+setblock 0 -60 -60 minecraft:sea_lantern
+setblock 20 -60 -20 minecraft:sea_lantern
+setblock 25 -60 -25 minecraft:sea_lantern
+setblock 31 -60 -31 minecraft:sea_lantern
+setblock 37 -60 -37 minecraft:sea_lantern
+setblock 42 -60 -42 minecraft:sea_lantern
+setblock 63 -60 0 minecraft:sea_lantern
+setblock 62 -60 11 minecraft:sea_lantern
+setblock 59 -60 22 minecraft:sea_lantern
+setblock 55 -60 32 minecraft:sea_lantern
+setblock 48 -60 41 minecraft:sea_lantern
+setblock 41 -60 48 minecraft:sea_lantern
+setblock 32 -60 55 minecraft:sea_lantern
+setblock 22 -60 59 minecraft:sea_lantern
+setblock 11 -60 62 minecraft:sea_lantern
+setblock 0 -60 63 minecraft:sea_lantern
+setblock -11 -60 62 minecraft:sea_lantern
+setblock -22 -60 59 minecraft:sea_lantern
+setblock -32 -60 55 minecraft:sea_lantern
+setblock -41 -60 48 minecraft:sea_lantern
+setblock -48 -60 41 minecraft:sea_lantern
+setblock -55 -60 32 minecraft:sea_lantern
+setblock -59 -60 22 minecraft:sea_lantern
+setblock -62 -60 11 minecraft:sea_lantern
+setblock -63 -60 0 minecraft:sea_lantern
+setblock -62 -60 -11 minecraft:sea_lantern
+setblock -59 -60 -22 minecraft:sea_lantern
+setblock -55 -60 -32 minecraft:sea_lantern
+setblock -48 -60 -41 minecraft:sea_lantern
+setblock -41 -60 -48 minecraft:sea_lantern
+setblock -32 -60 -55 minecraft:sea_lantern
+setblock -22 -60 -59 minecraft:sea_lantern
+setblock -11 -60 -62 minecraft:sea_lantern
+setblock 0 -60 -63 minecraft:sea_lantern
+setblock 11 -60 -62 minecraft:sea_lantern
+setblock 22 -60 -59 minecraft:sea_lantern
+setblock 32 -60 -55 minecraft:sea_lantern
+setblock 41 -60 -48 minecraft:sea_lantern
+setblock 48 -60 -41 minecraft:sea_lantern
+setblock 55 -60 -32 minecraft:sea_lantern
+setblock 59 -60 -22 minecraft:sea_lantern
+setblock 62 -60 -11 minecraft:sea_lantern
+setblock -63 -59 -11 minecraft:smooth_quartz_slab
+setblock -63 -59 -10 minecraft:smooth_quartz_slab
+setblock -63 -59 -9 minecraft:smooth_quartz_slab
+setblock -63 -59 -8 minecraft:smooth_quartz_slab
+setblock -63 -59 -7 minecraft:smooth_quartz_slab
+setblock -63 -59 -6 minecraft:smooth_quartz_slab
+setblock -63 -59 -5 minecraft:smooth_quartz_slab
+setblock -63 -59 -4 minecraft:smooth_quartz_slab
+setblock -63 -59 -3 minecraft:smooth_quartz_slab
+setblock -63 -59 3 minecraft:smooth_quartz_slab
+setblock -63 -59 4 minecraft:smooth_quartz_slab
+setblock -63 -59 5 minecraft:smooth_quartz_slab
+setblock -63 -59 6 minecraft:smooth_quartz_slab
+setblock -63 -59 7 minecraft:smooth_quartz_slab
+setblock -63 -59 8 minecraft:smooth_quartz_slab
+setblock -63 -59 9 minecraft:smooth_quartz_slab
+setblock -63 -59 10 minecraft:smooth_quartz_slab
+setblock -63 -59 11 minecraft:smooth_quartz_slab
+setblock -62 -59 -15 minecraft:smooth_quartz_slab
+setblock -62 -59 -14 minecraft:smooth_quartz_slab
+setblock -62 -59 -13 minecraft:smooth_quartz_slab
+setblock -62 -59 -12 minecraft:smooth_quartz_slab
+setblock -62 -59 12 minecraft:smooth_quartz_slab
+setblock -62 -59 13 minecraft:smooth_quartz_slab
+setblock -62 -59 14 minecraft:smooth_quartz_slab
+setblock -62 -59 15 minecraft:smooth_quartz_slab
+setblock -61 -59 -19 minecraft:smooth_quartz_slab
+setblock -61 -59 -18 minecraft:smooth_quartz_slab
+setblock -61 -59 -17 minecraft:smooth_quartz_slab
+setblock -61 -59 -16 minecraft:smooth_quartz_slab
+setblock -61 -59 16 minecraft:smooth_quartz_slab
+setblock -61 -59 17 minecraft:smooth_quartz_slab
+setblock -61 -59 18 minecraft:smooth_quartz_slab
+setblock -61 -59 19 minecraft:smooth_quartz_slab
+setblock -60 -59 -22 minecraft:smooth_quartz_slab
+setblock -60 -59 -21 minecraft:smooth_quartz_slab
+setblock -60 -59 -20 minecraft:smooth_quartz_slab
+setblock -60 -59 20 minecraft:smooth_quartz_slab
+setblock -60 -59 21 minecraft:smooth_quartz_slab
+setblock -60 -59 22 minecraft:smooth_quartz_slab
+setblock -59 -59 -24 minecraft:smooth_quartz_slab
+setblock -59 -59 -23 minecraft:smooth_quartz_slab
+setblock -59 -59 23 minecraft:smooth_quartz_slab
+setblock -59 -59 24 minecraft:smooth_quartz_slab
+setblock -58 -59 -27 minecraft:smooth_quartz_slab
+setblock -58 -59 -26 minecraft:smooth_quartz_slab
+setblock -58 -59 -25 minecraft:smooth_quartz_slab
+setblock -58 -59 25 minecraft:smooth_quartz_slab
+setblock -58 -59 26 minecraft:smooth_quartz_slab
+setblock -58 -59 27 minecraft:smooth_quartz_slab
+setblock -57 -59 -29 minecraft:smooth_quartz_slab
+setblock -57 -59 -28 minecraft:smooth_quartz_slab
+setblock -57 -59 -27 minecraft:smooth_quartz_slab
+setblock -57 -59 27 minecraft:smooth_quartz_slab
+setblock -57 -59 28 minecraft:smooth_quartz_slab
+setblock -57 -59 29 minecraft:smooth_quartz_slab
+setblock -56 -59 -30 minecraft:smooth_quartz_slab
+setblock -56 -59 -29 minecraft:smooth_quartz_slab
+setblock -56 -59 29 minecraft:smooth_quartz_slab
+setblock -56 -59 30 minecraft:smooth_quartz_slab
+setblock -55 -59 -32 minecraft:smooth_quartz_slab
+setblock -55 -59 -31 minecraft:smooth_quartz_slab
+setblock -55 -59 31 minecraft:smooth_quartz_slab
+setblock -55 -59 32 minecraft:smooth_quartz_slab
+setblock -54 -59 -34 minecraft:smooth_quartz_slab
+setblock -54 -59 -33 minecraft:smooth_quartz_slab
+setblock -54 -59 33 minecraft:smooth_quartz_slab
+setblock -54 -59 34 minecraft:smooth_quartz_slab
+setblock -53 -59 -35 minecraft:smooth_quartz_slab
+setblock -53 -59 35 minecraft:smooth_quartz_slab
+setblock -52 -59 -37 minecraft:smooth_quartz_slab
+setblock -52 -59 -36 minecraft:smooth_quartz_slab
+setblock -52 -59 36 minecraft:smooth_quartz_slab
+setblock -52 -59 37 minecraft:smooth_quartz_slab
+setblock -51 -59 -38 minecraft:smooth_quartz_slab
+setblock -51 -59 -37 minecraft:smooth_quartz_slab
+setblock -51 -59 37 minecraft:smooth_quartz_slab
+setblock -51 -59 38 minecraft:smooth_quartz_slab
+setblock -50 -59 -39 minecraft:smooth_quartz_slab
+setblock -50 -59 39 minecraft:smooth_quartz_slab
+setblock -49 -59 -41 minecraft:smooth_quartz_slab
+setblock -49 -59 -40 minecraft:smooth_quartz_slab
+setblock -49 -59 40 minecraft:smooth_quartz_slab
+setblock -49 -59 41 minecraft:smooth_quartz_slab
+setblock -48 -59 -42 minecraft:smooth_quartz_slab
+setblock -48 -59 -41 minecraft:smooth_quartz_slab
+setblock -48 -59 41 minecraft:smooth_quartz_slab
+setblock -48 -59 42 minecraft:smooth_quartz_slab
+setblock -47 -59 -43 minecraft:smooth_quartz_slab
+setblock -47 -59 -42 minecraft:smooth_quartz_slab
+setblock -47 -59 42 minecraft:smooth_quartz_slab
+setblock -47 -59 43 minecraft:smooth_quartz_slab
+setblock -43 -59 -47 minecraft:smooth_quartz_slab
+setblock -43 -59 47 minecraft:smooth_quartz_slab
+setblock -42 -59 -48 minecraft:smooth_quartz_slab
+setblock -42 -59 -47 minecraft:smooth_quartz_slab
+setblock -42 -59 47 minecraft:smooth_quartz_slab
+setblock -42 -59 48 minecraft:smooth_quartz_slab
+setblock -41 -59 -49 minecraft:smooth_quartz_slab
+setblock -41 -59 -48 minecraft:smooth_quartz_slab
+setblock -41 -59 48 minecraft:smooth_quartz_slab
+setblock -41 -59 49 minecraft:smooth_quartz_slab
+setblock -40 -59 -49 minecraft:smooth_quartz_slab
+setblock -40 -59 49 minecraft:smooth_quartz_slab
+setblock -39 -59 -50 minecraft:smooth_quartz_slab
+setblock -39 -59 50 minecraft:smooth_quartz_slab
+setblock -38 -59 -51 minecraft:smooth_quartz_slab
+setblock -38 -59 51 minecraft:smooth_quartz_slab
+setblock -37 -59 -52 minecraft:smooth_quartz_slab
+setblock -37 -59 -51 minecraft:smooth_quartz_slab
+setblock -37 -59 51 minecraft:smooth_quartz_slab
+setblock -37 -59 52 minecraft:smooth_quartz_slab
+setblock -36 -59 -52 minecraft:smooth_quartz_slab
+setblock -36 -59 52 minecraft:smooth_quartz_slab
+setblock -35 -59 -53 minecraft:smooth_quartz_slab
+setblock -35 -59 53 minecraft:smooth_quartz_slab
+setblock -34 -59 -54 minecraft:smooth_quartz_slab
+setblock -34 -59 54 minecraft:smooth_quartz_slab
+setblock -33 -59 -54 minecraft:smooth_quartz_slab
+setblock -33 -59 54 minecraft:smooth_quartz_slab
+setblock -32 -59 -55 minecraft:smooth_quartz_slab
+setblock -32 -59 55 minecraft:smooth_quartz_slab
+setblock -31 -59 -55 minecraft:smooth_quartz_slab
+setblock -31 -59 55 minecraft:smooth_quartz_slab
+setblock -30 -59 -56 minecraft:smooth_quartz_slab
+setblock -30 -59 56 minecraft:smooth_quartz_slab
+setblock -29 -59 -57 minecraft:smooth_quartz_slab
+setblock -29 -59 -56 minecraft:smooth_quartz_slab
+setblock -29 -59 56 minecraft:smooth_quartz_slab
+setblock -29 -59 57 minecraft:smooth_quartz_slab
+setblock -28 -59 -57 minecraft:smooth_quartz_slab
+setblock -28 -59 57 minecraft:smooth_quartz_slab
+setblock -27 -59 -58 minecraft:smooth_quartz_slab
+setblock -27 -59 -57 minecraft:smooth_quartz_slab
+setblock -27 -59 57 minecraft:smooth_quartz_slab
+setblock -27 -59 58 minecraft:smooth_quartz_slab
+setblock -26 -59 -58 minecraft:smooth_quartz_slab
+setblock -26 -59 58 minecraft:smooth_quartz_slab
+setblock -25 -59 -58 minecraft:smooth_quartz_slab
+setblock -25 -59 58 minecraft:smooth_quartz_slab
+setblock -24 -59 -59 minecraft:smooth_quartz_slab
+setblock -24 -59 59 minecraft:smooth_quartz_slab
+setblock -23 -59 -59 minecraft:smooth_quartz_slab
+setblock -23 -59 59 minecraft:smooth_quartz_slab
+setblock -22 -59 -60 minecraft:smooth_quartz_slab
+setblock -22 -59 60 minecraft:smooth_quartz_slab
+setblock -21 -59 -60 minecraft:smooth_quartz_slab
+setblock -21 -59 60 minecraft:smooth_quartz_slab
+setblock -20 -59 -60 minecraft:smooth_quartz_slab
+setblock -20 -59 60 minecraft:smooth_quartz_slab
+setblock -19 -59 -61 minecraft:smooth_quartz_slab
+setblock -19 -59 61 minecraft:smooth_quartz_slab
+setblock -18 -59 -61 minecraft:smooth_quartz_slab
+setblock -18 -59 61 minecraft:smooth_quartz_slab
+setblock -17 -59 -61 minecraft:smooth_quartz_slab
+setblock -17 -59 61 minecraft:smooth_quartz_slab
+setblock -16 -59 -61 minecraft:smooth_quartz_slab
+setblock -16 -59 61 minecraft:smooth_quartz_slab
+setblock -15 -59 -62 minecraft:smooth_quartz_slab
+setblock -15 -59 62 minecraft:smooth_quartz_slab
+setblock -14 -59 -62 minecraft:smooth_quartz_slab
+setblock -14 -59 62 minecraft:smooth_quartz_slab
+setblock -13 -59 -62 minecraft:smooth_quartz_slab
+setblock -13 -59 62 minecraft:smooth_quartz_slab
+setblock -12 -59 -62 minecraft:smooth_quartz_slab
+setblock -12 -59 62 minecraft:smooth_quartz_slab
+setblock -11 -59 -63 minecraft:smooth_quartz_slab
+setblock -11 -59 63 minecraft:smooth_quartz_slab
+setblock -10 -59 -63 minecraft:smooth_quartz_slab
+setblock -10 -59 63 minecraft:smooth_quartz_slab
+setblock -9 -59 -63 minecraft:smooth_quartz_slab
+setblock -9 -59 63 minecraft:smooth_quartz_slab
+setblock -8 -59 -63 minecraft:smooth_quartz_slab
+setblock -8 -59 63 minecraft:smooth_quartz_slab
+setblock -7 -59 -63 minecraft:smooth_quartz_slab
+setblock -7 -59 63 minecraft:smooth_quartz_slab
+setblock -6 -59 -63 minecraft:smooth_quartz_slab
+setblock -6 -59 63 minecraft:smooth_quartz_slab
+setblock -5 -59 -63 minecraft:smooth_quartz_slab
+setblock -5 -59 63 minecraft:smooth_quartz_slab
+setblock -4 -59 -63 minecraft:smooth_quartz_slab
+setblock -4 -59 63 minecraft:smooth_quartz_slab
+setblock -3 -59 -63 minecraft:smooth_quartz_slab
+setblock -3 -59 63 minecraft:smooth_quartz_slab
+setblock 3 -59 -63 minecraft:smooth_quartz_slab
+setblock 3 -59 63 minecraft:smooth_quartz_slab
+setblock 4 -59 -63 minecraft:smooth_quartz_slab
+setblock 4 -59 63 minecraft:smooth_quartz_slab
+setblock 5 -59 -63 minecraft:smooth_quartz_slab
+setblock 5 -59 63 minecraft:smooth_quartz_slab
+setblock 6 -59 -63 minecraft:smooth_quartz_slab
+setblock 6 -59 63 minecraft:smooth_quartz_slab
+setblock 7 -59 -63 minecraft:smooth_quartz_slab
+setblock 7 -59 63 minecraft:smooth_quartz_slab
+setblock 8 -59 -63 minecraft:smooth_quartz_slab
+setblock 8 -59 63 minecraft:smooth_quartz_slab
+setblock 9 -59 -63 minecraft:smooth_quartz_slab
+setblock 9 -59 63 minecraft:smooth_quartz_slab
+setblock 10 -59 -63 minecraft:smooth_quartz_slab
+setblock 10 -59 63 minecraft:smooth_quartz_slab
+setblock 11 -59 -63 minecraft:smooth_quartz_slab
+setblock 11 -59 63 minecraft:smooth_quartz_slab
+setblock 12 -59 -62 minecraft:smooth_quartz_slab
+setblock 12 -59 62 minecraft:smooth_quartz_slab
+setblock 13 -59 -62 minecraft:smooth_quartz_slab
+setblock 13 -59 62 minecraft:smooth_quartz_slab
+setblock 14 -59 -62 minecraft:smooth_quartz_slab
+setblock 14 -59 62 minecraft:smooth_quartz_slab
+setblock 15 -59 -62 minecraft:smooth_quartz_slab
+setblock 15 -59 62 minecraft:smooth_quartz_slab
+setblock 16 -59 -61 minecraft:smooth_quartz_slab
+setblock 16 -59 61 minecraft:smooth_quartz_slab
+setblock 17 -59 -61 minecraft:smooth_quartz_slab
+setblock 17 -59 61 minecraft:smooth_quartz_slab
+setblock 18 -59 -61 minecraft:smooth_quartz_slab
+setblock 18 -59 61 minecraft:smooth_quartz_slab
+setblock 19 -59 -61 minecraft:smooth_quartz_slab
+setblock 19 -59 61 minecraft:smooth_quartz_slab
+setblock 20 -59 -60 minecraft:smooth_quartz_slab
+setblock 20 -59 60 minecraft:smooth_quartz_slab
+setblock 21 -59 -60 minecraft:smooth_quartz_slab
+setblock 21 -59 60 minecraft:smooth_quartz_slab
+setblock 22 -59 -60 minecraft:smooth_quartz_slab
+setblock 22 -59 60 minecraft:smooth_quartz_slab
+setblock 23 -59 -59 minecraft:smooth_quartz_slab
+setblock 23 -59 59 minecraft:smooth_quartz_slab
+setblock 24 -59 -59 minecraft:smooth_quartz_slab
+setblock 24 -59 59 minecraft:smooth_quartz_slab
+setblock 25 -59 -58 minecraft:smooth_quartz_slab
+setblock 25 -59 58 minecraft:smooth_quartz_slab
+setblock 26 -59 -58 minecraft:smooth_quartz_slab
+setblock 26 -59 58 minecraft:smooth_quartz_slab
+setblock 27 -59 -58 minecraft:smooth_quartz_slab
+setblock 27 -59 -57 minecraft:smooth_quartz_slab
+setblock 27 -59 57 minecraft:smooth_quartz_slab
+setblock 27 -59 58 minecraft:smooth_quartz_slab
+setblock 28 -59 -57 minecraft:smooth_quartz_slab
+setblock 28 -59 57 minecraft:smooth_quartz_slab
+setblock 29 -59 -57 minecraft:smooth_quartz_slab
+setblock 29 -59 -56 minecraft:smooth_quartz_slab
+setblock 29 -59 56 minecraft:smooth_quartz_slab
+setblock 29 -59 57 minecraft:smooth_quartz_slab
+setblock 30 -59 -56 minecraft:smooth_quartz_slab
+setblock 30 -59 56 minecraft:smooth_quartz_slab
+setblock 31 -59 -55 minecraft:smooth_quartz_slab
+setblock 31 -59 55 minecraft:smooth_quartz_slab
+setblock 32 -59 -55 minecraft:smooth_quartz_slab
+setblock 32 -59 55 minecraft:smooth_quartz_slab
+setblock 33 -59 -54 minecraft:smooth_quartz_slab
+setblock 33 -59 54 minecraft:smooth_quartz_slab
+setblock 34 -59 -54 minecraft:smooth_quartz_slab
+setblock 34 -59 54 minecraft:smooth_quartz_slab
+setblock 35 -59 -53 minecraft:smooth_quartz_slab
+setblock 35 -59 53 minecraft:smooth_quartz_slab
+setblock 36 -59 -52 minecraft:smooth_quartz_slab
+setblock 36 -59 52 minecraft:smooth_quartz_slab
+setblock 37 -59 -52 minecraft:smooth_quartz_slab
+setblock 37 -59 -51 minecraft:smooth_quartz_slab
+setblock 37 -59 51 minecraft:smooth_quartz_slab
+setblock 37 -59 52 minecraft:smooth_quartz_slab
+setblock 38 -59 -51 minecraft:smooth_quartz_slab
+setblock 38 -59 51 minecraft:smooth_quartz_slab
+setblock 39 -59 -50 minecraft:smooth_quartz_slab
+setblock 39 -59 50 minecraft:smooth_quartz_slab
+setblock 40 -59 -49 minecraft:smooth_quartz_slab
+setblock 40 -59 49 minecraft:smooth_quartz_slab
+setblock 41 -59 -49 minecraft:smooth_quartz_slab
+setblock 41 -59 -48 minecraft:smooth_quartz_slab
+setblock 41 -59 48 minecraft:smooth_quartz_slab
+setblock 41 -59 49 minecraft:smooth_quartz_slab
+setblock 42 -59 -48 minecraft:smooth_quartz_slab
+setblock 42 -59 -47 minecraft:smooth_quartz_slab
+setblock 42 -59 47 minecraft:smooth_quartz_slab
+setblock 42 -59 48 minecraft:smooth_quartz_slab
+setblock 43 -59 -47 minecraft:smooth_quartz_slab
+setblock 43 -59 47 minecraft:smooth_quartz_slab
+setblock 47 -59 -43 minecraft:smooth_quartz_slab
+setblock 47 -59 -42 minecraft:smooth_quartz_slab
+setblock 47 -59 42 minecraft:smooth_quartz_slab
+setblock 47 -59 43 minecraft:smooth_quartz_slab
+setblock 48 -59 -42 minecraft:smooth_quartz_slab
+setblock 48 -59 -41 minecraft:smooth_quartz_slab
+setblock 48 -59 41 minecraft:smooth_quartz_slab
+setblock 48 -59 42 minecraft:smooth_quartz_slab
+setblock 49 -59 -41 minecraft:smooth_quartz_slab
+setblock 49 -59 -40 minecraft:smooth_quartz_slab
+setblock 49 -59 40 minecraft:smooth_quartz_slab
+setblock 49 -59 41 minecraft:smooth_quartz_slab
+setblock 50 -59 -39 minecraft:smooth_quartz_slab
+setblock 50 -59 39 minecraft:smooth_quartz_slab
+setblock 51 -59 -38 minecraft:smooth_quartz_slab
+setblock 51 -59 -37 minecraft:smooth_quartz_slab
+setblock 51 -59 37 minecraft:smooth_quartz_slab
+setblock 51 -59 38 minecraft:smooth_quartz_slab
+setblock 52 -59 -37 minecraft:smooth_quartz_slab
+setblock 52 -59 -36 minecraft:smooth_quartz_slab
+setblock 52 -59 36 minecraft:smooth_quartz_slab
+setblock 52 -59 37 minecraft:smooth_quartz_slab
+setblock 53 -59 -35 minecraft:smooth_quartz_slab
+setblock 53 -59 35 minecraft:smooth_quartz_slab
+setblock 54 -59 -34 minecraft:smooth_quartz_slab
+setblock 54 -59 -33 minecraft:smooth_quartz_slab
+setblock 54 -59 33 minecraft:smooth_quartz_slab
+setblock 54 -59 34 minecraft:smooth_quartz_slab
+setblock 55 -59 -32 minecraft:smooth_quartz_slab
+setblock 55 -59 -31 minecraft:smooth_quartz_slab
+setblock 55 -59 31 minecraft:smooth_quartz_slab
+setblock 55 -59 32 minecraft:smooth_quartz_slab
+setblock 56 -59 -30 minecraft:smooth_quartz_slab
+setblock 56 -59 -29 minecraft:smooth_quartz_slab
+setblock 56 -59 29 minecraft:smooth_quartz_slab
+setblock 56 -59 30 minecraft:smooth_quartz_slab
+setblock 57 -59 -29 minecraft:smooth_quartz_slab
+setblock 57 -59 -28 minecraft:smooth_quartz_slab
+setblock 57 -59 -27 minecraft:smooth_quartz_slab
+setblock 57 -59 27 minecraft:smooth_quartz_slab
+setblock 57 -59 28 minecraft:smooth_quartz_slab
+setblock 57 -59 29 minecraft:smooth_quartz_slab
+setblock 58 -59 -27 minecraft:smooth_quartz_slab
+setblock 58 -59 -26 minecraft:smooth_quartz_slab
+setblock 58 -59 -25 minecraft:smooth_quartz_slab
+setblock 58 -59 25 minecraft:smooth_quartz_slab
+setblock 58 -59 26 minecraft:smooth_quartz_slab
+setblock 58 -59 27 minecraft:smooth_quartz_slab
+setblock 59 -59 -24 minecraft:smooth_quartz_slab
+setblock 59 -59 -23 minecraft:smooth_quartz_slab
+setblock 59 -59 23 minecraft:smooth_quartz_slab
+setblock 59 -59 24 minecraft:smooth_quartz_slab
+setblock 60 -59 -22 minecraft:smooth_quartz_slab
+setblock 60 -59 -21 minecraft:smooth_quartz_slab
+setblock 60 -59 -20 minecraft:smooth_quartz_slab
+setblock 60 -59 20 minecraft:smooth_quartz_slab
+setblock 60 -59 21 minecraft:smooth_quartz_slab
+setblock 60 -59 22 minecraft:smooth_quartz_slab
+setblock 61 -59 -19 minecraft:smooth_quartz_slab
+setblock 61 -59 -18 minecraft:smooth_quartz_slab
+setblock 61 -59 -17 minecraft:smooth_quartz_slab
+setblock 61 -59 -16 minecraft:smooth_quartz_slab
+setblock 61 -59 16 minecraft:smooth_quartz_slab
+setblock 61 -59 17 minecraft:smooth_quartz_slab
+setblock 61 -59 18 minecraft:smooth_quartz_slab
+setblock 61 -59 19 minecraft:smooth_quartz_slab
+setblock 62 -59 -15 minecraft:smooth_quartz_slab
+setblock 62 -59 -14 minecraft:smooth_quartz_slab
+setblock 62 -59 -13 minecraft:smooth_quartz_slab
+setblock 62 -59 -12 minecraft:smooth_quartz_slab
+setblock 62 -59 12 minecraft:smooth_quartz_slab
+setblock 62 -59 13 minecraft:smooth_quartz_slab
+setblock 62 -59 14 minecraft:smooth_quartz_slab
+setblock 62 -59 15 minecraft:smooth_quartz_slab
+setblock 63 -59 -11 minecraft:smooth_quartz_slab
+setblock 63 -59 -10 minecraft:smooth_quartz_slab
+setblock 63 -59 -9 minecraft:smooth_quartz_slab
+setblock 63 -59 -8 minecraft:smooth_quartz_slab
+setblock 63 -59 -7 minecraft:smooth_quartz_slab
+setblock 63 -59 -6 minecraft:smooth_quartz_slab
+setblock 63 -59 -5 minecraft:smooth_quartz_slab
+setblock 63 -59 -4 minecraft:smooth_quartz_slab
+setblock 63 -59 -3 minecraft:smooth_quartz_slab
+setblock 63 -59 3 minecraft:smooth_quartz_slab
+setblock 63 -59 4 minecraft:smooth_quartz_slab
+setblock 63 -59 5 minecraft:smooth_quartz_slab
+setblock 63 -59 6 minecraft:smooth_quartz_slab
+setblock 63 -59 7 minecraft:smooth_quartz_slab
+setblock 63 -59 8 minecraft:smooth_quartz_slab
+setblock 63 -59 9 minecraft:smooth_quartz_slab
+setblock 63 -59 10 minecraft:smooth_quartz_slab
+setblock 63 -59 11 minecraft:smooth_quartz_slab
+fill -1 -61 -1 1 -61 1 minecraft:iron_block
+setblock 0 -60 0 minecraft:beacon
+setblock -6 -59 -2 minecraft:chiseled_quartz_block
+setblock -6 -59 -1 minecraft:chiseled_quartz_block
+setblock -6 -59 0 minecraft:chiseled_quartz_block
+setblock -6 -59 1 minecraft:chiseled_quartz_block
+setblock -6 -59 2 minecraft:chiseled_quartz_block
+setblock -5 -59 -4 minecraft:chiseled_quartz_block
+setblock -5 -59 -3 minecraft:chiseled_quartz_block
+setblock -5 -59 -2 minecraft:water
+setblock -5 -59 -1 minecraft:water
+setblock -5 -59 0 minecraft:water
+setblock -5 -59 1 minecraft:water
+setblock -5 -59 2 minecraft:water
+setblock -5 -59 3 minecraft:chiseled_quartz_block
+setblock -5 -59 4 minecraft:chiseled_quartz_block
+setblock -4 -59 -5 minecraft:chiseled_quartz_block
+setblock -4 -59 -4 minecraft:chiseled_quartz_block
+setblock -4 -59 -3 minecraft:water
+setblock -4 -59 -2 minecraft:water
+setblock -4 -59 -1 minecraft:water
+setblock -4 -59 0 minecraft:water
+setblock -4 -59 1 minecraft:water
+setblock -4 -59 2 minecraft:water
+setblock -4 -59 3 minecraft:water
+setblock -4 -59 4 minecraft:chiseled_quartz_block
+setblock -4 -59 5 minecraft:chiseled_quartz_block
+setblock -3 -59 -5 minecraft:chiseled_quartz_block
+setblock -3 -59 -4 minecraft:water
+setblock -3 -59 -3 minecraft:water
+setblock -3 -59 -2 minecraft:water
+setblock -3 -59 -1 minecraft:water
+setblock -3 -59 0 minecraft:water
+setblock -3 -59 1 minecraft:water
+setblock -3 -59 2 minecraft:water
+setblock -3 -59 3 minecraft:water
+setblock -3 -59 4 minecraft:water
+setblock -3 -59 5 minecraft:chiseled_quartz_block
+setblock -2 -59 -6 minecraft:chiseled_quartz_block
+setblock -2 -59 -5 minecraft:water
+setblock -2 -59 -4 minecraft:water
+setblock -2 -59 -3 minecraft:water
+setblock -2 -59 -2 minecraft:water
+setblock -2 -59 -1 minecraft:water
+setblock -2 -59 0 minecraft:water
+setblock -2 -59 1 minecraft:water
+setblock -2 -59 2 minecraft:water
+setblock -2 -59 3 minecraft:water
+setblock -2 -59 4 minecraft:water
+setblock -2 -59 5 minecraft:water
+setblock -2 -59 6 minecraft:chiseled_quartz_block
+setblock -1 -59 -6 minecraft:chiseled_quartz_block
+setblock -1 -59 -5 minecraft:water
+setblock -1 -59 -4 minecraft:water
+setblock -1 -59 -3 minecraft:water
+setblock -1 -59 -2 minecraft:water
+setblock -1 -59 -1 minecraft:chiseled_quartz_block
+setblock -1 -59 0 minecraft:chiseled_quartz_block
+setblock -1 -59 1 minecraft:chiseled_quartz_block
+setblock -1 -59 2 minecraft:water
+setblock -1 -59 3 minecraft:water
+setblock -1 -59 4 minecraft:water
+setblock -1 -59 5 minecraft:water
+setblock -1 -59 6 minecraft:chiseled_quartz_block
+setblock 0 -59 -6 minecraft:chiseled_quartz_block
+setblock 0 -59 -5 minecraft:water
+setblock 0 -59 -4 minecraft:water
+setblock 0 -59 -3 minecraft:water
+setblock 0 -59 -2 minecraft:water
+setblock 0 -59 -1 minecraft:chiseled_quartz_block
+setblock 0 -59 1 minecraft:chiseled_quartz_block
+setblock 0 -59 2 minecraft:water
+setblock 0 -59 3 minecraft:water
+setblock 0 -59 4 minecraft:water
+setblock 0 -59 5 minecraft:water
+setblock 0 -59 6 minecraft:chiseled_quartz_block
+setblock 1 -59 -6 minecraft:chiseled_quartz_block
+setblock 1 -59 -5 minecraft:water
+setblock 1 -59 -4 minecraft:water
+setblock 1 -59 -3 minecraft:water
+setblock 1 -59 -2 minecraft:water
+setblock 1 -59 -1 minecraft:chiseled_quartz_block
+setblock 1 -59 0 minecraft:chiseled_quartz_block
+setblock 1 -59 1 minecraft:chiseled_quartz_block
+setblock 1 -59 2 minecraft:water
+setblock 1 -59 3 minecraft:water
+setblock 1 -59 4 minecraft:water
+setblock 1 -59 5 minecraft:water
+setblock 1 -59 6 minecraft:chiseled_quartz_block
+setblock 2 -59 -6 minecraft:chiseled_quartz_block
+setblock 2 -59 -5 minecraft:water
+setblock 2 -59 -4 minecraft:water
+setblock 2 -59 -3 minecraft:water
+setblock 2 -59 -2 minecraft:water
+setblock 2 -59 -1 minecraft:water
+setblock 2 -59 0 minecraft:water
+setblock 2 -59 1 minecraft:water
+setblock 2 -59 2 minecraft:water
+setblock 2 -59 3 minecraft:water
+setblock 2 -59 4 minecraft:water
+setblock 2 -59 5 minecraft:water
+setblock 2 -59 6 minecraft:chiseled_quartz_block
+setblock 3 -59 -5 minecraft:chiseled_quartz_block
+setblock 3 -59 -4 minecraft:water
+setblock 3 -59 -3 minecraft:water
+setblock 3 -59 -2 minecraft:water
+setblock 3 -59 -1 minecraft:water
+setblock 3 -59 0 minecraft:water
+setblock 3 -59 1 minecraft:water
+setblock 3 -59 2 minecraft:water
+setblock 3 -59 3 minecraft:water
+setblock 3 -59 4 minecraft:water
+setblock 3 -59 5 minecraft:chiseled_quartz_block
+setblock 4 -59 -5 minecraft:chiseled_quartz_block
+setblock 4 -59 -4 minecraft:chiseled_quartz_block
+setblock 4 -59 -3 minecraft:water
+setblock 4 -59 -2 minecraft:water
+setblock 4 -59 -1 minecraft:water
+setblock 4 -59 0 minecraft:water
+setblock 4 -59 1 minecraft:water
+setblock 4 -59 2 minecraft:water
+setblock 4 -59 3 minecraft:water
+setblock 4 -59 4 minecraft:chiseled_quartz_block
+setblock 4 -59 5 minecraft:chiseled_quartz_block
+setblock 5 -59 -4 minecraft:chiseled_quartz_block
+setblock 5 -59 -3 minecraft:chiseled_quartz_block
+setblock 5 -59 -2 minecraft:water
+setblock 5 -59 -1 minecraft:water
+setblock 5 -59 0 minecraft:water
+setblock 5 -59 1 minecraft:water
+setblock 5 -59 2 minecraft:water
+setblock 5 -59 3 minecraft:chiseled_quartz_block
+setblock 5 -59 4 minecraft:chiseled_quartz_block
+setblock 6 -59 -2 minecraft:chiseled_quartz_block
+setblock 6 -59 -1 minecraft:chiseled_quartz_block
+setblock 6 -59 0 minecraft:chiseled_quartz_block
+setblock 6 -59 1 minecraft:chiseled_quartz_block
+setblock 6 -59 2 minecraft:chiseled_quartz_block
+setblock -16 -49 -16 minecraft:sea_lantern
+setblock -16 -49 -15 minecraft:quartz_block
+setblock -16 -49 -14 minecraft:quartz_block
+setblock -16 -49 -13 minecraft:quartz_block
+setblock -16 -49 -12 minecraft:sea_lantern
+setblock -16 -49 -11 minecraft:quartz_block
+setblock -16 -49 -10 minecraft:quartz_block
+setblock -16 -49 -9 minecraft:quartz_block
+setblock -16 -49 -8 minecraft:sea_lantern
+setblock -16 -49 -7 minecraft:quartz_block
+setblock -16 -49 -6 minecraft:quartz_block
+setblock -16 -49 -5 minecraft:quartz_block
+setblock -16 -49 -4 minecraft:sea_lantern
+setblock -16 -49 -3 minecraft:quartz_block
+setblock -16 -49 -2 minecraft:quartz_block
+setblock -16 -49 -1 minecraft:quartz_block
+setblock -16 -49 0 minecraft:sea_lantern
+setblock -16 -49 1 minecraft:quartz_block
+setblock -16 -49 2 minecraft:quartz_block
+setblock -16 -49 3 minecraft:quartz_block
+setblock -16 -49 4 minecraft:sea_lantern
+setblock -16 -49 5 minecraft:quartz_block
+setblock -16 -49 6 minecraft:quartz_block
+setblock -16 -49 7 minecraft:quartz_block
+setblock -16 -49 8 minecraft:sea_lantern
+setblock -16 -49 9 minecraft:quartz_block
+setblock -16 -49 10 minecraft:quartz_block
+setblock -16 -49 11 minecraft:quartz_block
+setblock -16 -49 12 minecraft:sea_lantern
+setblock -16 -49 13 minecraft:quartz_block
+setblock -16 -49 14 minecraft:quartz_block
+setblock -16 -49 15 minecraft:quartz_block
+setblock -16 -49 16 minecraft:sea_lantern
+setblock -16 -49 -16 minecraft:sea_lantern
+setblock -16 -48 -16 minecraft:quartz_block
+setblock -16 -47 -16 minecraft:quartz_block
+setblock -16 -46 -16 minecraft:quartz_block
+setblock -16 -45 -16 minecraft:sea_lantern
+setblock -16 -44 -16 minecraft:quartz_block
+setblock -16 -43 -16 minecraft:quartz_block
+setblock -16 -42 -16 minecraft:quartz_block
+setblock -16 -41 -16 minecraft:sea_lantern
+setblock -16 -40 -16 minecraft:quartz_block
+setblock -16 -39 -16 minecraft:quartz_block
+setblock -16 -38 -16 minecraft:quartz_block
+setblock -16 -37 -16 minecraft:sea_lantern
+setblock -16 -36 -16 minecraft:quartz_block
+setblock -16 -35 -16 minecraft:quartz_block
+setblock -16 -34 -16 minecraft:quartz_block
+setblock -16 -33 -16 minecraft:sea_lantern
+setblock -16 -32 -16 minecraft:quartz_block
+setblock -16 -31 -16 minecraft:quartz_block
+setblock -16 -30 -16 minecraft:quartz_block
+setblock -16 -29 -16 minecraft:sea_lantern
+setblock -16 -28 -16 minecraft:quartz_block
+setblock -16 -27 -16 minecraft:quartz_block
+setblock -16 -26 -16 minecraft:quartz_block
+setblock -16 -25 -16 minecraft:sea_lantern
+setblock -16 -24 -16 minecraft:quartz_block
+setblock -16 -23 -16 minecraft:quartz_block
+setblock -16 -22 -16 minecraft:quartz_block
+setblock -16 -21 -16 minecraft:sea_lantern
+setblock -16 -20 -16 minecraft:quartz_block
+setblock -16 -19 -16 minecraft:quartz_block
+setblock -16 -18 -16 minecraft:quartz_block
+setblock -16 -17 -16 minecraft:sea_lantern
+setblock -16 -49 -16 minecraft:sea_lantern
+setblock -15 -49 -16 minecraft:quartz_block
+setblock -14 -49 -16 minecraft:quartz_block
+setblock -13 -49 -16 minecraft:quartz_block
+setblock -12 -49 -16 minecraft:sea_lantern
+setblock -11 -49 -16 minecraft:quartz_block
+setblock -10 -49 -16 minecraft:quartz_block
+setblock -9 -49 -16 minecraft:quartz_block
+setblock -8 -49 -16 minecraft:sea_lantern
+setblock -7 -49 -16 minecraft:quartz_block
+setblock -6 -49 -16 minecraft:quartz_block
+setblock -5 -49 -16 minecraft:quartz_block
+setblock -4 -49 -16 minecraft:sea_lantern
+setblock -3 -49 -16 minecraft:quartz_block
+setblock -2 -49 -16 minecraft:quartz_block
+setblock -1 -49 -16 minecraft:quartz_block
+setblock 0 -49 -16 minecraft:sea_lantern
+setblock 1 -49 -16 minecraft:quartz_block
+setblock 2 -49 -16 minecraft:quartz_block
+setblock 3 -49 -16 minecraft:quartz_block
+setblock 4 -49 -16 minecraft:sea_lantern
+setblock 5 -49 -16 minecraft:quartz_block
+setblock 6 -49 -16 minecraft:quartz_block
+setblock 7 -49 -16 minecraft:quartz_block
+setblock 8 -49 -16 minecraft:sea_lantern
+setblock 9 -49 -16 minecraft:quartz_block
+setblock 10 -49 -16 minecraft:quartz_block
+setblock 11 -49 -16 minecraft:quartz_block
+setblock 12 -49 -16 minecraft:sea_lantern
+setblock 13 -49 -16 minecraft:quartz_block
+setblock 14 -49 -16 minecraft:quartz_block
+setblock 15 -49 -16 minecraft:quartz_block
+setblock 16 -49 -16 minecraft:sea_lantern
+setblock -16 -49 16 minecraft:sea_lantern
+setblock -16 -48 16 minecraft:quartz_block
+setblock -16 -47 16 minecraft:quartz_block
+setblock -16 -46 16 minecraft:quartz_block
+setblock -16 -45 16 minecraft:sea_lantern
+setblock -16 -44 16 minecraft:quartz_block
+setblock -16 -43 16 minecraft:quartz_block
+setblock -16 -42 16 minecraft:quartz_block
+setblock -16 -41 16 minecraft:sea_lantern
+setblock -16 -40 16 minecraft:quartz_block
+setblock -16 -39 16 minecraft:quartz_block
+setblock -16 -38 16 minecraft:quartz_block
+setblock -16 -37 16 minecraft:sea_lantern
+setblock -16 -36 16 minecraft:quartz_block
+setblock -16 -35 16 minecraft:quartz_block
+setblock -16 -34 16 minecraft:quartz_block
+setblock -16 -33 16 minecraft:sea_lantern
+setblock -16 -32 16 minecraft:quartz_block
+setblock -16 -31 16 minecraft:quartz_block
+setblock -16 -30 16 minecraft:quartz_block
+setblock -16 -29 16 minecraft:sea_lantern
+setblock -16 -28 16 minecraft:quartz_block
+setblock -16 -27 16 minecraft:quartz_block
+setblock -16 -26 16 minecraft:quartz_block
+setblock -16 -25 16 minecraft:sea_lantern
+setblock -16 -24 16 minecraft:quartz_block
+setblock -16 -23 16 minecraft:quartz_block
+setblock -16 -22 16 minecraft:quartz_block
+setblock -16 -21 16 minecraft:sea_lantern
+setblock -16 -20 16 minecraft:quartz_block
+setblock -16 -19 16 minecraft:quartz_block
+setblock -16 -18 16 minecraft:quartz_block
+setblock -16 -17 16 minecraft:sea_lantern
+setblock -16 -49 16 minecraft:sea_lantern
+setblock -15 -49 16 minecraft:quartz_block
+setblock -14 -49 16 minecraft:quartz_block
+setblock -13 -49 16 minecraft:quartz_block
+setblock -12 -49 16 minecraft:sea_lantern
+setblock -11 -49 16 minecraft:quartz_block
+setblock -10 -49 16 minecraft:quartz_block
+setblock -9 -49 16 minecraft:quartz_block
+setblock -8 -49 16 minecraft:sea_lantern
+setblock -7 -49 16 minecraft:quartz_block
+setblock -6 -49 16 minecraft:quartz_block
+setblock -5 -49 16 minecraft:quartz_block
+setblock -4 -49 16 minecraft:sea_lantern
+setblock -3 -49 16 minecraft:quartz_block
+setblock -2 -49 16 minecraft:quartz_block
+setblock -1 -49 16 minecraft:quartz_block
+setblock 0 -49 16 minecraft:sea_lantern
+setblock 1 -49 16 minecraft:quartz_block
+setblock 2 -49 16 minecraft:quartz_block
+setblock 3 -49 16 minecraft:quartz_block
+setblock 4 -49 16 minecraft:sea_lantern
+setblock 5 -49 16 minecraft:quartz_block
+setblock 6 -49 16 minecraft:quartz_block
+setblock 7 -49 16 minecraft:quartz_block
+setblock 8 -49 16 minecraft:sea_lantern
+setblock 9 -49 16 minecraft:quartz_block
+setblock 10 -49 16 minecraft:quartz_block
+setblock 11 -49 16 minecraft:quartz_block
+setblock 12 -49 16 minecraft:sea_lantern
+setblock 13 -49 16 minecraft:quartz_block
+setblock 14 -49 16 minecraft:quartz_block
+setblock 15 -49 16 minecraft:quartz_block
+setblock 16 -49 16 minecraft:sea_lantern
+setblock -16 -17 -16 minecraft:sea_lantern
+setblock -16 -17 -15 minecraft:quartz_block
+setblock -16 -17 -14 minecraft:quartz_block
+setblock -16 -17 -13 minecraft:quartz_block
+setblock -16 -17 -12 minecraft:sea_lantern
+setblock -16 -17 -11 minecraft:quartz_block
+setblock -16 -17 -10 minecraft:quartz_block
+setblock -16 -17 -9 minecraft:quartz_block
+setblock -16 -17 -8 minecraft:sea_lantern
+setblock -16 -17 -7 minecraft:quartz_block
+setblock -16 -17 -6 minecraft:quartz_block
+setblock -16 -17 -5 minecraft:quartz_block
+setblock -16 -17 -4 minecraft:sea_lantern
+setblock -16 -17 -3 minecraft:quartz_block
+setblock -16 -17 -2 minecraft:quartz_block
+setblock -16 -17 -1 minecraft:quartz_block
+setblock -16 -17 0 minecraft:sea_lantern
+setblock -16 -17 1 minecraft:quartz_block
+setblock -16 -17 2 minecraft:quartz_block
+setblock -16 -17 3 minecraft:quartz_block
+setblock -16 -17 4 minecraft:sea_lantern
+setblock -16 -17 5 minecraft:quartz_block
+setblock -16 -17 6 minecraft:quartz_block
+setblock -16 -17 7 minecraft:quartz_block
+setblock -16 -17 8 minecraft:sea_lantern
+setblock -16 -17 9 minecraft:quartz_block
+setblock -16 -17 10 minecraft:quartz_block
+setblock -16 -17 11 minecraft:quartz_block
+setblock -16 -17 12 minecraft:sea_lantern
+setblock -16 -17 13 minecraft:quartz_block
+setblock -16 -17 14 minecraft:quartz_block
+setblock -16 -17 15 minecraft:quartz_block
+setblock -16 -17 16 minecraft:sea_lantern
+setblock -16 -17 -16 minecraft:sea_lantern
+setblock -15 -17 -16 minecraft:quartz_block
+setblock -14 -17 -16 minecraft:quartz_block
+setblock -13 -17 -16 minecraft:quartz_block
+setblock -12 -17 -16 minecraft:sea_lantern
+setblock -11 -17 -16 minecraft:quartz_block
+setblock -10 -17 -16 minecraft:quartz_block
+setblock -9 -17 -16 minecraft:quartz_block
+setblock -8 -17 -16 minecraft:sea_lantern
+setblock -7 -17 -16 minecraft:quartz_block
+setblock -6 -17 -16 minecraft:quartz_block
+setblock -5 -17 -16 minecraft:quartz_block
+setblock -4 -17 -16 minecraft:sea_lantern
+setblock -3 -17 -16 minecraft:quartz_block
+setblock -2 -17 -16 minecraft:quartz_block
+setblock -1 -17 -16 minecraft:quartz_block
+setblock 0 -17 -16 minecraft:sea_lantern
+setblock 1 -17 -16 minecraft:quartz_block
+setblock 2 -17 -16 minecraft:quartz_block
+setblock 3 -17 -16 minecraft:quartz_block
+setblock 4 -17 -16 minecraft:sea_lantern
+setblock 5 -17 -16 minecraft:quartz_block
+setblock 6 -17 -16 minecraft:quartz_block
+setblock 7 -17 -16 minecraft:quartz_block
+setblock 8 -17 -16 minecraft:sea_lantern
+setblock 9 -17 -16 minecraft:quartz_block
+setblock 10 -17 -16 minecraft:quartz_block
+setblock 11 -17 -16 minecraft:quartz_block
+setblock 12 -17 -16 minecraft:sea_lantern
+setblock 13 -17 -16 minecraft:quartz_block
+setblock 14 -17 -16 minecraft:quartz_block
+setblock 15 -17 -16 minecraft:quartz_block
+setblock 16 -17 -16 minecraft:sea_lantern
+setblock -16 -17 16 minecraft:sea_lantern
+setblock -15 -17 16 minecraft:quartz_block
+setblock -14 -17 16 minecraft:quartz_block
+setblock -13 -17 16 minecraft:quartz_block
+setblock -12 -17 16 minecraft:sea_lantern
+setblock -11 -17 16 minecraft:quartz_block
+setblock -10 -17 16 minecraft:quartz_block
+setblock -9 -17 16 minecraft:quartz_block
+setblock -8 -17 16 minecraft:sea_lantern
+setblock -7 -17 16 minecraft:quartz_block
+setblock -6 -17 16 minecraft:quartz_block
+setblock -5 -17 16 minecraft:quartz_block
+setblock -4 -17 16 minecraft:sea_lantern
+setblock -3 -17 16 minecraft:quartz_block
+setblock -2 -17 16 minecraft:quartz_block
+setblock -1 -17 16 minecraft:quartz_block
+setblock 0 -17 16 minecraft:sea_lantern
+setblock 1 -17 16 minecraft:quartz_block
+setblock 2 -17 16 minecraft:quartz_block
+setblock 3 -17 16 minecraft:quartz_block
+setblock 4 -17 16 minecraft:sea_lantern
+setblock 5 -17 16 minecraft:quartz_block
+setblock 6 -17 16 minecraft:quartz_block
+setblock 7 -17 16 minecraft:quartz_block
+setblock 8 -17 16 minecraft:sea_lantern
+setblock 9 -17 16 minecraft:quartz_block
+setblock 10 -17 16 minecraft:quartz_block
+setblock 11 -17 16 minecraft:quartz_block
+setblock 12 -17 16 minecraft:sea_lantern
+setblock 13 -17 16 minecraft:quartz_block
+setblock 14 -17 16 minecraft:quartz_block
+setblock 15 -17 16 minecraft:quartz_block
+setblock 16 -17 16 minecraft:sea_lantern
+setblock 16 -49 -16 minecraft:sea_lantern
+setblock 16 -49 -15 minecraft:quartz_block
+setblock 16 -49 -14 minecraft:quartz_block
+setblock 16 -49 -13 minecraft:quartz_block
+setblock 16 -49 -12 minecraft:sea_lantern
+setblock 16 -49 -11 minecraft:quartz_block
+setblock 16 -49 -10 minecraft:quartz_block
+setblock 16 -49 -9 minecraft:quartz_block
+setblock 16 -49 -8 minecraft:sea_lantern
+setblock 16 -49 -7 minecraft:quartz_block
+setblock 16 -49 -6 minecraft:quartz_block
+setblock 16 -49 -5 minecraft:quartz_block
+setblock 16 -49 -4 minecraft:sea_lantern
+setblock 16 -49 -3 minecraft:quartz_block
+setblock 16 -49 -2 minecraft:quartz_block
+setblock 16 -49 -1 minecraft:quartz_block
+setblock 16 -49 0 minecraft:sea_lantern
+setblock 16 -49 1 minecraft:quartz_block
+setblock 16 -49 2 minecraft:quartz_block
+setblock 16 -49 3 minecraft:quartz_block
+setblock 16 -49 4 minecraft:sea_lantern
+setblock 16 -49 5 minecraft:quartz_block
+setblock 16 -49 6 minecraft:quartz_block
+setblock 16 -49 7 minecraft:quartz_block
+setblock 16 -49 8 minecraft:sea_lantern
+setblock 16 -49 9 minecraft:quartz_block
+setblock 16 -49 10 minecraft:quartz_block
+setblock 16 -49 11 minecraft:quartz_block
+setblock 16 -49 12 minecraft:sea_lantern
+setblock 16 -49 13 minecraft:quartz_block
+setblock 16 -49 14 minecraft:quartz_block
+setblock 16 -49 15 minecraft:quartz_block
+setblock 16 -49 16 minecraft:sea_lantern
+setblock 16 -49 -16 minecraft:sea_lantern
+setblock 16 -48 -16 minecraft:quartz_block
+setblock 16 -47 -16 minecraft:quartz_block
+setblock 16 -46 -16 minecraft:quartz_block
+setblock 16 -45 -16 minecraft:sea_lantern
+setblock 16 -44 -16 minecraft:quartz_block
+setblock 16 -43 -16 minecraft:quartz_block
+setblock 16 -42 -16 minecraft:quartz_block
+setblock 16 -41 -16 minecraft:sea_lantern
+setblock 16 -40 -16 minecraft:quartz_block
+setblock 16 -39 -16 minecraft:quartz_block
+setblock 16 -38 -16 minecraft:quartz_block
+setblock 16 -37 -16 minecraft:sea_lantern
+setblock 16 -36 -16 minecraft:quartz_block
+setblock 16 -35 -16 minecraft:quartz_block
+setblock 16 -34 -16 minecraft:quartz_block
+setblock 16 -33 -16 minecraft:sea_lantern
+setblock 16 -32 -16 minecraft:quartz_block
+setblock 16 -31 -16 minecraft:quartz_block
+setblock 16 -30 -16 minecraft:quartz_block
+setblock 16 -29 -16 minecraft:sea_lantern
+setblock 16 -28 -16 minecraft:quartz_block
+setblock 16 -27 -16 minecraft:quartz_block
+setblock 16 -26 -16 minecraft:quartz_block
+setblock 16 -25 -16 minecraft:sea_lantern
+setblock 16 -24 -16 minecraft:quartz_block
+setblock 16 -23 -16 minecraft:quartz_block
+setblock 16 -22 -16 minecraft:quartz_block
+setblock 16 -21 -16 minecraft:sea_lantern
+setblock 16 -20 -16 minecraft:quartz_block
+setblock 16 -19 -16 minecraft:quartz_block
+setblock 16 -18 -16 minecraft:quartz_block
+setblock 16 -17 -16 minecraft:sea_lantern
+setblock 16 -49 16 minecraft:sea_lantern
+setblock 16 -48 16 minecraft:quartz_block
+setblock 16 -47 16 minecraft:quartz_block
+setblock 16 -46 16 minecraft:quartz_block
+setblock 16 -45 16 minecraft:sea_lantern
+setblock 16 -44 16 minecraft:quartz_block
+setblock 16 -43 16 minecraft:quartz_block
+setblock 16 -42 16 minecraft:quartz_block
+setblock 16 -41 16 minecraft:sea_lantern
+setblock 16 -40 16 minecraft:quartz_block
+setblock 16 -39 16 minecraft:quartz_block
+setblock 16 -38 16 minecraft:quartz_block
+setblock 16 -37 16 minecraft:sea_lantern
+setblock 16 -36 16 minecraft:quartz_block
+setblock 16 -35 16 minecraft:quartz_block
+setblock 16 -34 16 minecraft:quartz_block
+setblock 16 -33 16 minecraft:sea_lantern
+setblock 16 -32 16 minecraft:quartz_block
+setblock 16 -31 16 minecraft:quartz_block
+setblock 16 -30 16 minecraft:quartz_block
+setblock 16 -29 16 minecraft:sea_lantern
+setblock 16 -28 16 minecraft:quartz_block
+setblock 16 -27 16 minecraft:quartz_block
+setblock 16 -26 16 minecraft:quartz_block
+setblock 16 -25 16 minecraft:sea_lantern
+setblock 16 -24 16 minecraft:quartz_block
+setblock 16 -23 16 minecraft:quartz_block
+setblock 16 -22 16 minecraft:quartz_block
+setblock 16 -21 16 minecraft:sea_lantern
+setblock 16 -20 16 minecraft:quartz_block
+setblock 16 -19 16 minecraft:quartz_block
+setblock 16 -18 16 minecraft:quartz_block
+setblock 16 -17 16 minecraft:sea_lantern
+setblock 16 -17 -16 minecraft:sea_lantern
+setblock 16 -17 -15 minecraft:quartz_block
+setblock 16 -17 -14 minecraft:quartz_block
+setblock 16 -17 -13 minecraft:quartz_block
+setblock 16 -17 -12 minecraft:sea_lantern
+setblock 16 -17 -11 minecraft:quartz_block
+setblock 16 -17 -10 minecraft:quartz_block
+setblock 16 -17 -9 minecraft:quartz_block
+setblock 16 -17 -8 minecraft:sea_lantern
+setblock 16 -17 -7 minecraft:quartz_block
+setblock 16 -17 -6 minecraft:quartz_block
+setblock 16 -17 -5 minecraft:quartz_block
+setblock 16 -17 -4 minecraft:sea_lantern
+setblock 16 -17 -3 minecraft:quartz_block
+setblock 16 -17 -2 minecraft:quartz_block
+setblock 16 -17 -1 minecraft:quartz_block
+setblock 16 -17 0 minecraft:sea_lantern
+setblock 16 -17 1 minecraft:quartz_block
+setblock 16 -17 2 minecraft:quartz_block
+setblock 16 -17 3 minecraft:quartz_block
+setblock 16 -17 4 minecraft:sea_lantern
+setblock 16 -17 5 minecraft:quartz_block
+setblock 16 -17 6 minecraft:quartz_block
+setblock 16 -17 7 minecraft:quartz_block
+setblock 16 -17 8 minecraft:sea_lantern
+setblock 16 -17 9 minecraft:quartz_block
+setblock 16 -17 10 minecraft:quartz_block
+setblock 16 -17 11 minecraft:quartz_block
+setblock 16 -17 12 minecraft:sea_lantern
+setblock 16 -17 13 minecraft:quartz_block
+setblock 16 -17 14 minecraft:quartz_block
+setblock 16 -17 15 minecraft:quartz_block
+setblock 16 -17 16 minecraft:sea_lantern
+setblock -7 -40 -7 minecraft:sea_lantern
+setblock -7 -40 -6 minecraft:quartz_bricks
+setblock -7 -40 -5 minecraft:quartz_bricks
+setblock -7 -40 -4 minecraft:quartz_bricks
+setblock -7 -40 -3 minecraft:sea_lantern
+setblock -7 -40 -2 minecraft:quartz_bricks
+setblock -7 -40 -1 minecraft:quartz_bricks
+setblock -7 -40 0 minecraft:quartz_bricks
+setblock -7 -40 1 minecraft:sea_lantern
+setblock -7 -40 2 minecraft:quartz_bricks
+setblock -7 -40 3 minecraft:quartz_bricks
+setblock -7 -40 4 minecraft:quartz_bricks
+setblock -7 -40 5 minecraft:sea_lantern
+setblock -7 -40 6 minecraft:quartz_bricks
+setblock -7 -40 7 minecraft:quartz_bricks
+setblock -7 -40 -7 minecraft:sea_lantern
+setblock -7 -39 -7 minecraft:quartz_bricks
+setblock -7 -38 -7 minecraft:quartz_bricks
+setblock -7 -37 -7 minecraft:quartz_bricks
+setblock -7 -36 -7 minecraft:sea_lantern
+setblock -7 -35 -7 minecraft:quartz_bricks
+setblock -7 -34 -7 minecraft:quartz_bricks
+setblock -7 -33 -7 minecraft:quartz_bricks
+setblock -7 -32 -7 minecraft:sea_lantern
+setblock -7 -31 -7 minecraft:quartz_bricks
+setblock -7 -30 -7 minecraft:quartz_bricks
+setblock -7 -29 -7 minecraft:quartz_bricks
+setblock -7 -28 -7 minecraft:sea_lantern
+setblock -7 -27 -7 minecraft:quartz_bricks
+setblock -7 -26 -7 minecraft:quartz_bricks
+setblock -7 -40 -7 minecraft:sea_lantern
+setblock -6 -40 -7 minecraft:quartz_bricks
+setblock -5 -40 -7 minecraft:quartz_bricks
+setblock -4 -40 -7 minecraft:quartz_bricks
+setblock -3 -40 -7 minecraft:sea_lantern
+setblock -2 -40 -7 minecraft:quartz_bricks
+setblock -1 -40 -7 minecraft:quartz_bricks
+setblock 0 -40 -7 minecraft:quartz_bricks
+setblock 1 -40 -7 minecraft:sea_lantern
+setblock 2 -40 -7 minecraft:quartz_bricks
+setblock 3 -40 -7 minecraft:quartz_bricks
+setblock 4 -40 -7 minecraft:quartz_bricks
+setblock 5 -40 -7 minecraft:sea_lantern
+setblock 6 -40 -7 minecraft:quartz_bricks
+setblock 7 -40 -7 minecraft:quartz_bricks
+setblock -7 -40 7 minecraft:sea_lantern
+setblock -7 -39 7 minecraft:quartz_bricks
+setblock -7 -38 7 minecraft:quartz_bricks
+setblock -7 -37 7 minecraft:quartz_bricks
+setblock -7 -36 7 minecraft:sea_lantern
+setblock -7 -35 7 minecraft:quartz_bricks
+setblock -7 -34 7 minecraft:quartz_bricks
+setblock -7 -33 7 minecraft:quartz_bricks
+setblock -7 -32 7 minecraft:sea_lantern
+setblock -7 -31 7 minecraft:quartz_bricks
+setblock -7 -30 7 minecraft:quartz_bricks
+setblock -7 -29 7 minecraft:quartz_bricks
+setblock -7 -28 7 minecraft:sea_lantern
+setblock -7 -27 7 minecraft:quartz_bricks
+setblock -7 -26 7 minecraft:quartz_bricks
+setblock -7 -40 7 minecraft:sea_lantern
+setblock -6 -40 7 minecraft:quartz_bricks
+setblock -5 -40 7 minecraft:quartz_bricks
+setblock -4 -40 7 minecraft:quartz_bricks
+setblock -3 -40 7 minecraft:sea_lantern
+setblock -2 -40 7 minecraft:quartz_bricks
+setblock -1 -40 7 minecraft:quartz_bricks
+setblock 0 -40 7 minecraft:quartz_bricks
+setblock 1 -40 7 minecraft:sea_lantern
+setblock 2 -40 7 minecraft:quartz_bricks
+setblock 3 -40 7 minecraft:quartz_bricks
+setblock 4 -40 7 minecraft:quartz_bricks
+setblock 5 -40 7 minecraft:sea_lantern
+setblock 6 -40 7 minecraft:quartz_bricks
+setblock 7 -40 7 minecraft:quartz_bricks
+setblock -7 -26 -7 minecraft:sea_lantern
+setblock -7 -26 -6 minecraft:quartz_bricks
+setblock -7 -26 -5 minecraft:quartz_bricks
+setblock -7 -26 -4 minecraft:quartz_bricks
+setblock -7 -26 -3 minecraft:sea_lantern
+setblock -7 -26 -2 minecraft:quartz_bricks
+setblock -7 -26 -1 minecraft:quartz_bricks
+setblock -7 -26 0 minecraft:quartz_bricks
+setblock -7 -26 1 minecraft:sea_lantern
+setblock -7 -26 2 minecraft:quartz_bricks
+setblock -7 -26 3 minecraft:quartz_bricks
+setblock -7 -26 4 minecraft:quartz_bricks
+setblock -7 -26 5 minecraft:sea_lantern
+setblock -7 -26 6 minecraft:quartz_bricks
+setblock -7 -26 7 minecraft:quartz_bricks
+setblock -7 -26 -7 minecraft:sea_lantern
+setblock -6 -26 -7 minecraft:quartz_bricks
+setblock -5 -26 -7 minecraft:quartz_bricks
+setblock -4 -26 -7 minecraft:quartz_bricks
+setblock -3 -26 -7 minecraft:sea_lantern
+setblock -2 -26 -7 minecraft:quartz_bricks
+setblock -1 -26 -7 minecraft:quartz_bricks
+setblock 0 -26 -7 minecraft:quartz_bricks
+setblock 1 -26 -7 minecraft:sea_lantern
+setblock 2 -26 -7 minecraft:quartz_bricks
+setblock 3 -26 -7 minecraft:quartz_bricks
+setblock 4 -26 -7 minecraft:quartz_bricks
+setblock 5 -26 -7 minecraft:sea_lantern
+setblock 6 -26 -7 minecraft:quartz_bricks
+setblock 7 -26 -7 minecraft:quartz_bricks
+setblock -7 -26 7 minecraft:sea_lantern
+setblock -6 -26 7 minecraft:quartz_bricks
+setblock -5 -26 7 minecraft:quartz_bricks
+setblock -4 -26 7 minecraft:quartz_bricks
+setblock -3 -26 7 minecraft:sea_lantern
+setblock -2 -26 7 minecraft:quartz_bricks
+setblock -1 -26 7 minecraft:quartz_bricks
+setblock 0 -26 7 minecraft:quartz_bricks
+setblock 1 -26 7 minecraft:sea_lantern
+setblock 2 -26 7 minecraft:quartz_bricks
+setblock 3 -26 7 minecraft:quartz_bricks
+setblock 4 -26 7 minecraft:quartz_bricks
+setblock 5 -26 7 minecraft:sea_lantern
+setblock 6 -26 7 minecraft:quartz_bricks
+setblock 7 -26 7 minecraft:quartz_bricks
+setblock 7 -40 -7 minecraft:sea_lantern
+setblock 7 -40 -6 minecraft:quartz_bricks
+setblock 7 -40 -5 minecraft:quartz_bricks
+setblock 7 -40 -4 minecraft:quartz_bricks
+setblock 7 -40 -3 minecraft:sea_lantern
+setblock 7 -40 -2 minecraft:quartz_bricks
+setblock 7 -40 -1 minecraft:quartz_bricks
+setblock 7 -40 0 minecraft:quartz_bricks
+setblock 7 -40 1 minecraft:sea_lantern
+setblock 7 -40 2 minecraft:quartz_bricks
+setblock 7 -40 3 minecraft:quartz_bricks
+setblock 7 -40 4 minecraft:quartz_bricks
+setblock 7 -40 5 minecraft:sea_lantern
+setblock 7 -40 6 minecraft:quartz_bricks
+setblock 7 -40 7 minecraft:quartz_bricks
+setblock 7 -40 -7 minecraft:sea_lantern
+setblock 7 -39 -7 minecraft:quartz_bricks
+setblock 7 -38 -7 minecraft:quartz_bricks
+setblock 7 -37 -7 minecraft:quartz_bricks
+setblock 7 -36 -7 minecraft:sea_lantern
+setblock 7 -35 -7 minecraft:quartz_bricks
+setblock 7 -34 -7 minecraft:quartz_bricks
+setblock 7 -33 -7 minecraft:quartz_bricks
+setblock 7 -32 -7 minecraft:sea_lantern
+setblock 7 -31 -7 minecraft:quartz_bricks
+setblock 7 -30 -7 minecraft:quartz_bricks
+setblock 7 -29 -7 minecraft:quartz_bricks
+setblock 7 -28 -7 minecraft:sea_lantern
+setblock 7 -27 -7 minecraft:quartz_bricks
+setblock 7 -26 -7 minecraft:quartz_bricks
+setblock 7 -40 7 minecraft:sea_lantern
+setblock 7 -39 7 minecraft:quartz_bricks
+setblock 7 -38 7 minecraft:quartz_bricks
+setblock 7 -37 7 minecraft:quartz_bricks
+setblock 7 -36 7 minecraft:sea_lantern
+setblock 7 -35 7 minecraft:quartz_bricks
+setblock 7 -34 7 minecraft:quartz_bricks
+setblock 7 -33 7 minecraft:quartz_bricks
+setblock 7 -32 7 minecraft:sea_lantern
+setblock 7 -31 7 minecraft:quartz_bricks
+setblock 7 -30 7 minecraft:quartz_bricks
+setblock 7 -29 7 minecraft:quartz_bricks
+setblock 7 -28 7 minecraft:sea_lantern
+setblock 7 -27 7 minecraft:quartz_bricks
+setblock 7 -26 7 minecraft:quartz_bricks
+setblock 7 -26 -7 minecraft:sea_lantern
+setblock 7 -26 -6 minecraft:quartz_bricks
+setblock 7 -26 -5 minecraft:quartz_bricks
+setblock 7 -26 -4 minecraft:quartz_bricks
+setblock 7 -26 -3 minecraft:sea_lantern
+setblock 7 -26 -2 minecraft:quartz_bricks
+setblock 7 -26 -1 minecraft:quartz_bricks
+setblock 7 -26 0 minecraft:quartz_bricks
+setblock 7 -26 1 minecraft:sea_lantern
+setblock 7 -26 2 minecraft:quartz_bricks
+setblock 7 -26 3 minecraft:quartz_bricks
+setblock 7 -26 4 minecraft:quartz_bricks
+setblock 7 -26 5 minecraft:sea_lantern
+setblock 7 -26 6 minecraft:quartz_bricks
+setblock 7 -26 7 minecraft:quartz_bricks
+setblock -16 -49 -16 minecraft:sea_lantern
+setblock -15 -48 -15 minecraft:chiseled_quartz_block
+setblock -14 -47 -14 minecraft:chiseled_quartz_block
+setblock -13 -46 -13 minecraft:sea_lantern
+setblock -12 -45 -12 minecraft:chiseled_quartz_block
+setblock -11 -44 -11 minecraft:chiseled_quartz_block
+setblock -10 -43 -10 minecraft:sea_lantern
+setblock -9 -42 -9 minecraft:chiseled_quartz_block
+setblock -8 -41 -8 minecraft:chiseled_quartz_block
+setblock -7 -40 -7 minecraft:sea_lantern
+setblock -16 -49 16 minecraft:sea_lantern
+setblock -15 -48 15 minecraft:chiseled_quartz_block
+setblock -14 -47 14 minecraft:chiseled_quartz_block
+setblock -13 -46 13 minecraft:sea_lantern
+setblock -12 -45 12 minecraft:chiseled_quartz_block
+setblock -11 -44 11 minecraft:chiseled_quartz_block
+setblock -10 -43 10 minecraft:sea_lantern
+setblock -9 -42 9 minecraft:chiseled_quartz_block
+setblock -8 -41 8 minecraft:chiseled_quartz_block
+setblock -7 -40 7 minecraft:sea_lantern
+setblock -16 -17 -16 minecraft:sea_lantern
+setblock -15 -18 -15 minecraft:chiseled_quartz_block
+setblock -14 -19 -14 minecraft:chiseled_quartz_block
+setblock -13 -20 -13 minecraft:sea_lantern
+setblock -12 -21 -12 minecraft:chiseled_quartz_block
+setblock -11 -22 -11 minecraft:chiseled_quartz_block
+setblock -10 -23 -10 minecraft:sea_lantern
+setblock -9 -24 -9 minecraft:chiseled_quartz_block
+setblock -8 -25 -8 minecraft:chiseled_quartz_block
+setblock -7 -26 -7 minecraft:sea_lantern
+setblock -16 -17 16 minecraft:sea_lantern
+setblock -15 -18 15 minecraft:chiseled_quartz_block
+setblock -14 -19 14 minecraft:chiseled_quartz_block
+setblock -13 -20 13 minecraft:sea_lantern
+setblock -12 -21 12 minecraft:chiseled_quartz_block
+setblock -11 -22 11 minecraft:chiseled_quartz_block
+setblock -10 -23 10 minecraft:sea_lantern
+setblock -9 -24 9 minecraft:chiseled_quartz_block
+setblock -8 -25 8 minecraft:chiseled_quartz_block
+setblock -7 -26 7 minecraft:sea_lantern
+setblock 16 -49 -16 minecraft:sea_lantern
+setblock 15 -48 -15 minecraft:chiseled_quartz_block
+setblock 14 -47 -14 minecraft:chiseled_quartz_block
+setblock 13 -46 -13 minecraft:sea_lantern
+setblock 12 -45 -12 minecraft:chiseled_quartz_block
+setblock 11 -44 -11 minecraft:chiseled_quartz_block
+setblock 10 -43 -10 minecraft:sea_lantern
+setblock 9 -42 -9 minecraft:chiseled_quartz_block
+setblock 8 -41 -8 minecraft:chiseled_quartz_block
+setblock 7 -40 -7 minecraft:sea_lantern
+setblock 16 -49 16 minecraft:sea_lantern
+setblock 15 -48 15 minecraft:chiseled_quartz_block
+setblock 14 -47 14 minecraft:chiseled_quartz_block
+setblock 13 -46 13 minecraft:sea_lantern
+setblock 12 -45 12 minecraft:chiseled_quartz_block
+setblock 11 -44 11 minecraft:chiseled_quartz_block
+setblock 10 -43 10 minecraft:sea_lantern
+setblock 9 -42 9 minecraft:chiseled_quartz_block
+setblock 8 -41 8 minecraft:chiseled_quartz_block
+setblock 7 -40 7 minecraft:sea_lantern
+setblock 16 -17 -16 minecraft:sea_lantern
+setblock 15 -18 -15 minecraft:chiseled_quartz_block
+setblock 14 -19 -14 minecraft:chiseled_quartz_block
+setblock 13 -20 -13 minecraft:sea_lantern
+setblock 12 -21 -12 minecraft:chiseled_quartz_block
+setblock 11 -22 -11 minecraft:chiseled_quartz_block
+setblock 10 -23 -10 minecraft:sea_lantern
+setblock 9 -24 -9 minecraft:chiseled_quartz_block
+setblock 8 -25 -8 minecraft:chiseled_quartz_block
+setblock 7 -26 -7 minecraft:sea_lantern
+setblock 16 -17 16 minecraft:sea_lantern
+setblock 15 -18 15 minecraft:chiseled_quartz_block
+setblock 14 -19 14 minecraft:chiseled_quartz_block
+setblock 13 -20 13 minecraft:sea_lantern
+setblock 12 -21 12 minecraft:chiseled_quartz_block
+setblock 11 -22 11 minecraft:chiseled_quartz_block
+setblock 10 -23 10 minecraft:sea_lantern
+setblock 9 -24 9 minecraft:chiseled_quartz_block
+setblock 8 -25 8 minecraft:chiseled_quartz_block
+setblock 7 -26 7 minecraft:sea_lantern
+setblock -16 -49 -16 minecraft:sea_lantern
+setblock -16 -49 16 minecraft:sea_lantern
+setblock -16 -17 -16 minecraft:sea_lantern
+setblock -16 -17 16 minecraft:sea_lantern
+setblock 16 -49 -16 minecraft:sea_lantern
+setblock 16 -49 16 minecraft:sea_lantern
+setblock 16 -17 -16 minecraft:sea_lantern
+setblock 16 -17 16 minecraft:sea_lantern
+setblock -7 -40 -7 minecraft:sea_lantern
+setblock -7 -40 7 minecraft:sea_lantern
+setblock -7 -26 -7 minecraft:sea_lantern
+setblock -7 -26 7 minecraft:sea_lantern
+setblock 7 -40 -7 minecraft:sea_lantern
+setblock 7 -40 7 minecraft:sea_lantern
+setblock 7 -26 -7 minecraft:sea_lantern
+setblock 7 -26 7 minecraft:sea_lantern
+setblock -36 -49 0 minecraft:quartz_bricks
+setblock -35 -49 -8 minecraft:quartz_bricks
+setblock -35 -49 -7 minecraft:quartz_bricks
+setblock -35 -49 -6 minecraft:quartz_bricks
+setblock -35 -49 -5 minecraft:quartz_bricks
+setblock -35 -49 -4 minecraft:quartz_bricks
+setblock -35 -49 -3 minecraft:quartz_bricks
+setblock -35 -49 -2 minecraft:quartz_bricks
+setblock -35 -49 -1 minecraft:quartz_bricks
+setblock -35 -49 0 minecraft:smooth_quartz
+setblock -35 -49 1 minecraft:quartz_bricks
+setblock -35 -49 2 minecraft:quartz_bricks
+setblock -35 -49 3 minecraft:quartz_bricks
+setblock -35 -49 4 minecraft:quartz_bricks
+setblock -35 -49 5 minecraft:quartz_bricks
+setblock -35 -49 6 minecraft:quartz_bricks
+setblock -35 -49 7 minecraft:quartz_bricks
+setblock -35 -49 8 minecraft:quartz_bricks
+setblock -34 -49 -11 minecraft:quartz_bricks
+setblock -34 -49 -10 minecraft:quartz_bricks
+setblock -34 -49 -9 minecraft:quartz_bricks
+setblock -34 -49 -8 minecraft:smooth_quartz
+setblock -34 -49 -7 minecraft:smooth_quartz
+setblock -34 -49 -6 minecraft:smooth_quartz
+setblock -34 -49 -5 minecraft:smooth_quartz
+setblock -34 -49 -4 minecraft:smooth_quartz
+setblock -34 -48 -4 minecraft:sea_lantern
+setblock -34 -49 -3 minecraft:smooth_quartz
+setblock -34 -49 -2 minecraft:smooth_quartz
+setblock -34 -49 -1 minecraft:smooth_quartz
+setblock -34 -49 0 minecraft:smooth_quartz
+setblock -34 -49 1 minecraft:smooth_quartz
+setblock -34 -48 1 minecraft:sea_lantern
+setblock -34 -49 2 minecraft:smooth_quartz
+setblock -34 -49 3 minecraft:smooth_quartz
+setblock -34 -49 4 minecraft:smooth_quartz
+setblock -34 -49 5 minecraft:smooth_quartz
+setblock -34 -49 6 minecraft:smooth_quartz
+setblock -34 -49 7 minecraft:smooth_quartz
+setblock -34 -49 8 minecraft:smooth_quartz
+setblock -34 -49 9 minecraft:quartz_bricks
+setblock -34 -49 10 minecraft:quartz_bricks
+setblock -34 -49 11 minecraft:quartz_bricks
+setblock -33 -49 -14 minecraft:quartz_bricks
+setblock -33 -49 -13 minecraft:quartz_bricks
+setblock -33 -49 -12 minecraft:quartz_bricks
+setblock -33 -49 -11 minecraft:smooth_quartz
+setblock -33 -49 -10 minecraft:smooth_quartz
+setblock -33 -49 -9 minecraft:smooth_quartz
+setblock -33 -49 -8 minecraft:smooth_quartz
+setblock -33 -49 -7 minecraft:smooth_quartz
+setblock -33 -49 -6 minecraft:smooth_quartz
+setblock -33 -49 -5 minecraft:smooth_quartz
+setblock -33 -49 -4 minecraft:smooth_quartz
+setblock -33 -49 -3 minecraft:smooth_quartz
+setblock -33 -49 -2 minecraft:smooth_quartz
+setblock -33 -49 -1 minecraft:smooth_quartz
+setblock -33 -49 0 minecraft:smooth_quartz
+setblock -33 -49 1 minecraft:smooth_quartz
+setblock -33 -49 2 minecraft:smooth_quartz
+setblock -33 -49 3 minecraft:smooth_quartz
+setblock -33 -49 4 minecraft:smooth_quartz
+setblock -33 -48 4 minecraft:sea_lantern
+setblock -33 -49 5 minecraft:smooth_quartz
+setblock -33 -49 6 minecraft:smooth_quartz
+setblock -33 -49 7 minecraft:smooth_quartz
+setblock -33 -49 8 minecraft:smooth_quartz
+setblock -33 -49 9 minecraft:smooth_quartz
+setblock -33 -49 10 minecraft:smooth_quartz
+setblock -33 -49 11 minecraft:smooth_quartz
+setblock -33 -49 12 minecraft:quartz_bricks
+setblock -33 -49 13 minecraft:quartz_bricks
+setblock -33 -49 14 minecraft:quartz_bricks
+setblock -32 -49 -16 minecraft:quartz_bricks
+setblock -32 -49 -15 minecraft:quartz_bricks
+setblock -32 -49 -14 minecraft:smooth_quartz
+setblock -32 -49 -13 minecraft:smooth_quartz
+setblock -32 -49 -12 minecraft:smooth_quartz
+setblock -32 -49 -11 minecraft:smooth_quartz
+setblock -32 -48 -11 minecraft:sea_lantern
+setblock -32 -49 -10 minecraft:smooth_quartz
+setblock -32 -49 -9 minecraft:smooth_quartz
+setblock -32 -49 -8 minecraft:quartz_bricks
+setblock -32 -49 -7 minecraft:quartz_bricks
+setblock -32 -49 -6 minecraft:quartz_bricks
+setblock -32 -49 -5 minecraft:quartz_bricks
+setblock -32 -49 -4 minecraft:quartz_bricks
+setblock -32 -49 -3 minecraft:quartz_bricks
+setblock -32 -49 -2 minecraft:quartz_bricks
+setblock -32 -49 -1 minecraft:quartz_bricks
+setblock -32 -49 0 minecraft:quartz_bricks
+setblock -32 -49 1 minecraft:quartz_bricks
+setblock -32 -49 2 minecraft:quartz_bricks
+setblock -32 -49 3 minecraft:quartz_bricks
+setblock -32 -49 4 minecraft:quartz_bricks
+setblock -32 -49 5 minecraft:quartz_bricks
+setblock -32 -49 6 minecraft:quartz_bricks
+setblock -32 -49 7 minecraft:quartz_bricks
+setblock -32 -49 8 minecraft:quartz_bricks
+setblock -32 -49 9 minecraft:smooth_quartz
+setblock -32 -49 10 minecraft:smooth_quartz
+setblock -32 -49 11 minecraft:smooth_quartz
+setblock -32 -49 12 minecraft:smooth_quartz
+setblock -32 -49 13 minecraft:smooth_quartz
+setblock -32 -49 14 minecraft:smooth_quartz
+setblock -32 -49 15 minecraft:quartz_bricks
+setblock -32 -49 16 minecraft:quartz_bricks
+setblock -31 -49 -18 minecraft:quartz_bricks
+setblock -31 -49 -17 minecraft:quartz_bricks
+setblock -31 -49 -16 minecraft:smooth_quartz
+setblock -31 -49 -15 minecraft:smooth_quartz
+setblock -31 -49 -14 minecraft:smooth_quartz
+setblock -31 -49 -13 minecraft:smooth_quartz
+setblock -31 -49 -12 minecraft:smooth_quartz
+setblock -31 -49 -11 minecraft:quartz_bricks
+setblock -31 -49 -10 minecraft:quartz_bricks
+setblock -31 -49 -9 minecraft:quartz_bricks
+setblock -31 -49 -8 minecraft:quartz_bricks
+setblock -31 -49 8 minecraft:quartz_bricks
+setblock -31 -49 9 minecraft:quartz_bricks
+setblock -31 -49 10 minecraft:quartz_bricks
+setblock -31 -49 11 minecraft:quartz_bricks
+setblock -31 -49 12 minecraft:smooth_quartz
+setblock -31 -49 13 minecraft:smooth_quartz
+setblock -31 -49 14 minecraft:smooth_quartz
+setblock -31 -49 15 minecraft:smooth_quartz
+setblock -31 -49 16 minecraft:smooth_quartz
+setblock -31 -49 17 minecraft:quartz_bricks
+setblock -31 -49 18 minecraft:quartz_bricks
+setblock -30 -49 -19 minecraft:quartz_bricks
+setblock -30 -49 -18 minecraft:smooth_quartz
+setblock -30 -48 -18 minecraft:sea_lantern
+setblock -30 -49 -17 minecraft:smooth_quartz
+setblock -30 -49 -16 minecraft:smooth_quartz
+setblock -30 -49 -15 minecraft:smooth_quartz
+setblock -30 -49 -14 minecraft:smooth_quartz
+setblock -30 -49 -13 minecraft:quartz_bricks
+setblock -30 -49 -12 minecraft:quartz_bricks
+setblock -30 -49 12 minecraft:quartz_bricks
+setblock -30 -49 13 minecraft:quartz_bricks
+setblock -30 -49 14 minecraft:smooth_quartz
+setblock -30 -48 14 minecraft:sea_lantern
+setblock -30 -49 15 minecraft:smooth_quartz
+setblock -30 -49 16 minecraft:smooth_quartz
+setblock -30 -49 17 minecraft:smooth_quartz
+setblock -30 -49 18 minecraft:smooth_quartz
+setblock -30 -49 19 minecraft:quartz_bricks
+setblock -29 -49 -20 minecraft:quartz_bricks
+setblock -29 -49 -19 minecraft:smooth_quartz
+setblock -29 -48 -19 minecraft:sea_lantern
+setblock -29 -49 -18 minecraft:smooth_quartz
+setblock -29 -49 -17 minecraft:smooth_quartz
+setblock -29 -49 -16 minecraft:smooth_quartz
+setblock -29 -49 -15 minecraft:quartz_bricks
+setblock -29 -49 -14 minecraft:quartz_bricks
+setblock -29 -49 14 minecraft:quartz_bricks
+setblock -29 -49 15 minecraft:quartz_bricks
+setblock -29 -49 16 minecraft:smooth_quartz
+setblock -29 -49 17 minecraft:smooth_quartz
+setblock -29 -49 18 minecraft:smooth_quartz
+setblock -29 -48 18 minecraft:sea_lantern
+setblock -29 -49 19 minecraft:smooth_quartz
+setblock -29 -49 20 minecraft:quartz_bricks
+setblock -29 -49 21 minecraft:quartz_bricks
+setblock -28 -49 -19 minecraft:smooth_quartz
+setblock -28 -49 -18 minecraft:smooth_quartz
+setblock -28 -49 -17 minecraft:quartz_bricks
+setblock -28 -49 -16 minecraft:quartz_bricks
+setblock -28 -49 16 minecraft:quartz_bricks
+setblock -28 -49 17 minecraft:quartz_bricks
+setblock -28 -49 18 minecraft:smooth_quartz
+setblock -28 -49 19 minecraft:smooth_quartz
+setblock -28 -49 20 minecraft:smooth_quartz
+setblock -28 -49 21 minecraft:smooth_quartz
+setblock -28 -48 21 minecraft:sea_lantern
+setblock -28 -49 22 minecraft:quartz_bricks
+setblock -27 -49 -18 minecraft:quartz_bricks
+setblock -27 -49 18 minecraft:quartz_bricks
+setblock -27 -49 19 minecraft:smooth_quartz
+setblock -27 -49 20 minecraft:smooth_quartz
+setblock -27 -49 21 minecraft:smooth_quartz
+setblock -27 -49 22 minecraft:smooth_quartz
+setblock -27 -49 23 minecraft:quartz_bricks
+setblock -26 -49 19 minecraft:quartz_bricks
+setblock -26 -49 20 minecraft:quartz_bricks
+setblock -26 -49 21 minecraft:smooth_quartz
+setblock -26 -49 22 minecraft:smooth_quartz
+setblock -26 -49 23 minecraft:smooth_quartz
+setblock -26 -49 24 minecraft:quartz_bricks
+setblock -25 -49 20 minecraft:quartz_bricks
+setblock -25 -49 21 minecraft:quartz_bricks
+setblock -25 -49 22 minecraft:smooth_quartz
+setblock -25 -49 23 minecraft:smooth_quartz
+setblock -25 -49 24 minecraft:smooth_quartz
+setblock -25 -49 25 minecraft:quartz_bricks
+setblock -24 -49 22 minecraft:quartz_bricks
+setblock -24 -49 23 minecraft:smooth_quartz
+setblock -24 -49 24 minecraft:smooth_quartz
+setblock -24 -49 25 minecraft:smooth_quartz
+setblock -24 -49 26 minecraft:quartz_bricks
+setblock -23 -49 23 minecraft:quartz_bricks
+setblock -23 -49 24 minecraft:smooth_quartz
+setblock -23 -49 25 minecraft:smooth_quartz
+setblock -23 -49 26 minecraft:smooth_quartz
+setblock -23 -49 27 minecraft:quartz_bricks
+setblock -22 -49 24 minecraft:quartz_bricks
+setblock -22 -49 25 minecraft:smooth_quartz
+setblock -22 -49 26 minecraft:smooth_quartz
+setblock -22 -49 27 minecraft:smooth_quartz
+setblock -22 -49 28 minecraft:quartz_bricks
+setblock -21 -49 25 minecraft:quartz_bricks
+setblock -21 -49 26 minecraft:smooth_quartz
+setblock -21 -49 27 minecraft:smooth_quartz
+setblock -21 -49 28 minecraft:smooth_quartz
+setblock -21 -49 29 minecraft:quartz_bricks
+setblock -20 -49 25 minecraft:quartz_bricks
+setblock -20 -49 26 minecraft:quartz_bricks
+setblock -20 -49 27 minecraft:smooth_quartz
+setblock -20 -49 28 minecraft:smooth_quartz
+setblock -20 -49 29 minecraft:quartz_bricks
+setblock -19 -49 26 minecraft:quartz_bricks
+setblock -19 -49 27 minecraft:smooth_quartz
+setblock -19 -49 28 minecraft:smooth_quartz
+setblock -19 -49 29 minecraft:smooth_quartz
+setblock -19 -49 30 minecraft:quartz_bricks
+setblock -18 -49 27 minecraft:quartz_bricks
+setblock -18 -49 28 minecraft:smooth_quartz
+setblock -18 -49 29 minecraft:smooth_quartz
+setblock -18 -49 30 minecraft:smooth_quartz
+setblock -18 -49 31 minecraft:quartz_bricks
+setblock -17 -49 28 minecraft:quartz_bricks
+setblock -17 -49 29 minecraft:smooth_quartz
+setblock -17 -49 30 minecraft:smooth_quartz
+setblock -17 -49 31 minecraft:quartz_bricks
+setblock -16 -49 28 minecraft:quartz_bricks
+setblock -16 -49 29 minecraft:smooth_quartz
+setblock -16 -49 30 minecraft:smooth_quartz
+setblock -16 -49 31 minecraft:smooth_quartz
+setblock -16 -49 32 minecraft:quartz_bricks
+setblock -15 -49 29 minecraft:quartz_bricks
+setblock -15 -49 30 minecraft:smooth_quartz
+setblock -15 -49 31 minecraft:smooth_quartz
+setblock -15 -49 32 minecraft:quartz_bricks
+setblock -14 -49 29 minecraft:quartz_bricks
+setblock -14 -49 30 minecraft:smooth_quartz
+setblock -14 -49 31 minecraft:smooth_quartz
+setblock -14 -49 32 minecraft:smooth_quartz
+setblock -14 -49 33 minecraft:quartz_bricks
+setblock -13 -49 30 minecraft:quartz_bricks
+setblock -13 -49 31 minecraft:smooth_quartz
+setblock -13 -48 31 minecraft:sea_lantern
+setblock -13 -49 32 minecraft:smooth_quartz
+setblock -13 -49 33 minecraft:quartz_bricks
+setblock -12 -49 30 minecraft:quartz_bricks
+setblock -12 -49 31 minecraft:smooth_quartz
+setblock -12 -49 32 minecraft:smooth_quartz
+setblock -12 -49 33 minecraft:quartz_bricks
+setblock -11 -49 31 minecraft:quartz_bricks
+setblock -11 -49 32 minecraft:smooth_quartz
+setblock -11 -49 33 minecraft:smooth_quartz
+setblock -11 -49 34 minecraft:quartz_bricks
+setblock -10 -49 31 minecraft:quartz_bricks
+setblock -10 -49 32 minecraft:smooth_quartz
+setblock -10 -49 33 minecraft:smooth_quartz
+setblock -10 -49 34 minecraft:quartz_bricks
+setblock -9 -49 31 minecraft:quartz_bricks
+setblock -9 -49 32 minecraft:smooth_quartz
+setblock -9 -48 32 minecraft:sea_lantern
+setblock -9 -49 33 minecraft:smooth_quartz
+setblock -9 -49 34 minecraft:quartz_bricks
+setblock -8 -49 31 minecraft:quartz_bricks
+setblock -8 -49 32 minecraft:quartz_bricks
+setblock -8 -49 33 minecraft:smooth_quartz
+setblock -8 -49 34 minecraft:smooth_quartz
+setblock -8 -49 35 minecraft:quartz_bricks
+setblock -7 -49 32 minecraft:quartz_bricks
+setblock -7 -49 33 minecraft:smooth_quartz
+setblock -7 -48 33 minecraft:sea_lantern
+setblock -7 -49 34 minecraft:smooth_quartz
+setblock -7 -49 35 minecraft:quartz_bricks
+setblock -6 -49 32 minecraft:quartz_bricks
+setblock -6 -49 33 minecraft:smooth_quartz
+setblock -6 -49 34 minecraft:smooth_quartz
+setblock -6 -49 35 minecraft:quartz_bricks
+setblock -5 -49 32 minecraft:quartz_bricks
+setblock -5 -49 33 minecraft:smooth_quartz
+setblock -5 -49 34 minecraft:smooth_quartz
+setblock -5 -48 34 minecraft:sea_lantern
+setblock -5 -49 35 minecraft:quartz_bricks
+setblock -4 -49 32 minecraft:quartz_bricks
+setblock -4 -49 33 minecraft:smooth_quartz
+setblock -4 -49 34 minecraft:smooth_quartz
+setblock -4 -49 35 minecraft:quartz_bricks
+setblock -3 -49 32 minecraft:quartz_bricks
+setblock -3 -49 33 minecraft:smooth_quartz
+setblock -3 -49 34 minecraft:smooth_quartz
+setblock -3 -49 35 minecraft:quartz_bricks
+setblock -2 -49 32 minecraft:quartz_bricks
+setblock -2 -49 33 minecraft:smooth_quartz
+setblock -2 -49 34 minecraft:smooth_quartz
+setblock -2 -49 35 minecraft:quartz_bricks
+setblock -1 -49 32 minecraft:quartz_bricks
+setblock -1 -49 33 minecraft:smooth_quartz
+setblock -1 -49 34 minecraft:smooth_quartz
+setblock -1 -49 35 minecraft:quartz_bricks
+setblock 0 -49 32 minecraft:quartz_bricks
+setblock 0 -49 33 minecraft:smooth_quartz
+setblock 0 -49 34 minecraft:smooth_quartz
+setblock 0 -49 35 minecraft:smooth_quartz
+setblock 0 -49 36 minecraft:quartz_bricks
+setblock 1 -49 32 minecraft:quartz_bricks
+setblock 1 -49 33 minecraft:smooth_quartz
+setblock 1 -49 34 minecraft:smooth_quartz
+setblock 1 -49 35 minecraft:quartz_bricks
+setblock 2 -49 32 minecraft:quartz_bricks
+setblock 2 -49 33 minecraft:smooth_quartz
+setblock 2 -49 34 minecraft:smooth_quartz
+setblock 2 -49 35 minecraft:quartz_bricks
+setblock 3 -49 32 minecraft:quartz_bricks
+setblock 3 -49 33 minecraft:smooth_quartz
+setblock 3 -49 34 minecraft:smooth_quartz
+setblock 3 -49 35 minecraft:quartz_bricks
+setblock 4 -49 32 minecraft:quartz_bricks
+setblock 4 -49 33 minecraft:smooth_quartz
+setblock 4 -49 34 minecraft:smooth_quartz
+setblock 4 -49 35 minecraft:quartz_bricks
+setblock 5 -49 32 minecraft:quartz_bricks
+setblock 5 -49 33 minecraft:smooth_quartz
+setblock 5 -49 34 minecraft:smooth_quartz
+setblock 5 -49 35 minecraft:quartz_bricks
+setblock 6 -49 32 minecraft:quartz_bricks
+setblock 6 -49 33 minecraft:smooth_quartz
+setblock 6 -49 34 minecraft:smooth_quartz
+setblock 6 -49 35 minecraft:quartz_bricks
+setblock 7 -49 32 minecraft:quartz_bricks
+setblock 7 -49 33 minecraft:smooth_quartz
+setblock 7 -49 34 minecraft:smooth_quartz
+setblock 7 -49 35 minecraft:quartz_bricks
+setblock 8 -49 31 minecraft:quartz_bricks
+setblock 8 -49 32 minecraft:quartz_bricks
+setblock 8 -49 33 minecraft:smooth_quartz
+setblock 8 -49 34 minecraft:smooth_quartz
+setblock 8 -49 35 minecraft:quartz_bricks
+setblock 9 -49 31 minecraft:quartz_bricks
+setblock 9 -49 32 minecraft:smooth_quartz
+setblock 9 -49 33 minecraft:smooth_quartz
+setblock 9 -49 34 minecraft:quartz_bricks
+setblock 10 -49 31 minecraft:quartz_bricks
+setblock 10 -49 32 minecraft:smooth_quartz
+setblock 10 -49 33 minecraft:smooth_quartz
+setblock 10 -49 34 minecraft:quartz_bricks
+setblock 11 -49 31 minecraft:quartz_bricks
+setblock 11 -49 32 minecraft:smooth_quartz
+setblock 11 -49 33 minecraft:smooth_quartz
+setblock 11 -49 34 minecraft:quartz_bricks
+setblock 12 -49 30 minecraft:quartz_bricks
+setblock 12 -49 31 minecraft:smooth_quartz
+setblock 12 -49 32 minecraft:smooth_quartz
+setblock 12 -49 33 minecraft:quartz_bricks
+setblock 13 -49 30 minecraft:quartz_bricks
+setblock 13 -49 31 minecraft:smooth_quartz
+setblock 13 -49 32 minecraft:smooth_quartz
+setblock 13 -48 32 minecraft:sea_lantern
+setblock 13 -49 33 minecraft:quartz_bricks
+setblock 14 -49 29 minecraft:quartz_bricks
+setblock 14 -49 30 minecraft:smooth_quartz
+setblock 14 -49 31 minecraft:smooth_quartz
+setblock 14 -49 32 minecraft:smooth_quartz
+setblock 14 -49 33 minecraft:quartz_bricks
+setblock 15 -49 29 minecraft:quartz_bricks
+setblock 15 -49 30 minecraft:smooth_quartz
+setblock 15 -49 31 minecraft:smooth_quartz
+setblock 15 -49 32 minecraft:quartz_bricks
+setblock 16 -49 28 minecraft:quartz_bricks
+setblock 16 -49 29 minecraft:smooth_quartz
+setblock 16 -49 30 minecraft:smooth_quartz
+setblock 16 -48 30 minecraft:sea_lantern
+setblock 16 -49 31 minecraft:smooth_quartz
+setblock 16 -49 32 minecraft:quartz_bricks
+setblock 17 -49 28 minecraft:quartz_bricks
+setblock 17 -49 29 minecraft:smooth_quartz
+setblock 17 -49 30 minecraft:smooth_quartz
+setblock 17 -49 31 minecraft:quartz_bricks
+setblock 18 -49 27 minecraft:quartz_bricks
+setblock 18 -49 28 minecraft:smooth_quartz
+setblock 18 -49 29 minecraft:smooth_quartz
+setblock 18 -49 30 minecraft:smooth_quartz
+setblock 18 -49 31 minecraft:quartz_bricks
+setblock 19 -49 26 minecraft:quartz_bricks
+setblock 19 -49 27 minecraft:smooth_quartz
+setblock 19 -49 28 minecraft:smooth_quartz
+setblock 19 -49 29 minecraft:smooth_quartz
+setblock 19 -49 30 minecraft:quartz_bricks
+setblock 20 -49 25 minecraft:quartz_bricks
+setblock 20 -49 26 minecraft:quartz_bricks
+setblock 20 -49 27 minecraft:smooth_quartz
+setblock 20 -49 28 minecraft:smooth_quartz
+setblock 20 -49 29 minecraft:quartz_bricks
+setblock 21 -49 25 minecraft:quartz_bricks
+setblock 21 -49 26 minecraft:smooth_quartz
+setblock 21 -49 27 minecraft:smooth_quartz
+setblock 21 -49 28 minecraft:smooth_quartz
+setblock 21 -49 29 minecraft:quartz_bricks
+setblock 22 -49 24 minecraft:quartz_bricks
+setblock 22 -49 25 minecraft:smooth_quartz
+setblock 22 -49 26 minecraft:smooth_quartz
+setblock 22 -49 27 minecraft:smooth_quartz
+setblock 22 -49 28 minecraft:quartz_bricks
+setblock 23 -49 23 minecraft:quartz_bricks
+setblock 23 -49 24 minecraft:smooth_quartz
+setblock 23 -49 25 minecraft:smooth_quartz
+setblock 23 -49 26 minecraft:smooth_quartz
+setblock 23 -49 27 minecraft:quartz_bricks
+setblock 24 -49 22 minecraft:quartz_bricks
+setblock 24 -49 23 minecraft:smooth_quartz
+setblock 24 -49 24 minecraft:smooth_quartz
+setblock 24 -49 25 minecraft:smooth_quartz
+setblock 24 -49 26 minecraft:quartz_bricks
+setblock 25 -49 20 minecraft:quartz_bricks
+setblock 25 -49 21 minecraft:quartz_bricks
+setblock 25 -49 22 minecraft:smooth_quartz
+setblock 25 -49 23 minecraft:smooth_quartz
+setblock 25 -48 23 minecraft:sea_lantern
+setblock 25 -49 24 minecraft:smooth_quartz
+setblock 25 -49 25 minecraft:quartz_bricks
+setblock 26 -49 19 minecraft:quartz_bricks
+setblock 26 -49 20 minecraft:quartz_bricks
+setblock 26 -49 21 minecraft:smooth_quartz
+setblock 26 -49 22 minecraft:smooth_quartz
+setblock 26 -49 23 minecraft:smooth_quartz
+setblock 26 -49 24 minecraft:quartz_bricks
+setblock 27 -49 18 minecraft:quartz_bricks
+setblock 27 -49 19 minecraft:smooth_quartz
+setblock 27 -49 20 minecraft:smooth_quartz
+setblock 27 -49 21 minecraft:smooth_quartz
+setblock 27 -49 22 minecraft:smooth_quartz
+setblock 27 -49 23 minecraft:quartz_bricks
+setblock 28 -49 16 minecraft:quartz_bricks
+setblock 28 -49 17 minecraft:quartz_bricks
+setblock 28 -49 18 minecraft:smooth_quartz
+setblock 28 -49 19 minecraft:smooth_quartz
+setblock 28 -49 20 minecraft:smooth_quartz
+setblock 28 -49 21 minecraft:smooth_quartz
+setblock 28 -49 22 minecraft:quartz_bricks
+setblock 29 -49 14 minecraft:quartz_bricks
+setblock 29 -49 15 minecraft:quartz_bricks
+setblock 29 -49 16 minecraft:smooth_quartz
+setblock 29 -49 17 minecraft:smooth_quartz
+setblock 29 -49 18 minecraft:smooth_quartz
+setblock 29 -48 18 minecraft:sea_lantern
+setblock 29 -49 19 minecraft:smooth_quartz
+setblock 29 -49 20 minecraft:quartz_bricks
+setblock 29 -49 21 minecraft:quartz_bricks
+setblock 30 -49 12 minecraft:quartz_bricks
+setblock 30 -49 13 minecraft:quartz_bricks
+setblock 30 -49 14 minecraft:smooth_quartz
+setblock 30 -49 15 minecraft:smooth_quartz
+setblock 30 -49 16 minecraft:smooth_quartz
+setblock 30 -49 17 minecraft:smooth_quartz
+setblock 30 -48 17 minecraft:sea_lantern
+setblock 30 -49 18 minecraft:smooth_quartz
+setblock 30 -49 19 minecraft:quartz_bricks
+setblock 31 -49 9 minecraft:quartz_bricks
+setblock 31 -49 10 minecraft:quartz_bricks
+setblock 31 -49 11 minecraft:quartz_bricks
+setblock 31 -49 12 minecraft:smooth_quartz
+setblock 31 -49 13 minecraft:smooth_quartz
+setblock 31 -49 14 minecraft:smooth_quartz
+setblock 31 -49 15 minecraft:smooth_quartz
+setblock 31 -49 16 minecraft:smooth_quartz
+setblock 31 -48 16 minecraft:sea_lantern
+setblock 31 -49 17 minecraft:quartz_bricks
+setblock 31 -49 18 minecraft:quartz_bricks
+setblock 32 -49 9 minecraft:smooth_quartz
+setblock 32 -49 10 minecraft:smooth_quartz
+setblock 32 -49 11 minecraft:smooth_quartz
+setblock 32 -49 12 minecraft:smooth_quartz
+setblock 32 -49 13 minecraft:smooth_quartz
+setblock 32 -49 14 minecraft:smooth_quartz
+setblock 32 -49 15 minecraft:quartz_bricks
+setblock 32 -49 16 minecraft:quartz_bricks
+setblock 33 -49 9 minecraft:smooth_quartz
+setblock 33 -49 10 minecraft:smooth_quartz
+setblock 33 -49 11 minecraft:smooth_quartz
+setblock 33 -48 11 minecraft:sea_lantern
+setblock 33 -49 12 minecraft:quartz_bricks
+setblock 33 -49 13 minecraft:quartz_bricks
+setblock 33 -49 14 minecraft:quartz_bricks
+setblock 34 -49 10 minecraft:quartz_bricks
+setblock 34 -49 11 minecraft:quartz_bricks
+setblock 33 -48 9 minecraft:chiseled_quartz_block
+setblock 33 -47 9 minecraft:sea_lantern
+setblock -28 -48 -20 minecraft:chiseled_quartz_block
+setblock -28 -47 -20 minecraft:sea_lantern
+setblock -44 -41 0 minecraft:quartz_bricks
+setblock -43 -41 -9 minecraft:quartz_bricks
+setblock -43 -41 -8 minecraft:quartz_bricks
+setblock -43 -41 -7 minecraft:quartz_bricks
+setblock -43 -41 -6 minecraft:quartz_bricks
+setblock -43 -41 -5 minecraft:quartz_bricks
+setblock -43 -41 -4 minecraft:quartz_bricks
+setblock -43 -41 -3 minecraft:quartz_bricks
+setblock -43 -41 -2 minecraft:quartz_bricks
+setblock -43 -41 -1 minecraft:quartz_bricks
+setblock -43 -41 0 minecraft:smooth_quartz
+setblock -43 -41 1 minecraft:quartz_bricks
+setblock -43 -41 2 minecraft:quartz_bricks
+setblock -43 -41 3 minecraft:quartz_bricks
+setblock -43 -41 4 minecraft:quartz_bricks
+setblock -43 -41 5 minecraft:quartz_bricks
+setblock -43 -41 6 minecraft:quartz_bricks
+setblock -43 -41 7 minecraft:quartz_bricks
+setblock -43 -41 8 minecraft:quartz_bricks
+setblock -43 -41 9 minecraft:quartz_bricks
+setblock -42 -41 -13 minecraft:quartz_bricks
+setblock -42 -41 -12 minecraft:quartz_bricks
+setblock -42 -41 -11 minecraft:quartz_bricks
+setblock -42 -41 -10 minecraft:quartz_bricks
+setblock -42 -41 -9 minecraft:smooth_quartz
+setblock -42 -41 -8 minecraft:smooth_quartz
+setblock -42 -41 -7 minecraft:smooth_quartz
+setblock -42 -41 -6 minecraft:smooth_quartz
+setblock -42 -41 -5 minecraft:smooth_quartz
+setblock -42 -41 -4 minecraft:smooth_quartz
+setblock -42 -41 -3 minecraft:smooth_quartz
+setblock -42 -41 -2 minecraft:smooth_quartz
+setblock -42 -40 -2 minecraft:sea_lantern
+setblock -42 -41 -1 minecraft:smooth_quartz
+setblock -42 -41 0 minecraft:smooth_quartz
+setblock -42 -41 1 minecraft:smooth_quartz
+setblock -42 -41 2 minecraft:smooth_quartz
+setblock -42 -41 3 minecraft:smooth_quartz
+setblock -42 -41 4 minecraft:smooth_quartz
+setblock -42 -41 5 minecraft:smooth_quartz
+setblock -42 -40 5 minecraft:sea_lantern
+setblock -42 -41 6 minecraft:smooth_quartz
+setblock -42 -41 7 minecraft:smooth_quartz
+setblock -42 -41 8 minecraft:smooth_quartz
+setblock -42 -41 9 minecraft:smooth_quartz
+setblock -42 -41 10 minecraft:quartz_bricks
+setblock -42 -41 11 minecraft:quartz_bricks
+setblock -42 -41 12 minecraft:quartz_bricks
+setblock -42 -41 13 minecraft:quartz_bricks
+setblock -41 -41 -15 minecraft:quartz_bricks
+setblock -41 -41 -14 minecraft:quartz_bricks
+setblock -41 -41 -13 minecraft:quartz_bricks
+setblock -41 -41 -12 minecraft:smooth_quartz
+setblock -41 -41 -11 minecraft:smooth_quartz
+setblock -41 -41 -10 minecraft:smooth_quartz
+setblock -41 -41 -9 minecraft:smooth_quartz
+setblock -41 -41 -8 minecraft:smooth_quartz
+setblock -41 -41 -7 minecraft:smooth_quartz
+setblock -41 -41 -6 minecraft:smooth_quartz
+setblock -41 -41 -5 minecraft:smooth_quartz
+setblock -41 -41 -4 minecraft:smooth_quartz
+setblock -41 -41 -3 minecraft:smooth_quartz
+setblock -41 -41 -2 minecraft:smooth_quartz
+setblock -41 -41 -1 minecraft:smooth_quartz
+setblock -41 -41 0 minecraft:smooth_quartz
+setblock -41 -40 0 minecraft:sea_lantern
+setblock -41 -41 1 minecraft:smooth_quartz
+setblock -41 -41 2 minecraft:smooth_quartz
+setblock -41 -41 3 minecraft:smooth_quartz
+setblock -41 -41 4 minecraft:smooth_quartz
+setblock -41 -41 5 minecraft:smooth_quartz
+setblock -41 -41 6 minecraft:smooth_quartz
+setblock -41 -41 7 minecraft:smooth_quartz
+setblock -41 -41 8 minecraft:smooth_quartz
+setblock -41 -41 9 minecraft:smooth_quartz
+setblock -41 -41 10 minecraft:smooth_quartz
+setblock -41 -40 10 minecraft:sea_lantern
+setblock -41 -41 11 minecraft:smooth_quartz
+setblock -41 -40 11 minecraft:sea_lantern
+setblock -41 -41 12 minecraft:smooth_quartz
+setblock -41 -40 12 minecraft:sea_lantern
+setblock -41 -41 13 minecraft:quartz_bricks
+setblock -41 -41 14 minecraft:quartz_bricks
+setblock -41 -41 15 minecraft:quartz_bricks
+setblock -40 -41 -18 minecraft:quartz_bricks
+setblock -40 -41 -17 minecraft:quartz_bricks
+setblock -40 -41 -16 minecraft:quartz_bricks
+setblock -40 -41 -15 minecraft:smooth_quartz
+setblock -40 -41 -14 minecraft:smooth_quartz
+setblock -40 -41 -13 minecraft:smooth_quartz
+setblock -40 -40 -13 minecraft:sea_lantern
+setblock -40 -41 -12 minecraft:smooth_quartz
+setblock -40 -41 -11 minecraft:smooth_quartz
+setblock -40 -41 -10 minecraft:smooth_quartz
+setblock -40 -41 -9 minecraft:smooth_quartz
+setblock -40 -41 -8 minecraft:quartz_bricks
+setblock -40 -41 -7 minecraft:quartz_bricks
+setblock -40 -41 -6 minecraft:quartz_bricks
+setblock -40 -41 -5 minecraft:quartz_bricks
+setblock -40 -41 -4 minecraft:quartz_bricks
+setblock -40 -41 -3 minecraft:quartz_bricks
+setblock -40 -41 -2 minecraft:quartz_bricks
+setblock -40 -41 -1 minecraft:quartz_bricks
+setblock -40 -41 0 minecraft:quartz_bricks
+setblock -40 -41 1 minecraft:quartz_bricks
+setblock -40 -41 2 minecraft:quartz_bricks
+setblock -40 -41 3 minecraft:quartz_bricks
+setblock -40 -41 4 minecraft:quartz_bricks
+setblock -40 -41 5 minecraft:quartz_bricks
+setblock -40 -41 6 minecraft:quartz_bricks
+setblock -40 -41 7 minecraft:quartz_bricks
+setblock -40 -41 8 minecraft:quartz_bricks
+setblock -40 -41 9 minecraft:smooth_quartz
+setblock -40 -41 10 minecraft:smooth_quartz
+setblock -40 -41 11 minecraft:smooth_quartz
+setblock -40 -41 12 minecraft:smooth_quartz
+setblock -40 -41 13 minecraft:smooth_quartz
+setblock -40 -41 14 minecraft:smooth_quartz
+setblock -40 -41 15 minecraft:smooth_quartz
+setblock -40 -41 16 minecraft:quartz_bricks
+setblock -40 -41 17 minecraft:quartz_bricks
+setblock -40 -41 18 minecraft:quartz_bricks
+setblock -39 -41 -20 minecraft:quartz_bricks
+setblock -39 -41 -19 minecraft:quartz_bricks
+setblock -39 -41 -18 minecraft:smooth_quartz
+setblock -39 -41 -17 minecraft:smooth_quartz
+setblock -39 -40 -17 minecraft:sea_lantern
+setblock -39 -41 -16 minecraft:smooth_quartz
+setblock -39 -41 -15 minecraft:smooth_quartz
+setblock -39 -41 -14 minecraft:smooth_quartz
+setblock -39 -41 -13 minecraft:smooth_quartz
+setblock -39 -41 -12 minecraft:quartz_bricks
+setblock -39 -41 -11 minecraft:quartz_bricks
+setblock -39 -41 -10 minecraft:quartz_bricks
+setblock -39 -41 -9 minecraft:quartz_bricks
+setblock -39 -41 9 minecraft:quartz_bricks
+setblock -39 -41 10 minecraft:quartz_bricks
+setblock -39 -41 11 minecraft:quartz_bricks
+setblock -39 -41 12 minecraft:quartz_bricks
+setblock -39 -41 13 minecraft:smooth_quartz
+setblock -39 -41 14 minecraft:smooth_quartz
+setblock -39 -41 15 minecraft:smooth_quartz
+setblock -39 -41 16 minecraft:smooth_quartz
+setblock -39 -41 17 minecraft:smooth_quartz
+setblock -39 -40 17 minecraft:sea_lantern
+setblock -39 -41 18 minecraft:smooth_quartz
+setblock -39 -41 19 minecraft:quartz_bricks
+setblock -39 -41 20 minecraft:quartz_bricks
+setblock -38 -41 -22 minecraft:quartz_bricks
+setblock -38 -41 -21 minecraft:quartz_bricks
+setblock -38 -41 -20 minecraft:smooth_quartz
+setblock -38 -41 -19 minecraft:smooth_quartz
+setblock -38 -41 -18 minecraft:smooth_quartz
+setblock -38 -41 -17 minecraft:smooth_quartz
+setblock -38 -41 -16 minecraft:smooth_quartz
+setblock -38 -41 -15 minecraft:quartz_bricks
+setblock -38 -41 -14 minecraft:quartz_bricks
+setblock -38 -41 -13 minecraft:quartz_bricks
+setblock -38 -41 13 minecraft:quartz_bricks
+setblock -38 -41 14 minecraft:quartz_bricks
+setblock -38 -41 15 minecraft:quartz_bricks
+setblock -38 -41 16 minecraft:smooth_quartz
+setblock -38 -41 17 minecraft:smooth_quartz
+setblock -38 -41 18 minecraft:smooth_quartz
+setblock -38 -41 19 minecraft:smooth_quartz
+setblock -38 -41 20 minecraft:smooth_quartz
+setblock -38 -41 21 minecraft:quartz_bricks
+setblock -38 -41 22 minecraft:quartz_bricks
+setblock -37 -41 -23 minecraft:quartz_bricks
+setblock -37 -41 -22 minecraft:quartz_bricks
+setblock -37 -41 -21 minecraft:smooth_quartz
+setblock -37 -41 -20 minecraft:smooth_quartz
+setblock -37 -41 -19 minecraft:smooth_quartz
+setblock -37 -41 -18 minecraft:smooth_quartz
+setblock -37 -41 -17 minecraft:quartz_bricks
+setblock -37 -41 -16 minecraft:quartz_bricks
+setblock -37 -41 16 minecraft:quartz_bricks
+setblock -37 -41 17 minecraft:quartz_bricks
+setblock -37 -41 18 minecraft:smooth_quartz
+setblock -37 -41 19 minecraft:smooth_quartz
+setblock -37 -41 20 minecraft:smooth_quartz
+setblock -37 -41 21 minecraft:smooth_quartz
+setblock -37 -41 22 minecraft:quartz_bricks
+setblock -37 -41 23 minecraft:quartz_bricks
+setblock -36 -41 -25 minecraft:quartz_bricks
+setblock -36 -41 -24 minecraft:quartz_bricks
+setblock -36 -41 -23 minecraft:smooth_quartz
+setblock -36 -41 -22 minecraft:smooth_quartz
+setblock -36 -41 -21 minecraft:smooth_quartz
+setblock -36 -41 -20 minecraft:smooth_quartz
+setblock -36 -41 -19 minecraft:quartz_bricks
+setblock -36 -41 -18 minecraft:quartz_bricks
+setblock -36 -41 18 minecraft:quartz_bricks
+setblock -36 -41 19 minecraft:quartz_bricks
+setblock -36 -41 20 minecraft:smooth_quartz
+setblock -36 -41 21 minecraft:smooth_quartz
+setblock -36 -41 22 minecraft:smooth_quartz
+setblock -36 -41 23 minecraft:smooth_quartz
+setblock -36 -41 24 minecraft:quartz_bricks
+setblock -36 -41 25 minecraft:quartz_bricks
+setblock -35 -41 -26 minecraft:quartz_bricks
+setblock -35 -41 -25 minecraft:quartz_bricks
+setblock -35 -41 -24 minecraft:smooth_quartz
+setblock -35 -41 -23 minecraft:smooth_quartz
+setblock -35 -41 -22 minecraft:smooth_quartz
+setblock -35 -41 -21 minecraft:quartz_bricks
+setblock -35 -41 -20 minecraft:quartz_bricks
+setblock -35 -41 20 minecraft:quartz_bricks
+setblock -35 -41 21 minecraft:quartz_bricks
+setblock -35 -41 22 minecraft:smooth_quartz
+setblock -35 -41 23 minecraft:smooth_quartz
+setblock -35 -41 24 minecraft:smooth_quartz
+setblock -35 -41 25 minecraft:quartz_bricks
+setblock -35 -41 26 minecraft:quartz_bricks
+setblock -34 -41 -27 minecraft:quartz_bricks
+setblock -34 -41 -26 minecraft:smooth_quartz
+setblock -34 -41 -25 minecraft:smooth_quartz
+setblock -34 -41 -24 minecraft:smooth_quartz
+setblock -34 -41 -23 minecraft:smooth_quartz
+setblock -34 -41 -22 minecraft:quartz_bricks
+setblock -34 -41 22 minecraft:quartz_bricks
+setblock -34 -41 23 minecraft:smooth_quartz
+setblock -34 -41 24 minecraft:smooth_quartz
+setblock -34 -41 25 minecraft:smooth_quartz
+setblock -34 -41 26 minecraft:smooth_quartz
+setblock -34 -41 27 minecraft:quartz_bricks
+setblock -33 -41 -29 minecraft:quartz_bricks
+setblock -33 -41 -28 minecraft:quartz_bricks
+setblock -33 -41 -27 minecraft:smooth_quartz
+setblock -33 -40 -27 minecraft:sea_lantern
+setblock -33 -41 -26 minecraft:smooth_quartz
+setblock -33 -41 -25 minecraft:smooth_quartz
+setblock -33 -40 -25 minecraft:sea_lantern
+setblock -33 -41 -24 minecraft:quartz_bricks
+setblock -33 -41 -23 minecraft:quartz_bricks
+setblock -33 -41 23 minecraft:quartz_bricks
+setblock -33 -41 24 minecraft:quartz_bricks
+setblock -33 -41 25 minecraft:smooth_quartz
+setblock -33 -41 26 minecraft:smooth_quartz
+setblock -33 -41 27 minecraft:smooth_quartz
+setblock -33 -40 27 minecraft:sea_lantern
+setblock -33 -41 28 minecraft:quartz_bricks
+setblock -33 -41 29 minecraft:quartz_bricks
+setblock -32 -41 -30 minecraft:quartz_bricks
+setblock -32 -41 -29 minecraft:quartz_bricks
+setblock -32 -41 -28 minecraft:smooth_quartz
+setblock -32 -41 -27 minecraft:smooth_quartz
+setblock -32 -41 -26 minecraft:smooth_quartz
+setblock -32 -41 -25 minecraft:quartz_bricks
+setblock -32 -41 -24 minecraft:quartz_bricks
+setblock -32 -41 24 minecraft:quartz_bricks
+setblock -32 -41 25 minecraft:quartz_bricks
+setblock -32 -41 26 minecraft:smooth_quartz
+setblock -32 -41 27 minecraft:smooth_quartz
+setblock -32 -41 28 minecraft:smooth_quartz
+setblock -32 -41 29 minecraft:quartz_bricks
+setblock -32 -41 30 minecraft:quartz_bricks
+setblock -31 -41 -31 minecraft:quartz_bricks
+setblock -31 -41 -30 minecraft:quartz_bricks
+setblock -31 -41 -29 minecraft:smooth_quartz
+setblock -31 -41 -28 minecraft:smooth_quartz
+setblock -31 -41 -27 minecraft:smooth_quartz
+setblock -31 -41 -26 minecraft:quartz_bricks
+setblock -31 -41 26 minecraft:quartz_bricks
+setblock -31 -41 27 minecraft:smooth_quartz
+setblock -31 -41 28 minecraft:smooth_quartz
+setblock -31 -41 29 minecraft:smooth_quartz
+setblock -31 -41 30 minecraft:quartz_bricks
+setblock -31 -41 31 minecraft:quartz_bricks
+setblock -30 -41 -32 minecraft:quartz_bricks
+setblock -30 -41 -31 minecraft:quartz_bricks
+setblock -30 -41 -30 minecraft:smooth_quartz
+setblock -30 -41 -29 minecraft:smooth_quartz
+setblock -30 -41 -28 minecraft:smooth_quartz
+setblock -30 -41 -27 minecraft:quartz_bricks
+setblock -30 -41 27 minecraft:quartz_bricks
+setblock -30 -41 28 minecraft:smooth_quartz
+setblock -30 -41 29 minecraft:smooth_quartz
+setblock -30 -41 30 minecraft:smooth_quartz
+setblock -30 -41 31 minecraft:quartz_bricks
+setblock -30 -41 32 minecraft:quartz_bricks
+setblock -29 -41 -33 minecraft:quartz_bricks
+setblock -29 -41 -32 minecraft:quartz_bricks
+setblock -29 -41 -31 minecraft:smooth_quartz
+setblock -29 -41 -30 minecraft:smooth_quartz
+setblock -29 -41 -29 minecraft:smooth_quartz
+setblock -29 -41 -28 minecraft:quartz_bricks
+setblock -29 -41 28 minecraft:quartz_bricks
+setblock -29 -41 29 minecraft:smooth_quartz
+setblock -29 -41 30 minecraft:smooth_quartz
+setblock -29 -41 31 minecraft:smooth_quartz
+setblock -29 -41 32 minecraft:quartz_bricks
+setblock -29 -41 33 minecraft:quartz_bricks
+setblock -28 -41 -33 minecraft:quartz_bricks
+setblock -28 -41 -32 minecraft:smooth_quartz
+setblock -28 -41 -31 minecraft:smooth_quartz
+setblock -28 -41 -30 minecraft:smooth_quartz
+setblock -28 -40 -30 minecraft:sea_lantern
+setblock -28 -41 -29 minecraft:quartz_bricks
+setblock -28 -41 29 minecraft:quartz_bricks
+setblock -28 -41 30 minecraft:smooth_quartz
+setblock -28 -40 30 minecraft:sea_lantern
+setblock -28 -41 31 minecraft:smooth_quartz
+setblock -28 -41 32 minecraft:smooth_quartz
+setblock -28 -41 33 minecraft:quartz_bricks
+setblock -27 -41 -34 minecraft:quartz_bricks
+setblock -27 -41 -33 minecraft:smooth_quartz
+setblock -27 -41 -32 minecraft:smooth_quartz
+setblock -27 -41 -31 minecraft:smooth_quartz
+setblock -27 -41 -30 minecraft:quartz_bricks
+setblock -27 -41 30 minecraft:quartz_bricks
+setblock -27 -41 31 minecraft:smooth_quartz
+setblock -27 -41 32 minecraft:smooth_quartz
+setblock -26 -41 -35 minecraft:quartz_bricks
+setblock -26 -41 -34 minecraft:smooth_quartz
+setblock -26 -41 -33 minecraft:smooth_quartz
+setblock -26 -41 -32 minecraft:smooth_quartz
+setblock -26 -41 -31 minecraft:quartz_bricks
+setblock -25 -41 -36 minecraft:quartz_bricks
+setblock -25 -41 -35 minecraft:quartz_bricks
+setblock -25 -41 -34 minecraft:smooth_quartz
+setblock -25 -41 -33 minecraft:smooth_quartz
+setblock -25 -40 -33 minecraft:sea_lantern
+setblock -25 -41 -32 minecraft:quartz_bricks
+setblock -24 -41 -36 minecraft:quartz_bricks
+setblock -24 -41 -35 minecraft:smooth_quartz
+setblock -24 -40 -35 minecraft:sea_lantern
+setblock -24 -41 -34 minecraft:smooth_quartz
+setblock -24 -41 -33 minecraft:quartz_bricks
+setblock -24 -41 -32 minecraft:quartz_bricks
+setblock -23 -41 -37 minecraft:quartz_bricks
+setblock -23 -41 -36 minecraft:smooth_quartz
+setblock -23 -41 -35 minecraft:smooth_quartz
+setblock -23 -41 -34 minecraft:smooth_quartz
+setblock -23 -41 -33 minecraft:quartz_bricks
+setblock -22 -41 -38 minecraft:quartz_bricks
+setblock -22 -41 -37 minecraft:quartz_bricks
+setblock -22 -41 -36 minecraft:smooth_quartz
+setblock -22 -41 -35 minecraft:smooth_quartz
+setblock -22 -41 -34 minecraft:quartz_bricks
+setblock -21 -41 -38 minecraft:quartz_bricks
+setblock -21 -41 -37 minecraft:smooth_quartz
+setblock -21 -41 -36 minecraft:smooth_quartz
+setblock -21 -40 -36 minecraft:sea_lantern
+setblock -21 -41 -35 minecraft:quartz_bricks
+setblock -20 -41 -39 minecraft:quartz_bricks
+setblock -20 -41 -38 minecraft:smooth_quartz
+setblock -20 -41 -37 minecraft:smooth_quartz
+setblock -20 -41 -36 minecraft:smooth_quartz
+setblock -20 -41 -35 minecraft:quartz_bricks
+setblock -19 -41 -39 minecraft:quartz_bricks
+setblock -19 -41 -38 minecraft:smooth_quartz
+setblock -19 -40 -38 minecraft:sea_lantern
+setblock -19 -41 -37 minecraft:smooth_quartz
+setblock -19 -41 -36 minecraft:quartz_bricks
+setblock -18 -41 -40 minecraft:quartz_bricks
+setblock -18 -41 -39 minecraft:smooth_quartz
+setblock -18 -41 -38 minecraft:smooth_quartz
+setblock -18 -41 -37 minecraft:smooth_quartz
+setblock -18 -41 -36 minecraft:quartz_bricks
+setblock -17 -41 -40 minecraft:quartz_bricks
+setblock -17 -41 -39 minecraft:smooth_quartz
+setblock -17 -41 -38 minecraft:smooth_quartz
+setblock -17 -41 -37 minecraft:quartz_bricks
+setblock -16 -41 -40 minecraft:quartz_bricks
+setblock -16 -41 -39 minecraft:smooth_quartz
+setblock -16 -41 -38 minecraft:smooth_quartz
+setblock -16 -41 -37 minecraft:quartz_bricks
+setblock -15 -41 -41 minecraft:quartz_bricks
+setblock -15 -41 -40 minecraft:smooth_quartz
+setblock -15 -41 -39 minecraft:smooth_quartz
+setblock -15 -41 -38 minecraft:quartz_bricks
+setblock -14 -41 -41 minecraft:quartz_bricks
+setblock -14 -41 -40 minecraft:smooth_quartz
+setblock -14 -41 -39 minecraft:smooth_quartz
+setblock -14 -41 -38 minecraft:quartz_bricks
+setblock -13 -41 -42 minecraft:quartz_bricks
+setblock -13 -41 -41 minecraft:quartz_bricks
+setblock -13 -41 -40 minecraft:smooth_quartz
+setblock -13 -41 -39 minecraft:smooth_quartz
+setblock -13 -41 -38 minecraft:quartz_bricks
+setblock -12 -41 -42 minecraft:quartz_bricks
+setblock -12 -41 -41 minecraft:smooth_quartz
+setblock -12 -41 -40 minecraft:smooth_quartz
+setblock -12 -41 -39 minecraft:quartz_bricks
+setblock -11 -41 -42 minecraft:quartz_bricks
+setblock -11 -41 -41 minecraft:smooth_quartz
+setblock -11 -41 -40 minecraft:smooth_quartz
+setblock -11 -41 -39 minecraft:quartz_bricks
+setblock -10 -41 -42 minecraft:quartz_bricks
+setblock -10 -41 -41 minecraft:smooth_quartz
+setblock -10 -41 -40 minecraft:smooth_quartz
+setblock -10 -41 -39 minecraft:quartz_bricks
+setblock -9 -41 -43 minecraft:quartz_bricks
+setblock -9 -41 -42 minecraft:smooth_quartz
+setblock -9 -41 -41 minecraft:smooth_quartz
+setblock -9 -41 -40 minecraft:smooth_quartz
+setblock -9 -41 -39 minecraft:quartz_bricks
+setblock -8 -41 -43 minecraft:quartz_bricks
+setblock -8 -41 -42 minecraft:smooth_quartz
+setblock -8 -41 -41 minecraft:smooth_quartz
+setblock -8 -41 -40 minecraft:quartz_bricks
+setblock -7 -41 -43 minecraft:quartz_bricks
+setblock -7 -41 -42 minecraft:smooth_quartz
+setblock -7 -41 -41 minecraft:smooth_quartz
+setblock -7 -41 -40 minecraft:quartz_bricks
+setblock -6 -41 -43 minecraft:quartz_bricks
+setblock -6 -41 -42 minecraft:smooth_quartz
+setblock -6 -41 -41 minecraft:smooth_quartz
+setblock -6 -41 -40 minecraft:quartz_bricks
+setblock -5 -41 -43 minecraft:quartz_bricks
+setblock -5 -41 -42 minecraft:smooth_quartz
+setblock -5 -41 -41 minecraft:smooth_quartz
+setblock -5 -41 -40 minecraft:quartz_bricks
+setblock -4 -41 -43 minecraft:quartz_bricks
+setblock -4 -41 -42 minecraft:smooth_quartz
+setblock -4 -41 -41 minecraft:smooth_quartz
+setblock -4 -41 -40 minecraft:quartz_bricks
+setblock -3 -41 -43 minecraft:quartz_bricks
+setblock -3 -41 -42 minecraft:smooth_quartz
+setblock -3 -41 -41 minecraft:smooth_quartz
+setblock -3 -40 -41 minecraft:sea_lantern
+setblock -3 -41 -40 minecraft:quartz_bricks
+setblock -2 -41 -43 minecraft:quartz_bricks
+setblock -2 -41 -42 minecraft:smooth_quartz
+setblock -2 -41 -41 minecraft:smooth_quartz
+setblock -2 -41 -40 minecraft:quartz_bricks
+setblock -1 -41 -43 minecraft:quartz_bricks
+setblock -1 -41 -42 minecraft:smooth_quartz
+setblock -1 -41 -41 minecraft:smooth_quartz
+setblock -1 -41 -40 minecraft:quartz_bricks
+setblock 0 -41 -44 minecraft:quartz_bricks
+setblock 0 -41 -43 minecraft:smooth_quartz
+setblock 0 -41 -42 minecraft:smooth_quartz
+setblock 0 -41 -41 minecraft:smooth_quartz
+setblock 0 -41 -40 minecraft:quartz_bricks
+setblock 1 -41 -43 minecraft:quartz_bricks
+setblock 1 -41 -42 minecraft:smooth_quartz
+setblock 1 -41 -41 minecraft:smooth_quartz
+setblock 1 -41 -40 minecraft:quartz_bricks
+setblock 2 -41 -43 minecraft:quartz_bricks
+setblock 2 -41 -42 minecraft:smooth_quartz
+setblock 2 -41 -41 minecraft:smooth_quartz
+setblock 2 -41 -40 minecraft:quartz_bricks
+setblock 3 -41 -43 minecraft:quartz_bricks
+setblock 3 -41 -42 minecraft:smooth_quartz
+setblock 3 -41 -41 minecraft:smooth_quartz
+setblock 3 -41 -40 minecraft:quartz_bricks
+setblock 4 -41 -43 minecraft:quartz_bricks
+setblock 4 -41 -42 minecraft:smooth_quartz
+setblock 4 -41 -41 minecraft:smooth_quartz
+setblock 4 -41 -40 minecraft:quartz_bricks
+setblock 5 -41 -43 minecraft:quartz_bricks
+setblock 5 -41 -42 minecraft:smooth_quartz
+setblock 5 -41 -41 minecraft:smooth_quartz
+setblock 5 -41 -40 minecraft:quartz_bricks
+setblock 6 -41 -43 minecraft:quartz_bricks
+setblock 6 -41 -42 minecraft:smooth_quartz
+setblock 6 -41 -41 minecraft:smooth_quartz
+setblock 6 -41 -40 minecraft:quartz_bricks
+setblock 7 -41 -43 minecraft:quartz_bricks
+setblock 7 -41 -42 minecraft:smooth_quartz
+setblock 7 -41 -41 minecraft:smooth_quartz
+setblock 7 -41 -40 minecraft:quartz_bricks
+setblock 8 -41 -43 minecraft:quartz_bricks
+setblock 8 -41 -42 minecraft:smooth_quartz
+setblock 8 -41 -41 minecraft:smooth_quartz
+setblock 8 -41 -40 minecraft:quartz_bricks
+setblock 9 -41 -43 minecraft:quartz_bricks
+setblock 9 -41 -42 minecraft:smooth_quartz
+setblock 9 -41 -41 minecraft:smooth_quartz
+setblock 9 -41 -40 minecraft:smooth_quartz
+setblock 9 -41 -39 minecraft:quartz_bricks
+setblock 10 -41 -42 minecraft:quartz_bricks
+setblock 10 -41 -41 minecraft:smooth_quartz
+setblock 10 -40 -41 minecraft:sea_lantern
+setblock 10 -41 -40 minecraft:smooth_quartz
+setblock 10 -41 -39 minecraft:quartz_bricks
+setblock 11 -41 -42 minecraft:quartz_bricks
+setblock 11 -41 -41 minecraft:smooth_quartz
+setblock 11 -41 -40 minecraft:smooth_quartz
+setblock 11 -41 -39 minecraft:quartz_bricks
+setblock 12 -41 -42 minecraft:quartz_bricks
+setblock 12 -41 -41 minecraft:smooth_quartz
+setblock 12 -41 -40 minecraft:smooth_quartz
+setblock 12 -41 -39 minecraft:quartz_bricks
+setblock 13 -41 -42 minecraft:quartz_bricks
+setblock 13 -41 -41 minecraft:quartz_bricks
+setblock 13 -41 -40 minecraft:smooth_quartz
+setblock 13 -41 -39 minecraft:smooth_quartz
+setblock 13 -41 -38 minecraft:quartz_bricks
+setblock 14 -41 -41 minecraft:quartz_bricks
+setblock 14 -41 -40 minecraft:smooth_quartz
+setblock 14 -41 -39 minecraft:smooth_quartz
+setblock 14 -41 -38 minecraft:quartz_bricks
+setblock 15 -41 -41 minecraft:quartz_bricks
+setblock 15 -41 -40 minecraft:smooth_quartz
+setblock 15 -41 -39 minecraft:smooth_quartz
+setblock 15 -41 -38 minecraft:quartz_bricks
+setblock 16 -41 -40 minecraft:quartz_bricks
+setblock 16 -41 -39 minecraft:smooth_quartz
+setblock 16 -40 -39 minecraft:sea_lantern
+setblock 16 -41 -38 minecraft:smooth_quartz
+setblock 16 -41 -37 minecraft:quartz_bricks
+setblock 17 -41 -40 minecraft:quartz_bricks
+setblock 17 -41 -39 minecraft:smooth_quartz
+setblock 17 -41 -38 minecraft:smooth_quartz
+setblock 17 -41 -37 minecraft:quartz_bricks
+setblock 18 -41 -40 minecraft:quartz_bricks
+setblock 18 -41 -39 minecraft:smooth_quartz
+setblock 18 -41 -38 minecraft:smooth_quartz
+setblock 18 -41 -37 minecraft:smooth_quartz
+setblock 18 -41 -36 minecraft:quartz_bricks
+setblock 19 -41 -39 minecraft:quartz_bricks
+setblock 19 -41 -38 minecraft:smooth_quartz
+setblock 19 -41 -37 minecraft:smooth_quartz
+setblock 19 -41 -36 minecraft:quartz_bricks
+setblock 20 -41 -39 minecraft:quartz_bricks
+setblock 20 -41 -38 minecraft:smooth_quartz
+setblock 20 -41 -37 minecraft:smooth_quartz
+setblock 20 -41 -36 minecraft:smooth_quartz
+setblock 20 -41 -35 minecraft:quartz_bricks
+setblock 21 -41 -38 minecraft:quartz_bricks
+setblock 21 -41 -37 minecraft:smooth_quartz
+setblock 21 -41 -36 minecraft:smooth_quartz
+setblock 21 -41 -35 minecraft:quartz_bricks
+setblock 22 -41 -38 minecraft:quartz_bricks
+setblock 22 -41 -37 minecraft:quartz_bricks
+setblock 22 -41 -36 minecraft:smooth_quartz
+setblock 22 -41 -35 minecraft:smooth_quartz
+setblock 22 -41 -34 minecraft:quartz_bricks
+setblock 23 -41 -37 minecraft:quartz_bricks
+setblock 23 -41 -36 minecraft:smooth_quartz
+setblock 23 -41 -35 minecraft:smooth_quartz
+setblock 23 -41 -34 minecraft:smooth_quartz
+setblock 23 -41 -33 minecraft:quartz_bricks
+setblock 24 -41 -36 minecraft:quartz_bricks
+setblock 24 -41 -35 minecraft:smooth_quartz
+setblock 24 -41 -34 minecraft:smooth_quartz
+setblock 24 -41 -33 minecraft:quartz_bricks
+setblock 24 -41 -32 minecraft:quartz_bricks
+setblock 25 -41 -36 minecraft:quartz_bricks
+setblock 25 -41 -35 minecraft:quartz_bricks
+setblock 25 -41 -34 minecraft:smooth_quartz
+setblock 25 -41 -33 minecraft:smooth_quartz
+setblock 25 -41 -32 minecraft:quartz_bricks
+setblock 26 -41 -35 minecraft:quartz_bricks
+setblock 26 -41 -34 minecraft:smooth_quartz
+setblock 26 -41 -33 minecraft:smooth_quartz
+setblock 26 -40 -33 minecraft:sea_lantern
+setblock 26 -41 -32 minecraft:smooth_quartz
+setblock 26 -41 -31 minecraft:quartz_bricks
+setblock 27 -41 -34 minecraft:quartz_bricks
+setblock 27 -41 -33 minecraft:smooth_quartz
+setblock 27 -41 -32 minecraft:smooth_quartz
+setblock 27 -41 -31 minecraft:smooth_quartz
+setblock 27 -41 -30 minecraft:quartz_bricks
+setblock 28 -41 -33 minecraft:quartz_bricks
+setblock 28 -41 -32 minecraft:smooth_quartz
+setblock 28 -41 -31 minecraft:smooth_quartz
+setblock 28 -41 -30 minecraft:smooth_quartz
+setblock 28 -41 -29 minecraft:quartz_bricks
+setblock 29 -41 -33 minecraft:quartz_bricks
+setblock 29 -41 -32 minecraft:quartz_bricks
+setblock 29 -41 -31 minecraft:smooth_quartz
+setblock 29 -41 -30 minecraft:smooth_quartz
+setblock 29 -41 -29 minecraft:smooth_quartz
+setblock 29 -41 -28 minecraft:quartz_bricks
+setblock 30 -41 -32 minecraft:quartz_bricks
+setblock 30 -41 -31 minecraft:quartz_bricks
+setblock 30 -41 -30 minecraft:smooth_quartz
+setblock 30 -41 -29 minecraft:smooth_quartz
+setblock 30 -41 -28 minecraft:smooth_quartz
+setblock 30 -41 -27 minecraft:quartz_bricks
+setblock 31 -41 -31 minecraft:quartz_bricks
+setblock 31 -41 -30 minecraft:quartz_bricks
+setblock 31 -41 -29 minecraft:smooth_quartz
+setblock 31 -41 -28 minecraft:smooth_quartz
+setblock 31 -40 -28 minecraft:sea_lantern
+setblock 31 -41 -27 minecraft:smooth_quartz
+setblock 31 -41 -26 minecraft:quartz_bricks
+setblock 32 -41 -30 minecraft:quartz_bricks
+setblock 32 -41 -29 minecraft:quartz_bricks
+setblock 32 -41 -28 minecraft:smooth_quartz
+setblock 32 -41 -27 minecraft:smooth_quartz
+setblock 32 -41 -26 minecraft:smooth_quartz
+setblock 32 -41 -25 minecraft:quartz_bricks
+setblock 32 -41 -24 minecraft:quartz_bricks
+setblock 33 -41 -29 minecraft:quartz_bricks
+setblock 33 -41 -28 minecraft:quartz_bricks
+setblock 33 -41 -27 minecraft:smooth_quartz
+setblock 33 -41 -26 minecraft:smooth_quartz
+setblock 33 -41 -25 minecraft:smooth_quartz
+setblock 33 -41 -24 minecraft:quartz_bricks
+setblock 33 -41 -23 minecraft:quartz_bricks
+setblock 34 -41 -27 minecraft:quartz_bricks
+setblock 34 -41 -26 minecraft:smooth_quartz
+setblock 34 -41 -25 minecraft:smooth_quartz
+setblock 34 -41 -24 minecraft:smooth_quartz
+setblock 34 -41 -23 minecraft:smooth_quartz
+setblock 34 -41 -22 minecraft:quartz_bricks
+setblock 35 -41 -26 minecraft:quartz_bricks
+setblock 35 -41 -25 minecraft:quartz_bricks
+setblock 35 -41 -24 minecraft:smooth_quartz
+setblock 35 -41 -23 minecraft:smooth_quartz
+setblock 35 -41 -22 minecraft:smooth_quartz
+setblock 35 -40 -22 minecraft:sea_lantern
+setblock 35 -41 -21 minecraft:quartz_bricks
+setblock 35 -41 -20 minecraft:quartz_bricks
+setblock 36 -41 -25 minecraft:quartz_bricks
+setblock 36 -41 -24 minecraft:quartz_bricks
+setblock 36 -41 -23 minecraft:smooth_quartz
+setblock 36 -41 -22 minecraft:smooth_quartz
+setblock 36 -41 -21 minecraft:smooth_quartz
+setblock 36 -41 -20 minecraft:smooth_quartz
+setblock 36 -41 -19 minecraft:quartz_bricks
+setblock 36 -41 -18 minecraft:quartz_bricks
+setblock 37 -41 -23 minecraft:quartz_bricks
+setblock 37 -41 -22 minecraft:quartz_bricks
+setblock 37 -41 -21 minecraft:smooth_quartz
+setblock 37 -41 -20 minecraft:smooth_quartz
+setblock 37 -40 -20 minecraft:sea_lantern
+setblock 37 -41 -19 minecraft:smooth_quartz
+setblock 37 -41 -18 minecraft:smooth_quartz
+setblock 37 -41 -17 minecraft:quartz_bricks
+setblock 37 -41 -16 minecraft:quartz_bricks
+setblock 38 -41 -22 minecraft:quartz_bricks
+setblock 38 -41 -21 minecraft:quartz_bricks
+setblock 38 -41 -20 minecraft:smooth_quartz
+setblock 38 -41 -19 minecraft:smooth_quartz
+setblock 38 -41 -18 minecraft:smooth_quartz
+setblock 38 -41 -17 minecraft:smooth_quartz
+setblock 38 -41 -16 minecraft:smooth_quartz
+setblock 38 -41 -15 minecraft:quartz_bricks
+setblock 38 -41 -14 minecraft:quartz_bricks
+setblock 38 -41 -13 minecraft:quartz_bricks
+setblock 38 -41 13 minecraft:quartz_bricks
+setblock 39 -41 -20 minecraft:quartz_bricks
+setblock 39 -41 -19 minecraft:quartz_bricks
+setblock 39 -41 -18 minecraft:smooth_quartz
+setblock 39 -40 -18 minecraft:sea_lantern
+setblock 39 -41 -17 minecraft:smooth_quartz
+setblock 39 -41 -16 minecraft:smooth_quartz
+setblock 39 -41 -15 minecraft:smooth_quartz
+setblock 39 -41 -14 minecraft:smooth_quartz
+setblock 39 -41 -13 minecraft:smooth_quartz
+setblock 39 -41 -12 minecraft:quartz_bricks
+setblock 39 -41 -11 minecraft:quartz_bricks
+setblock 39 -41 -10 minecraft:quartz_bricks
+setblock 39 -41 -9 minecraft:quartz_bricks
+setblock 39 -41 9 minecraft:quartz_bricks
+setblock 39 -41 10 minecraft:quartz_bricks
+setblock 39 -41 11 minecraft:quartz_bricks
+setblock 39 -41 12 minecraft:quartz_bricks
+setblock 39 -41 13 minecraft:smooth_quartz
+setblock 39 -41 14 minecraft:smooth_quartz
+setblock 40 -41 -18 minecraft:quartz_bricks
+setblock 40 -41 -17 minecraft:quartz_bricks
+setblock 40 -41 -16 minecraft:quartz_bricks
+setblock 40 -41 -15 minecraft:smooth_quartz
+setblock 40 -41 -14 minecraft:smooth_quartz
+setblock 40 -41 -13 minecraft:smooth_quartz
+setblock 40 -41 -12 minecraft:smooth_quartz
+setblock 40 -41 -11 minecraft:smooth_quartz
+setblock 40 -41 -10 minecraft:smooth_quartz
+setblock 40 -41 -9 minecraft:smooth_quartz
+setblock 40 -41 -8 minecraft:quartz_bricks
+setblock 40 -41 -7 minecraft:quartz_bricks
+setblock 40 -41 -6 minecraft:quartz_bricks
+setblock 40 -41 -5 minecraft:quartz_bricks
+setblock 40 -41 -4 minecraft:quartz_bricks
+setblock 40 -41 -3 minecraft:quartz_bricks
+setblock 40 -41 -2 minecraft:quartz_bricks
+setblock 40 -41 -1 minecraft:quartz_bricks
+setblock 40 -41 0 minecraft:quartz_bricks
+setblock 40 -41 1 minecraft:quartz_bricks
+setblock 40 -41 2 minecraft:quartz_bricks
+setblock 40 -41 3 minecraft:quartz_bricks
+setblock 40 -41 4 minecraft:quartz_bricks
+setblock 40 -41 5 minecraft:quartz_bricks
+setblock 40 -41 6 minecraft:quartz_bricks
+setblock 40 -41 7 minecraft:quartz_bricks
+setblock 40 -41 8 minecraft:quartz_bricks
+setblock 40 -41 9 minecraft:smooth_quartz
+setblock 40 -41 10 minecraft:smooth_quartz
+setblock 40 -40 10 minecraft:sea_lantern
+setblock 40 -41 11 minecraft:smooth_quartz
+setblock 40 -41 12 minecraft:smooth_quartz
+setblock 40 -41 13 minecraft:smooth_quartz
+setblock 40 -41 14 minecraft:smooth_quartz
+setblock 41 -41 -15 minecraft:quartz_bricks
+setblock 41 -41 -14 minecraft:quartz_bricks
+setblock 41 -41 -13 minecraft:quartz_bricks
+setblock 41 -41 -12 minecraft:smooth_quartz
+setblock 41 -41 -11 minecraft:smooth_quartz
+setblock 41 -41 -10 minecraft:smooth_quartz
+setblock 41 -41 -9 minecraft:smooth_quartz
+setblock 41 -40 -9 minecraft:sea_lantern
+setblock 41 -41 -8 minecraft:smooth_quartz
+setblock 41 -40 -8 minecraft:sea_lantern
+setblock 41 -41 -7 minecraft:smooth_quartz
+setblock 41 -41 -6 minecraft:smooth_quartz
+setblock 41 -41 -5 minecraft:smooth_quartz
+setblock 41 -41 -4 minecraft:smooth_quartz
+setblock 41 -41 -3 minecraft:smooth_quartz
+setblock 41 -41 -2 minecraft:smooth_quartz
+setblock 41 -41 -1 minecraft:smooth_quartz
+setblock 41 -41 0 minecraft:smooth_quartz
+setblock 41 -41 1 minecraft:smooth_quartz
+setblock 41 -41 2 minecraft:smooth_quartz
+setblock 41 -41 3 minecraft:smooth_quartz
+setblock 41 -41 4 minecraft:smooth_quartz
+setblock 41 -41 5 minecraft:smooth_quartz
+setblock 41 -41 6 minecraft:smooth_quartz
+setblock 41 -41 7 minecraft:smooth_quartz
+setblock 41 -41 8 minecraft:smooth_quartz
+setblock 41 -40 8 minecraft:sea_lantern
+setblock 41 -41 9 minecraft:smooth_quartz
+setblock 41 -41 10 minecraft:smooth_quartz
+setblock 41 -41 11 minecraft:smooth_quartz
+setblock 41 -41 12 minecraft:smooth_quartz
+setblock 41 -41 13 minecraft:quartz_bricks
+setblock 41 -41 14 minecraft:quartz_bricks
+setblock 42 -41 -13 minecraft:quartz_bricks
+setblock 42 -41 -12 minecraft:quartz_bricks
+setblock 42 -41 -11 minecraft:quartz_bricks
+setblock 42 -41 -10 minecraft:quartz_bricks
+setblock 42 -41 -9 minecraft:smooth_quartz
+setblock 42 -41 -8 minecraft:smooth_quartz
+setblock 42 -41 -7 minecraft:smooth_quartz
+setblock 42 -41 -6 minecraft:smooth_quartz
+setblock 42 -41 -5 minecraft:smooth_quartz
+setblock 42 -41 -4 minecraft:smooth_quartz
+setblock 42 -40 -4 minecraft:sea_lantern
+setblock 42 -41 -3 minecraft:smooth_quartz
+setblock 42 -41 -2 minecraft:smooth_quartz
+setblock 42 -41 -1 minecraft:smooth_quartz
+setblock 42 -41 0 minecraft:smooth_quartz
+setblock 42 -41 1 minecraft:smooth_quartz
+setblock 42 -41 2 minecraft:smooth_quartz
+setblock 42 -41 3 minecraft:smooth_quartz
+setblock 42 -41 4 minecraft:smooth_quartz
+setblock 42 -41 5 minecraft:smooth_quartz
+setblock 42 -41 6 minecraft:smooth_quartz
+setblock 42 -40 6 minecraft:sea_lantern
+setblock 42 -41 7 minecraft:smooth_quartz
+setblock 42 -41 8 minecraft:smooth_quartz
+setblock 42 -41 9 minecraft:smooth_quartz
+setblock 42 -41 10 minecraft:quartz_bricks
+setblock 42 -41 11 minecraft:quartz_bricks
+setblock 42 -41 12 minecraft:quartz_bricks
+setblock 42 -41 13 minecraft:quartz_bricks
+setblock 43 -41 -9 minecraft:quartz_bricks
+setblock 43 -41 -8 minecraft:quartz_bricks
+setblock 43 -41 -7 minecraft:quartz_bricks
+setblock 43 -41 -6 minecraft:quartz_bricks
+setblock 43 -41 -5 minecraft:quartz_bricks
+setblock 43 -41 -4 minecraft:quartz_bricks
+setblock 43 -41 -3 minecraft:quartz_bricks
+setblock 43 -41 -2 minecraft:quartz_bricks
+setblock 43 -41 -1 minecraft:quartz_bricks
+setblock 43 -41 0 minecraft:smooth_quartz
+setblock 43 -41 1 minecraft:quartz_bricks
+setblock 43 -41 2 minecraft:quartz_bricks
+setblock 43 -41 3 minecraft:quartz_bricks
+setblock 43 -41 4 minecraft:quartz_bricks
+setblock 43 -41 5 minecraft:quartz_bricks
+setblock 43 -41 6 minecraft:quartz_bricks
+setblock 43 -41 7 minecraft:quartz_bricks
+setblock 43 -41 8 minecraft:quartz_bricks
+setblock 43 -41 9 minecraft:quartz_bricks
+setblock 44 -41 0 minecraft:quartz_bricks
+setblock -27 -40 32 minecraft:chiseled_quartz_block
+setblock -27 -39 32 minecraft:sea_lantern
+setblock 39 -40 14 minecraft:chiseled_quartz_block
+setblock 39 -39 14 minecraft:sea_lantern
+setblock -52 -33 0 minecraft:quartz_bricks
+setblock -51 -33 -8 minecraft:quartz_bricks
+setblock -51 -33 -7 minecraft:quartz_bricks
+setblock -51 -33 -6 minecraft:quartz_bricks
+setblock -51 -33 -5 minecraft:quartz_bricks
+setblock -51 -33 -4 minecraft:quartz_bricks
+setblock -51 -33 -3 minecraft:quartz_bricks
+setblock -51 -33 -2 minecraft:quartz_bricks
+setblock -51 -33 -1 minecraft:quartz_bricks
+setblock -51 -33 0 minecraft:smooth_quartz
+setblock -51 -33 1 minecraft:quartz_bricks
+setblock -51 -33 2 minecraft:quartz_bricks
+setblock -51 -33 3 minecraft:quartz_bricks
+setblock -51 -33 4 minecraft:quartz_bricks
+setblock -51 -33 5 minecraft:quartz_bricks
+setblock -51 -33 6 minecraft:quartz_bricks
+setblock -51 -33 7 minecraft:quartz_bricks
+setblock -51 -33 8 minecraft:quartz_bricks
+setblock -51 -33 9 minecraft:quartz_bricks
+setblock -51 -33 10 minecraft:quartz_bricks
+setblock -50 -33 -8 minecraft:smooth_quartz
+setblock -50 -33 -7 minecraft:smooth_quartz
+setblock -50 -33 -6 minecraft:smooth_quartz
+setblock -50 -33 -5 minecraft:smooth_quartz
+setblock -50 -33 -4 minecraft:smooth_quartz
+setblock -50 -33 -3 minecraft:smooth_quartz
+setblock -50 -33 -2 minecraft:smooth_quartz
+setblock -50 -33 -1 minecraft:smooth_quartz
+setblock -50 -33 0 minecraft:smooth_quartz
+setblock -50 -33 1 minecraft:smooth_quartz
+setblock -50 -33 2 minecraft:smooth_quartz
+setblock -50 -33 3 minecraft:smooth_quartz
+setblock -50 -33 4 minecraft:smooth_quartz
+setblock -50 -33 5 minecraft:smooth_quartz
+setblock -50 -33 6 minecraft:smooth_quartz
+setblock -50 -33 7 minecraft:smooth_quartz
+setblock -50 -33 8 minecraft:smooth_quartz
+setblock -50 -33 9 minecraft:smooth_quartz
+setblock -50 -33 10 minecraft:smooth_quartz
+setblock -50 -32 10 minecraft:sea_lantern
+setblock -50 -33 11 minecraft:quartz_bricks
+setblock -50 -33 12 minecraft:quartz_bricks
+setblock -50 -33 13 minecraft:quartz_bricks
+setblock -50 -33 14 minecraft:quartz_bricks
+setblock -49 -33 -8 minecraft:smooth_quartz
+setblock -49 -33 -7 minecraft:smooth_quartz
+setblock -49 -32 -7 minecraft:sea_lantern
+setblock -49 -33 -6 minecraft:smooth_quartz
+setblock -49 -33 -5 minecraft:smooth_quartz
+setblock -49 -33 -4 minecraft:smooth_quartz
+setblock -49 -33 -3 minecraft:smooth_quartz
+setblock -49 -32 -3 minecraft:sea_lantern
+setblock -49 -33 -2 minecraft:smooth_quartz
+setblock -49 -33 -1 minecraft:smooth_quartz
+setblock -49 -33 0 minecraft:smooth_quartz
+setblock -49 -33 1 minecraft:smooth_quartz
+setblock -49 -33 2 minecraft:smooth_quartz
+setblock -49 -33 3 minecraft:smooth_quartz
+setblock -49 -32 3 minecraft:sea_lantern
+setblock -49 -33 4 minecraft:smooth_quartz
+setblock -49 -33 5 minecraft:smooth_quartz
+setblock -49 -33 6 minecraft:smooth_quartz
+setblock -49 -33 7 minecraft:smooth_quartz
+setblock -49 -33 8 minecraft:smooth_quartz
+setblock -49 -33 9 minecraft:smooth_quartz
+setblock -49 -33 10 minecraft:smooth_quartz
+setblock -49 -33 11 minecraft:smooth_quartz
+setblock -49 -33 12 minecraft:smooth_quartz
+setblock -49 -33 13 minecraft:smooth_quartz
+setblock -49 -33 14 minecraft:smooth_quartz
+setblock -49 -33 15 minecraft:quartz_bricks
+setblock -49 -33 16 minecraft:quartz_bricks
+setblock -49 -33 17 minecraft:quartz_bricks
+setblock -48 -33 -8 minecraft:quartz_bricks
+setblock -48 -33 -7 minecraft:quartz_bricks
+setblock -48 -33 -6 minecraft:quartz_bricks
+setblock -48 -33 -5 minecraft:quartz_bricks
+setblock -48 -33 -4 minecraft:quartz_bricks
+setblock -48 -33 -3 minecraft:quartz_bricks
+setblock -48 -33 -2 minecraft:quartz_bricks
+setblock -48 -33 -1 minecraft:quartz_bricks
+setblock -48 -33 0 minecraft:quartz_bricks
+setblock -48 -33 1 minecraft:quartz_bricks
+setblock -48 -33 2 minecraft:quartz_bricks
+setblock -48 -33 3 minecraft:quartz_bricks
+setblock -48 -33 4 minecraft:quartz_bricks
+setblock -48 -33 5 minecraft:quartz_bricks
+setblock -48 -33 6 minecraft:quartz_bricks
+setblock -48 -33 7 minecraft:quartz_bricks
+setblock -48 -33 8 minecraft:quartz_bricks
+setblock -48 -33 9 minecraft:quartz_bricks
+setblock -48 -33 10 minecraft:smooth_quartz
+setblock -48 -33 11 minecraft:smooth_quartz
+setblock -48 -33 12 minecraft:smooth_quartz
+setblock -48 -33 13 minecraft:smooth_quartz
+setblock -48 -33 14 minecraft:smooth_quartz
+setblock -48 -33 15 minecraft:smooth_quartz
+setblock -48 -33 16 minecraft:smooth_quartz
+setblock -48 -33 17 minecraft:smooth_quartz
+setblock -48 -33 18 minecraft:quartz_bricks
+setblock -48 -33 19 minecraft:quartz_bricks
+setblock -48 -33 20 minecraft:quartz_bricks
+setblock -47 -33 10 minecraft:quartz_bricks
+setblock -47 -33 11 minecraft:quartz_bricks
+setblock -47 -33 12 minecraft:quartz_bricks
+setblock -47 -33 13 minecraft:quartz_bricks
+setblock -47 -33 14 minecraft:smooth_quartz
+setblock -47 -32 14 minecraft:sea_lantern
+setblock -47 -33 15 minecraft:smooth_quartz
+setblock -47 -32 15 minecraft:sea_lantern
+setblock -47 -33 16 minecraft:smooth_quartz
+setblock -47 -32 16 minecraft:sea_lantern
+setblock -47 -33 17 minecraft:smooth_quartz
+setblock -47 -33 18 minecraft:smooth_quartz
+setblock -47 -33 19 minecraft:smooth_quartz
+setblock -47 -33 20 minecraft:quartz_bricks
+setblock -47 -33 21 minecraft:quartz_bricks
+setblock -47 -33 22 minecraft:quartz_bricks
+setblock -46 -33 14 minecraft:quartz_bricks
+setblock -46 -33 15 minecraft:quartz_bricks
+setblock -46 -33 16 minecraft:quartz_bricks
+setblock -46 -33 17 minecraft:smooth_quartz
+setblock -46 -33 18 minecraft:smooth_quartz
+setblock -46 -33 19 minecraft:smooth_quartz
+setblock -46 -33 20 minecraft:smooth_quartz
+setblock -46 -33 21 minecraft:smooth_quartz
+setblock -46 -33 22 minecraft:smooth_quartz
+setblock -46 -33 23 minecraft:quartz_bricks
+setblock -46 -33 24 minecraft:quartz_bricks
+setblock -45 -33 17 minecraft:quartz_bricks
+setblock -45 -33 18 minecraft:quartz_bricks
+setblock -45 -33 19 minecraft:quartz_bricks
+setblock -45 -33 20 minecraft:smooth_quartz
+setblock -45 -32 20 minecraft:sea_lantern
+setblock -45 -33 21 minecraft:smooth_quartz
+setblock -45 -33 22 minecraft:smooth_quartz
+setblock -45 -33 23 minecraft:smooth_quartz
+setblock -45 -33 24 minecraft:smooth_quartz
+setblock -45 -33 25 minecraft:quartz_bricks
+setblock -45 -33 26 minecraft:quartz_bricks
+setblock -44 -33 20 minecraft:quartz_bricks
+setblock -44 -33 21 minecraft:quartz_bricks
+setblock -44 -33 22 minecraft:smooth_quartz
+setblock -44 -33 23 minecraft:smooth_quartz
+setblock -44 -33 24 minecraft:smooth_quartz
+setblock -44 -33 25 minecraft:smooth_quartz
+setblock -44 -32 25 minecraft:sea_lantern
+setblock -44 -33 26 minecraft:quartz_bricks
+setblock -44 -33 27 minecraft:quartz_bricks
+setblock -43 -33 22 minecraft:quartz_bricks
+setblock -43 -33 23 minecraft:quartz_bricks
+setblock -43 -33 24 minecraft:smooth_quartz
+setblock -43 -33 25 minecraft:smooth_quartz
+setblock -43 -33 26 minecraft:smooth_quartz
+setblock -43 -33 27 minecraft:smooth_quartz
+setblock -43 -33 28 minecraft:quartz_bricks
+setblock -43 -33 29 minecraft:quartz_bricks
+setblock -42 -33 24 minecraft:quartz_bricks
+setblock -42 -33 25 minecraft:quartz_bricks
+setblock -42 -33 26 minecraft:smooth_quartz
+setblock -42 -33 27 minecraft:smooth_quartz
+setblock -42 -33 28 minecraft:smooth_quartz
+setblock -42 -33 29 minecraft:quartz_bricks
+setblock -42 -33 30 minecraft:quartz_bricks
+setblock -41 -33 25 minecraft:quartz_bricks
+setblock -41 -33 26 minecraft:quartz_bricks
+setblock -41 -33 27 minecraft:smooth_quartz
+setblock -41 -33 28 minecraft:smooth_quartz
+setblock -41 -33 29 minecraft:smooth_quartz
+setblock -41 -33 30 minecraft:smooth_quartz
+setblock -41 -33 31 minecraft:quartz_bricks
+setblock -40 -33 27 minecraft:quartz_bricks
+setblock -40 -33 28 minecraft:quartz_bricks
+setblock -40 -33 29 minecraft:smooth_quartz
+setblock -40 -33 30 minecraft:smooth_quartz
+setblock -40 -33 31 minecraft:smooth_quartz
+setblock -40 -33 32 minecraft:quartz_bricks
+setblock -40 -33 33 minecraft:quartz_bricks
+setblock -39 -33 28 minecraft:quartz_bricks
+setblock -39 -33 29 minecraft:quartz_bricks
+setblock -39 -33 30 minecraft:smooth_quartz
+setblock -39 -33 31 minecraft:smooth_quartz
+setblock -39 -33 32 minecraft:smooth_quartz
+setblock -39 -33 33 minecraft:quartz_bricks
+setblock -39 -33 34 minecraft:quartz_bricks
+setblock -38 -33 30 minecraft:quartz_bricks
+setblock -38 -33 31 minecraft:smooth_quartz
+setblock -38 -33 32 minecraft:smooth_quartz
+setblock -38 -33 33 minecraft:smooth_quartz
+setblock -38 -33 34 minecraft:smooth_quartz
+setblock -38 -33 35 minecraft:quartz_bricks
+setblock -37 -33 31 minecraft:quartz_bricks
+setblock -37 -33 32 minecraft:quartz_bricks
+setblock -37 -33 33 minecraft:smooth_quartz
+setblock -37 -33 34 minecraft:smooth_quartz
+setblock -37 -33 35 minecraft:smooth_quartz
+setblock -37 -33 36 minecraft:quartz_bricks
+setblock -36 -33 32 minecraft:quartz_bricks
+setblock -36 -33 33 minecraft:quartz_bricks
+setblock -36 -33 34 minecraft:smooth_quartz
+setblock -36 -33 35 minecraft:smooth_quartz
+setblock -36 -33 36 minecraft:smooth_quartz
+setblock -36 -33 37 minecraft:quartz_bricks
+setblock -35 -33 33 minecraft:quartz_bricks
+setblock -35 -33 34 minecraft:quartz_bricks
+setblock -35 -33 35 minecraft:smooth_quartz
+setblock -35 -33 36 minecraft:smooth_quartz
+setblock -35 -33 37 minecraft:smooth_quartz
+setblock -35 -33 38 minecraft:quartz_bricks
+setblock -34 -33 34 minecraft:quartz_bricks
+setblock -34 -33 35 minecraft:quartz_bricks
+setblock -34 -33 36 minecraft:smooth_quartz
+setblock -34 -33 37 minecraft:smooth_quartz
+setblock -34 -33 38 minecraft:smooth_quartz
+setblock -34 -33 39 minecraft:quartz_bricks
+setblock -33 -33 35 minecraft:quartz_bricks
+setblock -33 -33 36 minecraft:quartz_bricks
+setblock -33 -33 37 minecraft:smooth_quartz
+setblock -33 -33 38 minecraft:smooth_quartz
+setblock -33 -33 39 minecraft:quartz_bricks
+setblock -33 -33 40 minecraft:quartz_bricks
+setblock -32 -33 36 minecraft:quartz_bricks
+setblock -32 -33 37 minecraft:quartz_bricks
+setblock -32 -33 38 minecraft:smooth_quartz
+setblock -32 -33 39 minecraft:smooth_quartz
+setblock -32 -33 40 minecraft:quartz_bricks
+setblock -31 -33 37 minecraft:quartz_bricks
+setblock -31 -33 38 minecraft:smooth_quartz
+setblock -31 -33 39 minecraft:smooth_quartz
+setblock -31 -33 40 minecraft:smooth_quartz
+setblock -31 -33 41 minecraft:quartz_bricks
+setblock -30 -33 38 minecraft:quartz_bricks
+setblock -30 -33 39 minecraft:smooth_quartz
+setblock -30 -33 40 minecraft:smooth_quartz
+setblock -30 -32 40 minecraft:sea_lantern
+setblock -30 -33 41 minecraft:smooth_quartz
+setblock -30 -33 42 minecraft:quartz_bricks
+setblock -29 -33 39 minecraft:quartz_bricks
+setblock -29 -33 40 minecraft:smooth_quartz
+setblock -29 -33 41 minecraft:smooth_quartz
+setblock -29 -33 42 minecraft:quartz_bricks
+setblock -29 -33 43 minecraft:quartz_bricks
+setblock -28 -33 39 minecraft:quartz_bricks
+setblock -28 -33 40 minecraft:quartz_bricks
+setblock -28 -33 41 minecraft:smooth_quartz
+setblock -28 -33 42 minecraft:smooth_quartz
+setblock -28 -33 43 minecraft:quartz_bricks
+setblock -27 -33 40 minecraft:quartz_bricks
+setblock -27 -33 41 minecraft:smooth_quartz
+setblock -27 -33 42 minecraft:smooth_quartz
+setblock -27 -33 43 minecraft:smooth_quartz
+setblock -27 -33 44 minecraft:quartz_bricks
+setblock -26 -33 41 minecraft:quartz_bricks
+setblock -26 -33 42 minecraft:smooth_quartz
+setblock -26 -33 43 minecraft:smooth_quartz
+setblock -26 -33 44 minecraft:quartz_bricks
+setblock -26 -33 45 minecraft:quartz_bricks
+setblock -25 -33 41 minecraft:quartz_bricks
+setblock -25 -33 42 minecraft:quartz_bricks
+setblock -25 -33 43 minecraft:smooth_quartz
+setblock -25 -33 44 minecraft:smooth_quartz
+setblock -25 -33 45 minecraft:quartz_bricks
+setblock -24 -33 42 minecraft:quartz_bricks
+setblock -24 -33 43 minecraft:smooth_quartz
+setblock -24 -33 44 minecraft:smooth_quartz
+setblock -24 -33 45 minecraft:smooth_quartz
+setblock -24 -33 46 minecraft:quartz_bricks
+setblock -23 -33 43 minecraft:quartz_bricks
+setblock -23 -33 44 minecraft:smooth_quartz
+setblock -23 -33 45 minecraft:smooth_quartz
+setblock -23 -33 46 minecraft:quartz_bricks
+setblock -22 -33 43 minecraft:quartz_bricks
+setblock -22 -33 44 minecraft:smooth_quartz
+setblock -22 -32 44 minecraft:sea_lantern
+setblock -22 -33 45 minecraft:smooth_quartz
+setblock -22 -33 46 minecraft:smooth_quartz
+setblock -22 -32 46 minecraft:sea_lantern
+setblock -22 -33 47 minecraft:quartz_bricks
+setblock -21 -33 44 minecraft:quartz_bricks
+setblock -21 -33 45 minecraft:smooth_quartz
+setblock -21 -32 45 minecraft:sea_lantern
+setblock -21 -33 46 minecraft:smooth_quartz
+setblock -21 -33 47 minecraft:quartz_bricks
+setblock -20 -33 44 minecraft:quartz_bricks
+setblock -20 -33 45 minecraft:smooth_quartz
+setblock -20 -33 46 minecraft:smooth_quartz
+setblock -20 -33 47 minecraft:quartz_bricks
+setblock -20 -33 48 minecraft:quartz_bricks
+setblock -19 -33 45 minecraft:quartz_bricks
+setblock -19 -33 46 minecraft:smooth_quartz
+setblock -19 -33 47 minecraft:smooth_quartz
+setblock -19 -33 48 minecraft:quartz_bricks
+setblock -18 -33 45 minecraft:quartz_bricks
+setblock -18 -33 46 minecraft:smooth_quartz
+setblock -18 -33 47 minecraft:smooth_quartz
+setblock -18 -33 48 minecraft:quartz_bricks
+setblock -17 -33 -49 minecraft:quartz_bricks
+setblock -17 -33 -48 minecraft:smooth_quartz
+setblock -17 -33 -47 minecraft:smooth_quartz
+setblock -17 -33 45 minecraft:quartz_bricks
+setblock -17 -33 46 minecraft:smooth_quartz
+setblock -17 -33 47 minecraft:smooth_quartz
+setblock -17 -33 48 minecraft:smooth_quartz
+setblock -17 -32 48 minecraft:sea_lantern
+setblock -17 -33 49 minecraft:quartz_bricks
+setblock -16 -33 -49 minecraft:quartz_bricks
+setblock -16 -33 -48 minecraft:smooth_quartz
+setblock -16 -33 -47 minecraft:smooth_quartz
+setblock -16 -33 -46 minecraft:quartz_bricks
+setblock -16 -33 46 minecraft:quartz_bricks
+setblock -16 -33 47 minecraft:smooth_quartz
+setblock -16 -33 48 minecraft:smooth_quartz
+setblock -16 -33 49 minecraft:quartz_bricks
+setblock -15 -33 -49 minecraft:quartz_bricks
+setblock -15 -33 -48 minecraft:smooth_quartz
+setblock -15 -33 -47 minecraft:smooth_quartz
+setblock -15 -33 -46 minecraft:quartz_bricks
+setblock -15 -33 46 minecraft:quartz_bricks
+setblock -15 -33 47 minecraft:smooth_quartz
+setblock -15 -33 48 minecraft:smooth_quartz
+setblock -15 -33 49 minecraft:quartz_bricks
+setblock -14 -33 -50 minecraft:quartz_bricks
+setblock -14 -33 -49 minecraft:smooth_quartz
+setblock -14 -33 -48 minecraft:smooth_quartz
+setblock -14 -33 -47 minecraft:smooth_quartz
+setblock -14 -33 -46 minecraft:quartz_bricks
+setblock -14 -33 46 minecraft:quartz_bricks
+setblock -14 -33 47 minecraft:smooth_quartz
+setblock -14 -33 48 minecraft:smooth_quartz
+setblock -14 -33 49 minecraft:smooth_quartz
+setblock -14 -33 50 minecraft:quartz_bricks
+setblock -13 -33 -50 minecraft:quartz_bricks
+setblock -13 -33 -49 minecraft:smooth_quartz
+setblock -13 -33 -48 minecraft:smooth_quartz
+setblock -13 -33 -47 minecraft:quartz_bricks
+setblock -13 -33 47 minecraft:quartz_bricks
+setblock -13 -33 48 minecraft:smooth_quartz
+setblock -13 -33 49 minecraft:smooth_quartz
+setblock -13 -33 50 minecraft:quartz_bricks
+setblock -12 -33 -50 minecraft:quartz_bricks
+setblock -12 -33 -49 minecraft:smooth_quartz
+setblock -12 -33 -48 minecraft:smooth_quartz
+setblock -12 -33 -47 minecraft:quartz_bricks
+setblock -12 -33 47 minecraft:quartz_bricks
+setblock -12 -33 48 minecraft:smooth_quartz
+setblock -12 -33 49 minecraft:smooth_quartz
+setblock -12 -33 50 minecraft:quartz_bricks
+setblock -11 -33 -50 minecraft:quartz_bricks
+setblock -11 -33 -49 minecraft:smooth_quartz
+setblock -11 -33 -48 minecraft:smooth_quartz
+setblock -11 -33 -47 minecraft:quartz_bricks
+setblock -11 -33 47 minecraft:quartz_bricks
+setblock -11 -33 48 minecraft:smooth_quartz
+setblock -11 -33 49 minecraft:smooth_quartz
+setblock -11 -33 50 minecraft:quartz_bricks
+setblock -10 -33 -51 minecraft:quartz_bricks
+setblock -10 -33 -50 minecraft:smooth_quartz
+setblock -10 -33 -49 minecraft:smooth_quartz
+setblock -10 -32 -49 minecraft:sea_lantern
+setblock -10 -33 -48 minecraft:smooth_quartz
+setblock -10 -33 -47 minecraft:quartz_bricks
+setblock -10 -33 47 minecraft:quartz_bricks
+setblock -10 -33 48 minecraft:smooth_quartz
+setblock -10 -33 49 minecraft:smooth_quartz
+setblock -10 -33 50 minecraft:smooth_quartz
+setblock -10 -33 51 minecraft:quartz_bricks
+setblock -9 -33 -51 minecraft:quartz_bricks
+setblock -9 -33 -50 minecraft:smooth_quartz
+setblock -9 -33 -49 minecraft:smooth_quartz
+setblock -9 -32 -49 minecraft:sea_lantern
+setblock -9 -33 -48 minecraft:quartz_bricks
+setblock -9 -33 48 minecraft:quartz_bricks
+setblock -9 -33 49 minecraft:smooth_quartz
+setblock -9 -33 50 minecraft:smooth_quartz
+setblock -9 -33 51 minecraft:quartz_bricks
+setblock -8 -33 -51 minecraft:quartz_bricks
+setblock -8 -33 -50 minecraft:smooth_quartz
+setblock -8 -33 -49 minecraft:smooth_quartz
+setblock -8 -33 -48 minecraft:quartz_bricks
+setblock -8 -33 48 minecraft:quartz_bricks
+setblock -8 -33 49 minecraft:smooth_quartz
+setblock -8 -33 50 minecraft:smooth_quartz
+setblock -8 -33 51 minecraft:quartz_bricks
+setblock -7 -33 -51 minecraft:quartz_bricks
+setblock -7 -33 -50 minecraft:smooth_quartz
+setblock -7 -33 -49 minecraft:smooth_quartz
+setblock -7 -33 -48 minecraft:quartz_bricks
+setblock -7 -33 48 minecraft:quartz_bricks
+setblock -7 -33 49 minecraft:smooth_quartz
+setblock -7 -33 50 minecraft:smooth_quartz
+setblock -7 -32 50 minecraft:sea_lantern
+setblock -7 -33 51 minecraft:quartz_bricks
+setblock -6 -33 -51 minecraft:quartz_bricks
+setblock -6 -33 -50 minecraft:smooth_quartz
+setblock -6 -33 -49 minecraft:smooth_quartz
+setblock -6 -33 -48 minecraft:quartz_bricks
+setblock -6 -33 48 minecraft:quartz_bricks
+setblock -6 -33 49 minecraft:smooth_quartz
+setblock -6 -33 50 minecraft:smooth_quartz
+setblock -6 -33 51 minecraft:quartz_bricks
+setblock -5 -33 -51 minecraft:quartz_bricks
+setblock -5 -33 -50 minecraft:smooth_quartz
+setblock -5 -32 -50 minecraft:sea_lantern
+setblock -5 -33 -49 minecraft:smooth_quartz
+setblock -5 -33 -48 minecraft:quartz_bricks
+setblock -5 -33 48 minecraft:quartz_bricks
+setblock -5 -33 49 minecraft:smooth_quartz
+setblock -5 -33 50 minecraft:smooth_quartz
+setblock -5 -33 51 minecraft:quartz_bricks
+setblock -4 -33 -51 minecraft:quartz_bricks
+setblock -4 -33 -50 minecraft:smooth_quartz
+setblock -4 -33 -49 minecraft:smooth_quartz
+setblock -4 -33 -48 minecraft:quartz_bricks
+setblock -4 -33 48 minecraft:quartz_bricks
+setblock -4 -33 49 minecraft:smooth_quartz
+setblock -4 -33 50 minecraft:smooth_quartz
+setblock -4 -33 51 minecraft:quartz_bricks
+setblock -3 -33 -51 minecraft:quartz_bricks
+setblock -3 -33 -50 minecraft:smooth_quartz
+setblock -3 -33 -49 minecraft:smooth_quartz
+setblock -3 -33 -48 minecraft:quartz_bricks
+setblock -3 -33 48 minecraft:quartz_bricks
+setblock -3 -33 49 minecraft:smooth_quartz
+setblock -3 -33 50 minecraft:smooth_quartz
+setblock -3 -32 50 minecraft:sea_lantern
+setblock -3 -33 51 minecraft:quartz_bricks
+setblock -2 -33 -51 minecraft:quartz_bricks
+setblock -2 -33 -50 minecraft:smooth_quartz
+setblock -2 -33 -49 minecraft:smooth_quartz
+setblock -2 -33 -48 minecraft:quartz_bricks
+setblock -2 -33 48 minecraft:quartz_bricks
+setblock -2 -33 49 minecraft:smooth_quartz
+setblock -2 -33 50 minecraft:smooth_quartz
+setblock -2 -33 51 minecraft:quartz_bricks
+setblock -1 -33 -51 minecraft:quartz_bricks
+setblock -1 -33 -50 minecraft:smooth_quartz
+setblock -1 -33 -49 minecraft:smooth_quartz
+setblock -1 -33 -48 minecraft:quartz_bricks
+setblock -1 -33 48 minecraft:quartz_bricks
+setblock -1 -33 49 minecraft:smooth_quartz
+setblock -1 -32 49 minecraft:sea_lantern
+setblock -1 -33 50 minecraft:smooth_quartz
+setblock -1 -33 51 minecraft:quartz_bricks
+setblock 0 -33 -52 minecraft:quartz_bricks
+setblock 0 -33 -51 minecraft:smooth_quartz
+setblock 0 -33 -50 minecraft:smooth_quartz
+setblock 0 -33 -49 minecraft:smooth_quartz
+setblock 0 -33 -48 minecraft:quartz_bricks
+setblock 0 -33 48 minecraft:quartz_bricks
+setblock 0 -33 49 minecraft:smooth_quartz
+setblock 0 -33 50 minecraft:smooth_quartz
+setblock 0 -33 51 minecraft:smooth_quartz
+setblock 0 -33 52 minecraft:quartz_bricks
+setblock 1 -33 -51 minecraft:quartz_bricks
+setblock 1 -33 -50 minecraft:smooth_quartz
+setblock 1 -33 -49 minecraft:smooth_quartz
+setblock 1 -33 -48 minecraft:quartz_bricks
+setblock 1 -33 48 minecraft:quartz_bricks
+setblock 1 -33 49 minecraft:smooth_quartz
+setblock 1 -33 50 minecraft:smooth_quartz
+setblock 1 -33 51 minecraft:quartz_bricks
+setblock 2 -33 -51 minecraft:quartz_bricks
+setblock 2 -33 -50 minecraft:smooth_quartz
+setblock 2 -33 -49 minecraft:smooth_quartz
+setblock 2 -33 -48 minecraft:quartz_bricks
+setblock 2 -33 48 minecraft:quartz_bricks
+setblock 2 -33 49 minecraft:smooth_quartz
+setblock 2 -33 50 minecraft:smooth_quartz
+setblock 2 -33 51 minecraft:quartz_bricks
+setblock 3 -33 -51 minecraft:quartz_bricks
+setblock 3 -33 -50 minecraft:smooth_quartz
+setblock 3 -33 -49 minecraft:smooth_quartz
+setblock 3 -33 -48 minecraft:quartz_bricks
+setblock 3 -33 48 minecraft:quartz_bricks
+setblock 3 -33 49 minecraft:smooth_quartz
+setblock 3 -33 50 minecraft:smooth_quartz
+setblock 3 -32 50 minecraft:sea_lantern
+setblock 3 -33 51 minecraft:quartz_bricks
+setblock 4 -33 -51 minecraft:quartz_bricks
+setblock 4 -33 -50 minecraft:smooth_quartz
+setblock 4 -33 -49 minecraft:smooth_quartz
+setblock 4 -33 -48 minecraft:quartz_bricks
+setblock 4 -33 48 minecraft:quartz_bricks
+setblock 4 -33 49 minecraft:smooth_quartz
+setblock 4 -33 50 minecraft:smooth_quartz
+setblock 4 -33 51 minecraft:quartz_bricks
+setblock 5 -33 -51 minecraft:quartz_bricks
+setblock 5 -33 -50 minecraft:smooth_quartz
+setblock 5 -33 -49 minecraft:smooth_quartz
+setblock 5 -33 -48 minecraft:quartz_bricks
+setblock 5 -33 48 minecraft:quartz_bricks
+setblock 5 -33 49 minecraft:smooth_quartz
+setblock 5 -33 50 minecraft:smooth_quartz
+setblock 5 -33 51 minecraft:quartz_bricks
+setblock 6 -33 -51 minecraft:quartz_bricks
+setblock 6 -33 -50 minecraft:smooth_quartz
+setblock 6 -32 -50 minecraft:sea_lantern
+setblock 6 -33 -49 minecraft:smooth_quartz
+setblock 6 -33 -48 minecraft:quartz_bricks
+setblock 6 -33 48 minecraft:quartz_bricks
+setblock 6 -33 49 minecraft:smooth_quartz
+setblock 6 -32 49 minecraft:sea_lantern
+setblock 6 -33 50 minecraft:smooth_quartz
+setblock 6 -33 51 minecraft:quartz_bricks
+setblock 7 -33 -51 minecraft:quartz_bricks
+setblock 7 -33 -50 minecraft:smooth_quartz
+setblock 7 -33 -49 minecraft:smooth_quartz
+setblock 7 -33 -48 minecraft:quartz_bricks
+setblock 7 -33 48 minecraft:quartz_bricks
+setblock 7 -33 49 minecraft:smooth_quartz
+setblock 7 -33 50 minecraft:smooth_quartz
+setblock 7 -33 51 minecraft:quartz_bricks
+setblock 8 -33 -51 minecraft:quartz_bricks
+setblock 8 -33 -50 minecraft:smooth_quartz
+setblock 8 -33 -49 minecraft:smooth_quartz
+setblock 8 -33 -48 minecraft:quartz_bricks
+setblock 8 -33 48 minecraft:quartz_bricks
+setblock 8 -33 49 minecraft:smooth_quartz
+setblock 8 -33 50 minecraft:smooth_quartz
+setblock 8 -33 51 minecraft:quartz_bricks
+setblock 9 -33 -51 minecraft:quartz_bricks
+setblock 9 -33 -50 minecraft:smooth_quartz
+setblock 9 -33 -49 minecraft:smooth_quartz
+setblock 9 -33 -48 minecraft:quartz_bricks
+setblock 9 -33 48 minecraft:quartz_bricks
+setblock 9 -33 49 minecraft:smooth_quartz
+setblock 9 -33 50 minecraft:smooth_quartz
+setblock 9 -33 51 minecraft:quartz_bricks
+setblock 10 -33 -51 minecraft:quartz_bricks
+setblock 10 -33 -50 minecraft:smooth_quartz
+setblock 10 -33 -49 minecraft:smooth_quartz
+setblock 10 -33 -48 minecraft:smooth_quartz
+setblock 10 -33 -47 minecraft:quartz_bricks
+setblock 10 -33 47 minecraft:quartz_bricks
+setblock 10 -33 48 minecraft:smooth_quartz
+setblock 10 -33 49 minecraft:smooth_quartz
+setblock 10 -33 50 minecraft:smooth_quartz
+setblock 10 -33 51 minecraft:quartz_bricks
+setblock 11 -33 -50 minecraft:quartz_bricks
+setblock 11 -33 -49 minecraft:smooth_quartz
+setblock 11 -33 -48 minecraft:smooth_quartz
+setblock 11 -33 -47 minecraft:quartz_bricks
+setblock 11 -33 47 minecraft:quartz_bricks
+setblock 11 -33 48 minecraft:smooth_quartz
+setblock 11 -32 48 minecraft:sea_lantern
+setblock 11 -33 49 minecraft:smooth_quartz
+setblock 11 -33 50 minecraft:quartz_bricks
+setblock 12 -33 -50 minecraft:quartz_bricks
+setblock 12 -33 -49 minecraft:smooth_quartz
+setblock 12 -33 -48 minecraft:smooth_quartz
+setblock 12 -33 -47 minecraft:quartz_bricks
+setblock 12 -33 47 minecraft:quartz_bricks
+setblock 12 -33 48 minecraft:smooth_quartz
+setblock 12 -32 48 minecraft:sea_lantern
+setblock 12 -33 49 minecraft:smooth_quartz
+setblock 12 -33 50 minecraft:quartz_bricks
+setblock 13 -33 -50 minecraft:quartz_bricks
+setblock 13 -33 -49 minecraft:smooth_quartz
+setblock 13 -33 -48 minecraft:smooth_quartz
+setblock 13 -33 -47 minecraft:quartz_bricks
+setblock 13 -33 47 minecraft:quartz_bricks
+setblock 13 -33 48 minecraft:smooth_quartz
+setblock 13 -32 48 minecraft:sea_lantern
+setblock 13 -33 49 minecraft:smooth_quartz
+setblock 13 -33 50 minecraft:quartz_bricks
+setblock 14 -33 -50 minecraft:quartz_bricks
+setblock 14 -33 -49 minecraft:smooth_quartz
+setblock 14 -33 -48 minecraft:smooth_quartz
+setblock 14 -33 -47 minecraft:smooth_quartz
+setblock 14 -33 -46 minecraft:quartz_bricks
+setblock 14 -33 46 minecraft:quartz_bricks
+setblock 14 -33 47 minecraft:smooth_quartz
+setblock 14 -33 48 minecraft:smooth_quartz
+setblock 14 -32 48 minecraft:sea_lantern
+setblock 14 -33 49 minecraft:smooth_quartz
+setblock 14 -33 50 minecraft:quartz_bricks
+setblock 15 -33 -49 minecraft:quartz_bricks
+setblock 15 -33 -48 minecraft:smooth_quartz
+setblock 15 -33 -47 minecraft:smooth_quartz
+setblock 15 -32 -47 minecraft:sea_lantern
+setblock 15 -33 -46 minecraft:quartz_bricks
+setblock 15 -33 46 minecraft:quartz_bricks
+setblock 15 -33 47 minecraft:smooth_quartz
+setblock 15 -33 48 minecraft:smooth_quartz
+setblock 15 -32 48 minecraft:sea_lantern
+setblock 15 -33 49 minecraft:quartz_bricks
+setblock 16 -33 -49 minecraft:quartz_bricks
+setblock 16 -33 -48 minecraft:smooth_quartz
+setblock 16 -33 -47 minecraft:smooth_quartz
+setblock 16 -33 -46 minecraft:quartz_bricks
+setblock 16 -33 46 minecraft:quartz_bricks
+setblock 16 -33 47 minecraft:smooth_quartz
+setblock 16 -33 48 minecraft:smooth_quartz
+setblock 16 -32 48 minecraft:sea_lantern
+setblock 16 -33 49 minecraft:quartz_bricks
+setblock 17 -33 -49 minecraft:quartz_bricks
+setblock 17 -33 -48 minecraft:smooth_quartz
+setblock 17 -33 -47 minecraft:smooth_quartz
+setblock 17 -33 -46 minecraft:smooth_quartz
+setblock 17 -33 -45 minecraft:quartz_bricks
+setblock 17 -33 45 minecraft:quartz_bricks
+setblock 17 -33 46 minecraft:smooth_quartz
+setblock 17 -33 47 minecraft:smooth_quartz
+setblock 17 -33 48 minecraft:smooth_quartz
+setblock 17 -33 49 minecraft:quartz_bricks
+setblock 18 -33 -48 minecraft:quartz_bricks
+setblock 18 -33 -47 minecraft:smooth_quartz
+setblock 18 -33 -46 minecraft:smooth_quartz
+setblock 18 -33 -45 minecraft:quartz_bricks
+setblock 18 -33 45 minecraft:quartz_bricks
+setblock 18 -33 46 minecraft:smooth_quartz
+setblock 18 -33 47 minecraft:smooth_quartz
+setblock 18 -33 48 minecraft:quartz_bricks
+setblock 19 -33 -48 minecraft:quartz_bricks
+setblock 19 -33 -47 minecraft:smooth_quartz
+setblock 19 -33 -46 minecraft:smooth_quartz
+setblock 19 -32 -46 minecraft:sea_lantern
+setblock 19 -33 -45 minecraft:quartz_bricks
+setblock 19 -33 45 minecraft:quartz_bricks
+setblock 19 -33 46 minecraft:smooth_quartz
+setblock 19 -33 47 minecraft:smooth_quartz
+setblock 19 -33 48 minecraft:quartz_bricks
+setblock 20 -33 -48 minecraft:quartz_bricks
+setblock 20 -33 -47 minecraft:quartz_bricks
+setblock 20 -33 -46 minecraft:smooth_quartz
+setblock 20 -33 -45 minecraft:smooth_quartz
+setblock 20 -33 -44 minecraft:quartz_bricks
+setblock 20 -33 44 minecraft:quartz_bricks
+setblock 20 -33 45 minecraft:smooth_quartz
+setblock 20 -33 46 minecraft:smooth_quartz
+setblock 20 -32 46 minecraft:sea_lantern
+setblock 20 -33 47 minecraft:quartz_bricks
+setblock 20 -33 48 minecraft:quartz_bricks
+setblock 21 -33 -47 minecraft:quartz_bricks
+setblock 21 -33 -46 minecraft:smooth_quartz
+setblock 21 -33 -45 minecraft:smooth_quartz
+setblock 21 -33 -44 minecraft:quartz_bricks
+setblock 21 -33 44 minecraft:quartz_bricks
+setblock 21 -33 45 minecraft:smooth_quartz
+setblock 21 -33 46 minecraft:smooth_quartz
+setblock 21 -33 47 minecraft:quartz_bricks
+setblock 22 -33 -47 minecraft:quartz_bricks
+setblock 22 -33 -46 minecraft:smooth_quartz
+setblock 22 -33 -45 minecraft:smooth_quartz
+setblock 22 -33 -44 minecraft:smooth_quartz
+setblock 22 -33 -43 minecraft:quartz_bricks
+setblock 22 -33 43 minecraft:quartz_bricks
+setblock 22 -33 44 minecraft:smooth_quartz
+setblock 22 -33 45 minecraft:smooth_quartz
+setblock 22 -33 46 minecraft:smooth_quartz
+setblock 22 -33 47 minecraft:quartz_bricks
+setblock 23 -33 -46 minecraft:quartz_bricks
+setblock 23 -33 -45 minecraft:smooth_quartz
+setblock 23 -33 -44 minecraft:smooth_quartz
+setblock 23 -33 -43 minecraft:quartz_bricks
+setblock 23 -33 43 minecraft:quartz_bricks
+setblock 23 -33 44 minecraft:smooth_quartz
+setblock 23 -33 45 minecraft:smooth_quartz
+setblock 23 -33 46 minecraft:quartz_bricks
+setblock 24 -33 -46 minecraft:quartz_bricks
+setblock 24 -33 -45 minecraft:smooth_quartz
+setblock 24 -33 -44 minecraft:smooth_quartz
+setblock 24 -33 -43 minecraft:smooth_quartz
+setblock 24 -33 -42 minecraft:quartz_bricks
+setblock 24 -33 42 minecraft:quartz_bricks
+setblock 24 -33 43 minecraft:smooth_quartz
+setblock 24 -33 44 minecraft:smooth_quartz
+setblock 24 -33 45 minecraft:smooth_quartz
+setblock 24 -33 46 minecraft:quartz_bricks
+setblock 25 -33 -45 minecraft:quartz_bricks
+setblock 25 -33 -44 minecraft:smooth_quartz
+setblock 25 -33 -43 minecraft:smooth_quartz
+setblock 25 -33 -42 minecraft:quartz_bricks
+setblock 25 -33 -41 minecraft:quartz_bricks
+setblock 25 -33 41 minecraft:quartz_bricks
+setblock 25 -33 42 minecraft:quartz_bricks
+setblock 25 -33 43 minecraft:smooth_quartz
+setblock 25 -33 44 minecraft:smooth_quartz
+setblock 25 -33 45 minecraft:quartz_bricks
+setblock 26 -33 -45 minecraft:quartz_bricks
+setblock 26 -33 -44 minecraft:quartz_bricks
+setblock 26 -33 -43 minecraft:smooth_quartz
+setblock 26 -33 -42 minecraft:smooth_quartz
+setblock 26 -33 -41 minecraft:quartz_bricks
+setblock 26 -33 41 minecraft:quartz_bricks
+setblock 26 -33 42 minecraft:smooth_quartz
+setblock 26 -33 43 minecraft:smooth_quartz
+setblock 26 -33 44 minecraft:quartz_bricks
+setblock 26 -33 45 minecraft:quartz_bricks
+setblock 27 -33 -44 minecraft:quartz_bricks
+setblock 27 -33 -43 minecraft:smooth_quartz
+setblock 27 -33 -42 minecraft:smooth_quartz
+setblock 27 -33 -41 minecraft:smooth_quartz
+setblock 27 -33 -40 minecraft:quartz_bricks
+setblock 27 -33 40 minecraft:quartz_bricks
+setblock 27 -33 41 minecraft:smooth_quartz
+setblock 27 -33 42 minecraft:smooth_quartz
+setblock 27 -33 43 minecraft:smooth_quartz
+setblock 27 -33 44 minecraft:quartz_bricks
+setblock 28 -33 -43 minecraft:quartz_bricks
+setblock 28 -33 -42 minecraft:smooth_quartz
+setblock 28 -33 -41 minecraft:smooth_quartz
+setblock 28 -33 -40 minecraft:quartz_bricks
+setblock 28 -33 -39 minecraft:quartz_bricks
+setblock 28 -33 39 minecraft:quartz_bricks
+setblock 28 -33 40 minecraft:quartz_bricks
+setblock 28 -33 41 minecraft:smooth_quartz
+setblock 28 -32 41 minecraft:sea_lantern
+setblock 28 -33 42 minecraft:smooth_quartz
+setblock 28 -33 43 minecraft:quartz_bricks
+setblock 29 -33 -43 minecraft:quartz_bricks
+setblock 29 -33 -42 minecraft:quartz_bricks
+setblock 29 -33 -41 minecraft:smooth_quartz
+setblock 29 -33 -40 minecraft:smooth_quartz
+setblock 29 -33 -39 minecraft:quartz_bricks
+setblock 29 -33 39 minecraft:quartz_bricks
+setblock 29 -33 40 minecraft:smooth_quartz
+setblock 29 -33 41 minecraft:smooth_quartz
+setblock 29 -33 42 minecraft:quartz_bricks
+setblock 29 -33 43 minecraft:quartz_bricks
+setblock 30 -33 -42 minecraft:quartz_bricks
+setblock 30 -33 -41 minecraft:smooth_quartz
+setblock 30 -33 -40 minecraft:smooth_quartz
+setblock 30 -33 -39 minecraft:smooth_quartz
+setblock 30 -33 -38 minecraft:quartz_bricks
+setblock 30 -33 38 minecraft:quartz_bricks
+setblock 30 -33 39 minecraft:smooth_quartz
+setblock 30 -33 40 minecraft:smooth_quartz
+setblock 30 -33 41 minecraft:smooth_quartz
+setblock 30 -33 42 minecraft:quartz_bricks
+setblock 31 -33 -41 minecraft:quartz_bricks
+setblock 31 -33 -40 minecraft:smooth_quartz
+setblock 31 -33 -39 minecraft:smooth_quartz
+setblock 31 -33 -38 minecraft:smooth_quartz
+setblock 31 -33 -37 minecraft:quartz_bricks
+setblock 31 -33 37 minecraft:quartz_bricks
+setblock 31 -33 38 minecraft:smooth_quartz
+setblock 31 -33 39 minecraft:smooth_quartz
+setblock 31 -33 40 minecraft:smooth_quartz
+setblock 31 -33 41 minecraft:quartz_bricks
+setblock 32 -33 -40 minecraft:quartz_bricks
+setblock 32 -33 -39 minecraft:smooth_quartz
+setblock 32 -32 -39 minecraft:sea_lantern
+setblock 32 -33 -38 minecraft:smooth_quartz
+setblock 32 -33 -37 minecraft:quartz_bricks
+setblock 32 -33 -36 minecraft:quartz_bricks
+setblock 32 -33 36 minecraft:quartz_bricks
+setblock 32 -33 37 minecraft:quartz_bricks
+setblock 32 -33 38 minecraft:smooth_quartz
+setblock 32 -33 39 minecraft:smooth_quartz
+setblock 32 -33 40 minecraft:quartz_bricks
+setblock 33 -33 -40 minecraft:quartz_bricks
+setblock 33 -33 -39 minecraft:quartz_bricks
+setblock 33 -33 -38 minecraft:smooth_quartz
+setblock 33 -33 -37 minecraft:smooth_quartz
+setblock 33 -33 -36 minecraft:quartz_bricks
+setblock 33 -33 -35 minecraft:quartz_bricks
+setblock 33 -33 35 minecraft:quartz_bricks
+setblock 33 -33 36 minecraft:quartz_bricks
+setblock 33 -33 37 minecraft:smooth_quartz
+setblock 33 -33 38 minecraft:smooth_quartz
+setblock 33 -33 39 minecraft:quartz_bricks
+setblock 33 -33 40 minecraft:quartz_bricks
+setblock 34 -33 -39 minecraft:quartz_bricks
+setblock 34 -33 -38 minecraft:smooth_quartz
+setblock 34 -33 -37 minecraft:smooth_quartz
+setblock 34 -33 -36 minecraft:smooth_quartz
+setblock 34 -32 -36 minecraft:sea_lantern
+setblock 34 -33 -35 minecraft:quartz_bricks
+setblock 34 -33 -34 minecraft:quartz_bricks
+setblock 34 -33 34 minecraft:quartz_bricks
+setblock 34 -33 35 minecraft:quartz_bricks
+setblock 34 -33 36 minecraft:smooth_quartz
+setblock 34 -33 37 minecraft:smooth_quartz
+setblock 34 -33 38 minecraft:smooth_quartz
+setblock 34 -33 39 minecraft:quartz_bricks
+setblock 35 -33 -38 minecraft:quartz_bricks
+setblock 35 -33 -37 minecraft:smooth_quartz
+setblock 35 -33 -36 minecraft:smooth_quartz
+setblock 35 -33 -35 minecraft:smooth_quartz
+setblock 35 -33 -34 minecraft:quartz_bricks
+setblock 35 -33 -33 minecraft:quartz_bricks
+setblock 35 -33 33 minecraft:quartz_bricks
+setblock 35 -33 34 minecraft:quartz_bricks
+setblock 35 -33 35 minecraft:smooth_quartz
+setblock 35 -33 36 minecraft:smooth_quartz
+setblock 35 -33 37 minecraft:smooth_quartz
+setblock 35 -33 38 minecraft:quartz_bricks
+setblock 36 -33 -37 minecraft:quartz_bricks
+setblock 36 -33 -36 minecraft:smooth_quartz
+setblock 36 -33 -35 minecraft:smooth_quartz
+setblock 36 -33 -34 minecraft:smooth_quartz
+setblock 36 -33 -33 minecraft:quartz_bricks
+setblock 36 -33 -32 minecraft:quartz_bricks
+setblock 36 -33 32 minecraft:quartz_bricks
+setblock 36 -33 33 minecraft:quartz_bricks
+setblock 36 -33 34 minecraft:smooth_quartz
+setblock 36 -33 35 minecraft:smooth_quartz
+setblock 36 -33 36 minecraft:smooth_quartz
+setblock 36 -33 37 minecraft:quartz_bricks
+setblock 37 -33 -36 minecraft:quartz_bricks
+setblock 37 -33 -35 minecraft:smooth_quartz
+setblock 37 -33 -34 minecraft:smooth_quartz
+setblock 37 -33 -33 minecraft:smooth_quartz
+setblock 37 -33 -32 minecraft:quartz_bricks
+setblock 37 -33 -31 minecraft:quartz_bricks
+setblock 37 -33 31 minecraft:quartz_bricks
+setblock 37 -33 32 minecraft:quartz_bricks
+setblock 37 -33 33 minecraft:smooth_quartz
+setblock 37 -33 34 minecraft:smooth_quartz
+setblock 37 -33 35 minecraft:smooth_quartz
+setblock 37 -32 35 minecraft:sea_lantern
+setblock 37 -33 36 minecraft:quartz_bricks
+setblock 38 -33 -35 minecraft:quartz_bricks
+setblock 38 -33 -34 minecraft:smooth_quartz
+setblock 38 -33 -33 minecraft:smooth_quartz
+setblock 38 -33 -32 minecraft:smooth_quartz
+setblock 38 -33 -31 minecraft:smooth_quartz
+setblock 38 -33 -30 minecraft:quartz_bricks
+setblock 38 -33 30 minecraft:quartz_bricks
+setblock 38 -33 31 minecraft:smooth_quartz
+setblock 38 -33 32 minecraft:smooth_quartz
+setblock 38 -33 33 minecraft:smooth_quartz
+setblock 38 -33 34 minecraft:smooth_quartz
+setblock 38 -33 35 minecraft:quartz_bricks
+setblock 39 -33 -34 minecraft:quartz_bricks
+setblock 39 -33 -33 minecraft:quartz_bricks
+setblock 39 -33 -32 minecraft:smooth_quartz
+setblock 39 -33 -31 minecraft:smooth_quartz
+setblock 39 -33 -30 minecraft:smooth_quartz
+setblock 39 -33 -29 minecraft:quartz_bricks
+setblock 39 -33 -28 minecraft:quartz_bricks
+setblock 39 -33 28 minecraft:quartz_bricks
+setblock 39 -33 29 minecraft:quartz_bricks
+setblock 39 -33 30 minecraft:smooth_quartz
+setblock 39 -32 30 minecraft:sea_lantern
+setblock 39 -33 31 minecraft:smooth_quartz
+setblock 39 -33 32 minecraft:smooth_quartz
+setblock 39 -33 33 minecraft:quartz_bricks
+setblock 39 -33 34 minecraft:quartz_bricks
+setblock 40 -33 -33 minecraft:quartz_bricks
+setblock 40 -33 -32 minecraft:quartz_bricks
+setblock 40 -33 -31 minecraft:smooth_quartz
+setblock 40 -32 -31 minecraft:sea_lantern
+setblock 40 -33 -30 minecraft:smooth_quartz
+setblock 40 -33 -29 minecraft:smooth_quartz
+setblock 40 -33 -28 minecraft:quartz_bricks
+setblock 40 -33 -27 minecraft:quartz_bricks
+setblock 40 -33 27 minecraft:quartz_bricks
+setblock 40 -33 28 minecraft:quartz_bricks
+setblock 40 -33 29 minecraft:smooth_quartz
+setblock 40 -33 30 minecraft:smooth_quartz
+setblock 40 -33 31 minecraft:smooth_quartz
+setblock 40 -33 32 minecraft:quartz_bricks
+setblock 40 -33 33 minecraft:quartz_bricks
+setblock 41 -33 -31 minecraft:quartz_bricks
+setblock 41 -33 -30 minecraft:smooth_quartz
+setblock 41 -33 -29 minecraft:smooth_quartz
+setblock 41 -33 -28 minecraft:smooth_quartz
+setblock 41 -33 -27 minecraft:smooth_quartz
+setblock 41 -33 -26 minecraft:quartz_bricks
+setblock 41 -33 -25 minecraft:quartz_bricks
+setblock 41 -33 25 minecraft:quartz_bricks
+setblock 41 -33 26 minecraft:quartz_bricks
+setblock 41 -33 27 minecraft:smooth_quartz
+setblock 41 -33 28 minecraft:smooth_quartz
+setblock 41 -33 29 minecraft:smooth_quartz
+setblock 41 -33 30 minecraft:smooth_quartz
+setblock 41 -33 31 minecraft:quartz_bricks
+setblock 42 -33 -30 minecraft:quartz_bricks
+setblock 42 -33 -29 minecraft:quartz_bricks
+setblock 42 -33 -28 minecraft:smooth_quartz
+setblock 42 -33 -27 minecraft:smooth_quartz
+setblock 42 -33 -26 minecraft:smooth_quartz
+setblock 42 -33 -25 minecraft:quartz_bricks
+setblock 42 -33 -24 minecraft:quartz_bricks
+setblock 42 -33 24 minecraft:quartz_bricks
+setblock 42 -33 25 minecraft:quartz_bricks
+setblock 42 -33 26 minecraft:smooth_quartz
+setblock 42 -33 27 minecraft:smooth_quartz
+setblock 42 -33 28 minecraft:smooth_quartz
+setblock 42 -33 29 minecraft:quartz_bricks
+setblock 42 -33 30 minecraft:quartz_bricks
+setblock 43 -33 -29 minecraft:quartz_bricks
+setblock 43 -33 -28 minecraft:quartz_bricks
+setblock 43 -33 -27 minecraft:smooth_quartz
+setblock 43 -32 -27 minecraft:sea_lantern
+setblock 43 -33 -26 minecraft:smooth_quartz
+setblock 43 -33 -25 minecraft:smooth_quartz
+setblock 43 -33 -24 minecraft:smooth_quartz
+setblock 43 -33 -23 minecraft:quartz_bricks
+setblock 43 -33 -22 minecraft:quartz_bricks
+setblock 43 -33 22 minecraft:quartz_bricks
+setblock 43 -33 23 minecraft:quartz_bricks
+setblock 43 -33 24 minecraft:smooth_quartz
+setblock 43 -33 25 minecraft:smooth_quartz
+setblock 43 -33 26 minecraft:smooth_quartz
+setblock 43 -33 27 minecraft:smooth_quartz
+setblock 43 -33 28 minecraft:quartz_bricks
+setblock 43 -33 29 minecraft:quartz_bricks
+setblock 44 -33 -27 minecraft:quartz_bricks
+setblock 44 -33 -26 minecraft:quartz_bricks
+setblock 44 -33 -25 minecraft:smooth_quartz
+setblock 44 -33 -24 minecraft:smooth_quartz
+setblock 44 -33 -23 minecraft:smooth_quartz
+setblock 44 -32 -23 minecraft:sea_lantern
+setblock 44 -33 -22 minecraft:smooth_quartz
+setblock 44 -33 -21 minecraft:quartz_bricks
+setblock 44 -33 -20 minecraft:quartz_bricks
+setblock 44 -33 20 minecraft:quartz_bricks
+setblock 44 -33 21 minecraft:quartz_bricks
+setblock 44 -33 22 minecraft:smooth_quartz
+setblock 44 -33 23 minecraft:smooth_quartz
+setblock 44 -33 24 minecraft:smooth_quartz
+setblock 44 -33 25 minecraft:smooth_quartz
+setblock 44 -33 26 minecraft:quartz_bricks
+setblock 44 -33 27 minecraft:quartz_bricks
+setblock 45 -33 -26 minecraft:quartz_bricks
+setblock 45 -33 -25 minecraft:quartz_bricks
+setblock 45 -33 -24 minecraft:smooth_quartz
+setblock 45 -33 -23 minecraft:smooth_quartz
+setblock 45 -33 -22 minecraft:smooth_quartz
+setblock 45 -33 -21 minecraft:smooth_quartz
+setblock 45 -33 -20 minecraft:smooth_quartz
+setblock 45 -33 -19 minecraft:quartz_bricks
+setblock 45 -33 -18 minecraft:quartz_bricks
+setblock 45 -33 -17 minecraft:quartz_bricks
+setblock 45 -33 17 minecraft:quartz_bricks
+setblock 45 -33 18 minecraft:quartz_bricks
+setblock 45 -33 19 minecraft:quartz_bricks
+setblock 45 -33 20 minecraft:smooth_quartz
+setblock 45 -32 20 minecraft:sea_lantern
+setblock 45 -33 21 minecraft:smooth_quartz
+setblock 45 -33 22 minecraft:smooth_quartz
+setblock 45 -33 23 minecraft:smooth_quartz
+setblock 45 -33 24 minecraft:smooth_quartz
+setblock 45 -33 25 minecraft:quartz_bricks
+setblock 45 -33 26 minecraft:quartz_bricks
+setblock 46 -33 -24 minecraft:quartz_bricks
+setblock 46 -33 -23 minecraft:quartz_bricks
+setblock 46 -33 -22 minecraft:smooth_quartz
+setblock 46 -33 -21 minecraft:smooth_quartz
+setblock 46 -32 -21 minecraft:sea_lantern
+setblock 46 -33 -20 minecraft:smooth_quartz
+setblock 46 -33 -19 minecraft:smooth_quartz
+setblock 46 -33 -18 minecraft:smooth_quartz
+setblock 46 -33 -17 minecraft:smooth_quartz
+setblock 46 -33 -16 minecraft:quartz_bricks
+setblock 46 -33 -15 minecraft:quartz_bricks
+setblock 46 -33 -14 minecraft:quartz_bricks
+setblock 46 -33 14 minecraft:quartz_bricks
+setblock 46 -33 15 minecraft:quartz_bricks
+setblock 46 -33 16 minecraft:quartz_bricks
+setblock 46 -33 17 minecraft:smooth_quartz
+setblock 46 -33 18 minecraft:smooth_quartz
+setblock 46 -33 19 minecraft:smooth_quartz
+setblock 46 -33 20 minecraft:smooth_quartz
+setblock 46 -33 21 minecraft:smooth_quartz
+setblock 46 -33 22 minecraft:smooth_quartz
+setblock 46 -33 23 minecraft:quartz_bricks
+setblock 46 -33 24 minecraft:quartz_bricks
+setblock 47 -33 -22 minecraft:quartz_bricks
+setblock 47 -33 -21 minecraft:quartz_bricks
+setblock 47 -33 -20 minecraft:quartz_bricks
+setblock 47 -33 -19 minecraft:smooth_quartz
+setblock 47 -33 -18 minecraft:smooth_quartz
+setblock 47 -33 -17 minecraft:smooth_quartz
+setblock 47 -33 -16 minecraft:smooth_quartz
+setblock 47 -33 -15 minecraft:smooth_quartz
+setblock 47 -33 -14 minecraft:smooth_quartz
+setblock 47 -33 -13 minecraft:quartz_bricks
+setblock 47 -33 -12 minecraft:quartz_bricks
+setblock 47 -33 -11 minecraft:quartz_bricks
+setblock 47 -33 -10 minecraft:quartz_bricks
+setblock 47 -33 10 minecraft:quartz_bricks
+setblock 47 -33 11 minecraft:quartz_bricks
+setblock 47 -33 12 minecraft:quartz_bricks
+setblock 47 -33 13 minecraft:quartz_bricks
+setblock 47 -33 14 minecraft:smooth_quartz
+setblock 47 -33 15 minecraft:smooth_quartz
+setblock 47 -33 16 minecraft:smooth_quartz
+setblock 47 -33 17 minecraft:smooth_quartz
+setblock 47 -33 18 minecraft:smooth_quartz
+setblock 47 -33 19 minecraft:smooth_quartz
+setblock 47 -33 20 minecraft:quartz_bricks
+setblock 47 -33 21 minecraft:quartz_bricks
+setblock 47 -33 22 minecraft:quartz_bricks
+setblock 48 -33 -20 minecraft:quartz_bricks
+setblock 48 -33 -19 minecraft:quartz_bricks
+setblock 48 -33 -18 minecraft:quartz_bricks
+setblock 48 -33 -17 minecraft:smooth_quartz
+setblock 48 -32 -17 minecraft:sea_lantern
+setblock 48 -33 -16 minecraft:smooth_quartz
+setblock 48 -33 -15 minecraft:smooth_quartz
+setblock 48 -33 -14 minecraft:smooth_quartz
+setblock 48 -33 -13 minecraft:smooth_quartz
+setblock 48 -33 -12 minecraft:smooth_quartz
+setblock 48 -33 -11 minecraft:smooth_quartz
+setblock 48 -33 -10 minecraft:smooth_quartz
+setblock 48 -32 -10 minecraft:sea_lantern
+setblock 48 -33 -9 minecraft:quartz_bricks
+setblock 48 -33 -8 minecraft:quartz_bricks
+setblock 48 -33 -7 minecraft:quartz_bricks
+setblock 48 -33 -6 minecraft:quartz_bricks
+setblock 48 -33 -5 minecraft:quartz_bricks
+setblock 48 -33 -4 minecraft:quartz_bricks
+setblock 48 -33 -3 minecraft:quartz_bricks
+setblock 48 -33 -2 minecraft:quartz_bricks
+setblock 48 -33 -1 minecraft:quartz_bricks
+setblock 48 -33 0 minecraft:quartz_bricks
+setblock 48 -33 1 minecraft:quartz_bricks
+setblock 48 -33 2 minecraft:quartz_bricks
+setblock 48 -33 3 minecraft:quartz_bricks
+setblock 48 -33 4 minecraft:quartz_bricks
+setblock 48 -33 5 minecraft:quartz_bricks
+setblock 48 -33 6 minecraft:quartz_bricks
+setblock 48 -33 7 minecraft:quartz_bricks
+setblock 48 -33 8 minecraft:quartz_bricks
+setblock 48 -33 9 minecraft:quartz_bricks
+setblock 48 -33 10 minecraft:smooth_quartz
+setblock 48 -32 10 minecraft:sea_lantern
+setblock 48 -33 11 minecraft:smooth_quartz
+setblock 48 -33 12 minecraft:smooth_quartz
+setblock 48 -33 13 minecraft:smooth_quartz
+setblock 48 -33 14 minecraft:smooth_quartz
+setblock 48 -33 15 minecraft:smooth_quartz
+setblock 48 -33 16 minecraft:smooth_quartz
+setblock 48 -32 16 minecraft:sea_lantern
+setblock 48 -33 17 minecraft:smooth_quartz
+setblock 48 -33 18 minecraft:quartz_bricks
+setblock 48 -33 19 minecraft:quartz_bricks
+setblock 48 -33 20 minecraft:quartz_bricks
+setblock 49 -33 -17 minecraft:quartz_bricks
+setblock 49 -33 -16 minecraft:quartz_bricks
+setblock 49 -33 -15 minecraft:quartz_bricks
+setblock 49 -33 -14 minecraft:smooth_quartz
+setblock 49 -33 -13 minecraft:smooth_quartz
+setblock 49 -33 -12 minecraft:smooth_quartz
+setblock 49 -33 -11 minecraft:smooth_quartz
+setblock 49 -33 -10 minecraft:smooth_quartz
+setblock 49 -33 -9 minecraft:smooth_quartz
+setblock 49 -33 -8 minecraft:smooth_quartz
+setblock 49 -33 -7 minecraft:smooth_quartz
+setblock 49 -33 -6 minecraft:smooth_quartz
+setblock 49 -33 -5 minecraft:smooth_quartz
+setblock 49 -32 -5 minecraft:sea_lantern
+setblock 49 -33 -4 minecraft:smooth_quartz
+setblock 49 -33 -3 minecraft:smooth_quartz
+setblock 49 -33 -2 minecraft:smooth_quartz
+setblock 49 -33 -1 minecraft:smooth_quartz
+setblock 49 -33 0 minecraft:smooth_quartz
+setblock 49 -33 1 minecraft:smooth_quartz
+setblock 49 -33 2 minecraft:smooth_quartz
+setblock 49 -33 3 minecraft:smooth_quartz
+setblock 49 -33 4 minecraft:smooth_quartz
+setblock 49 -32 4 minecraft:sea_lantern
+setblock 49 -33 5 minecraft:smooth_quartz
+setblock 49 -33 6 minecraft:smooth_quartz
+setblock 49 -33 7 minecraft:smooth_quartz
+setblock 49 -33 8 minecraft:smooth_quartz
+setblock 49 -32 8 minecraft:sea_lantern
+setblock 49 -33 9 minecraft:smooth_quartz
+setblock 49 -33 10 minecraft:smooth_quartz
+setblock 49 -33 11 minecraft:smooth_quartz
+setblock 49 -33 12 minecraft:smooth_quartz
+setblock 49 -33 13 minecraft:smooth_quartz
+setblock 49 -33 14 minecraft:smooth_quartz
+setblock 49 -33 15 minecraft:quartz_bricks
+setblock 49 -33 16 minecraft:quartz_bricks
+setblock 49 -33 17 minecraft:quartz_bricks
+setblock 50 -33 -14 minecraft:quartz_bricks
+setblock 50 -33 -13 minecraft:quartz_bricks
+setblock 50 -33 -12 minecraft:quartz_bricks
+setblock 50 -33 -11 minecraft:quartz_bricks
+setblock 50 -33 -10 minecraft:smooth_quartz
+setblock 50 -33 -9 minecraft:smooth_quartz
+setblock 50 -33 -8 minecraft:smooth_quartz
+setblock 50 -33 -7 minecraft:smooth_quartz
+setblock 50 -33 -6 minecraft:smooth_quartz
+setblock 50 -33 -5 minecraft:smooth_quartz
+setblock 50 -33 -4 minecraft:smooth_quartz
+setblock 50 -33 -3 minecraft:smooth_quartz
+setblock 50 -33 -2 minecraft:smooth_quartz
+setblock 50 -32 -2 minecraft:sea_lantern
+setblock 50 -33 -1 minecraft:smooth_quartz
+setblock 50 -33 0 minecraft:smooth_quartz
+setblock 50 -33 1 minecraft:smooth_quartz
+setblock 50 -32 1 minecraft:sea_lantern
+setblock 50 -33 2 minecraft:smooth_quartz
+setblock 50 -33 3 minecraft:smooth_quartz
+setblock 50 -33 4 minecraft:smooth_quartz
+setblock 50 -33 5 minecraft:smooth_quartz
+setblock 50 -33 6 minecraft:smooth_quartz
+setblock 50 -33 7 minecraft:smooth_quartz
+setblock 50 -33 8 minecraft:smooth_quartz
+setblock 50 -33 9 minecraft:smooth_quartz
+setblock 50 -33 10 minecraft:smooth_quartz
+setblock 50 -33 11 minecraft:quartz_bricks
+setblock 50 -33 12 minecraft:quartz_bricks
+setblock 50 -33 13 minecraft:quartz_bricks
+setblock 50 -33 14 minecraft:quartz_bricks
+setblock 51 -33 -10 minecraft:quartz_bricks
+setblock 51 -33 -9 minecraft:quartz_bricks
+setblock 51 -33 -8 minecraft:quartz_bricks
+setblock 51 -33 -7 minecraft:quartz_bricks
+setblock 51 -33 -6 minecraft:quartz_bricks
+setblock 51 -33 -5 minecraft:quartz_bricks
+setblock 51 -33 -4 minecraft:quartz_bricks
+setblock 51 -33 -3 minecraft:quartz_bricks
+setblock 51 -33 -2 minecraft:quartz_bricks
+setblock 51 -33 -1 minecraft:quartz_bricks
+setblock 51 -33 0 minecraft:smooth_quartz
+setblock 51 -33 1 minecraft:quartz_bricks
+setblock 51 -33 2 minecraft:quartz_bricks
+setblock 51 -33 3 minecraft:quartz_bricks
+setblock 51 -33 4 minecraft:quartz_bricks
+setblock 51 -33 5 minecraft:quartz_bricks
+setblock 51 -33 6 minecraft:quartz_bricks
+setblock 51 -33 7 minecraft:quartz_bricks
+setblock 51 -33 8 minecraft:quartz_bricks
+setblock 51 -33 9 minecraft:quartz_bricks
+setblock 51 -33 10 minecraft:quartz_bricks
+setblock 52 -33 0 minecraft:quartz_bricks
+setblock -17 -32 -47 minecraft:chiseled_quartz_block
+setblock -17 -31 -47 minecraft:sea_lantern
+setblock -49 -32 -9 minecraft:chiseled_quartz_block
+setblock -49 -31 -9 minecraft:sea_lantern
+fill 34 -60 34 46 -60 46 minecraft:quartz_block
+setblock 35 -59 35 minecraft:quartz_pillar
+setblock 35 -59 36 minecraft:quartz_bricks
+setblock 35 -59 37 minecraft:quartz_bricks
+setblock 35 -59 38 minecraft:quartz_bricks
+setblock 35 -59 39 minecraft:quartz_bricks
+setblock 35 -59 40 minecraft:quartz_bricks
+setblock 35 -59 41 minecraft:quartz_bricks
+setblock 35 -59 42 minecraft:quartz_bricks
+setblock 35 -59 43 minecraft:quartz_bricks
+setblock 35 -59 44 minecraft:quartz_bricks
+setblock 35 -59 45 minecraft:quartz_pillar
+setblock 36 -59 35 minecraft:quartz_bricks
+setblock 36 -59 45 minecraft:quartz_bricks
+setblock 37 -59 35 minecraft:quartz_bricks
+setblock 37 -59 45 minecraft:quartz_bricks
+setblock 38 -59 35 minecraft:quartz_bricks
+setblock 38 -59 45 minecraft:quartz_bricks
+setblock 39 -59 35 minecraft:quartz_bricks
+setblock 39 -59 45 minecraft:quartz_bricks
+setblock 40 -59 35 minecraft:quartz_bricks
+setblock 40 -59 45 minecraft:quartz_bricks
+setblock 41 -59 35 minecraft:quartz_bricks
+setblock 41 -59 45 minecraft:quartz_bricks
+setblock 42 -59 35 minecraft:quartz_bricks
+setblock 42 -59 45 minecraft:quartz_bricks
+setblock 43 -59 35 minecraft:quartz_bricks
+setblock 43 -59 45 minecraft:quartz_bricks
+setblock 44 -59 35 minecraft:quartz_bricks
+setblock 44 -59 45 minecraft:quartz_bricks
+setblock 45 -59 35 minecraft:quartz_pillar
+setblock 45 -59 36 minecraft:quartz_bricks
+setblock 45 -59 37 minecraft:quartz_bricks
+setblock 45 -59 38 minecraft:quartz_bricks
+setblock 45 -59 39 minecraft:quartz_bricks
+setblock 45 -59 40 minecraft:quartz_bricks
+setblock 45 -59 41 minecraft:quartz_bricks
+setblock 45 -59 42 minecraft:quartz_bricks
+setblock 45 -59 43 minecraft:quartz_bricks
+setblock 45 -59 44 minecraft:quartz_bricks
+setblock 45 -59 45 minecraft:quartz_pillar
+setblock 35 -58 35 minecraft:quartz_pillar
+setblock 35 -58 36 minecraft:quartz_bricks
+setblock 35 -58 37 minecraft:quartz_bricks
+setblock 35 -58 38 minecraft:quartz_bricks
+setblock 35 -58 39 minecraft:quartz_bricks
+setblock 35 -58 40 minecraft:quartz_bricks
+setblock 35 -58 41 minecraft:quartz_bricks
+setblock 35 -58 42 minecraft:quartz_bricks
+setblock 35 -58 43 minecraft:quartz_bricks
+setblock 35 -58 44 minecraft:quartz_bricks
+setblock 35 -58 45 minecraft:quartz_pillar
+setblock 36 -58 35 minecraft:quartz_bricks
+setblock 36 -58 45 minecraft:quartz_bricks
+setblock 37 -58 35 minecraft:quartz_bricks
+setblock 37 -58 45 minecraft:quartz_bricks
+setblock 38 -58 35 minecraft:quartz_bricks
+setblock 38 -58 45 minecraft:quartz_bricks
+setblock 39 -58 35 minecraft:quartz_bricks
+setblock 39 -58 45 minecraft:quartz_bricks
+setblock 40 -58 35 minecraft:quartz_bricks
+setblock 40 -58 45 minecraft:quartz_bricks
+setblock 41 -58 35 minecraft:quartz_bricks
+setblock 41 -58 45 minecraft:quartz_bricks
+setblock 42 -58 35 minecraft:quartz_bricks
+setblock 42 -58 45 minecraft:quartz_bricks
+setblock 43 -58 35 minecraft:quartz_bricks
+setblock 43 -58 45 minecraft:quartz_bricks
+setblock 44 -58 35 minecraft:quartz_bricks
+setblock 44 -58 45 minecraft:quartz_bricks
+setblock 45 -58 35 minecraft:quartz_pillar
+setblock 45 -58 36 minecraft:quartz_bricks
+setblock 45 -58 37 minecraft:quartz_bricks
+setblock 45 -58 38 minecraft:quartz_bricks
+setblock 45 -58 39 minecraft:quartz_bricks
+setblock 45 -58 40 minecraft:quartz_bricks
+setblock 45 -58 41 minecraft:quartz_bricks
+setblock 45 -58 42 minecraft:quartz_bricks
+setblock 45 -58 43 minecraft:quartz_bricks
+setblock 45 -58 44 minecraft:quartz_bricks
+setblock 45 -58 45 minecraft:quartz_pillar
+setblock 35 -57 35 minecraft:quartz_pillar
+setblock 35 -57 36 minecraft:quartz_bricks
+setblock 35 -57 37 minecraft:quartz_bricks
+setblock 35 -57 38 minecraft:quartz_bricks
+setblock 35 -57 39 minecraft:quartz_bricks
+setblock 35 -57 40 minecraft:quartz_bricks
+setblock 35 -57 41 minecraft:quartz_bricks
+setblock 35 -57 42 minecraft:quartz_bricks
+setblock 35 -57 43 minecraft:quartz_bricks
+setblock 35 -57 44 minecraft:quartz_bricks
+setblock 35 -57 45 minecraft:quartz_pillar
+setblock 36 -57 35 minecraft:quartz_bricks
+setblock 36 -57 45 minecraft:quartz_bricks
+setblock 37 -57 35 minecraft:quartz_bricks
+setblock 37 -57 45 minecraft:quartz_bricks
+setblock 38 -57 35 minecraft:quartz_bricks
+setblock 38 -57 45 minecraft:quartz_bricks
+setblock 39 -57 35 minecraft:quartz_bricks
+setblock 39 -57 45 minecraft:quartz_bricks
+setblock 40 -57 35 minecraft:quartz_bricks
+setblock 40 -57 45 minecraft:quartz_bricks
+setblock 41 -57 35 minecraft:quartz_bricks
+setblock 41 -57 45 minecraft:quartz_bricks
+setblock 42 -57 35 minecraft:quartz_bricks
+setblock 42 -57 45 minecraft:quartz_bricks
+setblock 43 -57 35 minecraft:quartz_bricks
+setblock 43 -57 45 minecraft:quartz_bricks
+setblock 44 -57 35 minecraft:quartz_bricks
+setblock 44 -57 45 minecraft:quartz_bricks
+setblock 45 -57 35 minecraft:quartz_pillar
+setblock 45 -57 36 minecraft:quartz_bricks
+setblock 45 -57 37 minecraft:quartz_bricks
+setblock 45 -57 38 minecraft:quartz_bricks
+setblock 45 -57 39 minecraft:quartz_bricks
+setblock 45 -57 40 minecraft:quartz_bricks
+setblock 45 -57 41 minecraft:quartz_bricks
+setblock 45 -57 42 minecraft:quartz_bricks
+setblock 45 -57 43 minecraft:quartz_bricks
+setblock 45 -57 44 minecraft:quartz_bricks
+setblock 45 -57 45 minecraft:quartz_pillar
+setblock 35 -56 35 minecraft:quartz_pillar
+setblock 35 -56 36 minecraft:quartz_bricks
+setblock 35 -56 37 minecraft:quartz_bricks
+setblock 35 -56 38 minecraft:quartz_bricks
+setblock 35 -56 42 minecraft:quartz_bricks
+setblock 35 -56 43 minecraft:quartz_bricks
+setblock 35 -56 44 minecraft:quartz_bricks
+setblock 35 -56 45 minecraft:quartz_pillar
+setblock 36 -56 35 minecraft:quartz_bricks
+setblock 36 -56 45 minecraft:quartz_bricks
+setblock 37 -56 35 minecraft:quartz_bricks
+setblock 37 -56 45 minecraft:quartz_bricks
+setblock 38 -56 35 minecraft:quartz_bricks
+setblock 38 -56 45 minecraft:quartz_bricks
+setblock 42 -56 35 minecraft:quartz_bricks
+setblock 42 -56 45 minecraft:quartz_bricks
+setblock 43 -56 35 minecraft:quartz_bricks
+setblock 43 -56 45 minecraft:quartz_bricks
+setblock 44 -56 35 minecraft:quartz_bricks
+setblock 44 -56 45 minecraft:quartz_bricks
+setblock 45 -56 35 minecraft:quartz_pillar
+setblock 45 -56 36 minecraft:quartz_bricks
+setblock 45 -56 37 minecraft:quartz_bricks
+setblock 45 -56 38 minecraft:quartz_bricks
+setblock 45 -56 42 minecraft:quartz_bricks
+setblock 45 -56 43 minecraft:quartz_bricks
+setblock 45 -56 44 minecraft:quartz_bricks
+setblock 45 -56 45 minecraft:quartz_pillar
+setblock 35 -55 35 minecraft:quartz_pillar
+setblock 35 -55 36 minecraft:quartz_bricks
+setblock 35 -55 37 minecraft:quartz_bricks
+setblock 35 -55 38 minecraft:quartz_bricks
+setblock 35 -55 42 minecraft:quartz_bricks
+setblock 35 -55 43 minecraft:quartz_bricks
+setblock 35 -55 44 minecraft:quartz_bricks
+setblock 35 -55 45 minecraft:quartz_pillar
+setblock 36 -55 35 minecraft:quartz_bricks
+setblock 36 -55 45 minecraft:quartz_bricks
+setblock 37 -55 35 minecraft:quartz_bricks
+setblock 37 -55 45 minecraft:quartz_bricks
+setblock 38 -55 35 minecraft:quartz_bricks
+setblock 38 -55 45 minecraft:quartz_bricks
+setblock 42 -55 35 minecraft:quartz_bricks
+setblock 42 -55 45 minecraft:quartz_bricks
+setblock 43 -55 35 minecraft:quartz_bricks
+setblock 43 -55 45 minecraft:quartz_bricks
+setblock 44 -55 35 minecraft:quartz_bricks
+setblock 44 -55 45 minecraft:quartz_bricks
+setblock 45 -55 35 minecraft:quartz_pillar
+setblock 45 -55 36 minecraft:quartz_bricks
+setblock 45 -55 37 minecraft:quartz_bricks
+setblock 45 -55 38 minecraft:quartz_bricks
+setblock 45 -55 42 minecraft:quartz_bricks
+setblock 45 -55 43 minecraft:quartz_bricks
+setblock 45 -55 44 minecraft:quartz_bricks
+setblock 45 -55 45 minecraft:quartz_pillar
+setblock 35 -54 35 minecraft:quartz_pillar
+setblock 35 -54 36 minecraft:quartz_bricks
+setblock 35 -54 37 minecraft:quartz_bricks
+setblock 35 -54 38 minecraft:quartz_bricks
+setblock 35 -54 42 minecraft:quartz_bricks
+setblock 35 -54 43 minecraft:quartz_bricks
+setblock 35 -54 44 minecraft:quartz_bricks
+setblock 35 -54 45 minecraft:quartz_pillar
+setblock 36 -54 35 minecraft:quartz_bricks
+setblock 36 -54 45 minecraft:quartz_bricks
+setblock 37 -54 35 minecraft:quartz_bricks
+setblock 37 -54 45 minecraft:quartz_bricks
+setblock 38 -54 35 minecraft:quartz_bricks
+setblock 38 -54 45 minecraft:quartz_bricks
+setblock 42 -54 35 minecraft:quartz_bricks
+setblock 42 -54 45 minecraft:quartz_bricks
+setblock 43 -54 35 minecraft:quartz_bricks
+setblock 43 -54 45 minecraft:quartz_bricks
+setblock 44 -54 35 minecraft:quartz_bricks
+setblock 44 -54 45 minecraft:quartz_bricks
+setblock 45 -54 35 minecraft:quartz_pillar
+setblock 45 -54 36 minecraft:quartz_bricks
+setblock 45 -54 37 minecraft:quartz_bricks
+setblock 45 -54 38 minecraft:quartz_bricks
+setblock 45 -54 42 minecraft:quartz_bricks
+setblock 45 -54 43 minecraft:quartz_bricks
+setblock 45 -54 44 minecraft:quartz_bricks
+setblock 45 -54 45 minecraft:quartz_pillar
+setblock 35 -53 35 minecraft:quartz_pillar
+setblock 35 -53 36 minecraft:quartz_bricks
+setblock 35 -53 37 minecraft:quartz_bricks
+setblock 35 -53 38 minecraft:quartz_bricks
+setblock 35 -53 39 minecraft:quartz_bricks
+setblock 35 -53 40 minecraft:quartz_bricks
+setblock 35 -53 41 minecraft:quartz_bricks
+setblock 35 -53 42 minecraft:quartz_bricks
+setblock 35 -53 43 minecraft:quartz_bricks
+setblock 35 -53 44 minecraft:quartz_bricks
+setblock 35 -53 45 minecraft:quartz_pillar
+setblock 36 -53 35 minecraft:quartz_bricks
+setblock 36 -53 45 minecraft:quartz_bricks
+setblock 37 -53 35 minecraft:quartz_bricks
+setblock 37 -53 45 minecraft:quartz_bricks
+setblock 38 -53 35 minecraft:quartz_bricks
+setblock 38 -53 45 minecraft:quartz_bricks
+setblock 39 -53 35 minecraft:quartz_bricks
+setblock 39 -53 45 minecraft:quartz_bricks
+setblock 40 -53 35 minecraft:quartz_bricks
+setblock 40 -53 45 minecraft:quartz_bricks
+setblock 41 -53 35 minecraft:quartz_bricks
+setblock 41 -53 45 minecraft:quartz_bricks
+setblock 42 -53 35 minecraft:quartz_bricks
+setblock 42 -53 45 minecraft:quartz_bricks
+setblock 43 -53 35 minecraft:quartz_bricks
+setblock 43 -53 45 minecraft:quartz_bricks
+setblock 44 -53 35 minecraft:quartz_bricks
+setblock 44 -53 45 minecraft:quartz_bricks
+setblock 45 -53 35 minecraft:quartz_pillar
+setblock 45 -53 36 minecraft:quartz_bricks
+setblock 45 -53 37 minecraft:quartz_bricks
+setblock 45 -53 38 minecraft:quartz_bricks
+setblock 45 -53 39 minecraft:quartz_bricks
+setblock 45 -53 40 minecraft:quartz_bricks
+setblock 45 -53 41 minecraft:quartz_bricks
+setblock 45 -53 42 minecraft:quartz_bricks
+setblock 45 -53 43 minecraft:quartz_bricks
+setblock 45 -53 44 minecraft:quartz_bricks
+setblock 45 -53 45 minecraft:quartz_pillar
+setblock 35 -52 35 minecraft:quartz_pillar
+setblock 35 -52 36 minecraft:quartz_block
+setblock 35 -52 37 minecraft:quartz_block
+setblock 35 -52 38 minecraft:quartz_block
+setblock 35 -52 39 minecraft:quartz_block
+setblock 35 -52 40 minecraft:quartz_block
+setblock 35 -52 41 minecraft:quartz_block
+setblock 35 -52 42 minecraft:quartz_block
+setblock 35 -52 43 minecraft:quartz_block
+setblock 35 -52 44 minecraft:quartz_block
+setblock 35 -52 45 minecraft:quartz_pillar
+setblock 36 -52 35 minecraft:quartz_block
+setblock 36 -52 45 minecraft:quartz_block
+setblock 37 -52 35 minecraft:quartz_block
+setblock 37 -52 45 minecraft:quartz_block
+setblock 38 -52 35 minecraft:quartz_block
+setblock 38 -52 45 minecraft:quartz_block
+setblock 39 -52 35 minecraft:quartz_block
+setblock 39 -52 45 minecraft:quartz_block
+setblock 40 -52 35 minecraft:quartz_block
+setblock 40 -52 45 minecraft:quartz_block
+setblock 41 -52 35 minecraft:quartz_block
+setblock 41 -52 45 minecraft:quartz_block
+setblock 42 -52 35 minecraft:quartz_block
+setblock 42 -52 45 minecraft:quartz_block
+setblock 43 -52 35 minecraft:quartz_block
+setblock 43 -52 45 minecraft:quartz_block
+setblock 44 -52 35 minecraft:quartz_block
+setblock 44 -52 45 minecraft:quartz_block
+setblock 45 -52 35 minecraft:quartz_pillar
+setblock 45 -52 36 minecraft:quartz_block
+setblock 45 -52 37 minecraft:quartz_block
+setblock 45 -52 38 minecraft:quartz_block
+setblock 45 -52 39 minecraft:quartz_block
+setblock 45 -52 40 minecraft:quartz_block
+setblock 45 -52 41 minecraft:quartz_block
+setblock 45 -52 42 minecraft:quartz_block
+setblock 45 -52 43 minecraft:quartz_block
+setblock 45 -52 44 minecraft:quartz_block
+setblock 45 -52 45 minecraft:quartz_pillar
+setblock 35 -51 35 minecraft:quartz_pillar
+setblock 35 -51 36 minecraft:quartz_bricks
+setblock 35 -51 37 minecraft:quartz_bricks
+setblock 35 -51 38 minecraft:quartz_bricks
+setblock 35 -51 39 minecraft:quartz_bricks
+setblock 35 -51 40 minecraft:quartz_bricks
+setblock 35 -51 41 minecraft:quartz_bricks
+setblock 35 -51 42 minecraft:quartz_bricks
+setblock 35 -51 43 minecraft:quartz_bricks
+setblock 35 -51 44 minecraft:quartz_bricks
+setblock 35 -51 45 minecraft:quartz_pillar
+setblock 36 -51 35 minecraft:quartz_bricks
+setblock 36 -51 45 minecraft:quartz_bricks
+setblock 37 -51 35 minecraft:quartz_bricks
+setblock 37 -51 45 minecraft:quartz_bricks
+setblock 38 -51 35 minecraft:quartz_bricks
+setblock 38 -51 45 minecraft:quartz_bricks
+setblock 39 -51 35 minecraft:quartz_bricks
+setblock 39 -51 45 minecraft:quartz_bricks
+setblock 40 -51 35 minecraft:quartz_bricks
+setblock 40 -51 45 minecraft:quartz_bricks
+setblock 41 -51 35 minecraft:quartz_bricks
+setblock 41 -51 45 minecraft:quartz_bricks
+setblock 42 -51 35 minecraft:quartz_bricks
+setblock 42 -51 45 minecraft:quartz_bricks
+setblock 43 -51 35 minecraft:quartz_bricks
+setblock 43 -51 45 minecraft:quartz_bricks
+setblock 44 -51 35 minecraft:quartz_bricks
+setblock 44 -51 45 minecraft:quartz_bricks
+setblock 45 -51 35 minecraft:quartz_pillar
+setblock 45 -51 36 minecraft:quartz_bricks
+setblock 45 -51 37 minecraft:quartz_bricks
+setblock 45 -51 38 minecraft:quartz_bricks
+setblock 45 -51 39 minecraft:quartz_bricks
+setblock 45 -51 40 minecraft:quartz_bricks
+setblock 45 -51 41 minecraft:quartz_bricks
+setblock 45 -51 42 minecraft:quartz_bricks
+setblock 45 -51 43 minecraft:quartz_bricks
+setblock 45 -51 44 minecraft:quartz_bricks
+setblock 45 -51 45 minecraft:quartz_pillar
+setblock 35 -50 35 minecraft:quartz_pillar
+setblock 35 -50 36 minecraft:quartz_bricks
+setblock 35 -50 37 minecraft:quartz_bricks
+setblock 35 -50 38 minecraft:quartz_bricks
+setblock 35 -50 39 minecraft:quartz_bricks
+setblock 35 -50 40 minecraft:quartz_bricks
+setblock 35 -50 41 minecraft:quartz_bricks
+setblock 35 -50 42 minecraft:quartz_bricks
+setblock 35 -50 43 minecraft:quartz_bricks
+setblock 35 -50 44 minecraft:quartz_bricks
+setblock 35 -50 45 minecraft:quartz_pillar
+setblock 36 -50 35 minecraft:quartz_bricks
+setblock 36 -50 45 minecraft:quartz_bricks
+setblock 37 -50 35 minecraft:quartz_bricks
+setblock 37 -50 45 minecraft:quartz_bricks
+setblock 38 -50 35 minecraft:quartz_bricks
+setblock 38 -50 45 minecraft:quartz_bricks
+setblock 39 -50 35 minecraft:quartz_bricks
+setblock 39 -50 45 minecraft:quartz_bricks
+setblock 40 -50 35 minecraft:quartz_bricks
+setblock 40 -50 45 minecraft:quartz_bricks
+setblock 41 -50 35 minecraft:quartz_bricks
+setblock 41 -50 45 minecraft:quartz_bricks
+setblock 42 -50 35 minecraft:quartz_bricks
+setblock 42 -50 45 minecraft:quartz_bricks
+setblock 43 -50 35 minecraft:quartz_bricks
+setblock 43 -50 45 minecraft:quartz_bricks
+setblock 44 -50 35 minecraft:quartz_bricks
+setblock 44 -50 45 minecraft:quartz_bricks
+setblock 45 -50 35 minecraft:quartz_pillar
+setblock 45 -50 36 minecraft:quartz_bricks
+setblock 45 -50 37 minecraft:quartz_bricks
+setblock 45 -50 38 minecraft:quartz_bricks
+setblock 45 -50 39 minecraft:quartz_bricks
+setblock 45 -50 40 minecraft:quartz_bricks
+setblock 45 -50 41 minecraft:quartz_bricks
+setblock 45 -50 42 minecraft:quartz_bricks
+setblock 45 -50 43 minecraft:quartz_bricks
+setblock 45 -50 44 minecraft:quartz_bricks
+setblock 45 -50 45 minecraft:quartz_pillar
+setblock 35 -49 35 minecraft:quartz_pillar
+setblock 35 -49 36 minecraft:quartz_bricks
+setblock 35 -49 37 minecraft:quartz_bricks
+setblock 35 -49 38 minecraft:quartz_bricks
+setblock 35 -49 39 minecraft:quartz_bricks
+setblock 35 -49 40 minecraft:quartz_bricks
+setblock 35 -49 41 minecraft:quartz_bricks
+setblock 35 -49 42 minecraft:quartz_bricks
+setblock 35 -49 43 minecraft:quartz_bricks
+setblock 35 -49 44 minecraft:quartz_bricks
+setblock 35 -49 45 minecraft:quartz_pillar
+setblock 36 -49 35 minecraft:quartz_bricks
+setblock 36 -49 45 minecraft:quartz_bricks
+setblock 37 -49 35 minecraft:quartz_bricks
+setblock 37 -49 45 minecraft:quartz_bricks
+setblock 38 -49 35 minecraft:quartz_bricks
+setblock 38 -49 45 minecraft:quartz_bricks
+setblock 39 -49 35 minecraft:quartz_bricks
+setblock 39 -49 45 minecraft:quartz_bricks
+setblock 40 -49 35 minecraft:quartz_bricks
+setblock 40 -49 45 minecraft:quartz_bricks
+setblock 41 -49 35 minecraft:quartz_bricks
+setblock 41 -49 45 minecraft:quartz_bricks
+setblock 42 -49 35 minecraft:quartz_bricks
+setblock 42 -49 45 minecraft:quartz_bricks
+setblock 43 -49 35 minecraft:quartz_bricks
+setblock 43 -49 45 minecraft:quartz_bricks
+setblock 44 -49 35 minecraft:quartz_bricks
+setblock 44 -49 45 minecraft:quartz_bricks
+setblock 45 -49 35 minecraft:quartz_pillar
+setblock 45 -49 36 minecraft:quartz_bricks
+setblock 45 -49 37 minecraft:quartz_bricks
+setblock 45 -49 38 minecraft:quartz_bricks
+setblock 45 -49 39 minecraft:quartz_bricks
+setblock 45 -49 40 minecraft:quartz_bricks
+setblock 45 -49 41 minecraft:quartz_bricks
+setblock 45 -49 42 minecraft:quartz_bricks
+setblock 45 -49 43 minecraft:quartz_bricks
+setblock 45 -49 44 minecraft:quartz_bricks
+setblock 45 -49 45 minecraft:quartz_pillar
+setblock 35 -48 35 minecraft:quartz_pillar
+setblock 35 -48 36 minecraft:quartz_bricks
+setblock 35 -48 37 minecraft:quartz_bricks
+setblock 35 -48 38 minecraft:quartz_bricks
+setblock 35 -48 42 minecraft:quartz_bricks
+setblock 35 -48 43 minecraft:quartz_bricks
+setblock 35 -48 44 minecraft:quartz_bricks
+setblock 35 -48 45 minecraft:quartz_pillar
+setblock 36 -48 35 minecraft:quartz_bricks
+setblock 36 -48 45 minecraft:quartz_bricks
+setblock 37 -48 35 minecraft:quartz_bricks
+setblock 37 -48 45 minecraft:quartz_bricks
+setblock 38 -48 35 minecraft:quartz_bricks
+setblock 38 -48 45 minecraft:quartz_bricks
+setblock 42 -48 35 minecraft:quartz_bricks
+setblock 42 -48 45 minecraft:quartz_bricks
+setblock 43 -48 35 minecraft:quartz_bricks
+setblock 43 -48 45 minecraft:quartz_bricks
+setblock 44 -48 35 minecraft:quartz_bricks
+setblock 44 -48 45 minecraft:quartz_bricks
+setblock 45 -48 35 minecraft:quartz_pillar
+setblock 45 -48 36 minecraft:quartz_bricks
+setblock 45 -48 37 minecraft:quartz_bricks
+setblock 45 -48 38 minecraft:quartz_bricks
+setblock 45 -48 42 minecraft:quartz_bricks
+setblock 45 -48 43 minecraft:quartz_bricks
+setblock 45 -48 44 minecraft:quartz_bricks
+setblock 45 -48 45 minecraft:quartz_pillar
+setblock 35 -47 35 minecraft:quartz_pillar
+setblock 35 -47 36 minecraft:quartz_bricks
+setblock 35 -47 37 minecraft:quartz_bricks
+setblock 35 -47 38 minecraft:quartz_bricks
+setblock 35 -47 42 minecraft:quartz_bricks
+setblock 35 -47 43 minecraft:quartz_bricks
+setblock 35 -47 44 minecraft:quartz_bricks
+setblock 35 -47 45 minecraft:quartz_pillar
+setblock 36 -47 35 minecraft:quartz_bricks
+setblock 36 -47 45 minecraft:quartz_bricks
+setblock 37 -47 35 minecraft:quartz_bricks
+setblock 37 -47 45 minecraft:quartz_bricks
+setblock 38 -47 35 minecraft:quartz_bricks
+setblock 38 -47 45 minecraft:quartz_bricks
+setblock 42 -47 35 minecraft:quartz_bricks
+setblock 42 -47 45 minecraft:quartz_bricks
+setblock 43 -47 35 minecraft:quartz_bricks
+setblock 43 -47 45 minecraft:quartz_bricks
+setblock 44 -47 35 minecraft:quartz_bricks
+setblock 44 -47 45 minecraft:quartz_bricks
+setblock 45 -47 35 minecraft:quartz_pillar
+setblock 45 -47 36 minecraft:quartz_bricks
+setblock 45 -47 37 minecraft:quartz_bricks
+setblock 45 -47 38 minecraft:quartz_bricks
+setblock 45 -47 42 minecraft:quartz_bricks
+setblock 45 -47 43 minecraft:quartz_bricks
+setblock 45 -47 44 minecraft:quartz_bricks
+setblock 45 -47 45 minecraft:quartz_pillar
+setblock 35 -46 35 minecraft:quartz_pillar
+setblock 35 -46 36 minecraft:quartz_bricks
+setblock 35 -46 37 minecraft:quartz_bricks
+setblock 35 -46 38 minecraft:quartz_bricks
+setblock 35 -46 42 minecraft:quartz_bricks
+setblock 35 -46 43 minecraft:quartz_bricks
+setblock 35 -46 44 minecraft:quartz_bricks
+setblock 35 -46 45 minecraft:quartz_pillar
+setblock 36 -46 35 minecraft:quartz_bricks
+setblock 36 -46 45 minecraft:quartz_bricks
+setblock 37 -46 35 minecraft:quartz_bricks
+setblock 37 -46 45 minecraft:quartz_bricks
+setblock 38 -46 35 minecraft:quartz_bricks
+setblock 38 -46 45 minecraft:quartz_bricks
+setblock 42 -46 35 minecraft:quartz_bricks
+setblock 42 -46 45 minecraft:quartz_bricks
+setblock 43 -46 35 minecraft:quartz_bricks
+setblock 43 -46 45 minecraft:quartz_bricks
+setblock 44 -46 35 minecraft:quartz_bricks
+setblock 44 -46 45 minecraft:quartz_bricks
+setblock 45 -46 35 minecraft:quartz_pillar
+setblock 45 -46 36 minecraft:quartz_bricks
+setblock 45 -46 37 minecraft:quartz_bricks
+setblock 45 -46 38 minecraft:quartz_bricks
+setblock 45 -46 42 minecraft:quartz_bricks
+setblock 45 -46 43 minecraft:quartz_bricks
+setblock 45 -46 44 minecraft:quartz_bricks
+setblock 45 -46 45 minecraft:quartz_pillar
+setblock 35 -45 35 minecraft:quartz_pillar
+setblock 35 -45 36 minecraft:quartz_bricks
+setblock 35 -45 37 minecraft:quartz_bricks
+setblock 35 -45 38 minecraft:quartz_bricks
+setblock 35 -45 39 minecraft:quartz_bricks
+setblock 35 -45 40 minecraft:quartz_bricks
+setblock 35 -45 41 minecraft:quartz_bricks
+setblock 35 -45 42 minecraft:quartz_bricks
+setblock 35 -45 43 minecraft:quartz_bricks
+setblock 35 -45 44 minecraft:quartz_bricks
+setblock 35 -45 45 minecraft:quartz_pillar
+setblock 36 -45 35 minecraft:quartz_bricks
+setblock 36 -45 45 minecraft:quartz_bricks
+setblock 37 -45 35 minecraft:quartz_bricks
+setblock 37 -45 45 minecraft:quartz_bricks
+setblock 38 -45 35 minecraft:quartz_bricks
+setblock 38 -45 45 minecraft:quartz_bricks
+setblock 39 -45 35 minecraft:quartz_bricks
+setblock 39 -45 45 minecraft:quartz_bricks
+setblock 40 -45 35 minecraft:quartz_bricks
+setblock 40 -45 45 minecraft:quartz_bricks
+setblock 41 -45 35 minecraft:quartz_bricks
+setblock 41 -45 45 minecraft:quartz_bricks
+setblock 42 -45 35 minecraft:quartz_bricks
+setblock 42 -45 45 minecraft:quartz_bricks
+setblock 43 -45 35 minecraft:quartz_bricks
+setblock 43 -45 45 minecraft:quartz_bricks
+setblock 44 -45 35 minecraft:quartz_bricks
+setblock 44 -45 45 minecraft:quartz_bricks
+setblock 45 -45 35 minecraft:quartz_pillar
+setblock 45 -45 36 minecraft:quartz_bricks
+setblock 45 -45 37 minecraft:quartz_bricks
+setblock 45 -45 38 minecraft:quartz_bricks
+setblock 45 -45 39 minecraft:quartz_bricks
+setblock 45 -45 40 minecraft:quartz_bricks
+setblock 45 -45 41 minecraft:quartz_bricks
+setblock 45 -45 42 minecraft:quartz_bricks
+setblock 45 -45 43 minecraft:quartz_bricks
+setblock 45 -45 44 minecraft:quartz_bricks
+setblock 45 -45 45 minecraft:quartz_pillar
+setblock 35 -44 35 minecraft:quartz_pillar
+setblock 35 -44 36 minecraft:quartz_block
+setblock 35 -44 37 minecraft:quartz_block
+setblock 35 -44 38 minecraft:quartz_block
+setblock 35 -44 39 minecraft:quartz_block
+setblock 35 -44 40 minecraft:quartz_block
+setblock 35 -44 41 minecraft:quartz_block
+setblock 35 -44 42 minecraft:quartz_block
+setblock 35 -44 43 minecraft:quartz_block
+setblock 35 -44 44 minecraft:quartz_block
+setblock 35 -44 45 minecraft:quartz_pillar
+setblock 36 -44 35 minecraft:quartz_block
+setblock 36 -44 45 minecraft:quartz_block
+setblock 37 -44 35 minecraft:quartz_block
+setblock 37 -44 45 minecraft:quartz_block
+setblock 38 -44 35 minecraft:quartz_block
+setblock 38 -44 45 minecraft:quartz_block
+setblock 39 -44 35 minecraft:quartz_block
+setblock 39 -44 45 minecraft:quartz_block
+setblock 40 -44 35 minecraft:quartz_block
+setblock 40 -44 45 minecraft:quartz_block
+setblock 41 -44 35 minecraft:quartz_block
+setblock 41 -44 45 minecraft:quartz_block
+setblock 42 -44 35 minecraft:quartz_block
+setblock 42 -44 45 minecraft:quartz_block
+setblock 43 -44 35 minecraft:quartz_block
+setblock 43 -44 45 minecraft:quartz_block
+setblock 44 -44 35 minecraft:quartz_block
+setblock 44 -44 45 minecraft:quartz_block
+setblock 45 -44 35 minecraft:quartz_pillar
+setblock 45 -44 36 minecraft:quartz_block
+setblock 45 -44 37 minecraft:quartz_block
+setblock 45 -44 38 minecraft:quartz_block
+setblock 45 -44 39 minecraft:quartz_block
+setblock 45 -44 40 minecraft:quartz_block
+setblock 45 -44 41 minecraft:quartz_block
+setblock 45 -44 42 minecraft:quartz_block
+setblock 45 -44 43 minecraft:quartz_block
+setblock 45 -44 44 minecraft:quartz_block
+setblock 45 -44 45 minecraft:quartz_pillar
+setblock 35 -43 35 minecraft:quartz_pillar
+setblock 35 -43 36 minecraft:quartz_bricks
+setblock 35 -43 37 minecraft:quartz_bricks
+setblock 35 -43 38 minecraft:quartz_bricks
+setblock 35 -43 39 minecraft:quartz_bricks
+setblock 35 -43 40 minecraft:quartz_bricks
+setblock 35 -43 41 minecraft:quartz_bricks
+setblock 35 -43 42 minecraft:quartz_bricks
+setblock 35 -43 43 minecraft:quartz_bricks
+setblock 35 -43 44 minecraft:quartz_bricks
+setblock 35 -43 45 minecraft:quartz_pillar
+setblock 36 -43 35 minecraft:quartz_bricks
+setblock 36 -43 45 minecraft:quartz_bricks
+setblock 37 -43 35 minecraft:quartz_bricks
+setblock 37 -43 45 minecraft:quartz_bricks
+setblock 38 -43 35 minecraft:quartz_bricks
+setblock 38 -43 45 minecraft:quartz_bricks
+setblock 39 -43 35 minecraft:quartz_bricks
+setblock 39 -43 45 minecraft:quartz_bricks
+setblock 40 -43 35 minecraft:quartz_bricks
+setblock 40 -43 45 minecraft:quartz_bricks
+setblock 41 -43 35 minecraft:quartz_bricks
+setblock 41 -43 45 minecraft:quartz_bricks
+setblock 42 -43 35 minecraft:quartz_bricks
+setblock 42 -43 45 minecraft:quartz_bricks
+setblock 43 -43 35 minecraft:quartz_bricks
+setblock 43 -43 45 minecraft:quartz_bricks
+setblock 44 -43 35 minecraft:quartz_bricks
+setblock 44 -43 45 minecraft:quartz_bricks
+setblock 45 -43 35 minecraft:quartz_pillar
+setblock 45 -43 36 minecraft:quartz_bricks
+setblock 45 -43 37 minecraft:quartz_bricks
+setblock 45 -43 38 minecraft:quartz_bricks
+setblock 45 -43 39 minecraft:quartz_bricks
+setblock 45 -43 40 minecraft:quartz_bricks
+setblock 45 -43 41 minecraft:quartz_bricks
+setblock 45 -43 42 minecraft:quartz_bricks
+setblock 45 -43 43 minecraft:quartz_bricks
+setblock 45 -43 44 minecraft:quartz_bricks
+setblock 45 -43 45 minecraft:quartz_pillar
+setblock 35 -42 35 minecraft:quartz_pillar
+setblock 35 -42 36 minecraft:quartz_bricks
+setblock 35 -42 37 minecraft:quartz_bricks
+setblock 35 -42 38 minecraft:quartz_bricks
+setblock 35 -42 39 minecraft:quartz_bricks
+setblock 35 -42 40 minecraft:quartz_bricks
+setblock 35 -42 41 minecraft:quartz_bricks
+setblock 35 -42 42 minecraft:quartz_bricks
+setblock 35 -42 43 minecraft:quartz_bricks
+setblock 35 -42 44 minecraft:quartz_bricks
+setblock 35 -42 45 minecraft:quartz_pillar
+setblock 36 -42 35 minecraft:quartz_bricks
+setblock 36 -42 45 minecraft:quartz_bricks
+setblock 37 -42 35 minecraft:quartz_bricks
+setblock 37 -42 45 minecraft:quartz_bricks
+setblock 38 -42 35 minecraft:quartz_bricks
+setblock 38 -42 45 minecraft:quartz_bricks
+setblock 39 -42 35 minecraft:quartz_bricks
+setblock 39 -42 45 minecraft:quartz_bricks
+setblock 40 -42 35 minecraft:quartz_bricks
+setblock 40 -42 45 minecraft:quartz_bricks
+setblock 41 -42 35 minecraft:quartz_bricks
+setblock 41 -42 45 minecraft:quartz_bricks
+setblock 42 -42 35 minecraft:quartz_bricks
+setblock 42 -42 45 minecraft:quartz_bricks
+setblock 43 -42 35 minecraft:quartz_bricks
+setblock 43 -42 45 minecraft:quartz_bricks
+setblock 44 -42 35 minecraft:quartz_bricks
+setblock 44 -42 45 minecraft:quartz_bricks
+setblock 45 -42 35 minecraft:quartz_pillar
+setblock 45 -42 36 minecraft:quartz_bricks
+setblock 45 -42 37 minecraft:quartz_bricks
+setblock 45 -42 38 minecraft:quartz_bricks
+setblock 45 -42 39 minecraft:quartz_bricks
+setblock 45 -42 40 minecraft:quartz_bricks
+setblock 45 -42 41 minecraft:quartz_bricks
+setblock 45 -42 42 minecraft:quartz_bricks
+setblock 45 -42 43 minecraft:quartz_bricks
+setblock 45 -42 44 minecraft:quartz_bricks
+setblock 45 -42 45 minecraft:quartz_pillar
+setblock 35 -41 35 minecraft:quartz_pillar
+setblock 35 -41 36 minecraft:quartz_bricks
+setblock 35 -41 37 minecraft:quartz_bricks
+setblock 35 -41 38 minecraft:quartz_bricks
+setblock 35 -41 39 minecraft:quartz_bricks
+setblock 35 -41 40 minecraft:quartz_bricks
+setblock 35 -41 41 minecraft:quartz_bricks
+setblock 35 -41 42 minecraft:quartz_bricks
+setblock 35 -41 43 minecraft:quartz_bricks
+setblock 35 -41 44 minecraft:quartz_bricks
+setblock 35 -41 45 minecraft:quartz_pillar
+setblock 36 -41 35 minecraft:quartz_bricks
+setblock 36 -41 45 minecraft:quartz_bricks
+setblock 37 -41 35 minecraft:quartz_bricks
+setblock 37 -41 45 minecraft:quartz_bricks
+setblock 38 -41 35 minecraft:quartz_bricks
+setblock 38 -41 45 minecraft:quartz_bricks
+setblock 39 -41 35 minecraft:quartz_bricks
+setblock 39 -41 45 minecraft:quartz_bricks
+setblock 40 -41 35 minecraft:quartz_bricks
+setblock 40 -41 45 minecraft:quartz_bricks
+setblock 41 -41 35 minecraft:quartz_bricks
+setblock 41 -41 45 minecraft:quartz_bricks
+setblock 42 -41 35 minecraft:quartz_bricks
+setblock 42 -41 45 minecraft:quartz_bricks
+setblock 43 -41 35 minecraft:quartz_bricks
+setblock 43 -41 45 minecraft:quartz_bricks
+setblock 44 -41 35 minecraft:quartz_bricks
+setblock 44 -41 45 minecraft:quartz_bricks
+setblock 45 -41 35 minecraft:quartz_pillar
+setblock 45 -41 36 minecraft:quartz_bricks
+setblock 45 -41 37 minecraft:quartz_bricks
+setblock 45 -41 38 minecraft:quartz_bricks
+setblock 45 -41 39 minecraft:quartz_bricks
+setblock 45 -41 40 minecraft:quartz_bricks
+setblock 45 -41 41 minecraft:quartz_bricks
+setblock 45 -41 42 minecraft:quartz_bricks
+setblock 45 -41 43 minecraft:quartz_bricks
+setblock 45 -41 44 minecraft:quartz_bricks
+setblock 45 -41 45 minecraft:quartz_pillar
+setblock 35 -40 35 minecraft:quartz_pillar
+setblock 35 -40 36 minecraft:quartz_bricks
+setblock 35 -40 37 minecraft:quartz_bricks
+setblock 35 -40 38 minecraft:quartz_bricks
+setblock 35 -40 42 minecraft:quartz_bricks
+setblock 35 -40 43 minecraft:quartz_bricks
+setblock 35 -40 44 minecraft:quartz_bricks
+setblock 35 -40 45 minecraft:quartz_pillar
+setblock 36 -40 35 minecraft:quartz_bricks
+setblock 36 -40 45 minecraft:quartz_bricks
+setblock 37 -40 35 minecraft:quartz_bricks
+setblock 37 -40 45 minecraft:quartz_bricks
+setblock 38 -40 35 minecraft:quartz_bricks
+setblock 38 -40 45 minecraft:quartz_bricks
+setblock 42 -40 35 minecraft:quartz_bricks
+setblock 42 -40 45 minecraft:quartz_bricks
+setblock 43 -40 35 minecraft:quartz_bricks
+setblock 43 -40 45 minecraft:quartz_bricks
+setblock 44 -40 35 minecraft:quartz_bricks
+setblock 44 -40 45 minecraft:quartz_bricks
+setblock 45 -40 35 minecraft:quartz_pillar
+setblock 45 -40 36 minecraft:quartz_bricks
+setblock 45 -40 37 minecraft:quartz_bricks
+setblock 45 -40 38 minecraft:quartz_bricks
+setblock 45 -40 42 minecraft:quartz_bricks
+setblock 45 -40 43 minecraft:quartz_bricks
+setblock 45 -40 44 minecraft:quartz_bricks
+setblock 45 -40 45 minecraft:quartz_pillar
+setblock 35 -39 35 minecraft:quartz_pillar
+setblock 35 -39 36 minecraft:quartz_bricks
+setblock 35 -39 37 minecraft:quartz_bricks
+setblock 35 -39 38 minecraft:quartz_bricks
+setblock 35 -39 42 minecraft:quartz_bricks
+setblock 35 -39 43 minecraft:quartz_bricks
+setblock 35 -39 44 minecraft:quartz_bricks
+setblock 35 -39 45 minecraft:quartz_pillar
+setblock 36 -39 35 minecraft:quartz_bricks
+setblock 36 -39 45 minecraft:quartz_bricks
+setblock 37 -39 35 minecraft:quartz_bricks
+setblock 37 -39 45 minecraft:quartz_bricks
+setblock 38 -39 35 minecraft:quartz_bricks
+setblock 38 -39 45 minecraft:quartz_bricks
+setblock 42 -39 35 minecraft:quartz_bricks
+setblock 42 -39 45 minecraft:quartz_bricks
+setblock 43 -39 35 minecraft:quartz_bricks
+setblock 43 -39 45 minecraft:quartz_bricks
+setblock 44 -39 35 minecraft:quartz_bricks
+setblock 44 -39 45 minecraft:quartz_bricks
+setblock 45 -39 35 minecraft:quartz_pillar
+setblock 45 -39 36 minecraft:quartz_bricks
+setblock 45 -39 37 minecraft:quartz_bricks
+setblock 45 -39 38 minecraft:quartz_bricks
+setblock 45 -39 42 minecraft:quartz_bricks
+setblock 45 -39 43 minecraft:quartz_bricks
+setblock 45 -39 44 minecraft:quartz_bricks
+setblock 45 -39 45 minecraft:quartz_pillar
+setblock 35 -38 35 minecraft:quartz_pillar
+setblock 35 -38 36 minecraft:quartz_bricks
+setblock 35 -38 37 minecraft:quartz_bricks
+setblock 35 -38 38 minecraft:quartz_bricks
+setblock 35 -38 42 minecraft:quartz_bricks
+setblock 35 -38 43 minecraft:quartz_bricks
+setblock 35 -38 44 minecraft:quartz_bricks
+setblock 35 -38 45 minecraft:quartz_pillar
+setblock 36 -38 35 minecraft:quartz_bricks
+setblock 36 -38 45 minecraft:quartz_bricks
+setblock 37 -38 35 minecraft:quartz_bricks
+setblock 37 -38 45 minecraft:quartz_bricks
+setblock 38 -38 35 minecraft:quartz_bricks
+setblock 38 -38 45 minecraft:quartz_bricks
+setblock 42 -38 35 minecraft:quartz_bricks
+setblock 42 -38 45 minecraft:quartz_bricks
+setblock 43 -38 35 minecraft:quartz_bricks
+setblock 43 -38 45 minecraft:quartz_bricks
+setblock 44 -38 35 minecraft:quartz_bricks
+setblock 44 -38 45 minecraft:quartz_bricks
+setblock 45 -38 35 minecraft:quartz_pillar
+setblock 45 -38 36 minecraft:quartz_bricks
+setblock 45 -38 37 minecraft:quartz_bricks
+setblock 45 -38 38 minecraft:quartz_bricks
+setblock 45 -38 42 minecraft:quartz_bricks
+setblock 45 -38 43 minecraft:quartz_bricks
+setblock 45 -38 44 minecraft:quartz_bricks
+setblock 45 -38 45 minecraft:quartz_pillar
+setblock 35 -37 35 minecraft:quartz_pillar
+setblock 35 -37 36 minecraft:quartz_bricks
+setblock 35 -37 37 minecraft:quartz_bricks
+setblock 35 -37 38 minecraft:quartz_bricks
+setblock 35 -37 39 minecraft:quartz_bricks
+setblock 35 -37 40 minecraft:quartz_bricks
+setblock 35 -37 41 minecraft:quartz_bricks
+setblock 35 -37 42 minecraft:quartz_bricks
+setblock 35 -37 43 minecraft:quartz_bricks
+setblock 35 -37 44 minecraft:quartz_bricks
+setblock 35 -37 45 minecraft:quartz_pillar
+setblock 36 -37 35 minecraft:quartz_bricks
+setblock 36 -37 45 minecraft:quartz_bricks
+setblock 37 -37 35 minecraft:quartz_bricks
+setblock 37 -37 45 minecraft:quartz_bricks
+setblock 38 -37 35 minecraft:quartz_bricks
+setblock 38 -37 45 minecraft:quartz_bricks
+setblock 39 -37 35 minecraft:quartz_bricks
+setblock 39 -37 45 minecraft:quartz_bricks
+setblock 40 -37 35 minecraft:quartz_bricks
+setblock 40 -37 45 minecraft:quartz_bricks
+setblock 41 -37 35 minecraft:quartz_bricks
+setblock 41 -37 45 minecraft:quartz_bricks
+setblock 42 -37 35 minecraft:quartz_bricks
+setblock 42 -37 45 minecraft:quartz_bricks
+setblock 43 -37 35 minecraft:quartz_bricks
+setblock 43 -37 45 minecraft:quartz_bricks
+setblock 44 -37 35 minecraft:quartz_bricks
+setblock 44 -37 45 minecraft:quartz_bricks
+setblock 45 -37 35 minecraft:quartz_pillar
+setblock 45 -37 36 minecraft:quartz_bricks
+setblock 45 -37 37 minecraft:quartz_bricks
+setblock 45 -37 38 minecraft:quartz_bricks
+setblock 45 -37 39 minecraft:quartz_bricks
+setblock 45 -37 40 minecraft:quartz_bricks
+setblock 45 -37 41 minecraft:quartz_bricks
+setblock 45 -37 42 minecraft:quartz_bricks
+setblock 45 -37 43 minecraft:quartz_bricks
+setblock 45 -37 44 minecraft:quartz_bricks
+setblock 45 -37 45 minecraft:quartz_pillar
+setblock 35 -36 35 minecraft:quartz_pillar
+setblock 35 -36 36 minecraft:quartz_block
+setblock 35 -36 37 minecraft:quartz_block
+setblock 35 -36 38 minecraft:quartz_block
+setblock 35 -36 39 minecraft:quartz_block
+setblock 35 -36 40 minecraft:quartz_block
+setblock 35 -36 41 minecraft:quartz_block
+setblock 35 -36 42 minecraft:quartz_block
+setblock 35 -36 43 minecraft:quartz_block
+setblock 35 -36 44 minecraft:quartz_block
+setblock 35 -36 45 minecraft:quartz_pillar
+setblock 36 -36 35 minecraft:quartz_block
+setblock 36 -36 45 minecraft:quartz_block
+setblock 37 -36 35 minecraft:quartz_block
+setblock 37 -36 45 minecraft:quartz_block
+setblock 38 -36 35 minecraft:quartz_block
+setblock 38 -36 45 minecraft:quartz_block
+setblock 39 -36 35 minecraft:quartz_block
+setblock 39 -36 45 minecraft:quartz_block
+setblock 40 -36 35 minecraft:quartz_block
+setblock 40 -36 45 minecraft:quartz_block
+setblock 41 -36 35 minecraft:quartz_block
+setblock 41 -36 45 minecraft:quartz_block
+setblock 42 -36 35 minecraft:quartz_block
+setblock 42 -36 45 minecraft:quartz_block
+setblock 43 -36 35 minecraft:quartz_block
+setblock 43 -36 45 minecraft:quartz_block
+setblock 44 -36 35 minecraft:quartz_block
+setblock 44 -36 45 minecraft:quartz_block
+setblock 45 -36 35 minecraft:quartz_pillar
+setblock 45 -36 36 minecraft:quartz_block
+setblock 45 -36 37 minecraft:quartz_block
+setblock 45 -36 38 minecraft:quartz_block
+setblock 45 -36 39 minecraft:quartz_block
+setblock 45 -36 40 minecraft:quartz_block
+setblock 45 -36 41 minecraft:quartz_block
+setblock 45 -36 42 minecraft:quartz_block
+setblock 45 -36 43 minecraft:quartz_block
+setblock 45 -36 44 minecraft:quartz_block
+setblock 45 -36 45 minecraft:quartz_pillar
+setblock 35 -35 35 minecraft:quartz_pillar
+setblock 35 -35 36 minecraft:quartz_bricks
+setblock 35 -35 37 minecraft:quartz_bricks
+setblock 35 -35 38 minecraft:quartz_bricks
+setblock 35 -35 39 minecraft:quartz_bricks
+setblock 35 -35 40 minecraft:quartz_bricks
+setblock 35 -35 41 minecraft:quartz_bricks
+setblock 35 -35 42 minecraft:quartz_bricks
+setblock 35 -35 43 minecraft:quartz_bricks
+setblock 35 -35 44 minecraft:quartz_bricks
+setblock 35 -35 45 minecraft:quartz_pillar
+setblock 36 -35 35 minecraft:quartz_bricks
+setblock 36 -35 45 minecraft:quartz_bricks
+setblock 37 -35 35 minecraft:quartz_bricks
+setblock 37 -35 45 minecraft:quartz_bricks
+setblock 38 -35 35 minecraft:quartz_bricks
+setblock 38 -35 45 minecraft:quartz_bricks
+setblock 39 -35 35 minecraft:quartz_bricks
+setblock 39 -35 45 minecraft:quartz_bricks
+setblock 40 -35 35 minecraft:quartz_bricks
+setblock 40 -35 45 minecraft:quartz_bricks
+setblock 41 -35 35 minecraft:quartz_bricks
+setblock 41 -35 45 minecraft:quartz_bricks
+setblock 42 -35 35 minecraft:quartz_bricks
+setblock 42 -35 45 minecraft:quartz_bricks
+setblock 43 -35 35 minecraft:quartz_bricks
+setblock 43 -35 45 minecraft:quartz_bricks
+setblock 44 -35 35 minecraft:quartz_bricks
+setblock 44 -35 45 minecraft:quartz_bricks
+setblock 45 -35 35 minecraft:quartz_pillar
+setblock 45 -35 36 minecraft:quartz_bricks
+setblock 45 -35 37 minecraft:quartz_bricks
+setblock 45 -35 38 minecraft:quartz_bricks
+setblock 45 -35 39 minecraft:quartz_bricks
+setblock 45 -35 40 minecraft:quartz_bricks
+setblock 45 -35 41 minecraft:quartz_bricks
+setblock 45 -35 42 minecraft:quartz_bricks
+setblock 45 -35 43 minecraft:quartz_bricks
+setblock 45 -35 44 minecraft:quartz_bricks
+setblock 45 -35 45 minecraft:quartz_pillar
+setblock 35 -34 35 minecraft:quartz_pillar
+setblock 35 -34 36 minecraft:quartz_bricks
+setblock 35 -34 37 minecraft:quartz_bricks
+setblock 35 -34 38 minecraft:quartz_bricks
+setblock 35 -34 39 minecraft:quartz_bricks
+setblock 35 -34 40 minecraft:quartz_bricks
+setblock 35 -34 41 minecraft:quartz_bricks
+setblock 35 -34 42 minecraft:quartz_bricks
+setblock 35 -34 43 minecraft:quartz_bricks
+setblock 35 -34 44 minecraft:quartz_bricks
+setblock 35 -34 45 minecraft:quartz_pillar
+setblock 36 -34 35 minecraft:quartz_bricks
+setblock 36 -34 45 minecraft:quartz_bricks
+setblock 37 -34 35 minecraft:quartz_bricks
+setblock 37 -34 45 minecraft:quartz_bricks
+setblock 38 -34 35 minecraft:quartz_bricks
+setblock 38 -34 45 minecraft:quartz_bricks
+setblock 39 -34 35 minecraft:quartz_bricks
+setblock 39 -34 45 minecraft:quartz_bricks
+setblock 40 -34 35 minecraft:quartz_bricks
+setblock 40 -34 45 minecraft:quartz_bricks
+setblock 41 -34 35 minecraft:quartz_bricks
+setblock 41 -34 45 minecraft:quartz_bricks
+setblock 42 -34 35 minecraft:quartz_bricks
+setblock 42 -34 45 minecraft:quartz_bricks
+setblock 43 -34 35 minecraft:quartz_bricks
+setblock 43 -34 45 minecraft:quartz_bricks
+setblock 44 -34 35 minecraft:quartz_bricks
+setblock 44 -34 45 minecraft:quartz_bricks
+setblock 45 -34 35 minecraft:quartz_pillar
+setblock 45 -34 36 minecraft:quartz_bricks
+setblock 45 -34 37 minecraft:quartz_bricks
+setblock 45 -34 38 minecraft:quartz_bricks
+setblock 45 -34 39 minecraft:quartz_bricks
+setblock 45 -34 40 minecraft:quartz_bricks
+setblock 45 -34 41 minecraft:quartz_bricks
+setblock 45 -34 42 minecraft:quartz_bricks
+setblock 45 -34 43 minecraft:quartz_bricks
+setblock 45 -34 44 minecraft:quartz_bricks
+setblock 45 -34 45 minecraft:quartz_pillar
+setblock 35 -33 35 minecraft:quartz_pillar
+setblock 35 -33 36 minecraft:quartz_bricks
+setblock 35 -33 37 minecraft:quartz_bricks
+setblock 35 -33 38 minecraft:quartz_bricks
+setblock 35 -33 39 minecraft:quartz_bricks
+setblock 35 -33 40 minecraft:quartz_bricks
+setblock 35 -33 41 minecraft:quartz_bricks
+setblock 35 -33 42 minecraft:quartz_bricks
+setblock 35 -33 43 minecraft:quartz_bricks
+setblock 35 -33 44 minecraft:quartz_bricks
+setblock 35 -33 45 minecraft:quartz_pillar
+setblock 36 -33 35 minecraft:quartz_bricks
+setblock 36 -33 45 minecraft:quartz_bricks
+setblock 37 -33 35 minecraft:quartz_bricks
+setblock 37 -33 45 minecraft:quartz_bricks
+setblock 38 -33 35 minecraft:quartz_bricks
+setblock 38 -33 45 minecraft:quartz_bricks
+setblock 39 -33 35 minecraft:quartz_bricks
+setblock 39 -33 45 minecraft:quartz_bricks
+setblock 40 -33 35 minecraft:quartz_bricks
+setblock 40 -33 45 minecraft:quartz_bricks
+setblock 41 -33 35 minecraft:quartz_bricks
+setblock 41 -33 45 minecraft:quartz_bricks
+setblock 42 -33 35 minecraft:quartz_bricks
+setblock 42 -33 45 minecraft:quartz_bricks
+setblock 43 -33 35 minecraft:quartz_bricks
+setblock 43 -33 45 minecraft:quartz_bricks
+setblock 44 -33 35 minecraft:quartz_bricks
+setblock 44 -33 45 minecraft:quartz_bricks
+setblock 45 -33 35 minecraft:quartz_pillar
+setblock 45 -33 36 minecraft:quartz_bricks
+setblock 45 -33 37 minecraft:quartz_bricks
+setblock 45 -33 38 minecraft:quartz_bricks
+setblock 45 -33 39 minecraft:quartz_bricks
+setblock 45 -33 40 minecraft:quartz_bricks
+setblock 45 -33 41 minecraft:quartz_bricks
+setblock 45 -33 42 minecraft:quartz_bricks
+setblock 45 -33 43 minecraft:quartz_bricks
+setblock 45 -33 44 minecraft:quartz_bricks
+setblock 45 -33 45 minecraft:quartz_pillar
+setblock 35 -32 35 minecraft:quartz_pillar
+setblock 35 -32 36 minecraft:quartz_bricks
+setblock 35 -32 37 minecraft:quartz_bricks
+setblock 35 -32 38 minecraft:quartz_bricks
+setblock 35 -32 39 minecraft:quartz_bricks
+setblock 35 -32 40 minecraft:quartz_bricks
+setblock 35 -32 41 minecraft:quartz_bricks
+setblock 35 -32 42 minecraft:quartz_bricks
+setblock 35 -32 43 minecraft:quartz_bricks
+setblock 35 -32 44 minecraft:quartz_bricks
+setblock 35 -32 45 minecraft:quartz_pillar
+setblock 36 -32 35 minecraft:quartz_bricks
+setblock 36 -32 45 minecraft:quartz_bricks
+setblock 37 -32 35 minecraft:quartz_bricks
+setblock 37 -32 45 minecraft:quartz_bricks
+setblock 38 -32 35 minecraft:quartz_bricks
+setblock 38 -32 45 minecraft:quartz_bricks
+setblock 39 -32 35 minecraft:quartz_bricks
+setblock 39 -32 45 minecraft:quartz_bricks
+setblock 40 -32 35 minecraft:quartz_bricks
+setblock 40 -32 45 minecraft:quartz_bricks
+setblock 41 -32 35 minecraft:quartz_bricks
+setblock 41 -32 45 minecraft:quartz_bricks
+setblock 42 -32 35 minecraft:quartz_bricks
+setblock 42 -32 45 minecraft:quartz_bricks
+setblock 43 -32 35 minecraft:quartz_bricks
+setblock 43 -32 45 minecraft:quartz_bricks
+setblock 44 -32 35 minecraft:quartz_bricks
+setblock 44 -32 45 minecraft:quartz_bricks
+setblock 45 -32 35 minecraft:quartz_pillar
+setblock 45 -32 36 minecraft:quartz_bricks
+setblock 45 -32 37 minecraft:quartz_bricks
+setblock 45 -32 38 minecraft:quartz_bricks
+setblock 45 -32 39 minecraft:quartz_bricks
+setblock 45 -32 40 minecraft:quartz_bricks
+setblock 45 -32 41 minecraft:quartz_bricks
+setblock 45 -32 42 minecraft:quartz_bricks
+setblock 45 -32 43 minecraft:quartz_bricks
+setblock 45 -32 44 minecraft:quartz_bricks
+setblock 45 -32 45 minecraft:quartz_pillar
+setblock 35 -31 35 minecraft:quartz_pillar
+setblock 35 -31 36 minecraft:quartz_bricks
+setblock 35 -31 37 minecraft:quartz_bricks
+setblock 35 -31 38 minecraft:quartz_bricks
+setblock 35 -31 39 minecraft:quartz_bricks
+setblock 35 -31 40 minecraft:quartz_bricks
+setblock 35 -31 41 minecraft:quartz_bricks
+setblock 35 -31 42 minecraft:quartz_bricks
+setblock 35 -31 43 minecraft:quartz_bricks
+setblock 35 -31 44 minecraft:quartz_bricks
+setblock 35 -31 45 minecraft:quartz_pillar
+setblock 36 -31 35 minecraft:quartz_bricks
+setblock 36 -31 45 minecraft:quartz_bricks
+setblock 37 -31 35 minecraft:quartz_bricks
+setblock 37 -31 45 minecraft:quartz_bricks
+setblock 38 -31 35 minecraft:quartz_bricks
+setblock 38 -31 45 minecraft:quartz_bricks
+setblock 39 -31 35 minecraft:quartz_bricks
+setblock 39 -31 45 minecraft:quartz_bricks
+setblock 40 -31 35 minecraft:quartz_bricks
+setblock 40 -31 45 minecraft:quartz_bricks
+setblock 41 -31 35 minecraft:quartz_bricks
+setblock 41 -31 45 minecraft:quartz_bricks
+setblock 42 -31 35 minecraft:quartz_bricks
+setblock 42 -31 45 minecraft:quartz_bricks
+setblock 43 -31 35 minecraft:quartz_bricks
+setblock 43 -31 45 minecraft:quartz_bricks
+setblock 44 -31 35 minecraft:quartz_bricks
+setblock 44 -31 45 minecraft:quartz_bricks
+setblock 45 -31 35 minecraft:quartz_pillar
+setblock 45 -31 36 minecraft:quartz_bricks
+setblock 45 -31 37 minecraft:quartz_bricks
+setblock 45 -31 38 minecraft:quartz_bricks
+setblock 45 -31 39 minecraft:quartz_bricks
+setblock 45 -31 40 minecraft:quartz_bricks
+setblock 45 -31 41 minecraft:quartz_bricks
+setblock 45 -31 42 minecraft:quartz_bricks
+setblock 45 -31 43 minecraft:quartz_bricks
+setblock 45 -31 44 minecraft:quartz_bricks
+setblock 45 -31 45 minecraft:quartz_pillar
+setblock 35 -30 35 minecraft:quartz_pillar
+setblock 35 -30 36 minecraft:quartz_bricks
+setblock 35 -30 37 minecraft:quartz_bricks
+setblock 35 -30 38 minecraft:quartz_bricks
+setblock 35 -30 39 minecraft:quartz_bricks
+setblock 35 -30 40 minecraft:quartz_bricks
+setblock 35 -30 41 minecraft:quartz_bricks
+setblock 35 -30 42 minecraft:quartz_bricks
+setblock 35 -30 43 minecraft:quartz_bricks
+setblock 35 -30 44 minecraft:quartz_bricks
+setblock 35 -30 45 minecraft:quartz_pillar
+setblock 36 -30 35 minecraft:quartz_bricks
+setblock 36 -30 45 minecraft:quartz_bricks
+setblock 37 -30 35 minecraft:quartz_bricks
+setblock 37 -30 45 minecraft:quartz_bricks
+setblock 38 -30 35 minecraft:quartz_bricks
+setblock 38 -30 45 minecraft:quartz_bricks
+setblock 39 -30 35 minecraft:quartz_bricks
+setblock 39 -30 45 minecraft:quartz_bricks
+setblock 40 -30 35 minecraft:quartz_bricks
+setblock 40 -30 45 minecraft:quartz_bricks
+setblock 41 -30 35 minecraft:quartz_bricks
+setblock 41 -30 45 minecraft:quartz_bricks
+setblock 42 -30 35 minecraft:quartz_bricks
+setblock 42 -30 45 minecraft:quartz_bricks
+setblock 43 -30 35 minecraft:quartz_bricks
+setblock 43 -30 45 minecraft:quartz_bricks
+setblock 44 -30 35 minecraft:quartz_bricks
+setblock 44 -30 45 minecraft:quartz_bricks
+setblock 45 -30 35 minecraft:quartz_pillar
+setblock 45 -30 36 minecraft:quartz_bricks
+setblock 45 -30 37 minecraft:quartz_bricks
+setblock 45 -30 38 minecraft:quartz_bricks
+setblock 45 -30 39 minecraft:quartz_bricks
+setblock 45 -30 40 minecraft:quartz_bricks
+setblock 45 -30 41 minecraft:quartz_bricks
+setblock 45 -30 42 minecraft:quartz_bricks
+setblock 45 -30 43 minecraft:quartz_bricks
+setblock 45 -30 44 minecraft:quartz_bricks
+setblock 45 -30 45 minecraft:quartz_pillar
+setblock 35 -29 35 minecraft:quartz_pillar
+setblock 35 -29 36 minecraft:quartz_bricks
+setblock 35 -29 37 minecraft:quartz_bricks
+setblock 35 -29 38 minecraft:quartz_bricks
+setblock 35 -29 39 minecraft:quartz_bricks
+setblock 35 -29 40 minecraft:quartz_bricks
+setblock 35 -29 41 minecraft:quartz_bricks
+setblock 35 -29 42 minecraft:quartz_bricks
+setblock 35 -29 43 minecraft:quartz_bricks
+setblock 35 -29 44 minecraft:quartz_bricks
+setblock 35 -29 45 minecraft:quartz_pillar
+setblock 36 -29 35 minecraft:quartz_bricks
+setblock 36 -29 45 minecraft:quartz_bricks
+setblock 37 -29 35 minecraft:quartz_bricks
+setblock 37 -29 45 minecraft:quartz_bricks
+setblock 38 -29 35 minecraft:quartz_bricks
+setblock 38 -29 45 minecraft:quartz_bricks
+setblock 39 -29 35 minecraft:quartz_bricks
+setblock 39 -29 45 minecraft:quartz_bricks
+setblock 40 -29 35 minecraft:quartz_bricks
+setblock 40 -29 45 minecraft:quartz_bricks
+setblock 41 -29 35 minecraft:quartz_bricks
+setblock 41 -29 45 minecraft:quartz_bricks
+setblock 42 -29 35 minecraft:quartz_bricks
+setblock 42 -29 45 minecraft:quartz_bricks
+setblock 43 -29 35 minecraft:quartz_bricks
+setblock 43 -29 45 minecraft:quartz_bricks
+setblock 44 -29 35 minecraft:quartz_bricks
+setblock 44 -29 45 minecraft:quartz_bricks
+setblock 45 -29 35 minecraft:quartz_pillar
+setblock 45 -29 36 minecraft:quartz_bricks
+setblock 45 -29 37 minecraft:quartz_bricks
+setblock 45 -29 38 minecraft:quartz_bricks
+setblock 45 -29 39 minecraft:quartz_bricks
+setblock 45 -29 40 minecraft:quartz_bricks
+setblock 45 -29 41 minecraft:quartz_bricks
+setblock 45 -29 42 minecraft:quartz_bricks
+setblock 45 -29 43 minecraft:quartz_bricks
+setblock 45 -29 44 minecraft:quartz_bricks
+setblock 45 -29 45 minecraft:quartz_pillar
+fill 36 -29 36 44 -29 44 minecraft:smooth_quartz
+setblock 35 -28 35 minecraft:quartz_pillar
+setblock 35 -27 35 minecraft:sea_lantern
+setblock 35 -28 45 minecraft:quartz_pillar
+setblock 35 -27 45 minecraft:sea_lantern
+setblock 45 -28 35 minecraft:quartz_pillar
+setblock 45 -27 35 minecraft:sea_lantern
+setblock 45 -28 45 minecraft:quartz_pillar
+setblock 45 -27 45 minecraft:sea_lantern
+setblock 35 -28 36 minecraft:smooth_quartz_slab
+setblock 35 -28 37 minecraft:smooth_quartz_slab
+setblock 35 -28 38 minecraft:smooth_quartz_slab
+setblock 35 -28 39 minecraft:smooth_quartz_slab
+setblock 35 -28 40 minecraft:smooth_quartz_slab
+setblock 35 -28 41 minecraft:smooth_quartz_slab
+setblock 35 -28 42 minecraft:smooth_quartz_slab
+setblock 35 -28 43 minecraft:smooth_quartz_slab
+setblock 35 -28 44 minecraft:smooth_quartz_slab
+setblock 36 -28 35 minecraft:smooth_quartz_slab
+setblock 36 -28 45 minecraft:smooth_quartz_slab
+setblock 37 -28 35 minecraft:smooth_quartz_slab
+setblock 37 -28 45 minecraft:smooth_quartz_slab
+setblock 38 -28 35 minecraft:smooth_quartz_slab
+setblock 38 -28 45 minecraft:smooth_quartz_slab
+setblock 39 -28 35 minecraft:smooth_quartz_slab
+setblock 39 -28 45 minecraft:smooth_quartz_slab
+setblock 40 -28 35 minecraft:smooth_quartz_slab
+setblock 40 -28 45 minecraft:smooth_quartz_slab
+setblock 41 -28 35 minecraft:smooth_quartz_slab
+setblock 41 -28 45 minecraft:smooth_quartz_slab
+setblock 42 -28 35 minecraft:smooth_quartz_slab
+setblock 42 -28 45 minecraft:smooth_quartz_slab
+setblock 43 -28 35 minecraft:smooth_quartz_slab
+setblock 43 -28 45 minecraft:smooth_quartz_slab
+setblock 44 -28 35 minecraft:smooth_quartz_slab
+setblock 44 -28 45 minecraft:smooth_quartz_slab
+setblock 45 -28 36 minecraft:smooth_quartz_slab
+setblock 45 -28 37 minecraft:smooth_quartz_slab
+setblock 45 -28 38 minecraft:smooth_quartz_slab
+setblock 45 -28 39 minecraft:smooth_quartz_slab
+setblock 45 -28 40 minecraft:smooth_quartz_slab
+setblock 45 -28 41 minecraft:smooth_quartz_slab
+setblock 45 -28 42 minecraft:smooth_quartz_slab
+setblock 45 -28 43 minecraft:smooth_quartz_slab
+setblock 45 -28 44 minecraft:smooth_quartz_slab
+fill -46 -60 34 -34 -60 46 minecraft:quartz_block
+setblock -45 -59 35 minecraft:quartz_pillar
+setblock -45 -59 36 minecraft:quartz_bricks
+setblock -45 -59 37 minecraft:quartz_bricks
+setblock -45 -59 38 minecraft:quartz_bricks
+setblock -45 -59 39 minecraft:quartz_bricks
+setblock -45 -59 40 minecraft:quartz_bricks
+setblock -45 -59 41 minecraft:quartz_bricks
+setblock -45 -59 42 minecraft:quartz_bricks
+setblock -45 -59 43 minecraft:quartz_bricks
+setblock -45 -59 44 minecraft:quartz_bricks
+setblock -45 -59 45 minecraft:quartz_pillar
+setblock -44 -59 35 minecraft:quartz_bricks
+setblock -44 -59 45 minecraft:quartz_bricks
+setblock -43 -59 35 minecraft:quartz_bricks
+setblock -43 -59 45 minecraft:quartz_bricks
+setblock -42 -59 35 minecraft:quartz_bricks
+setblock -42 -59 45 minecraft:quartz_bricks
+setblock -41 -59 35 minecraft:quartz_bricks
+setblock -41 -59 45 minecraft:quartz_bricks
+setblock -40 -59 35 minecraft:quartz_bricks
+setblock -40 -59 45 minecraft:quartz_bricks
+setblock -39 -59 35 minecraft:quartz_bricks
+setblock -39 -59 45 minecraft:quartz_bricks
+setblock -38 -59 35 minecraft:quartz_bricks
+setblock -38 -59 45 minecraft:quartz_bricks
+setblock -37 -59 35 minecraft:quartz_bricks
+setblock -37 -59 45 minecraft:quartz_bricks
+setblock -36 -59 35 minecraft:quartz_bricks
+setblock -36 -59 45 minecraft:quartz_bricks
+setblock -35 -59 35 minecraft:quartz_pillar
+setblock -35 -59 36 minecraft:quartz_bricks
+setblock -35 -59 37 minecraft:quartz_bricks
+setblock -35 -59 38 minecraft:quartz_bricks
+setblock -35 -59 39 minecraft:quartz_bricks
+setblock -35 -59 40 minecraft:quartz_bricks
+setblock -35 -59 41 minecraft:quartz_bricks
+setblock -35 -59 42 minecraft:quartz_bricks
+setblock -35 -59 43 minecraft:quartz_bricks
+setblock -35 -59 44 minecraft:quartz_bricks
+setblock -35 -59 45 minecraft:quartz_pillar
+setblock -45 -58 35 minecraft:quartz_pillar
+setblock -45 -58 36 minecraft:quartz_bricks
+setblock -45 -58 37 minecraft:quartz_bricks
+setblock -45 -58 38 minecraft:quartz_bricks
+setblock -45 -58 39 minecraft:quartz_bricks
+setblock -45 -58 40 minecraft:quartz_bricks
+setblock -45 -58 41 minecraft:quartz_bricks
+setblock -45 -58 42 minecraft:quartz_bricks
+setblock -45 -58 43 minecraft:quartz_bricks
+setblock -45 -58 44 minecraft:quartz_bricks
+setblock -45 -58 45 minecraft:quartz_pillar
+setblock -44 -58 35 minecraft:quartz_bricks
+setblock -44 -58 45 minecraft:quartz_bricks
+setblock -43 -58 35 minecraft:quartz_bricks
+setblock -43 -58 45 minecraft:quartz_bricks
+setblock -42 -58 35 minecraft:quartz_bricks
+setblock -42 -58 45 minecraft:quartz_bricks
+setblock -41 -58 35 minecraft:quartz_bricks
+setblock -41 -58 45 minecraft:quartz_bricks
+setblock -40 -58 35 minecraft:quartz_bricks
+setblock -40 -58 45 minecraft:quartz_bricks
+setblock -39 -58 35 minecraft:quartz_bricks
+setblock -39 -58 45 minecraft:quartz_bricks
+setblock -38 -58 35 minecraft:quartz_bricks
+setblock -38 -58 45 minecraft:quartz_bricks
+setblock -37 -58 35 minecraft:quartz_bricks
+setblock -37 -58 45 minecraft:quartz_bricks
+setblock -36 -58 35 minecraft:quartz_bricks
+setblock -36 -58 45 minecraft:quartz_bricks
+setblock -35 -58 35 minecraft:quartz_pillar
+setblock -35 -58 36 minecraft:quartz_bricks
+setblock -35 -58 37 minecraft:quartz_bricks
+setblock -35 -58 38 minecraft:quartz_bricks
+setblock -35 -58 39 minecraft:quartz_bricks
+setblock -35 -58 40 minecraft:quartz_bricks
+setblock -35 -58 41 minecraft:quartz_bricks
+setblock -35 -58 42 minecraft:quartz_bricks
+setblock -35 -58 43 minecraft:quartz_bricks
+setblock -35 -58 44 minecraft:quartz_bricks
+setblock -35 -58 45 minecraft:quartz_pillar
+setblock -45 -57 35 minecraft:quartz_pillar
+setblock -45 -57 36 minecraft:quartz_bricks
+setblock -45 -57 37 minecraft:quartz_bricks
+setblock -45 -57 38 minecraft:quartz_bricks
+setblock -45 -57 39 minecraft:quartz_bricks
+setblock -45 -57 40 minecraft:quartz_bricks
+setblock -45 -57 41 minecraft:quartz_bricks
+setblock -45 -57 42 minecraft:quartz_bricks
+setblock -45 -57 43 minecraft:quartz_bricks
+setblock -45 -57 44 minecraft:quartz_bricks
+setblock -45 -57 45 minecraft:quartz_pillar
+setblock -44 -57 35 minecraft:quartz_bricks
+setblock -44 -57 45 minecraft:quartz_bricks
+setblock -43 -57 35 minecraft:quartz_bricks
+setblock -43 -57 45 minecraft:quartz_bricks
+setblock -42 -57 35 minecraft:quartz_bricks
+setblock -42 -57 45 minecraft:quartz_bricks
+setblock -41 -57 35 minecraft:quartz_bricks
+setblock -41 -57 45 minecraft:quartz_bricks
+setblock -40 -57 35 minecraft:quartz_bricks
+setblock -40 -57 45 minecraft:quartz_bricks
+setblock -39 -57 35 minecraft:quartz_bricks
+setblock -39 -57 45 minecraft:quartz_bricks
+setblock -38 -57 35 minecraft:quartz_bricks
+setblock -38 -57 45 minecraft:quartz_bricks
+setblock -37 -57 35 minecraft:quartz_bricks
+setblock -37 -57 45 minecraft:quartz_bricks
+setblock -36 -57 35 minecraft:quartz_bricks
+setblock -36 -57 45 minecraft:quartz_bricks
+setblock -35 -57 35 minecraft:quartz_pillar
+setblock -35 -57 36 minecraft:quartz_bricks
+setblock -35 -57 37 minecraft:quartz_bricks
+setblock -35 -57 38 minecraft:quartz_bricks
+setblock -35 -57 39 minecraft:quartz_bricks
+setblock -35 -57 40 minecraft:quartz_bricks
+setblock -35 -57 41 minecraft:quartz_bricks
+setblock -35 -57 42 minecraft:quartz_bricks
+setblock -35 -57 43 minecraft:quartz_bricks
+setblock -35 -57 44 minecraft:quartz_bricks
+setblock -35 -57 45 minecraft:quartz_pillar
+setblock -45 -56 35 minecraft:quartz_pillar
+setblock -45 -56 36 minecraft:quartz_bricks
+setblock -45 -56 37 minecraft:quartz_bricks
+setblock -45 -56 38 minecraft:quartz_bricks
+setblock -45 -56 42 minecraft:quartz_bricks
+setblock -45 -56 43 minecraft:quartz_bricks
+setblock -45 -56 44 minecraft:quartz_bricks
+setblock -45 -56 45 minecraft:quartz_pillar
+setblock -44 -56 35 minecraft:quartz_bricks
+setblock -44 -56 45 minecraft:quartz_bricks
+setblock -43 -56 35 minecraft:quartz_bricks
+setblock -43 -56 45 minecraft:quartz_bricks
+setblock -42 -56 35 minecraft:quartz_bricks
+setblock -42 -56 45 minecraft:quartz_bricks
+setblock -38 -56 35 minecraft:quartz_bricks
+setblock -38 -56 45 minecraft:quartz_bricks
+setblock -37 -56 35 minecraft:quartz_bricks
+setblock -37 -56 45 minecraft:quartz_bricks
+setblock -36 -56 35 minecraft:quartz_bricks
+setblock -36 -56 45 minecraft:quartz_bricks
+setblock -35 -56 35 minecraft:quartz_pillar
+setblock -35 -56 36 minecraft:quartz_bricks
+setblock -35 -56 37 minecraft:quartz_bricks
+setblock -35 -56 38 minecraft:quartz_bricks
+setblock -35 -56 42 minecraft:quartz_bricks
+setblock -35 -56 43 minecraft:quartz_bricks
+setblock -35 -56 44 minecraft:quartz_bricks
+setblock -35 -56 45 minecraft:quartz_pillar
+setblock -45 -55 35 minecraft:quartz_pillar
+setblock -45 -55 36 minecraft:quartz_bricks
+setblock -45 -55 37 minecraft:quartz_bricks
+setblock -45 -55 38 minecraft:quartz_bricks
+setblock -45 -55 42 minecraft:quartz_bricks
+setblock -45 -55 43 minecraft:quartz_bricks
+setblock -45 -55 44 minecraft:quartz_bricks
+setblock -45 -55 45 minecraft:quartz_pillar
+setblock -44 -55 35 minecraft:quartz_bricks
+setblock -44 -55 45 minecraft:quartz_bricks
+setblock -43 -55 35 minecraft:quartz_bricks
+setblock -43 -55 45 minecraft:quartz_bricks
+setblock -42 -55 35 minecraft:quartz_bricks
+setblock -42 -55 45 minecraft:quartz_bricks
+setblock -38 -55 35 minecraft:quartz_bricks
+setblock -38 -55 45 minecraft:quartz_bricks
+setblock -37 -55 35 minecraft:quartz_bricks
+setblock -37 -55 45 minecraft:quartz_bricks
+setblock -36 -55 35 minecraft:quartz_bricks
+setblock -36 -55 45 minecraft:quartz_bricks
+setblock -35 -55 35 minecraft:quartz_pillar
+setblock -35 -55 36 minecraft:quartz_bricks
+setblock -35 -55 37 minecraft:quartz_bricks
+setblock -35 -55 38 minecraft:quartz_bricks
+setblock -35 -55 42 minecraft:quartz_bricks
+setblock -35 -55 43 minecraft:quartz_bricks
+setblock -35 -55 44 minecraft:quartz_bricks
+setblock -35 -55 45 minecraft:quartz_pillar
+setblock -45 -54 35 minecraft:quartz_pillar
+setblock -45 -54 36 minecraft:quartz_bricks
+setblock -45 -54 37 minecraft:quartz_bricks
+setblock -45 -54 38 minecraft:quartz_bricks
+setblock -45 -54 42 minecraft:quartz_bricks
+setblock -45 -54 43 minecraft:quartz_bricks
+setblock -45 -54 44 minecraft:quartz_bricks
+setblock -45 -54 45 minecraft:quartz_pillar
+setblock -44 -54 35 minecraft:quartz_bricks
+setblock -44 -54 45 minecraft:quartz_bricks
+setblock -43 -54 35 minecraft:quartz_bricks
+setblock -43 -54 45 minecraft:quartz_bricks
+setblock -42 -54 35 minecraft:quartz_bricks
+setblock -42 -54 45 minecraft:quartz_bricks
+setblock -38 -54 35 minecraft:quartz_bricks
+setblock -38 -54 45 minecraft:quartz_bricks
+setblock -37 -54 35 minecraft:quartz_bricks
+setblock -37 -54 45 minecraft:quartz_bricks
+setblock -36 -54 35 minecraft:quartz_bricks
+setblock -36 -54 45 minecraft:quartz_bricks
+setblock -35 -54 35 minecraft:quartz_pillar
+setblock -35 -54 36 minecraft:quartz_bricks
+setblock -35 -54 37 minecraft:quartz_bricks
+setblock -35 -54 38 minecraft:quartz_bricks
+setblock -35 -54 42 minecraft:quartz_bricks
+setblock -35 -54 43 minecraft:quartz_bricks
+setblock -35 -54 44 minecraft:quartz_bricks
+setblock -35 -54 45 minecraft:quartz_pillar
+setblock -45 -53 35 minecraft:quartz_pillar
+setblock -45 -53 36 minecraft:quartz_bricks
+setblock -45 -53 37 minecraft:quartz_bricks
+setblock -45 -53 38 minecraft:quartz_bricks
+setblock -45 -53 39 minecraft:quartz_bricks
+setblock -45 -53 40 minecraft:quartz_bricks
+setblock -45 -53 41 minecraft:quartz_bricks
+setblock -45 -53 42 minecraft:quartz_bricks
+setblock -45 -53 43 minecraft:quartz_bricks
+setblock -45 -53 44 minecraft:quartz_bricks
+setblock -45 -53 45 minecraft:quartz_pillar
+setblock -44 -53 35 minecraft:quartz_bricks
+setblock -44 -53 45 minecraft:quartz_bricks
+setblock -43 -53 35 minecraft:quartz_bricks
+setblock -43 -53 45 minecraft:quartz_bricks
+setblock -42 -53 35 minecraft:quartz_bricks
+setblock -42 -53 45 minecraft:quartz_bricks
+setblock -41 -53 35 minecraft:quartz_bricks
+setblock -41 -53 45 minecraft:quartz_bricks
+setblock -40 -53 35 minecraft:quartz_bricks
+setblock -40 -53 45 minecraft:quartz_bricks
+setblock -39 -53 35 minecraft:quartz_bricks
+setblock -39 -53 45 minecraft:quartz_bricks
+setblock -38 -53 35 minecraft:quartz_bricks
+setblock -38 -53 45 minecraft:quartz_bricks
+setblock -37 -53 35 minecraft:quartz_bricks
+setblock -37 -53 45 minecraft:quartz_bricks
+setblock -36 -53 35 minecraft:quartz_bricks
+setblock -36 -53 45 minecraft:quartz_bricks
+setblock -35 -53 35 minecraft:quartz_pillar
+setblock -35 -53 36 minecraft:quartz_bricks
+setblock -35 -53 37 minecraft:quartz_bricks
+setblock -35 -53 38 minecraft:quartz_bricks
+setblock -35 -53 39 minecraft:quartz_bricks
+setblock -35 -53 40 minecraft:quartz_bricks
+setblock -35 -53 41 minecraft:quartz_bricks
+setblock -35 -53 42 minecraft:quartz_bricks
+setblock -35 -53 43 minecraft:quartz_bricks
+setblock -35 -53 44 minecraft:quartz_bricks
+setblock -35 -53 45 minecraft:quartz_pillar
+setblock -45 -52 35 minecraft:quartz_pillar
+setblock -45 -52 36 minecraft:quartz_block
+setblock -45 -52 37 minecraft:quartz_block
+setblock -45 -52 38 minecraft:quartz_block
+setblock -45 -52 39 minecraft:quartz_block
+setblock -45 -52 40 minecraft:quartz_block
+setblock -45 -52 41 minecraft:quartz_block
+setblock -45 -52 42 minecraft:quartz_block
+setblock -45 -52 43 minecraft:quartz_block
+setblock -45 -52 44 minecraft:quartz_block
+setblock -45 -52 45 minecraft:quartz_pillar
+setblock -44 -52 35 minecraft:quartz_block
+setblock -44 -52 45 minecraft:quartz_block
+setblock -43 -52 35 minecraft:quartz_block
+setblock -43 -52 45 minecraft:quartz_block
+setblock -42 -52 35 minecraft:quartz_block
+setblock -42 -52 45 minecraft:quartz_block
+setblock -41 -52 35 minecraft:quartz_block
+setblock -41 -52 45 minecraft:quartz_block
+setblock -40 -52 35 minecraft:quartz_block
+setblock -40 -52 45 minecraft:quartz_block
+setblock -39 -52 35 minecraft:quartz_block
+setblock -39 -52 45 minecraft:quartz_block
+setblock -38 -52 35 minecraft:quartz_block
+setblock -38 -52 45 minecraft:quartz_block
+setblock -37 -52 35 minecraft:quartz_block
+setblock -37 -52 45 minecraft:quartz_block
+setblock -36 -52 35 minecraft:quartz_block
+setblock -36 -52 45 minecraft:quartz_block
+setblock -35 -52 35 minecraft:quartz_pillar
+setblock -35 -52 36 minecraft:quartz_block
+setblock -35 -52 37 minecraft:quartz_block
+setblock -35 -52 38 minecraft:quartz_block
+setblock -35 -52 39 minecraft:quartz_block
+setblock -35 -52 40 minecraft:quartz_block
+setblock -35 -52 41 minecraft:quartz_block
+setblock -35 -52 42 minecraft:quartz_block
+setblock -35 -52 43 minecraft:quartz_block
+setblock -35 -52 44 minecraft:quartz_block
+setblock -35 -52 45 minecraft:quartz_pillar
+setblock -45 -51 35 minecraft:quartz_pillar
+setblock -45 -51 36 minecraft:quartz_bricks
+setblock -45 -51 37 minecraft:quartz_bricks
+setblock -45 -51 38 minecraft:quartz_bricks
+setblock -45 -51 39 minecraft:quartz_bricks
+setblock -45 -51 40 minecraft:quartz_bricks
+setblock -45 -51 41 minecraft:quartz_bricks
+setblock -45 -51 42 minecraft:quartz_bricks
+setblock -45 -51 43 minecraft:quartz_bricks
+setblock -45 -51 44 minecraft:quartz_bricks
+setblock -45 -51 45 minecraft:quartz_pillar
+setblock -44 -51 35 minecraft:quartz_bricks
+setblock -44 -51 45 minecraft:quartz_bricks
+setblock -43 -51 35 minecraft:quartz_bricks
+setblock -43 -51 45 minecraft:quartz_bricks
+setblock -42 -51 35 minecraft:quartz_bricks
+setblock -42 -51 45 minecraft:quartz_bricks
+setblock -41 -51 35 minecraft:quartz_bricks
+setblock -41 -51 45 minecraft:quartz_bricks
+setblock -40 -51 35 minecraft:quartz_bricks
+setblock -40 -51 45 minecraft:quartz_bricks
+setblock -39 -51 35 minecraft:quartz_bricks
+setblock -39 -51 45 minecraft:quartz_bricks
+setblock -38 -51 35 minecraft:quartz_bricks
+setblock -38 -51 45 minecraft:quartz_bricks
+setblock -37 -51 35 minecraft:quartz_bricks
+setblock -37 -51 45 minecraft:quartz_bricks
+setblock -36 -51 35 minecraft:quartz_bricks
+setblock -36 -51 45 minecraft:quartz_bricks
+setblock -35 -51 35 minecraft:quartz_pillar
+setblock -35 -51 36 minecraft:quartz_bricks
+setblock -35 -51 37 minecraft:quartz_bricks
+setblock -35 -51 38 minecraft:quartz_bricks
+setblock -35 -51 39 minecraft:quartz_bricks
+setblock -35 -51 40 minecraft:quartz_bricks
+setblock -35 -51 41 minecraft:quartz_bricks
+setblock -35 -51 42 minecraft:quartz_bricks
+setblock -35 -51 43 minecraft:quartz_bricks
+setblock -35 -51 44 minecraft:quartz_bricks
+setblock -35 -51 45 minecraft:quartz_pillar
+setblock -45 -50 35 minecraft:quartz_pillar
+setblock -45 -50 36 minecraft:quartz_bricks
+setblock -45 -50 37 minecraft:quartz_bricks
+setblock -45 -50 38 minecraft:quartz_bricks
+setblock -45 -50 39 minecraft:quartz_bricks
+setblock -45 -50 40 minecraft:quartz_bricks
+setblock -45 -50 41 minecraft:quartz_bricks
+setblock -45 -50 42 minecraft:quartz_bricks
+setblock -45 -50 43 minecraft:quartz_bricks
+setblock -45 -50 44 minecraft:quartz_bricks
+setblock -45 -50 45 minecraft:quartz_pillar
+setblock -44 -50 35 minecraft:quartz_bricks
+setblock -44 -50 45 minecraft:quartz_bricks
+setblock -43 -50 35 minecraft:quartz_bricks
+setblock -43 -50 45 minecraft:quartz_bricks
+setblock -42 -50 35 minecraft:quartz_bricks
+setblock -42 -50 45 minecraft:quartz_bricks
+setblock -41 -50 35 minecraft:quartz_bricks
+setblock -41 -50 45 minecraft:quartz_bricks
+setblock -40 -50 35 minecraft:quartz_bricks
+setblock -40 -50 45 minecraft:quartz_bricks
+setblock -39 -50 35 minecraft:quartz_bricks
+setblock -39 -50 45 minecraft:quartz_bricks
+setblock -38 -50 35 minecraft:quartz_bricks
+setblock -38 -50 45 minecraft:quartz_bricks
+setblock -37 -50 35 minecraft:quartz_bricks
+setblock -37 -50 45 minecraft:quartz_bricks
+setblock -36 -50 35 minecraft:quartz_bricks
+setblock -36 -50 45 minecraft:quartz_bricks
+setblock -35 -50 35 minecraft:quartz_pillar
+setblock -35 -50 36 minecraft:quartz_bricks
+setblock -35 -50 37 minecraft:quartz_bricks
+setblock -35 -50 38 minecraft:quartz_bricks
+setblock -35 -50 39 minecraft:quartz_bricks
+setblock -35 -50 40 minecraft:quartz_bricks
+setblock -35 -50 41 minecraft:quartz_bricks
+setblock -35 -50 42 minecraft:quartz_bricks
+setblock -35 -50 43 minecraft:quartz_bricks
+setblock -35 -50 44 minecraft:quartz_bricks
+setblock -35 -50 45 minecraft:quartz_pillar
+setblock -45 -49 35 minecraft:quartz_pillar
+setblock -45 -49 36 minecraft:quartz_bricks
+setblock -45 -49 37 minecraft:quartz_bricks
+setblock -45 -49 38 minecraft:quartz_bricks
+setblock -45 -49 39 minecraft:quartz_bricks
+setblock -45 -49 40 minecraft:quartz_bricks
+setblock -45 -49 41 minecraft:quartz_bricks
+setblock -45 -49 42 minecraft:quartz_bricks
+setblock -45 -49 43 minecraft:quartz_bricks
+setblock -45 -49 44 minecraft:quartz_bricks
+setblock -45 -49 45 minecraft:quartz_pillar
+setblock -44 -49 35 minecraft:quartz_bricks
+setblock -44 -49 45 minecraft:quartz_bricks
+setblock -43 -49 35 minecraft:quartz_bricks
+setblock -43 -49 45 minecraft:quartz_bricks
+setblock -42 -49 35 minecraft:quartz_bricks
+setblock -42 -49 45 minecraft:quartz_bricks
+setblock -41 -49 35 minecraft:quartz_bricks
+setblock -41 -49 45 minecraft:quartz_bricks
+setblock -40 -49 35 minecraft:quartz_bricks
+setblock -40 -49 45 minecraft:quartz_bricks
+setblock -39 -49 35 minecraft:quartz_bricks
+setblock -39 -49 45 minecraft:quartz_bricks
+setblock -38 -49 35 minecraft:quartz_bricks
+setblock -38 -49 45 minecraft:quartz_bricks
+setblock -37 -49 35 minecraft:quartz_bricks
+setblock -37 -49 45 minecraft:quartz_bricks
+setblock -36 -49 35 minecraft:quartz_bricks
+setblock -36 -49 45 minecraft:quartz_bricks
+setblock -35 -49 35 minecraft:quartz_pillar
+setblock -35 -49 36 minecraft:quartz_bricks
+setblock -35 -49 37 minecraft:quartz_bricks
+setblock -35 -49 38 minecraft:quartz_bricks
+setblock -35 -49 39 minecraft:quartz_bricks
+setblock -35 -49 40 minecraft:quartz_bricks
+setblock -35 -49 41 minecraft:quartz_bricks
+setblock -35 -49 42 minecraft:quartz_bricks
+setblock -35 -49 43 minecraft:quartz_bricks
+setblock -35 -49 44 minecraft:quartz_bricks
+setblock -35 -49 45 minecraft:quartz_pillar
+setblock -45 -48 35 minecraft:quartz_pillar
+setblock -45 -48 36 minecraft:quartz_bricks
+setblock -45 -48 37 minecraft:quartz_bricks
+setblock -45 -48 38 minecraft:quartz_bricks
+setblock -45 -48 42 minecraft:quartz_bricks
+setblock -45 -48 43 minecraft:quartz_bricks
+setblock -45 -48 44 minecraft:quartz_bricks
+setblock -45 -48 45 minecraft:quartz_pillar
+setblock -44 -48 35 minecraft:quartz_bricks
+setblock -44 -48 45 minecraft:quartz_bricks
+setblock -43 -48 35 minecraft:quartz_bricks
+setblock -43 -48 45 minecraft:quartz_bricks
+setblock -42 -48 35 minecraft:quartz_bricks
+setblock -42 -48 45 minecraft:quartz_bricks
+setblock -38 -48 35 minecraft:quartz_bricks
+setblock -38 -48 45 minecraft:quartz_bricks
+setblock -37 -48 35 minecraft:quartz_bricks
+setblock -37 -48 45 minecraft:quartz_bricks
+setblock -36 -48 35 minecraft:quartz_bricks
+setblock -36 -48 45 minecraft:quartz_bricks
+setblock -35 -48 35 minecraft:quartz_pillar
+setblock -35 -48 36 minecraft:quartz_bricks
+setblock -35 -48 37 minecraft:quartz_bricks
+setblock -35 -48 38 minecraft:quartz_bricks
+setblock -35 -48 42 minecraft:quartz_bricks
+setblock -35 -48 43 minecraft:quartz_bricks
+setblock -35 -48 44 minecraft:quartz_bricks
+setblock -35 -48 45 minecraft:quartz_pillar
+setblock -45 -47 35 minecraft:quartz_pillar
+setblock -45 -47 36 minecraft:quartz_bricks
+setblock -45 -47 37 minecraft:quartz_bricks
+setblock -45 -47 38 minecraft:quartz_bricks
+setblock -45 -47 42 minecraft:quartz_bricks
+setblock -45 -47 43 minecraft:quartz_bricks
+setblock -45 -47 44 minecraft:quartz_bricks
+setblock -45 -47 45 minecraft:quartz_pillar
+setblock -44 -47 35 minecraft:quartz_bricks
+setblock -44 -47 45 minecraft:quartz_bricks
+setblock -43 -47 35 minecraft:quartz_bricks
+setblock -43 -47 45 minecraft:quartz_bricks
+setblock -42 -47 35 minecraft:quartz_bricks
+setblock -42 -47 45 minecraft:quartz_bricks
+setblock -38 -47 35 minecraft:quartz_bricks
+setblock -38 -47 45 minecraft:quartz_bricks
+setblock -37 -47 35 minecraft:quartz_bricks
+setblock -37 -47 45 minecraft:quartz_bricks
+setblock -36 -47 35 minecraft:quartz_bricks
+setblock -36 -47 45 minecraft:quartz_bricks
+setblock -35 -47 35 minecraft:quartz_pillar
+setblock -35 -47 36 minecraft:quartz_bricks
+setblock -35 -47 37 minecraft:quartz_bricks
+setblock -35 -47 38 minecraft:quartz_bricks
+setblock -35 -47 42 minecraft:quartz_bricks
+setblock -35 -47 43 minecraft:quartz_bricks
+setblock -35 -47 44 minecraft:quartz_bricks
+setblock -35 -47 45 minecraft:quartz_pillar
+setblock -45 -46 35 minecraft:quartz_pillar
+setblock -45 -46 36 minecraft:quartz_bricks
+setblock -45 -46 37 minecraft:quartz_bricks
+setblock -45 -46 38 minecraft:quartz_bricks
+setblock -45 -46 42 minecraft:quartz_bricks
+setblock -45 -46 43 minecraft:quartz_bricks
+setblock -45 -46 44 minecraft:quartz_bricks
+setblock -45 -46 45 minecraft:quartz_pillar
+setblock -44 -46 35 minecraft:quartz_bricks
+setblock -44 -46 45 minecraft:quartz_bricks
+setblock -43 -46 35 minecraft:quartz_bricks
+setblock -43 -46 45 minecraft:quartz_bricks
+setblock -42 -46 35 minecraft:quartz_bricks
+setblock -42 -46 45 minecraft:quartz_bricks
+setblock -38 -46 35 minecraft:quartz_bricks
+setblock -38 -46 45 minecraft:quartz_bricks
+setblock -37 -46 35 minecraft:quartz_bricks
+setblock -37 -46 45 minecraft:quartz_bricks
+setblock -36 -46 35 minecraft:quartz_bricks
+setblock -36 -46 45 minecraft:quartz_bricks
+setblock -35 -46 35 minecraft:quartz_pillar
+setblock -35 -46 36 minecraft:quartz_bricks
+setblock -35 -46 37 minecraft:quartz_bricks
+setblock -35 -46 38 minecraft:quartz_bricks
+setblock -35 -46 42 minecraft:quartz_bricks
+setblock -35 -46 43 minecraft:quartz_bricks
+setblock -35 -46 44 minecraft:quartz_bricks
+setblock -35 -46 45 minecraft:quartz_pillar
+setblock -45 -45 35 minecraft:quartz_pillar
+setblock -45 -45 36 minecraft:quartz_bricks
+setblock -45 -45 37 minecraft:quartz_bricks
+setblock -45 -45 38 minecraft:quartz_bricks
+setblock -45 -45 39 minecraft:quartz_bricks
+setblock -45 -45 40 minecraft:quartz_bricks
+setblock -45 -45 41 minecraft:quartz_bricks
+setblock -45 -45 42 minecraft:quartz_bricks
+setblock -45 -45 43 minecraft:quartz_bricks
+setblock -45 -45 44 minecraft:quartz_bricks
+setblock -45 -45 45 minecraft:quartz_pillar
+setblock -44 -45 35 minecraft:quartz_bricks
+setblock -44 -45 45 minecraft:quartz_bricks
+setblock -43 -45 35 minecraft:quartz_bricks
+setblock -43 -45 45 minecraft:quartz_bricks
+setblock -42 -45 35 minecraft:quartz_bricks
+setblock -42 -45 45 minecraft:quartz_bricks
+setblock -41 -45 35 minecraft:quartz_bricks
+setblock -41 -45 45 minecraft:quartz_bricks
+setblock -40 -45 35 minecraft:quartz_bricks
+setblock -40 -45 45 minecraft:quartz_bricks
+setblock -39 -45 35 minecraft:quartz_bricks
+setblock -39 -45 45 minecraft:quartz_bricks
+setblock -38 -45 35 minecraft:quartz_bricks
+setblock -38 -45 45 minecraft:quartz_bricks
+setblock -37 -45 35 minecraft:quartz_bricks
+setblock -37 -45 45 minecraft:quartz_bricks
+setblock -36 -45 35 minecraft:quartz_bricks
+setblock -36 -45 45 minecraft:quartz_bricks
+setblock -35 -45 35 minecraft:quartz_pillar
+setblock -35 -45 36 minecraft:quartz_bricks
+setblock -35 -45 37 minecraft:quartz_bricks
+setblock -35 -45 38 minecraft:quartz_bricks
+setblock -35 -45 39 minecraft:quartz_bricks
+setblock -35 -45 40 minecraft:quartz_bricks
+setblock -35 -45 41 minecraft:quartz_bricks
+setblock -35 -45 42 minecraft:quartz_bricks
+setblock -35 -45 43 minecraft:quartz_bricks
+setblock -35 -45 44 minecraft:quartz_bricks
+setblock -35 -45 45 minecraft:quartz_pillar
+setblock -45 -44 35 minecraft:quartz_pillar
+setblock -45 -44 36 minecraft:quartz_block
+setblock -45 -44 37 minecraft:quartz_block
+setblock -45 -44 38 minecraft:quartz_block
+setblock -45 -44 39 minecraft:quartz_block
+setblock -45 -44 40 minecraft:quartz_block
+setblock -45 -44 41 minecraft:quartz_block
+setblock -45 -44 42 minecraft:quartz_block
+setblock -45 -44 43 minecraft:quartz_block
+setblock -45 -44 44 minecraft:quartz_block
+setblock -45 -44 45 minecraft:quartz_pillar
+setblock -44 -44 35 minecraft:quartz_block
+setblock -44 -44 45 minecraft:quartz_block
+setblock -43 -44 35 minecraft:quartz_block
+setblock -43 -44 45 minecraft:quartz_block
+setblock -42 -44 35 minecraft:quartz_block
+setblock -42 -44 45 minecraft:quartz_block
+setblock -41 -44 35 minecraft:quartz_block
+setblock -41 -44 45 minecraft:quartz_block
+setblock -40 -44 35 minecraft:quartz_block
+setblock -40 -44 45 minecraft:quartz_block
+setblock -39 -44 35 minecraft:quartz_block
+setblock -39 -44 45 minecraft:quartz_block
+setblock -38 -44 35 minecraft:quartz_block
+setblock -38 -44 45 minecraft:quartz_block
+setblock -37 -44 35 minecraft:quartz_block
+setblock -37 -44 45 minecraft:quartz_block
+setblock -36 -44 35 minecraft:quartz_block
+setblock -36 -44 45 minecraft:quartz_block
+setblock -35 -44 35 minecraft:quartz_pillar
+setblock -35 -44 36 minecraft:quartz_block
+setblock -35 -44 37 minecraft:quartz_block
+setblock -35 -44 38 minecraft:quartz_block
+setblock -35 -44 39 minecraft:quartz_block
+setblock -35 -44 40 minecraft:quartz_block
+setblock -35 -44 41 minecraft:quartz_block
+setblock -35 -44 42 minecraft:quartz_block
+setblock -35 -44 43 minecraft:quartz_block
+setblock -35 -44 44 minecraft:quartz_block
+setblock -35 -44 45 minecraft:quartz_pillar
+setblock -45 -43 35 minecraft:quartz_pillar
+setblock -45 -43 36 minecraft:quartz_bricks
+setblock -45 -43 37 minecraft:quartz_bricks
+setblock -45 -43 38 minecraft:quartz_bricks
+setblock -45 -43 39 minecraft:quartz_bricks
+setblock -45 -43 40 minecraft:quartz_bricks
+setblock -45 -43 41 minecraft:quartz_bricks
+setblock -45 -43 42 minecraft:quartz_bricks
+setblock -45 -43 43 minecraft:quartz_bricks
+setblock -45 -43 44 minecraft:quartz_bricks
+setblock -45 -43 45 minecraft:quartz_pillar
+setblock -44 -43 35 minecraft:quartz_bricks
+setblock -44 -43 45 minecraft:quartz_bricks
+setblock -43 -43 35 minecraft:quartz_bricks
+setblock -43 -43 45 minecraft:quartz_bricks
+setblock -42 -43 35 minecraft:quartz_bricks
+setblock -42 -43 45 minecraft:quartz_bricks
+setblock -41 -43 35 minecraft:quartz_bricks
+setblock -41 -43 45 minecraft:quartz_bricks
+setblock -40 -43 35 minecraft:quartz_bricks
+setblock -40 -43 45 minecraft:quartz_bricks
+setblock -39 -43 35 minecraft:quartz_bricks
+setblock -39 -43 45 minecraft:quartz_bricks
+setblock -38 -43 35 minecraft:quartz_bricks
+setblock -38 -43 45 minecraft:quartz_bricks
+setblock -37 -43 35 minecraft:quartz_bricks
+setblock -37 -43 45 minecraft:quartz_bricks
+setblock -36 -43 35 minecraft:quartz_bricks
+setblock -36 -43 45 minecraft:quartz_bricks
+setblock -35 -43 35 minecraft:quartz_pillar
+setblock -35 -43 36 minecraft:quartz_bricks
+setblock -35 -43 37 minecraft:quartz_bricks
+setblock -35 -43 38 minecraft:quartz_bricks
+setblock -35 -43 39 minecraft:quartz_bricks
+setblock -35 -43 40 minecraft:quartz_bricks
+setblock -35 -43 41 minecraft:quartz_bricks
+setblock -35 -43 42 minecraft:quartz_bricks
+setblock -35 -43 43 minecraft:quartz_bricks
+setblock -35 -43 44 minecraft:quartz_bricks
+setblock -35 -43 45 minecraft:quartz_pillar
+setblock -45 -42 35 minecraft:quartz_pillar
+setblock -45 -42 36 minecraft:quartz_bricks
+setblock -45 -42 37 minecraft:quartz_bricks
+setblock -45 -42 38 minecraft:quartz_bricks
+setblock -45 -42 39 minecraft:quartz_bricks
+setblock -45 -42 40 minecraft:quartz_bricks
+setblock -45 -42 41 minecraft:quartz_bricks
+setblock -45 -42 42 minecraft:quartz_bricks
+setblock -45 -42 43 minecraft:quartz_bricks
+setblock -45 -42 44 minecraft:quartz_bricks
+setblock -45 -42 45 minecraft:quartz_pillar
+setblock -44 -42 35 minecraft:quartz_bricks
+setblock -44 -42 45 minecraft:quartz_bricks
+setblock -43 -42 35 minecraft:quartz_bricks
+setblock -43 -42 45 minecraft:quartz_bricks
+setblock -42 -42 35 minecraft:quartz_bricks
+setblock -42 -42 45 minecraft:quartz_bricks
+setblock -41 -42 35 minecraft:quartz_bricks
+setblock -41 -42 45 minecraft:quartz_bricks
+setblock -40 -42 35 minecraft:quartz_bricks
+setblock -40 -42 45 minecraft:quartz_bricks
+setblock -39 -42 35 minecraft:quartz_bricks
+setblock -39 -42 45 minecraft:quartz_bricks
+setblock -38 -42 35 minecraft:quartz_bricks
+setblock -38 -42 45 minecraft:quartz_bricks
+setblock -37 -42 35 minecraft:quartz_bricks
+setblock -37 -42 45 minecraft:quartz_bricks
+setblock -36 -42 35 minecraft:quartz_bricks
+setblock -36 -42 45 minecraft:quartz_bricks
+setblock -35 -42 35 minecraft:quartz_pillar
+setblock -35 -42 36 minecraft:quartz_bricks
+setblock -35 -42 37 minecraft:quartz_bricks
+setblock -35 -42 38 minecraft:quartz_bricks
+setblock -35 -42 39 minecraft:quartz_bricks
+setblock -35 -42 40 minecraft:quartz_bricks
+setblock -35 -42 41 minecraft:quartz_bricks
+setblock -35 -42 42 minecraft:quartz_bricks
+setblock -35 -42 43 minecraft:quartz_bricks
+setblock -35 -42 44 minecraft:quartz_bricks
+setblock -35 -42 45 minecraft:quartz_pillar
+setblock -45 -41 35 minecraft:quartz_pillar
+setblock -45 -41 36 minecraft:quartz_bricks
+setblock -45 -41 37 minecraft:quartz_bricks
+setblock -45 -41 38 minecraft:quartz_bricks
+setblock -45 -41 39 minecraft:quartz_bricks
+setblock -45 -41 40 minecraft:quartz_bricks
+setblock -45 -41 41 minecraft:quartz_bricks
+setblock -45 -41 42 minecraft:quartz_bricks
+setblock -45 -41 43 minecraft:quartz_bricks
+setblock -45 -41 44 minecraft:quartz_bricks
+setblock -45 -41 45 minecraft:quartz_pillar
+setblock -44 -41 35 minecraft:quartz_bricks
+setblock -44 -41 45 minecraft:quartz_bricks
+setblock -43 -41 35 minecraft:quartz_bricks
+setblock -43 -41 45 minecraft:quartz_bricks
+setblock -42 -41 35 minecraft:quartz_bricks
+setblock -42 -41 45 minecraft:quartz_bricks
+setblock -41 -41 35 minecraft:quartz_bricks
+setblock -41 -41 45 minecraft:quartz_bricks
+setblock -40 -41 35 minecraft:quartz_bricks
+setblock -40 -41 45 minecraft:quartz_bricks
+setblock -39 -41 35 minecraft:quartz_bricks
+setblock -39 -41 45 minecraft:quartz_bricks
+setblock -38 -41 35 minecraft:quartz_bricks
+setblock -38 -41 45 minecraft:quartz_bricks
+setblock -37 -41 35 minecraft:quartz_bricks
+setblock -37 -41 45 minecraft:quartz_bricks
+setblock -36 -41 35 minecraft:quartz_bricks
+setblock -36 -41 45 minecraft:quartz_bricks
+setblock -35 -41 35 minecraft:quartz_pillar
+setblock -35 -41 36 minecraft:quartz_bricks
+setblock -35 -41 37 minecraft:quartz_bricks
+setblock -35 -41 38 minecraft:quartz_bricks
+setblock -35 -41 39 minecraft:quartz_bricks
+setblock -35 -41 40 minecraft:quartz_bricks
+setblock -35 -41 41 minecraft:quartz_bricks
+setblock -35 -41 42 minecraft:quartz_bricks
+setblock -35 -41 43 minecraft:quartz_bricks
+setblock -35 -41 44 minecraft:quartz_bricks
+setblock -35 -41 45 minecraft:quartz_pillar
+setblock -45 -40 35 minecraft:quartz_pillar
+setblock -45 -40 36 minecraft:quartz_bricks
+setblock -45 -40 37 minecraft:quartz_bricks
+setblock -45 -40 38 minecraft:quartz_bricks
+setblock -45 -40 42 minecraft:quartz_bricks
+setblock -45 -40 43 minecraft:quartz_bricks
+setblock -45 -40 44 minecraft:quartz_bricks
+setblock -45 -40 45 minecraft:quartz_pillar
+setblock -44 -40 35 minecraft:quartz_bricks
+setblock -44 -40 45 minecraft:quartz_bricks
+setblock -43 -40 35 minecraft:quartz_bricks
+setblock -43 -40 45 minecraft:quartz_bricks
+setblock -42 -40 35 minecraft:quartz_bricks
+setblock -42 -40 45 minecraft:quartz_bricks
+setblock -38 -40 35 minecraft:quartz_bricks
+setblock -38 -40 45 minecraft:quartz_bricks
+setblock -37 -40 35 minecraft:quartz_bricks
+setblock -37 -40 45 minecraft:quartz_bricks
+setblock -36 -40 35 minecraft:quartz_bricks
+setblock -36 -40 45 minecraft:quartz_bricks
+setblock -35 -40 35 minecraft:quartz_pillar
+setblock -35 -40 36 minecraft:quartz_bricks
+setblock -35 -40 37 minecraft:quartz_bricks
+setblock -35 -40 38 minecraft:quartz_bricks
+setblock -35 -40 42 minecraft:quartz_bricks
+setblock -35 -40 43 minecraft:quartz_bricks
+setblock -35 -40 44 minecraft:quartz_bricks
+setblock -35 -40 45 minecraft:quartz_pillar
+setblock -45 -39 35 minecraft:quartz_pillar
+setblock -45 -39 36 minecraft:quartz_bricks
+setblock -45 -39 37 minecraft:quartz_bricks
+setblock -45 -39 38 minecraft:quartz_bricks
+setblock -45 -39 42 minecraft:quartz_bricks
+setblock -45 -39 43 minecraft:quartz_bricks
+setblock -45 -39 44 minecraft:quartz_bricks
+setblock -45 -39 45 minecraft:quartz_pillar
+setblock -44 -39 35 minecraft:quartz_bricks
+setblock -44 -39 45 minecraft:quartz_bricks
+setblock -43 -39 35 minecraft:quartz_bricks
+setblock -43 -39 45 minecraft:quartz_bricks
+setblock -42 -39 35 minecraft:quartz_bricks
+setblock -42 -39 45 minecraft:quartz_bricks
+setblock -38 -39 35 minecraft:quartz_bricks
+setblock -38 -39 45 minecraft:quartz_bricks
+setblock -37 -39 35 minecraft:quartz_bricks
+setblock -37 -39 45 minecraft:quartz_bricks
+setblock -36 -39 35 minecraft:quartz_bricks
+setblock -36 -39 45 minecraft:quartz_bricks
+setblock -35 -39 35 minecraft:quartz_pillar
+setblock -35 -39 36 minecraft:quartz_bricks
+setblock -35 -39 37 minecraft:quartz_bricks
+setblock -35 -39 38 minecraft:quartz_bricks
+setblock -35 -39 42 minecraft:quartz_bricks
+setblock -35 -39 43 minecraft:quartz_bricks
+setblock -35 -39 44 minecraft:quartz_bricks
+setblock -35 -39 45 minecraft:quartz_pillar
+setblock -45 -38 35 minecraft:quartz_pillar
+setblock -45 -38 36 minecraft:quartz_bricks
+setblock -45 -38 37 minecraft:quartz_bricks
+setblock -45 -38 38 minecraft:quartz_bricks
+setblock -45 -38 42 minecraft:quartz_bricks
+setblock -45 -38 43 minecraft:quartz_bricks
+setblock -45 -38 44 minecraft:quartz_bricks
+setblock -45 -38 45 minecraft:quartz_pillar
+setblock -44 -38 35 minecraft:quartz_bricks
+setblock -44 -38 45 minecraft:quartz_bricks
+setblock -43 -38 35 minecraft:quartz_bricks
+setblock -43 -38 45 minecraft:quartz_bricks
+setblock -42 -38 35 minecraft:quartz_bricks
+setblock -42 -38 45 minecraft:quartz_bricks
+setblock -38 -38 35 minecraft:quartz_bricks
+setblock -38 -38 45 minecraft:quartz_bricks
+setblock -37 -38 35 minecraft:quartz_bricks
+setblock -37 -38 45 minecraft:quartz_bricks
+setblock -36 -38 35 minecraft:quartz_bricks
+setblock -36 -38 45 minecraft:quartz_bricks
+setblock -35 -38 35 minecraft:quartz_pillar
+setblock -35 -38 36 minecraft:quartz_bricks
+setblock -35 -38 37 minecraft:quartz_bricks
+setblock -35 -38 38 minecraft:quartz_bricks
+setblock -35 -38 42 minecraft:quartz_bricks
+setblock -35 -38 43 minecraft:quartz_bricks
+setblock -35 -38 44 minecraft:quartz_bricks
+setblock -35 -38 45 minecraft:quartz_pillar
+setblock -45 -37 35 minecraft:quartz_pillar
+setblock -45 -37 36 minecraft:quartz_bricks
+setblock -45 -37 37 minecraft:quartz_bricks
+setblock -45 -37 38 minecraft:quartz_bricks
+setblock -45 -37 39 minecraft:quartz_bricks
+setblock -45 -37 40 minecraft:quartz_bricks
+setblock -45 -37 41 minecraft:quartz_bricks
+setblock -45 -37 42 minecraft:quartz_bricks
+setblock -45 -37 43 minecraft:quartz_bricks
+setblock -45 -37 44 minecraft:quartz_bricks
+setblock -45 -37 45 minecraft:quartz_pillar
+setblock -44 -37 35 minecraft:quartz_bricks
+setblock -44 -37 45 minecraft:quartz_bricks
+setblock -43 -37 35 minecraft:quartz_bricks
+setblock -43 -37 45 minecraft:quartz_bricks
+setblock -42 -37 35 minecraft:quartz_bricks
+setblock -42 -37 45 minecraft:quartz_bricks
+setblock -41 -37 35 minecraft:quartz_bricks
+setblock -41 -37 45 minecraft:quartz_bricks
+setblock -40 -37 35 minecraft:quartz_bricks
+setblock -40 -37 45 minecraft:quartz_bricks
+setblock -39 -37 35 minecraft:quartz_bricks
+setblock -39 -37 45 minecraft:quartz_bricks
+setblock -38 -37 35 minecraft:quartz_bricks
+setblock -38 -37 45 minecraft:quartz_bricks
+setblock -37 -37 35 minecraft:quartz_bricks
+setblock -37 -37 45 minecraft:quartz_bricks
+setblock -36 -37 35 minecraft:quartz_bricks
+setblock -36 -37 45 minecraft:quartz_bricks
+setblock -35 -37 35 minecraft:quartz_pillar
+setblock -35 -37 36 minecraft:quartz_bricks
+setblock -35 -37 37 minecraft:quartz_bricks
+setblock -35 -37 38 minecraft:quartz_bricks
+setblock -35 -37 39 minecraft:quartz_bricks
+setblock -35 -37 40 minecraft:quartz_bricks
+setblock -35 -37 41 minecraft:quartz_bricks
+setblock -35 -37 42 minecraft:quartz_bricks
+setblock -35 -37 43 minecraft:quartz_bricks
+setblock -35 -37 44 minecraft:quartz_bricks
+setblock -35 -37 45 minecraft:quartz_pillar
+setblock -45 -36 35 minecraft:quartz_pillar
+setblock -45 -36 36 minecraft:quartz_block
+setblock -45 -36 37 minecraft:quartz_block
+setblock -45 -36 38 minecraft:quartz_block
+setblock -45 -36 39 minecraft:quartz_block
+setblock -45 -36 40 minecraft:quartz_block
+setblock -45 -36 41 minecraft:quartz_block
+setblock -45 -36 42 minecraft:quartz_block
+setblock -45 -36 43 minecraft:quartz_block
+setblock -45 -36 44 minecraft:quartz_block
+setblock -45 -36 45 minecraft:quartz_pillar
+setblock -44 -36 35 minecraft:quartz_block
+setblock -44 -36 45 minecraft:quartz_block
+setblock -43 -36 35 minecraft:quartz_block
+setblock -43 -36 45 minecraft:quartz_block
+setblock -42 -36 35 minecraft:quartz_block
+setblock -42 -36 45 minecraft:quartz_block
+setblock -41 -36 35 minecraft:quartz_block
+setblock -41 -36 45 minecraft:quartz_block
+setblock -40 -36 35 minecraft:quartz_block
+setblock -40 -36 45 minecraft:quartz_block
+setblock -39 -36 35 minecraft:quartz_block
+setblock -39 -36 45 minecraft:quartz_block
+setblock -38 -36 35 minecraft:quartz_block
+setblock -38 -36 45 minecraft:quartz_block
+setblock -37 -36 35 minecraft:quartz_block
+setblock -37 -36 45 minecraft:quartz_block
+setblock -36 -36 35 minecraft:quartz_block
+setblock -36 -36 45 minecraft:quartz_block
+setblock -35 -36 35 minecraft:quartz_pillar
+setblock -35 -36 36 minecraft:quartz_block
+setblock -35 -36 37 minecraft:quartz_block
+setblock -35 -36 38 minecraft:quartz_block
+setblock -35 -36 39 minecraft:quartz_block
+setblock -35 -36 40 minecraft:quartz_block
+setblock -35 -36 41 minecraft:quartz_block
+setblock -35 -36 42 minecraft:quartz_block
+setblock -35 -36 43 minecraft:quartz_block
+setblock -35 -36 44 minecraft:quartz_block
+setblock -35 -36 45 minecraft:quartz_pillar
+setblock -45 -35 35 minecraft:quartz_pillar
+setblock -45 -35 36 minecraft:quartz_bricks
+setblock -45 -35 37 minecraft:quartz_bricks
+setblock -45 -35 38 minecraft:quartz_bricks
+setblock -45 -35 39 minecraft:quartz_bricks
+setblock -45 -35 40 minecraft:quartz_bricks
+setblock -45 -35 41 minecraft:quartz_bricks
+setblock -45 -35 42 minecraft:quartz_bricks
+setblock -45 -35 43 minecraft:quartz_bricks
+setblock -45 -35 44 minecraft:quartz_bricks
+setblock -45 -35 45 minecraft:quartz_pillar
+setblock -44 -35 35 minecraft:quartz_bricks
+setblock -44 -35 45 minecraft:quartz_bricks
+setblock -43 -35 35 minecraft:quartz_bricks
+setblock -43 -35 45 minecraft:quartz_bricks
+setblock -42 -35 35 minecraft:quartz_bricks
+setblock -42 -35 45 minecraft:quartz_bricks
+setblock -41 -35 35 minecraft:quartz_bricks
+setblock -41 -35 45 minecraft:quartz_bricks
+setblock -40 -35 35 minecraft:quartz_bricks
+setblock -40 -35 45 minecraft:quartz_bricks
+setblock -39 -35 35 minecraft:quartz_bricks
+setblock -39 -35 45 minecraft:quartz_bricks
+setblock -38 -35 35 minecraft:quartz_bricks
+setblock -38 -35 45 minecraft:quartz_bricks
+setblock -37 -35 35 minecraft:quartz_bricks
+setblock -37 -35 45 minecraft:quartz_bricks
+setblock -36 -35 35 minecraft:quartz_bricks
+setblock -36 -35 45 minecraft:quartz_bricks
+setblock -35 -35 35 minecraft:quartz_pillar
+setblock -35 -35 36 minecraft:quartz_bricks
+setblock -35 -35 37 minecraft:quartz_bricks
+setblock -35 -35 38 minecraft:quartz_bricks
+setblock -35 -35 39 minecraft:quartz_bricks
+setblock -35 -35 40 minecraft:quartz_bricks
+setblock -35 -35 41 minecraft:quartz_bricks
+setblock -35 -35 42 minecraft:quartz_bricks
+setblock -35 -35 43 minecraft:quartz_bricks
+setblock -35 -35 44 minecraft:quartz_bricks
+setblock -35 -35 45 minecraft:quartz_pillar
+setblock -45 -34 35 minecraft:quartz_pillar
+setblock -45 -34 36 minecraft:quartz_bricks
+setblock -45 -34 37 minecraft:quartz_bricks
+setblock -45 -34 38 minecraft:quartz_bricks
+setblock -45 -34 39 minecraft:quartz_bricks
+setblock -45 -34 40 minecraft:quartz_bricks
+setblock -45 -34 41 minecraft:quartz_bricks
+setblock -45 -34 42 minecraft:quartz_bricks
+setblock -45 -34 43 minecraft:quartz_bricks
+setblock -45 -34 44 minecraft:quartz_bricks
+setblock -45 -34 45 minecraft:quartz_pillar
+setblock -44 -34 35 minecraft:quartz_bricks
+setblock -44 -34 45 minecraft:quartz_bricks
+setblock -43 -34 35 minecraft:quartz_bricks
+setblock -43 -34 45 minecraft:quartz_bricks
+setblock -42 -34 35 minecraft:quartz_bricks
+setblock -42 -34 45 minecraft:quartz_bricks
+setblock -41 -34 35 minecraft:quartz_bricks
+setblock -41 -34 45 minecraft:quartz_bricks
+setblock -40 -34 35 minecraft:quartz_bricks
+setblock -40 -34 45 minecraft:quartz_bricks
+setblock -39 -34 35 minecraft:quartz_bricks
+setblock -39 -34 45 minecraft:quartz_bricks
+setblock -38 -34 35 minecraft:quartz_bricks
+setblock -38 -34 45 minecraft:quartz_bricks
+setblock -37 -34 35 minecraft:quartz_bricks
+setblock -37 -34 45 minecraft:quartz_bricks
+setblock -36 -34 35 minecraft:quartz_bricks
+setblock -36 -34 45 minecraft:quartz_bricks
+setblock -35 -34 35 minecraft:quartz_pillar
+setblock -35 -34 36 minecraft:quartz_bricks
+setblock -35 -34 37 minecraft:quartz_bricks
+setblock -35 -34 38 minecraft:quartz_bricks
+setblock -35 -34 39 minecraft:quartz_bricks
+setblock -35 -34 40 minecraft:quartz_bricks
+setblock -35 -34 41 minecraft:quartz_bricks
+setblock -35 -34 42 minecraft:quartz_bricks
+setblock -35 -34 43 minecraft:quartz_bricks
+setblock -35 -34 44 minecraft:quartz_bricks
+setblock -35 -34 45 minecraft:quartz_pillar
+setblock -45 -33 35 minecraft:quartz_pillar
+setblock -45 -33 36 minecraft:quartz_bricks
+setblock -45 -33 37 minecraft:quartz_bricks
+setblock -45 -33 38 minecraft:quartz_bricks
+setblock -45 -33 39 minecraft:quartz_bricks
+setblock -45 -33 40 minecraft:quartz_bricks
+setblock -45 -33 41 minecraft:quartz_bricks
+setblock -45 -33 42 minecraft:quartz_bricks
+setblock -45 -33 43 minecraft:quartz_bricks
+setblock -45 -33 44 minecraft:quartz_bricks
+setblock -45 -33 45 minecraft:quartz_pillar
+setblock -44 -33 35 minecraft:quartz_bricks
+setblock -44 -33 45 minecraft:quartz_bricks
+setblock -43 -33 35 minecraft:quartz_bricks
+setblock -43 -33 45 minecraft:quartz_bricks
+setblock -42 -33 35 minecraft:quartz_bricks
+setblock -42 -33 45 minecraft:quartz_bricks
+setblock -41 -33 35 minecraft:quartz_bricks
+setblock -41 -33 45 minecraft:quartz_bricks
+setblock -40 -33 35 minecraft:quartz_bricks
+setblock -40 -33 45 minecraft:quartz_bricks
+setblock -39 -33 35 minecraft:quartz_bricks
+setblock -39 -33 45 minecraft:quartz_bricks
+setblock -38 -33 35 minecraft:quartz_bricks
+setblock -38 -33 45 minecraft:quartz_bricks
+setblock -37 -33 35 minecraft:quartz_bricks
+setblock -37 -33 45 minecraft:quartz_bricks
+setblock -36 -33 35 minecraft:quartz_bricks
+setblock -36 -33 45 minecraft:quartz_bricks
+setblock -35 -33 35 minecraft:quartz_pillar
+setblock -35 -33 36 minecraft:quartz_bricks
+setblock -35 -33 37 minecraft:quartz_bricks
+setblock -35 -33 38 minecraft:quartz_bricks
+setblock -35 -33 39 minecraft:quartz_bricks
+setblock -35 -33 40 minecraft:quartz_bricks
+setblock -35 -33 41 minecraft:quartz_bricks
+setblock -35 -33 42 minecraft:quartz_bricks
+setblock -35 -33 43 minecraft:quartz_bricks
+setblock -35 -33 44 minecraft:quartz_bricks
+setblock -35 -33 45 minecraft:quartz_pillar
+setblock -45 -32 35 minecraft:quartz_pillar
+setblock -45 -32 36 minecraft:quartz_bricks
+setblock -45 -32 37 minecraft:quartz_bricks
+setblock -45 -32 38 minecraft:quartz_bricks
+setblock -45 -32 42 minecraft:quartz_bricks
+setblock -45 -32 43 minecraft:quartz_bricks
+setblock -45 -32 44 minecraft:quartz_bricks
+setblock -45 -32 45 minecraft:quartz_pillar
+setblock -44 -32 35 minecraft:quartz_bricks
+setblock -44 -32 45 minecraft:quartz_bricks
+setblock -43 -32 35 minecraft:quartz_bricks
+setblock -43 -32 45 minecraft:quartz_bricks
+setblock -42 -32 35 minecraft:quartz_bricks
+setblock -42 -32 45 minecraft:quartz_bricks
+setblock -38 -32 35 minecraft:quartz_bricks
+setblock -38 -32 45 minecraft:quartz_bricks
+setblock -37 -32 35 minecraft:quartz_bricks
+setblock -37 -32 45 minecraft:quartz_bricks
+setblock -36 -32 35 minecraft:quartz_bricks
+setblock -36 -32 45 minecraft:quartz_bricks
+setblock -35 -32 35 minecraft:quartz_pillar
+setblock -35 -32 36 minecraft:quartz_bricks
+setblock -35 -32 37 minecraft:quartz_bricks
+setblock -35 -32 38 minecraft:quartz_bricks
+setblock -35 -32 42 minecraft:quartz_bricks
+setblock -35 -32 43 minecraft:quartz_bricks
+setblock -35 -32 44 minecraft:quartz_bricks
+setblock -35 -32 45 minecraft:quartz_pillar
+setblock -45 -31 35 minecraft:quartz_pillar
+setblock -45 -31 36 minecraft:quartz_bricks
+setblock -45 -31 37 minecraft:quartz_bricks
+setblock -45 -31 38 minecraft:quartz_bricks
+setblock -45 -31 42 minecraft:quartz_bricks
+setblock -45 -31 43 minecraft:quartz_bricks
+setblock -45 -31 44 minecraft:quartz_bricks
+setblock -45 -31 45 minecraft:quartz_pillar
+setblock -44 -31 35 minecraft:quartz_bricks
+setblock -44 -31 45 minecraft:quartz_bricks
+setblock -43 -31 35 minecraft:quartz_bricks
+setblock -43 -31 45 minecraft:quartz_bricks
+setblock -42 -31 35 minecraft:quartz_bricks
+setblock -42 -31 45 minecraft:quartz_bricks
+setblock -38 -31 35 minecraft:quartz_bricks
+setblock -38 -31 45 minecraft:quartz_bricks
+setblock -37 -31 35 minecraft:quartz_bricks
+setblock -37 -31 45 minecraft:quartz_bricks
+setblock -36 -31 35 minecraft:quartz_bricks
+setblock -36 -31 45 minecraft:quartz_bricks
+setblock -35 -31 35 minecraft:quartz_pillar
+setblock -35 -31 36 minecraft:quartz_bricks
+setblock -35 -31 37 minecraft:quartz_bricks
+setblock -35 -31 38 minecraft:quartz_bricks
+setblock -35 -31 42 minecraft:quartz_bricks
+setblock -35 -31 43 minecraft:quartz_bricks
+setblock -35 -31 44 minecraft:quartz_bricks
+setblock -35 -31 45 minecraft:quartz_pillar
+setblock -45 -30 35 minecraft:quartz_pillar
+setblock -45 -30 36 minecraft:quartz_bricks
+setblock -45 -30 37 minecraft:quartz_bricks
+setblock -45 -30 38 minecraft:quartz_bricks
+setblock -45 -30 42 minecraft:quartz_bricks
+setblock -45 -30 43 minecraft:quartz_bricks
+setblock -45 -30 44 minecraft:quartz_bricks
+setblock -45 -30 45 minecraft:quartz_pillar
+setblock -44 -30 35 minecraft:quartz_bricks
+setblock -44 -30 45 minecraft:quartz_bricks
+setblock -43 -30 35 minecraft:quartz_bricks
+setblock -43 -30 45 minecraft:quartz_bricks
+setblock -42 -30 35 minecraft:quartz_bricks
+setblock -42 -30 45 minecraft:quartz_bricks
+setblock -38 -30 35 minecraft:quartz_bricks
+setblock -38 -30 45 minecraft:quartz_bricks
+setblock -37 -30 35 minecraft:quartz_bricks
+setblock -37 -30 45 minecraft:quartz_bricks
+setblock -36 -30 35 minecraft:quartz_bricks
+setblock -36 -30 45 minecraft:quartz_bricks
+setblock -35 -30 35 minecraft:quartz_pillar
+setblock -35 -30 36 minecraft:quartz_bricks
+setblock -35 -30 37 minecraft:quartz_bricks
+setblock -35 -30 38 minecraft:quartz_bricks
+setblock -35 -30 42 minecraft:quartz_bricks
+setblock -35 -30 43 minecraft:quartz_bricks
+setblock -35 -30 44 minecraft:quartz_bricks
+setblock -35 -30 45 minecraft:quartz_pillar
+setblock -45 -29 35 minecraft:quartz_pillar
+setblock -45 -29 36 minecraft:quartz_bricks
+setblock -45 -29 37 minecraft:quartz_bricks
+setblock -45 -29 38 minecraft:quartz_bricks
+setblock -45 -29 39 minecraft:quartz_bricks
+setblock -45 -29 40 minecraft:quartz_bricks
+setblock -45 -29 41 minecraft:quartz_bricks
+setblock -45 -29 42 minecraft:quartz_bricks
+setblock -45 -29 43 minecraft:quartz_bricks
+setblock -45 -29 44 minecraft:quartz_bricks
+setblock -45 -29 45 minecraft:quartz_pillar
+setblock -44 -29 35 minecraft:quartz_bricks
+setblock -44 -29 45 minecraft:quartz_bricks
+setblock -43 -29 35 minecraft:quartz_bricks
+setblock -43 -29 45 minecraft:quartz_bricks
+setblock -42 -29 35 minecraft:quartz_bricks
+setblock -42 -29 45 minecraft:quartz_bricks
+setblock -41 -29 35 minecraft:quartz_bricks
+setblock -41 -29 45 minecraft:quartz_bricks
+setblock -40 -29 35 minecraft:quartz_bricks
+setblock -40 -29 45 minecraft:quartz_bricks
+setblock -39 -29 35 minecraft:quartz_bricks
+setblock -39 -29 45 minecraft:quartz_bricks
+setblock -38 -29 35 minecraft:quartz_bricks
+setblock -38 -29 45 minecraft:quartz_bricks
+setblock -37 -29 35 minecraft:quartz_bricks
+setblock -37 -29 45 minecraft:quartz_bricks
+setblock -36 -29 35 minecraft:quartz_bricks
+setblock -36 -29 45 minecraft:quartz_bricks
+setblock -35 -29 35 minecraft:quartz_pillar
+setblock -35 -29 36 minecraft:quartz_bricks
+setblock -35 -29 37 minecraft:quartz_bricks
+setblock -35 -29 38 minecraft:quartz_bricks
+setblock -35 -29 39 minecraft:quartz_bricks
+setblock -35 -29 40 minecraft:quartz_bricks
+setblock -35 -29 41 minecraft:quartz_bricks
+setblock -35 -29 42 minecraft:quartz_bricks
+setblock -35 -29 43 minecraft:quartz_bricks
+setblock -35 -29 44 minecraft:quartz_bricks
+setblock -35 -29 45 minecraft:quartz_pillar
+setblock -45 -28 35 minecraft:quartz_pillar
+setblock -45 -28 36 minecraft:quartz_block
+setblock -45 -28 37 minecraft:quartz_block
+setblock -45 -28 38 minecraft:quartz_block
+setblock -45 -28 39 minecraft:quartz_block
+setblock -45 -28 40 minecraft:quartz_block
+setblock -45 -28 41 minecraft:quartz_block
+setblock -45 -28 42 minecraft:quartz_block
+setblock -45 -28 43 minecraft:quartz_block
+setblock -45 -28 44 minecraft:quartz_block
+setblock -45 -28 45 minecraft:quartz_pillar
+setblock -44 -28 35 minecraft:quartz_block
+setblock -44 -28 45 minecraft:quartz_block
+setblock -43 -28 35 minecraft:quartz_block
+setblock -43 -28 45 minecraft:quartz_block
+setblock -42 -28 35 minecraft:quartz_block
+setblock -42 -28 45 minecraft:quartz_block
+setblock -41 -28 35 minecraft:quartz_block
+setblock -41 -28 45 minecraft:quartz_block
+setblock -40 -28 35 minecraft:quartz_block
+setblock -40 -28 45 minecraft:quartz_block
+setblock -39 -28 35 minecraft:quartz_block
+setblock -39 -28 45 minecraft:quartz_block
+setblock -38 -28 35 minecraft:quartz_block
+setblock -38 -28 45 minecraft:quartz_block
+setblock -37 -28 35 minecraft:quartz_block
+setblock -37 -28 45 minecraft:quartz_block
+setblock -36 -28 35 minecraft:quartz_block
+setblock -36 -28 45 minecraft:quartz_block
+setblock -35 -28 35 minecraft:quartz_pillar
+setblock -35 -28 36 minecraft:quartz_block
+setblock -35 -28 37 minecraft:quartz_block
+setblock -35 -28 38 minecraft:quartz_block
+setblock -35 -28 39 minecraft:quartz_block
+setblock -35 -28 40 minecraft:quartz_block
+setblock -35 -28 41 minecraft:quartz_block
+setblock -35 -28 42 minecraft:quartz_block
+setblock -35 -28 43 minecraft:quartz_block
+setblock -35 -28 44 minecraft:quartz_block
+setblock -35 -28 45 minecraft:quartz_pillar
+setblock -45 -27 35 minecraft:quartz_pillar
+setblock -45 -27 36 minecraft:quartz_bricks
+setblock -45 -27 37 minecraft:quartz_bricks
+setblock -45 -27 38 minecraft:quartz_bricks
+setblock -45 -27 39 minecraft:quartz_bricks
+setblock -45 -27 40 minecraft:quartz_bricks
+setblock -45 -27 41 minecraft:quartz_bricks
+setblock -45 -27 42 minecraft:quartz_bricks
+setblock -45 -27 43 minecraft:quartz_bricks
+setblock -45 -27 44 minecraft:quartz_bricks
+setblock -45 -27 45 minecraft:quartz_pillar
+setblock -44 -27 35 minecraft:quartz_bricks
+setblock -44 -27 45 minecraft:quartz_bricks
+setblock -43 -27 35 minecraft:quartz_bricks
+setblock -43 -27 45 minecraft:quartz_bricks
+setblock -42 -27 35 minecraft:quartz_bricks
+setblock -42 -27 45 minecraft:quartz_bricks
+setblock -41 -27 35 minecraft:quartz_bricks
+setblock -41 -27 45 minecraft:quartz_bricks
+setblock -40 -27 35 minecraft:quartz_bricks
+setblock -40 -27 45 minecraft:quartz_bricks
+setblock -39 -27 35 minecraft:quartz_bricks
+setblock -39 -27 45 minecraft:quartz_bricks
+setblock -38 -27 35 minecraft:quartz_bricks
+setblock -38 -27 45 minecraft:quartz_bricks
+setblock -37 -27 35 minecraft:quartz_bricks
+setblock -37 -27 45 minecraft:quartz_bricks
+setblock -36 -27 35 minecraft:quartz_bricks
+setblock -36 -27 45 minecraft:quartz_bricks
+setblock -35 -27 35 minecraft:quartz_pillar
+setblock -35 -27 36 minecraft:quartz_bricks
+setblock -35 -27 37 minecraft:quartz_bricks
+setblock -35 -27 38 minecraft:quartz_bricks
+setblock -35 -27 39 minecraft:quartz_bricks
+setblock -35 -27 40 minecraft:quartz_bricks
+setblock -35 -27 41 minecraft:quartz_bricks
+setblock -35 -27 42 minecraft:quartz_bricks
+setblock -35 -27 43 minecraft:quartz_bricks
+setblock -35 -27 44 minecraft:quartz_bricks
+setblock -35 -27 45 minecraft:quartz_pillar
+setblock -45 -26 35 minecraft:quartz_pillar
+setblock -45 -26 36 minecraft:quartz_bricks
+setblock -45 -26 37 minecraft:quartz_bricks
+setblock -45 -26 38 minecraft:quartz_bricks
+setblock -45 -26 39 minecraft:quartz_bricks
+setblock -45 -26 40 minecraft:quartz_bricks
+setblock -45 -26 41 minecraft:quartz_bricks
+setblock -45 -26 42 minecraft:quartz_bricks
+setblock -45 -26 43 minecraft:quartz_bricks
+setblock -45 -26 44 minecraft:quartz_bricks
+setblock -45 -26 45 minecraft:quartz_pillar
+setblock -44 -26 35 minecraft:quartz_bricks
+setblock -44 -26 45 minecraft:quartz_bricks
+setblock -43 -26 35 minecraft:quartz_bricks
+setblock -43 -26 45 minecraft:quartz_bricks
+setblock -42 -26 35 minecraft:quartz_bricks
+setblock -42 -26 45 minecraft:quartz_bricks
+setblock -41 -26 35 minecraft:quartz_bricks
+setblock -41 -26 45 minecraft:quartz_bricks
+setblock -40 -26 35 minecraft:quartz_bricks
+setblock -40 -26 45 minecraft:quartz_bricks
+setblock -39 -26 35 minecraft:quartz_bricks
+setblock -39 -26 45 minecraft:quartz_bricks
+setblock -38 -26 35 minecraft:quartz_bricks
+setblock -38 -26 45 minecraft:quartz_bricks
+setblock -37 -26 35 minecraft:quartz_bricks
+setblock -37 -26 45 minecraft:quartz_bricks
+setblock -36 -26 35 minecraft:quartz_bricks
+setblock -36 -26 45 minecraft:quartz_bricks
+setblock -35 -26 35 minecraft:quartz_pillar
+setblock -35 -26 36 minecraft:quartz_bricks
+setblock -35 -26 37 minecraft:quartz_bricks
+setblock -35 -26 38 minecraft:quartz_bricks
+setblock -35 -26 39 minecraft:quartz_bricks
+setblock -35 -26 40 minecraft:quartz_bricks
+setblock -35 -26 41 minecraft:quartz_bricks
+setblock -35 -26 42 minecraft:quartz_bricks
+setblock -35 -26 43 minecraft:quartz_bricks
+setblock -35 -26 44 minecraft:quartz_bricks
+setblock -35 -26 45 minecraft:quartz_pillar
+setblock -45 -25 35 minecraft:quartz_pillar
+setblock -45 -25 36 minecraft:quartz_bricks
+setblock -45 -25 37 minecraft:quartz_bricks
+setblock -45 -25 38 minecraft:quartz_bricks
+setblock -45 -25 39 minecraft:quartz_bricks
+setblock -45 -25 40 minecraft:quartz_bricks
+setblock -45 -25 41 minecraft:quartz_bricks
+setblock -45 -25 42 minecraft:quartz_bricks
+setblock -45 -25 43 minecraft:quartz_bricks
+setblock -45 -25 44 minecraft:quartz_bricks
+setblock -45 -25 45 minecraft:quartz_pillar
+setblock -44 -25 35 minecraft:quartz_bricks
+setblock -44 -25 45 minecraft:quartz_bricks
+setblock -43 -25 35 minecraft:quartz_bricks
+setblock -43 -25 45 minecraft:quartz_bricks
+setblock -42 -25 35 minecraft:quartz_bricks
+setblock -42 -25 45 minecraft:quartz_bricks
+setblock -41 -25 35 minecraft:quartz_bricks
+setblock -41 -25 45 minecraft:quartz_bricks
+setblock -40 -25 35 minecraft:quartz_bricks
+setblock -40 -25 45 minecraft:quartz_bricks
+setblock -39 -25 35 minecraft:quartz_bricks
+setblock -39 -25 45 minecraft:quartz_bricks
+setblock -38 -25 35 minecraft:quartz_bricks
+setblock -38 -25 45 minecraft:quartz_bricks
+setblock -37 -25 35 minecraft:quartz_bricks
+setblock -37 -25 45 minecraft:quartz_bricks
+setblock -36 -25 35 minecraft:quartz_bricks
+setblock -36 -25 45 minecraft:quartz_bricks
+setblock -35 -25 35 minecraft:quartz_pillar
+setblock -35 -25 36 minecraft:quartz_bricks
+setblock -35 -25 37 minecraft:quartz_bricks
+setblock -35 -25 38 minecraft:quartz_bricks
+setblock -35 -25 39 minecraft:quartz_bricks
+setblock -35 -25 40 minecraft:quartz_bricks
+setblock -35 -25 41 minecraft:quartz_bricks
+setblock -35 -25 42 minecraft:quartz_bricks
+setblock -35 -25 43 minecraft:quartz_bricks
+setblock -35 -25 44 minecraft:quartz_bricks
+setblock -35 -25 45 minecraft:quartz_pillar
+fill -44 -25 36 -36 -25 44 minecraft:smooth_quartz
+setblock -45 -24 35 minecraft:quartz_pillar
+setblock -45 -23 35 minecraft:sea_lantern
+setblock -45 -24 45 minecraft:quartz_pillar
+setblock -45 -23 45 minecraft:sea_lantern
+setblock -35 -24 35 minecraft:quartz_pillar
+setblock -35 -23 35 minecraft:sea_lantern
+setblock -35 -24 45 minecraft:quartz_pillar
+setblock -35 -23 45 minecraft:sea_lantern
+setblock -45 -24 36 minecraft:smooth_quartz_slab
+setblock -45 -24 37 minecraft:smooth_quartz_slab
+setblock -45 -24 38 minecraft:smooth_quartz_slab
+setblock -45 -24 39 minecraft:smooth_quartz_slab
+setblock -45 -24 40 minecraft:smooth_quartz_slab
+setblock -45 -24 41 minecraft:smooth_quartz_slab
+setblock -45 -24 42 minecraft:smooth_quartz_slab
+setblock -45 -24 43 minecraft:smooth_quartz_slab
+setblock -45 -24 44 minecraft:smooth_quartz_slab
+setblock -44 -24 35 minecraft:smooth_quartz_slab
+setblock -44 -24 45 minecraft:smooth_quartz_slab
+setblock -43 -24 35 minecraft:smooth_quartz_slab
+setblock -43 -24 45 minecraft:smooth_quartz_slab
+setblock -42 -24 35 minecraft:smooth_quartz_slab
+setblock -42 -24 45 minecraft:smooth_quartz_slab
+setblock -41 -24 35 minecraft:smooth_quartz_slab
+setblock -41 -24 45 minecraft:smooth_quartz_slab
+setblock -40 -24 35 minecraft:smooth_quartz_slab
+setblock -40 -24 45 minecraft:smooth_quartz_slab
+setblock -39 -24 35 minecraft:smooth_quartz_slab
+setblock -39 -24 45 minecraft:smooth_quartz_slab
+setblock -38 -24 35 minecraft:smooth_quartz_slab
+setblock -38 -24 45 minecraft:smooth_quartz_slab
+setblock -37 -24 35 minecraft:smooth_quartz_slab
+setblock -37 -24 45 minecraft:smooth_quartz_slab
+setblock -36 -24 35 minecraft:smooth_quartz_slab
+setblock -36 -24 45 minecraft:smooth_quartz_slab
+setblock -35 -24 36 minecraft:smooth_quartz_slab
+setblock -35 -24 37 minecraft:smooth_quartz_slab
+setblock -35 -24 38 minecraft:smooth_quartz_slab
+setblock -35 -24 39 minecraft:smooth_quartz_slab
+setblock -35 -24 40 minecraft:smooth_quartz_slab
+setblock -35 -24 41 minecraft:smooth_quartz_slab
+setblock -35 -24 42 minecraft:smooth_quartz_slab
+setblock -35 -24 43 minecraft:smooth_quartz_slab
+setblock -35 -24 44 minecraft:smooth_quartz_slab
+fill -46 -60 -46 -34 -60 -34 minecraft:quartz_block
+setblock -45 -59 -45 minecraft:quartz_pillar
+setblock -45 -59 -44 minecraft:quartz_bricks
+setblock -45 -59 -43 minecraft:quartz_bricks
+setblock -45 -59 -42 minecraft:quartz_bricks
+setblock -45 -59 -41 minecraft:quartz_bricks
+setblock -45 -59 -40 minecraft:quartz_bricks
+setblock -45 -59 -39 minecraft:quartz_bricks
+setblock -45 -59 -38 minecraft:quartz_bricks
+setblock -45 -59 -37 minecraft:quartz_bricks
+setblock -45 -59 -36 minecraft:quartz_bricks
+setblock -45 -59 -35 minecraft:quartz_pillar
+setblock -44 -59 -45 minecraft:quartz_bricks
+setblock -44 -59 -35 minecraft:quartz_bricks
+setblock -43 -59 -45 minecraft:quartz_bricks
+setblock -43 -59 -35 minecraft:quartz_bricks
+setblock -42 -59 -45 minecraft:quartz_bricks
+setblock -42 -59 -35 minecraft:quartz_bricks
+setblock -41 -59 -45 minecraft:quartz_bricks
+setblock -41 -59 -35 minecraft:quartz_bricks
+setblock -40 -59 -45 minecraft:quartz_bricks
+setblock -40 -59 -35 minecraft:quartz_bricks
+setblock -39 -59 -45 minecraft:quartz_bricks
+setblock -39 -59 -35 minecraft:quartz_bricks
+setblock -38 -59 -45 minecraft:quartz_bricks
+setblock -38 -59 -35 minecraft:quartz_bricks
+setblock -37 -59 -45 minecraft:quartz_bricks
+setblock -37 -59 -35 minecraft:quartz_bricks
+setblock -36 -59 -45 minecraft:quartz_bricks
+setblock -36 -59 -35 minecraft:quartz_bricks
+setblock -35 -59 -45 minecraft:quartz_pillar
+setblock -35 -59 -44 minecraft:quartz_bricks
+setblock -35 -59 -43 minecraft:quartz_bricks
+setblock -35 -59 -42 minecraft:quartz_bricks
+setblock -35 -59 -41 minecraft:quartz_bricks
+setblock -35 -59 -40 minecraft:quartz_bricks
+setblock -35 -59 -39 minecraft:quartz_bricks
+setblock -35 -59 -38 minecraft:quartz_bricks
+setblock -35 -59 -37 minecraft:quartz_bricks
+setblock -35 -59 -36 minecraft:quartz_bricks
+setblock -35 -59 -35 minecraft:quartz_pillar
+setblock -45 -58 -45 minecraft:quartz_pillar
+setblock -45 -58 -44 minecraft:quartz_bricks
+setblock -45 -58 -43 minecraft:quartz_bricks
+setblock -45 -58 -42 minecraft:quartz_bricks
+setblock -45 -58 -41 minecraft:quartz_bricks
+setblock -45 -58 -40 minecraft:quartz_bricks
+setblock -45 -58 -39 minecraft:quartz_bricks
+setblock -45 -58 -38 minecraft:quartz_bricks
+setblock -45 -58 -37 minecraft:quartz_bricks
+setblock -45 -58 -36 minecraft:quartz_bricks
+setblock -45 -58 -35 minecraft:quartz_pillar
+setblock -44 -58 -45 minecraft:quartz_bricks
+setblock -44 -58 -35 minecraft:quartz_bricks
+setblock -43 -58 -45 minecraft:quartz_bricks
+setblock -43 -58 -35 minecraft:quartz_bricks
+setblock -42 -58 -45 minecraft:quartz_bricks
+setblock -42 -58 -35 minecraft:quartz_bricks
+setblock -41 -58 -45 minecraft:quartz_bricks
+setblock -41 -58 -35 minecraft:quartz_bricks
+setblock -40 -58 -45 minecraft:quartz_bricks
+setblock -40 -58 -35 minecraft:quartz_bricks
+setblock -39 -58 -45 minecraft:quartz_bricks
+setblock -39 -58 -35 minecraft:quartz_bricks
+setblock -38 -58 -45 minecraft:quartz_bricks
+setblock -38 -58 -35 minecraft:quartz_bricks
+setblock -37 -58 -45 minecraft:quartz_bricks
+setblock -37 -58 -35 minecraft:quartz_bricks
+setblock -36 -58 -45 minecraft:quartz_bricks
+setblock -36 -58 -35 minecraft:quartz_bricks
+setblock -35 -58 -45 minecraft:quartz_pillar
+setblock -35 -58 -44 minecraft:quartz_bricks
+setblock -35 -58 -43 minecraft:quartz_bricks
+setblock -35 -58 -42 minecraft:quartz_bricks
+setblock -35 -58 -41 minecraft:quartz_bricks
+setblock -35 -58 -40 minecraft:quartz_bricks
+setblock -35 -58 -39 minecraft:quartz_bricks
+setblock -35 -58 -38 minecraft:quartz_bricks
+setblock -35 -58 -37 minecraft:quartz_bricks
+setblock -35 -58 -36 minecraft:quartz_bricks
+setblock -35 -58 -35 minecraft:quartz_pillar
+setblock -45 -57 -45 minecraft:quartz_pillar
+setblock -45 -57 -44 minecraft:quartz_bricks
+setblock -45 -57 -43 minecraft:quartz_bricks
+setblock -45 -57 -42 minecraft:quartz_bricks
+setblock -45 -57 -41 minecraft:quartz_bricks
+setblock -45 -57 -40 minecraft:quartz_bricks
+setblock -45 -57 -39 minecraft:quartz_bricks
+setblock -45 -57 -38 minecraft:quartz_bricks
+setblock -45 -57 -37 minecraft:quartz_bricks
+setblock -45 -57 -36 minecraft:quartz_bricks
+setblock -45 -57 -35 minecraft:quartz_pillar
+setblock -44 -57 -45 minecraft:quartz_bricks
+setblock -44 -57 -35 minecraft:quartz_bricks
+setblock -43 -57 -45 minecraft:quartz_bricks
+setblock -43 -57 -35 minecraft:quartz_bricks
+setblock -42 -57 -45 minecraft:quartz_bricks
+setblock -42 -57 -35 minecraft:quartz_bricks
+setblock -41 -57 -45 minecraft:quartz_bricks
+setblock -41 -57 -35 minecraft:quartz_bricks
+setblock -40 -57 -45 minecraft:quartz_bricks
+setblock -40 -57 -35 minecraft:quartz_bricks
+setblock -39 -57 -45 minecraft:quartz_bricks
+setblock -39 -57 -35 minecraft:quartz_bricks
+setblock -38 -57 -45 minecraft:quartz_bricks
+setblock -38 -57 -35 minecraft:quartz_bricks
+setblock -37 -57 -45 minecraft:quartz_bricks
+setblock -37 -57 -35 minecraft:quartz_bricks
+setblock -36 -57 -45 minecraft:quartz_bricks
+setblock -36 -57 -35 minecraft:quartz_bricks
+setblock -35 -57 -45 minecraft:quartz_pillar
+setblock -35 -57 -44 minecraft:quartz_bricks
+setblock -35 -57 -43 minecraft:quartz_bricks
+setblock -35 -57 -42 minecraft:quartz_bricks
+setblock -35 -57 -41 minecraft:quartz_bricks
+setblock -35 -57 -40 minecraft:quartz_bricks
+setblock -35 -57 -39 minecraft:quartz_bricks
+setblock -35 -57 -38 minecraft:quartz_bricks
+setblock -35 -57 -37 minecraft:quartz_bricks
+setblock -35 -57 -36 minecraft:quartz_bricks
+setblock -35 -57 -35 minecraft:quartz_pillar
+setblock -45 -56 -45 minecraft:quartz_pillar
+setblock -45 -56 -44 minecraft:quartz_bricks
+setblock -45 -56 -43 minecraft:quartz_bricks
+setblock -45 -56 -42 minecraft:quartz_bricks
+setblock -45 -56 -38 minecraft:quartz_bricks
+setblock -45 -56 -37 minecraft:quartz_bricks
+setblock -45 -56 -36 minecraft:quartz_bricks
+setblock -45 -56 -35 minecraft:quartz_pillar
+setblock -44 -56 -45 minecraft:quartz_bricks
+setblock -44 -56 -35 minecraft:quartz_bricks
+setblock -43 -56 -45 minecraft:quartz_bricks
+setblock -43 -56 -35 minecraft:quartz_bricks
+setblock -42 -56 -45 minecraft:quartz_bricks
+setblock -42 -56 -35 minecraft:quartz_bricks
+setblock -38 -56 -45 minecraft:quartz_bricks
+setblock -38 -56 -35 minecraft:quartz_bricks
+setblock -37 -56 -45 minecraft:quartz_bricks
+setblock -37 -56 -35 minecraft:quartz_bricks
+setblock -36 -56 -45 minecraft:quartz_bricks
+setblock -36 -56 -35 minecraft:quartz_bricks
+setblock -35 -56 -45 minecraft:quartz_pillar
+setblock -35 -56 -44 minecraft:quartz_bricks
+setblock -35 -56 -43 minecraft:quartz_bricks
+setblock -35 -56 -42 minecraft:quartz_bricks
+setblock -35 -56 -38 minecraft:quartz_bricks
+setblock -35 -56 -37 minecraft:quartz_bricks
+setblock -35 -56 -36 minecraft:quartz_bricks
+setblock -35 -56 -35 minecraft:quartz_pillar
+setblock -45 -55 -45 minecraft:quartz_pillar
+setblock -45 -55 -44 minecraft:quartz_bricks
+setblock -45 -55 -43 minecraft:quartz_bricks
+setblock -45 -55 -42 minecraft:quartz_bricks
+setblock -45 -55 -38 minecraft:quartz_bricks
+setblock -45 -55 -37 minecraft:quartz_bricks
+setblock -45 -55 -36 minecraft:quartz_bricks
+setblock -45 -55 -35 minecraft:quartz_pillar
+setblock -44 -55 -45 minecraft:quartz_bricks
+setblock -44 -55 -35 minecraft:quartz_bricks
+setblock -43 -55 -45 minecraft:quartz_bricks
+setblock -43 -55 -35 minecraft:quartz_bricks
+setblock -42 -55 -45 minecraft:quartz_bricks
+setblock -42 -55 -35 minecraft:quartz_bricks
+setblock -38 -55 -45 minecraft:quartz_bricks
+setblock -38 -55 -35 minecraft:quartz_bricks
+setblock -37 -55 -45 minecraft:quartz_bricks
+setblock -37 -55 -35 minecraft:quartz_bricks
+setblock -36 -55 -45 minecraft:quartz_bricks
+setblock -36 -55 -35 minecraft:quartz_bricks
+setblock -35 -55 -45 minecraft:quartz_pillar
+setblock -35 -55 -44 minecraft:quartz_bricks
+setblock -35 -55 -43 minecraft:quartz_bricks
+setblock -35 -55 -42 minecraft:quartz_bricks
+setblock -35 -55 -38 minecraft:quartz_bricks
+setblock -35 -55 -37 minecraft:quartz_bricks
+setblock -35 -55 -36 minecraft:quartz_bricks
+setblock -35 -55 -35 minecraft:quartz_pillar
+setblock -45 -54 -45 minecraft:quartz_pillar
+setblock -45 -54 -44 minecraft:quartz_bricks
+setblock -45 -54 -43 minecraft:quartz_bricks
+setblock -45 -54 -42 minecraft:quartz_bricks
+setblock -45 -54 -38 minecraft:quartz_bricks
+setblock -45 -54 -37 minecraft:quartz_bricks
+setblock -45 -54 -36 minecraft:quartz_bricks
+setblock -45 -54 -35 minecraft:quartz_pillar
+setblock -44 -54 -45 minecraft:quartz_bricks
+setblock -44 -54 -35 minecraft:quartz_bricks
+setblock -43 -54 -45 minecraft:quartz_bricks
+setblock -43 -54 -35 minecraft:quartz_bricks
+setblock -42 -54 -45 minecraft:quartz_bricks
+setblock -42 -54 -35 minecraft:quartz_bricks
+setblock -38 -54 -45 minecraft:quartz_bricks
+setblock -38 -54 -35 minecraft:quartz_bricks
+setblock -37 -54 -45 minecraft:quartz_bricks
+setblock -37 -54 -35 minecraft:quartz_bricks
+setblock -36 -54 -45 minecraft:quartz_bricks
+setblock -36 -54 -35 minecraft:quartz_bricks
+setblock -35 -54 -45 minecraft:quartz_pillar
+setblock -35 -54 -44 minecraft:quartz_bricks
+setblock -35 -54 -43 minecraft:quartz_bricks
+setblock -35 -54 -42 minecraft:quartz_bricks
+setblock -35 -54 -38 minecraft:quartz_bricks
+setblock -35 -54 -37 minecraft:quartz_bricks
+setblock -35 -54 -36 minecraft:quartz_bricks
+setblock -35 -54 -35 minecraft:quartz_pillar
+setblock -45 -53 -45 minecraft:quartz_pillar
+setblock -45 -53 -44 minecraft:quartz_bricks
+setblock -45 -53 -43 minecraft:quartz_bricks
+setblock -45 -53 -42 minecraft:quartz_bricks
+setblock -45 -53 -41 minecraft:quartz_bricks
+setblock -45 -53 -40 minecraft:quartz_bricks
+setblock -45 -53 -39 minecraft:quartz_bricks
+setblock -45 -53 -38 minecraft:quartz_bricks
+setblock -45 -53 -37 minecraft:quartz_bricks
+setblock -45 -53 -36 minecraft:quartz_bricks
+setblock -45 -53 -35 minecraft:quartz_pillar
+setblock -44 -53 -45 minecraft:quartz_bricks
+setblock -44 -53 -35 minecraft:quartz_bricks
+setblock -43 -53 -45 minecraft:quartz_bricks
+setblock -43 -53 -35 minecraft:quartz_bricks
+setblock -42 -53 -45 minecraft:quartz_bricks
+setblock -42 -53 -35 minecraft:quartz_bricks
+setblock -41 -53 -45 minecraft:quartz_bricks
+setblock -41 -53 -35 minecraft:quartz_bricks
+setblock -40 -53 -45 minecraft:quartz_bricks
+setblock -40 -53 -35 minecraft:quartz_bricks
+setblock -39 -53 -45 minecraft:quartz_bricks
+setblock -39 -53 -35 minecraft:quartz_bricks
+setblock -38 -53 -45 minecraft:quartz_bricks
+setblock -38 -53 -35 minecraft:quartz_bricks
+setblock -37 -53 -45 minecraft:quartz_bricks
+setblock -37 -53 -35 minecraft:quartz_bricks
+setblock -36 -53 -45 minecraft:quartz_bricks
+setblock -36 -53 -35 minecraft:quartz_bricks
+setblock -35 -53 -45 minecraft:quartz_pillar
+setblock -35 -53 -44 minecraft:quartz_bricks
+setblock -35 -53 -43 minecraft:quartz_bricks
+setblock -35 -53 -42 minecraft:quartz_bricks
+setblock -35 -53 -41 minecraft:quartz_bricks
+setblock -35 -53 -40 minecraft:quartz_bricks
+setblock -35 -53 -39 minecraft:quartz_bricks
+setblock -35 -53 -38 minecraft:quartz_bricks
+setblock -35 -53 -37 minecraft:quartz_bricks
+setblock -35 -53 -36 minecraft:quartz_bricks
+setblock -35 -53 -35 minecraft:quartz_pillar
+setblock -45 -52 -45 minecraft:quartz_pillar
+setblock -45 -52 -44 minecraft:quartz_block
+setblock -45 -52 -43 minecraft:quartz_block
+setblock -45 -52 -42 minecraft:quartz_block
+setblock -45 -52 -41 minecraft:quartz_block
+setblock -45 -52 -40 minecraft:quartz_block
+setblock -45 -52 -39 minecraft:quartz_block
+setblock -45 -52 -38 minecraft:quartz_block
+setblock -45 -52 -37 minecraft:quartz_block
+setblock -45 -52 -36 minecraft:quartz_block
+setblock -45 -52 -35 minecraft:quartz_pillar
+setblock -44 -52 -45 minecraft:quartz_block
+setblock -44 -52 -35 minecraft:quartz_block
+setblock -43 -52 -45 minecraft:quartz_block
+setblock -43 -52 -35 minecraft:quartz_block
+setblock -42 -52 -45 minecraft:quartz_block
+setblock -42 -52 -35 minecraft:quartz_block
+setblock -41 -52 -45 minecraft:quartz_block
+setblock -41 -52 -35 minecraft:quartz_block
+setblock -40 -52 -45 minecraft:quartz_block
+setblock -40 -52 -35 minecraft:quartz_block
+setblock -39 -52 -45 minecraft:quartz_block
+setblock -39 -52 -35 minecraft:quartz_block
+setblock -38 -52 -45 minecraft:quartz_block
+setblock -38 -52 -35 minecraft:quartz_block
+setblock -37 -52 -45 minecraft:quartz_block
+setblock -37 -52 -35 minecraft:quartz_block
+setblock -36 -52 -45 minecraft:quartz_block
+setblock -36 -52 -35 minecraft:quartz_block
+setblock -35 -52 -45 minecraft:quartz_pillar
+setblock -35 -52 -44 minecraft:quartz_block
+setblock -35 -52 -43 minecraft:quartz_block
+setblock -35 -52 -42 minecraft:quartz_block
+setblock -35 -52 -41 minecraft:quartz_block
+setblock -35 -52 -40 minecraft:quartz_block
+setblock -35 -52 -39 minecraft:quartz_block
+setblock -35 -52 -38 minecraft:quartz_block
+setblock -35 -52 -37 minecraft:quartz_block
+setblock -35 -52 -36 minecraft:quartz_block
+setblock -35 -52 -35 minecraft:quartz_pillar
+setblock -45 -51 -45 minecraft:quartz_pillar
+setblock -45 -51 -44 minecraft:quartz_bricks
+setblock -45 -51 -43 minecraft:quartz_bricks
+setblock -45 -51 -42 minecraft:quartz_bricks
+setblock -45 -51 -41 minecraft:quartz_bricks
+setblock -45 -51 -40 minecraft:quartz_bricks
+setblock -45 -51 -39 minecraft:quartz_bricks
+setblock -45 -51 -38 minecraft:quartz_bricks
+setblock -45 -51 -37 minecraft:quartz_bricks
+setblock -45 -51 -36 minecraft:quartz_bricks
+setblock -45 -51 -35 minecraft:quartz_pillar
+setblock -44 -51 -45 minecraft:quartz_bricks
+setblock -44 -51 -35 minecraft:quartz_bricks
+setblock -43 -51 -45 minecraft:quartz_bricks
+setblock -43 -51 -35 minecraft:quartz_bricks
+setblock -42 -51 -45 minecraft:quartz_bricks
+setblock -42 -51 -35 minecraft:quartz_bricks
+setblock -41 -51 -45 minecraft:quartz_bricks
+setblock -41 -51 -35 minecraft:quartz_bricks
+setblock -40 -51 -45 minecraft:quartz_bricks
+setblock -40 -51 -35 minecraft:quartz_bricks
+setblock -39 -51 -45 minecraft:quartz_bricks
+setblock -39 -51 -35 minecraft:quartz_bricks
+setblock -38 -51 -45 minecraft:quartz_bricks
+setblock -38 -51 -35 minecraft:quartz_bricks
+setblock -37 -51 -45 minecraft:quartz_bricks
+setblock -37 -51 -35 minecraft:quartz_bricks
+setblock -36 -51 -45 minecraft:quartz_bricks
+setblock -36 -51 -35 minecraft:quartz_bricks
+setblock -35 -51 -45 minecraft:quartz_pillar
+setblock -35 -51 -44 minecraft:quartz_bricks
+setblock -35 -51 -43 minecraft:quartz_bricks
+setblock -35 -51 -42 minecraft:quartz_bricks
+setblock -35 -51 -41 minecraft:quartz_bricks
+setblock -35 -51 -40 minecraft:quartz_bricks
+setblock -35 -51 -39 minecraft:quartz_bricks
+setblock -35 -51 -38 minecraft:quartz_bricks
+setblock -35 -51 -37 minecraft:quartz_bricks
+setblock -35 -51 -36 minecraft:quartz_bricks
+setblock -35 -51 -35 minecraft:quartz_pillar
+setblock -45 -50 -45 minecraft:quartz_pillar
+setblock -45 -50 -44 minecraft:quartz_bricks
+setblock -45 -50 -43 minecraft:quartz_bricks
+setblock -45 -50 -42 minecraft:quartz_bricks
+setblock -45 -50 -41 minecraft:quartz_bricks
+setblock -45 -50 -40 minecraft:quartz_bricks
+setblock -45 -50 -39 minecraft:quartz_bricks
+setblock -45 -50 -38 minecraft:quartz_bricks
+setblock -45 -50 -37 minecraft:quartz_bricks
+setblock -45 -50 -36 minecraft:quartz_bricks
+setblock -45 -50 -35 minecraft:quartz_pillar
+setblock -44 -50 -45 minecraft:quartz_bricks
+setblock -44 -50 -35 minecraft:quartz_bricks
+setblock -43 -50 -45 minecraft:quartz_bricks
+setblock -43 -50 -35 minecraft:quartz_bricks
+setblock -42 -50 -45 minecraft:quartz_bricks
+setblock -42 -50 -35 minecraft:quartz_bricks
+setblock -41 -50 -45 minecraft:quartz_bricks
+setblock -41 -50 -35 minecraft:quartz_bricks
+setblock -40 -50 -45 minecraft:quartz_bricks
+setblock -40 -50 -35 minecraft:quartz_bricks
+setblock -39 -50 -45 minecraft:quartz_bricks
+setblock -39 -50 -35 minecraft:quartz_bricks
+setblock -38 -50 -45 minecraft:quartz_bricks
+setblock -38 -50 -35 minecraft:quartz_bricks
+setblock -37 -50 -45 minecraft:quartz_bricks
+setblock -37 -50 -35 minecraft:quartz_bricks
+setblock -36 -50 -45 minecraft:quartz_bricks
+setblock -36 -50 -35 minecraft:quartz_bricks
+setblock -35 -50 -45 minecraft:quartz_pillar
+setblock -35 -50 -44 minecraft:quartz_bricks
+setblock -35 -50 -43 minecraft:quartz_bricks
+setblock -35 -50 -42 minecraft:quartz_bricks
+setblock -35 -50 -41 minecraft:quartz_bricks
+setblock -35 -50 -40 minecraft:quartz_bricks
+setblock -35 -50 -39 minecraft:quartz_bricks
+setblock -35 -50 -38 minecraft:quartz_bricks
+setblock -35 -50 -37 minecraft:quartz_bricks
+setblock -35 -50 -36 minecraft:quartz_bricks
+setblock -35 -50 -35 minecraft:quartz_pillar
+setblock -45 -49 -45 minecraft:quartz_pillar
+setblock -45 -49 -44 minecraft:quartz_bricks
+setblock -45 -49 -43 minecraft:quartz_bricks
+setblock -45 -49 -42 minecraft:quartz_bricks
+setblock -45 -49 -41 minecraft:quartz_bricks
+setblock -45 -49 -40 minecraft:quartz_bricks
+setblock -45 -49 -39 minecraft:quartz_bricks
+setblock -45 -49 -38 minecraft:quartz_bricks
+setblock -45 -49 -37 minecraft:quartz_bricks
+setblock -45 -49 -36 minecraft:quartz_bricks
+setblock -45 -49 -35 minecraft:quartz_pillar
+setblock -44 -49 -45 minecraft:quartz_bricks
+setblock -44 -49 -35 minecraft:quartz_bricks
+setblock -43 -49 -45 minecraft:quartz_bricks
+setblock -43 -49 -35 minecraft:quartz_bricks
+setblock -42 -49 -45 minecraft:quartz_bricks
+setblock -42 -49 -35 minecraft:quartz_bricks
+setblock -41 -49 -45 minecraft:quartz_bricks
+setblock -41 -49 -35 minecraft:quartz_bricks
+setblock -40 -49 -45 minecraft:quartz_bricks
+setblock -40 -49 -35 minecraft:quartz_bricks
+setblock -39 -49 -45 minecraft:quartz_bricks
+setblock -39 -49 -35 minecraft:quartz_bricks
+setblock -38 -49 -45 minecraft:quartz_bricks
+setblock -38 -49 -35 minecraft:quartz_bricks
+setblock -37 -49 -45 minecraft:quartz_bricks
+setblock -37 -49 -35 minecraft:quartz_bricks
+setblock -36 -49 -45 minecraft:quartz_bricks
+setblock -36 -49 -35 minecraft:quartz_bricks
+setblock -35 -49 -45 minecraft:quartz_pillar
+setblock -35 -49 -44 minecraft:quartz_bricks
+setblock -35 -49 -43 minecraft:quartz_bricks
+setblock -35 -49 -42 minecraft:quartz_bricks
+setblock -35 -49 -41 minecraft:quartz_bricks
+setblock -35 -49 -40 minecraft:quartz_bricks
+setblock -35 -49 -39 minecraft:quartz_bricks
+setblock -35 -49 -38 minecraft:quartz_bricks
+setblock -35 -49 -37 minecraft:quartz_bricks
+setblock -35 -49 -36 minecraft:quartz_bricks
+setblock -35 -49 -35 minecraft:quartz_pillar
+setblock -45 -48 -45 minecraft:quartz_pillar
+setblock -45 -48 -44 minecraft:quartz_bricks
+setblock -45 -48 -43 minecraft:quartz_bricks
+setblock -45 -48 -42 minecraft:quartz_bricks
+setblock -45 -48 -38 minecraft:quartz_bricks
+setblock -45 -48 -37 minecraft:quartz_bricks
+setblock -45 -48 -36 minecraft:quartz_bricks
+setblock -45 -48 -35 minecraft:quartz_pillar
+setblock -44 -48 -45 minecraft:quartz_bricks
+setblock -44 -48 -35 minecraft:quartz_bricks
+setblock -43 -48 -45 minecraft:quartz_bricks
+setblock -43 -48 -35 minecraft:quartz_bricks
+setblock -42 -48 -45 minecraft:quartz_bricks
+setblock -42 -48 -35 minecraft:quartz_bricks
+setblock -38 -48 -45 minecraft:quartz_bricks
+setblock -38 -48 -35 minecraft:quartz_bricks
+setblock -37 -48 -45 minecraft:quartz_bricks
+setblock -37 -48 -35 minecraft:quartz_bricks
+setblock -36 -48 -45 minecraft:quartz_bricks
+setblock -36 -48 -35 minecraft:quartz_bricks
+setblock -35 -48 -45 minecraft:quartz_pillar
+setblock -35 -48 -44 minecraft:quartz_bricks
+setblock -35 -48 -43 minecraft:quartz_bricks
+setblock -35 -48 -42 minecraft:quartz_bricks
+setblock -35 -48 -38 minecraft:quartz_bricks
+setblock -35 -48 -37 minecraft:quartz_bricks
+setblock -35 -48 -36 minecraft:quartz_bricks
+setblock -35 -48 -35 minecraft:quartz_pillar
+setblock -45 -47 -45 minecraft:quartz_pillar
+setblock -45 -47 -44 minecraft:quartz_bricks
+setblock -45 -47 -43 minecraft:quartz_bricks
+setblock -45 -47 -42 minecraft:quartz_bricks
+setblock -45 -47 -38 minecraft:quartz_bricks
+setblock -45 -47 -37 minecraft:quartz_bricks
+setblock -45 -47 -36 minecraft:quartz_bricks
+setblock -45 -47 -35 minecraft:quartz_pillar
+setblock -44 -47 -45 minecraft:quartz_bricks
+setblock -44 -47 -35 minecraft:quartz_bricks
+setblock -43 -47 -45 minecraft:quartz_bricks
+setblock -43 -47 -35 minecraft:quartz_bricks
+setblock -42 -47 -45 minecraft:quartz_bricks
+setblock -42 -47 -35 minecraft:quartz_bricks
+setblock -38 -47 -45 minecraft:quartz_bricks
+setblock -38 -47 -35 minecraft:quartz_bricks
+setblock -37 -47 -45 minecraft:quartz_bricks
+setblock -37 -47 -35 minecraft:quartz_bricks
+setblock -36 -47 -45 minecraft:quartz_bricks
+setblock -36 -47 -35 minecraft:quartz_bricks
+setblock -35 -47 -45 minecraft:quartz_pillar
+setblock -35 -47 -44 minecraft:quartz_bricks
+setblock -35 -47 -43 minecraft:quartz_bricks
+setblock -35 -47 -42 minecraft:quartz_bricks
+setblock -35 -47 -38 minecraft:quartz_bricks
+setblock -35 -47 -37 minecraft:quartz_bricks
+setblock -35 -47 -36 minecraft:quartz_bricks
+setblock -35 -47 -35 minecraft:quartz_pillar
+setblock -45 -46 -45 minecraft:quartz_pillar
+setblock -45 -46 -44 minecraft:quartz_bricks
+setblock -45 -46 -43 minecraft:quartz_bricks
+setblock -45 -46 -42 minecraft:quartz_bricks
+setblock -45 -46 -38 minecraft:quartz_bricks
+setblock -45 -46 -37 minecraft:quartz_bricks
+setblock -45 -46 -36 minecraft:quartz_bricks
+setblock -45 -46 -35 minecraft:quartz_pillar
+setblock -44 -46 -45 minecraft:quartz_bricks
+setblock -44 -46 -35 minecraft:quartz_bricks
+setblock -43 -46 -45 minecraft:quartz_bricks
+setblock -43 -46 -35 minecraft:quartz_bricks
+setblock -42 -46 -45 minecraft:quartz_bricks
+setblock -42 -46 -35 minecraft:quartz_bricks
+setblock -38 -46 -45 minecraft:quartz_bricks
+setblock -38 -46 -35 minecraft:quartz_bricks
+setblock -37 -46 -45 minecraft:quartz_bricks
+setblock -37 -46 -35 minecraft:quartz_bricks
+setblock -36 -46 -45 minecraft:quartz_bricks
+setblock -36 -46 -35 minecraft:quartz_bricks
+setblock -35 -46 -45 minecraft:quartz_pillar
+setblock -35 -46 -44 minecraft:quartz_bricks
+setblock -35 -46 -43 minecraft:quartz_bricks
+setblock -35 -46 -42 minecraft:quartz_bricks
+setblock -35 -46 -38 minecraft:quartz_bricks
+setblock -35 -46 -37 minecraft:quartz_bricks
+setblock -35 -46 -36 minecraft:quartz_bricks
+setblock -35 -46 -35 minecraft:quartz_pillar
+setblock -45 -45 -45 minecraft:quartz_pillar
+setblock -45 -45 -44 minecraft:quartz_bricks
+setblock -45 -45 -43 minecraft:quartz_bricks
+setblock -45 -45 -42 minecraft:quartz_bricks
+setblock -45 -45 -41 minecraft:quartz_bricks
+setblock -45 -45 -40 minecraft:quartz_bricks
+setblock -45 -45 -39 minecraft:quartz_bricks
+setblock -45 -45 -38 minecraft:quartz_bricks
+setblock -45 -45 -37 minecraft:quartz_bricks
+setblock -45 -45 -36 minecraft:quartz_bricks
+setblock -45 -45 -35 minecraft:quartz_pillar
+setblock -44 -45 -45 minecraft:quartz_bricks
+setblock -44 -45 -35 minecraft:quartz_bricks
+setblock -43 -45 -45 minecraft:quartz_bricks
+setblock -43 -45 -35 minecraft:quartz_bricks
+setblock -42 -45 -45 minecraft:quartz_bricks
+setblock -42 -45 -35 minecraft:quartz_bricks
+setblock -41 -45 -45 minecraft:quartz_bricks
+setblock -41 -45 -35 minecraft:quartz_bricks
+setblock -40 -45 -45 minecraft:quartz_bricks
+setblock -40 -45 -35 minecraft:quartz_bricks
+setblock -39 -45 -45 minecraft:quartz_bricks
+setblock -39 -45 -35 minecraft:quartz_bricks
+setblock -38 -45 -45 minecraft:quartz_bricks
+setblock -38 -45 -35 minecraft:quartz_bricks
+setblock -37 -45 -45 minecraft:quartz_bricks
+setblock -37 -45 -35 minecraft:quartz_bricks
+setblock -36 -45 -45 minecraft:quartz_bricks
+setblock -36 -45 -35 minecraft:quartz_bricks
+setblock -35 -45 -45 minecraft:quartz_pillar
+setblock -35 -45 -44 minecraft:quartz_bricks
+setblock -35 -45 -43 minecraft:quartz_bricks
+setblock -35 -45 -42 minecraft:quartz_bricks
+setblock -35 -45 -41 minecraft:quartz_bricks
+setblock -35 -45 -40 minecraft:quartz_bricks
+setblock -35 -45 -39 minecraft:quartz_bricks
+setblock -35 -45 -38 minecraft:quartz_bricks
+setblock -35 -45 -37 minecraft:quartz_bricks
+setblock -35 -45 -36 minecraft:quartz_bricks
+setblock -35 -45 -35 minecraft:quartz_pillar
+setblock -45 -44 -45 minecraft:quartz_pillar
+setblock -45 -44 -44 minecraft:quartz_block
+setblock -45 -44 -43 minecraft:quartz_block
+setblock -45 -44 -42 minecraft:quartz_block
+setblock -45 -44 -41 minecraft:quartz_block
+setblock -45 -44 -40 minecraft:quartz_block
+setblock -45 -44 -39 minecraft:quartz_block
+setblock -45 -44 -38 minecraft:quartz_block
+setblock -45 -44 -37 minecraft:quartz_block
+setblock -45 -44 -36 minecraft:quartz_block
+setblock -45 -44 -35 minecraft:quartz_pillar
+setblock -44 -44 -45 minecraft:quartz_block
+setblock -44 -44 -35 minecraft:quartz_block
+setblock -43 -44 -45 minecraft:quartz_block
+setblock -43 -44 -35 minecraft:quartz_block
+setblock -42 -44 -45 minecraft:quartz_block
+setblock -42 -44 -35 minecraft:quartz_block
+setblock -41 -44 -45 minecraft:quartz_block
+setblock -41 -44 -35 minecraft:quartz_block
+setblock -40 -44 -45 minecraft:quartz_block
+setblock -40 -44 -35 minecraft:quartz_block
+setblock -39 -44 -45 minecraft:quartz_block
+setblock -39 -44 -35 minecraft:quartz_block
+setblock -38 -44 -45 minecraft:quartz_block
+setblock -38 -44 -35 minecraft:quartz_block
+setblock -37 -44 -45 minecraft:quartz_block
+setblock -37 -44 -35 minecraft:quartz_block
+setblock -36 -44 -45 minecraft:quartz_block
+setblock -36 -44 -35 minecraft:quartz_block
+setblock -35 -44 -45 minecraft:quartz_pillar
+setblock -35 -44 -44 minecraft:quartz_block
+setblock -35 -44 -43 minecraft:quartz_block
+setblock -35 -44 -42 minecraft:quartz_block
+setblock -35 -44 -41 minecraft:quartz_block
+setblock -35 -44 -40 minecraft:quartz_block
+setblock -35 -44 -39 minecraft:quartz_block
+setblock -35 -44 -38 minecraft:quartz_block
+setblock -35 -44 -37 minecraft:quartz_block
+setblock -35 -44 -36 minecraft:quartz_block
+setblock -35 -44 -35 minecraft:quartz_pillar
+setblock -45 -43 -45 minecraft:quartz_pillar
+setblock -45 -43 -44 minecraft:quartz_bricks
+setblock -45 -43 -43 minecraft:quartz_bricks
+setblock -45 -43 -42 minecraft:quartz_bricks
+setblock -45 -43 -41 minecraft:quartz_bricks
+setblock -45 -43 -40 minecraft:quartz_bricks
+setblock -45 -43 -39 minecraft:quartz_bricks
+setblock -45 -43 -38 minecraft:quartz_bricks
+setblock -45 -43 -37 minecraft:quartz_bricks
+setblock -45 -43 -36 minecraft:quartz_bricks
+setblock -45 -43 -35 minecraft:quartz_pillar
+setblock -44 -43 -45 minecraft:quartz_bricks
+setblock -44 -43 -35 minecraft:quartz_bricks
+setblock -43 -43 -45 minecraft:quartz_bricks
+setblock -43 -43 -35 minecraft:quartz_bricks
+setblock -42 -43 -45 minecraft:quartz_bricks
+setblock -42 -43 -35 minecraft:quartz_bricks
+setblock -41 -43 -45 minecraft:quartz_bricks
+setblock -41 -43 -35 minecraft:quartz_bricks
+setblock -40 -43 -45 minecraft:quartz_bricks
+setblock -40 -43 -35 minecraft:quartz_bricks
+setblock -39 -43 -45 minecraft:quartz_bricks
+setblock -39 -43 -35 minecraft:quartz_bricks
+setblock -38 -43 -45 minecraft:quartz_bricks
+setblock -38 -43 -35 minecraft:quartz_bricks
+setblock -37 -43 -45 minecraft:quartz_bricks
+setblock -37 -43 -35 minecraft:quartz_bricks
+setblock -36 -43 -45 minecraft:quartz_bricks
+setblock -36 -43 -35 minecraft:quartz_bricks
+setblock -35 -43 -45 minecraft:quartz_pillar
+setblock -35 -43 -44 minecraft:quartz_bricks
+setblock -35 -43 -43 minecraft:quartz_bricks
+setblock -35 -43 -42 minecraft:quartz_bricks
+setblock -35 -43 -41 minecraft:quartz_bricks
+setblock -35 -43 -40 minecraft:quartz_bricks
+setblock -35 -43 -39 minecraft:quartz_bricks
+setblock -35 -43 -38 minecraft:quartz_bricks
+setblock -35 -43 -37 minecraft:quartz_bricks
+setblock -35 -43 -36 minecraft:quartz_bricks
+setblock -35 -43 -35 minecraft:quartz_pillar
+setblock -45 -42 -45 minecraft:quartz_pillar
+setblock -45 -42 -44 minecraft:quartz_bricks
+setblock -45 -42 -43 minecraft:quartz_bricks
+setblock -45 -42 -42 minecraft:quartz_bricks
+setblock -45 -42 -41 minecraft:quartz_bricks
+setblock -45 -42 -40 minecraft:quartz_bricks
+setblock -45 -42 -39 minecraft:quartz_bricks
+setblock -45 -42 -38 minecraft:quartz_bricks
+setblock -45 -42 -37 minecraft:quartz_bricks
+setblock -45 -42 -36 minecraft:quartz_bricks
+setblock -45 -42 -35 minecraft:quartz_pillar
+setblock -44 -42 -45 minecraft:quartz_bricks
+setblock -44 -42 -35 minecraft:quartz_bricks
+setblock -43 -42 -45 minecraft:quartz_bricks
+setblock -43 -42 -35 minecraft:quartz_bricks
+setblock -42 -42 -45 minecraft:quartz_bricks
+setblock -42 -42 -35 minecraft:quartz_bricks
+setblock -41 -42 -45 minecraft:quartz_bricks
+setblock -41 -42 -35 minecraft:quartz_bricks
+setblock -40 -42 -45 minecraft:quartz_bricks
+setblock -40 -42 -35 minecraft:quartz_bricks
+setblock -39 -42 -45 minecraft:quartz_bricks
+setblock -39 -42 -35 minecraft:quartz_bricks
+setblock -38 -42 -45 minecraft:quartz_bricks
+setblock -38 -42 -35 minecraft:quartz_bricks
+setblock -37 -42 -45 minecraft:quartz_bricks
+setblock -37 -42 -35 minecraft:quartz_bricks
+setblock -36 -42 -45 minecraft:quartz_bricks
+setblock -36 -42 -35 minecraft:quartz_bricks
+setblock -35 -42 -45 minecraft:quartz_pillar
+setblock -35 -42 -44 minecraft:quartz_bricks
+setblock -35 -42 -43 minecraft:quartz_bricks
+setblock -35 -42 -42 minecraft:quartz_bricks
+setblock -35 -42 -41 minecraft:quartz_bricks
+setblock -35 -42 -40 minecraft:quartz_bricks
+setblock -35 -42 -39 minecraft:quartz_bricks
+setblock -35 -42 -38 minecraft:quartz_bricks
+setblock -35 -42 -37 minecraft:quartz_bricks
+setblock -35 -42 -36 minecraft:quartz_bricks
+setblock -35 -42 -35 minecraft:quartz_pillar
+setblock -45 -41 -45 minecraft:quartz_pillar
+setblock -45 -41 -44 minecraft:quartz_bricks
+setblock -45 -41 -43 minecraft:quartz_bricks
+setblock -45 -41 -42 minecraft:quartz_bricks
+setblock -45 -41 -41 minecraft:quartz_bricks
+setblock -45 -41 -40 minecraft:quartz_bricks
+setblock -45 -41 -39 minecraft:quartz_bricks
+setblock -45 -41 -38 minecraft:quartz_bricks
+setblock -45 -41 -37 minecraft:quartz_bricks
+setblock -45 -41 -36 minecraft:quartz_bricks
+setblock -45 -41 -35 minecraft:quartz_pillar
+setblock -44 -41 -45 minecraft:quartz_bricks
+setblock -44 -41 -35 minecraft:quartz_bricks
+setblock -43 -41 -45 minecraft:quartz_bricks
+setblock -43 -41 -35 minecraft:quartz_bricks
+setblock -42 -41 -45 minecraft:quartz_bricks
+setblock -42 -41 -35 minecraft:quartz_bricks
+setblock -41 -41 -45 minecraft:quartz_bricks
+setblock -41 -41 -35 minecraft:quartz_bricks
+setblock -40 -41 -45 minecraft:quartz_bricks
+setblock -40 -41 -35 minecraft:quartz_bricks
+setblock -39 -41 -45 minecraft:quartz_bricks
+setblock -39 -41 -35 minecraft:quartz_bricks
+setblock -38 -41 -45 minecraft:quartz_bricks
+setblock -38 -41 -35 minecraft:quartz_bricks
+setblock -37 -41 -45 minecraft:quartz_bricks
+setblock -37 -41 -35 minecraft:quartz_bricks
+setblock -36 -41 -45 minecraft:quartz_bricks
+setblock -36 -41 -35 minecraft:quartz_bricks
+setblock -35 -41 -45 minecraft:quartz_pillar
+setblock -35 -41 -44 minecraft:quartz_bricks
+setblock -35 -41 -43 minecraft:quartz_bricks
+setblock -35 -41 -42 minecraft:quartz_bricks
+setblock -35 -41 -41 minecraft:quartz_bricks
+setblock -35 -41 -40 minecraft:quartz_bricks
+setblock -35 -41 -39 minecraft:quartz_bricks
+setblock -35 -41 -38 minecraft:quartz_bricks
+setblock -35 -41 -37 minecraft:quartz_bricks
+setblock -35 -41 -36 minecraft:quartz_bricks
+setblock -35 -41 -35 minecraft:quartz_pillar
+setblock -45 -40 -45 minecraft:quartz_pillar
+setblock -45 -40 -44 minecraft:quartz_bricks
+setblock -45 -40 -43 minecraft:quartz_bricks
+setblock -45 -40 -42 minecraft:quartz_bricks
+setblock -45 -40 -38 minecraft:quartz_bricks
+setblock -45 -40 -37 minecraft:quartz_bricks
+setblock -45 -40 -36 minecraft:quartz_bricks
+setblock -45 -40 -35 minecraft:quartz_pillar
+setblock -44 -40 -45 minecraft:quartz_bricks
+setblock -44 -40 -35 minecraft:quartz_bricks
+setblock -43 -40 -45 minecraft:quartz_bricks
+setblock -43 -40 -35 minecraft:quartz_bricks
+setblock -42 -40 -45 minecraft:quartz_bricks
+setblock -42 -40 -35 minecraft:quartz_bricks
+setblock -38 -40 -45 minecraft:quartz_bricks
+setblock -38 -40 -35 minecraft:quartz_bricks
+setblock -37 -40 -45 minecraft:quartz_bricks
+setblock -37 -40 -35 minecraft:quartz_bricks
+setblock -36 -40 -45 minecraft:quartz_bricks
+setblock -36 -40 -35 minecraft:quartz_bricks
+setblock -35 -40 -45 minecraft:quartz_pillar
+setblock -35 -40 -44 minecraft:quartz_bricks
+setblock -35 -40 -43 minecraft:quartz_bricks
+setblock -35 -40 -42 minecraft:quartz_bricks
+setblock -35 -40 -38 minecraft:quartz_bricks
+setblock -35 -40 -37 minecraft:quartz_bricks
+setblock -35 -40 -36 minecraft:quartz_bricks
+setblock -35 -40 -35 minecraft:quartz_pillar
+setblock -45 -39 -45 minecraft:quartz_pillar
+setblock -45 -39 -44 minecraft:quartz_bricks
+setblock -45 -39 -43 minecraft:quartz_bricks
+setblock -45 -39 -42 minecraft:quartz_bricks
+setblock -45 -39 -38 minecraft:quartz_bricks
+setblock -45 -39 -37 minecraft:quartz_bricks
+setblock -45 -39 -36 minecraft:quartz_bricks
+setblock -45 -39 -35 minecraft:quartz_pillar
+setblock -44 -39 -45 minecraft:quartz_bricks
+setblock -44 -39 -35 minecraft:quartz_bricks
+setblock -43 -39 -45 minecraft:quartz_bricks
+setblock -43 -39 -35 minecraft:quartz_bricks
+setblock -42 -39 -45 minecraft:quartz_bricks
+setblock -42 -39 -35 minecraft:quartz_bricks
+setblock -38 -39 -45 minecraft:quartz_bricks
+setblock -38 -39 -35 minecraft:quartz_bricks
+setblock -37 -39 -45 minecraft:quartz_bricks
+setblock -37 -39 -35 minecraft:quartz_bricks
+setblock -36 -39 -45 minecraft:quartz_bricks
+setblock -36 -39 -35 minecraft:quartz_bricks
+setblock -35 -39 -45 minecraft:quartz_pillar
+setblock -35 -39 -44 minecraft:quartz_bricks
+setblock -35 -39 -43 minecraft:quartz_bricks
+setblock -35 -39 -42 minecraft:quartz_bricks
+setblock -35 -39 -38 minecraft:quartz_bricks
+setblock -35 -39 -37 minecraft:quartz_bricks
+setblock -35 -39 -36 minecraft:quartz_bricks
+setblock -35 -39 -35 minecraft:quartz_pillar
+setblock -45 -38 -45 minecraft:quartz_pillar
+setblock -45 -38 -44 minecraft:quartz_bricks
+setblock -45 -38 -43 minecraft:quartz_bricks
+setblock -45 -38 -42 minecraft:quartz_bricks
+setblock -45 -38 -38 minecraft:quartz_bricks
+setblock -45 -38 -37 minecraft:quartz_bricks
+setblock -45 -38 -36 minecraft:quartz_bricks
+setblock -45 -38 -35 minecraft:quartz_pillar
+setblock -44 -38 -45 minecraft:quartz_bricks
+setblock -44 -38 -35 minecraft:quartz_bricks
+setblock -43 -38 -45 minecraft:quartz_bricks
+setblock -43 -38 -35 minecraft:quartz_bricks
+setblock -42 -38 -45 minecraft:quartz_bricks
+setblock -42 -38 -35 minecraft:quartz_bricks
+setblock -38 -38 -45 minecraft:quartz_bricks
+setblock -38 -38 -35 minecraft:quartz_bricks
+setblock -37 -38 -45 minecraft:quartz_bricks
+setblock -37 -38 -35 minecraft:quartz_bricks
+setblock -36 -38 -45 minecraft:quartz_bricks
+setblock -36 -38 -35 minecraft:quartz_bricks
+setblock -35 -38 -45 minecraft:quartz_pillar
+setblock -35 -38 -44 minecraft:quartz_bricks
+setblock -35 -38 -43 minecraft:quartz_bricks
+setblock -35 -38 -42 minecraft:quartz_bricks
+setblock -35 -38 -38 minecraft:quartz_bricks
+setblock -35 -38 -37 minecraft:quartz_bricks
+setblock -35 -38 -36 minecraft:quartz_bricks
+setblock -35 -38 -35 minecraft:quartz_pillar
+setblock -45 -37 -45 minecraft:quartz_pillar
+setblock -45 -37 -44 minecraft:quartz_bricks
+setblock -45 -37 -43 minecraft:quartz_bricks
+setblock -45 -37 -42 minecraft:quartz_bricks
+setblock -45 -37 -41 minecraft:quartz_bricks
+setblock -45 -37 -40 minecraft:quartz_bricks
+setblock -45 -37 -39 minecraft:quartz_bricks
+setblock -45 -37 -38 minecraft:quartz_bricks
+setblock -45 -37 -37 minecraft:quartz_bricks
+setblock -45 -37 -36 minecraft:quartz_bricks
+setblock -45 -37 -35 minecraft:quartz_pillar
+setblock -44 -37 -45 minecraft:quartz_bricks
+setblock -44 -37 -35 minecraft:quartz_bricks
+setblock -43 -37 -45 minecraft:quartz_bricks
+setblock -43 -37 -35 minecraft:quartz_bricks
+setblock -42 -37 -45 minecraft:quartz_bricks
+setblock -42 -37 -35 minecraft:quartz_bricks
+setblock -41 -37 -45 minecraft:quartz_bricks
+setblock -41 -37 -35 minecraft:quartz_bricks
+setblock -40 -37 -45 minecraft:quartz_bricks
+setblock -40 -37 -35 minecraft:quartz_bricks
+setblock -39 -37 -45 minecraft:quartz_bricks
+setblock -39 -37 -35 minecraft:quartz_bricks
+setblock -38 -37 -45 minecraft:quartz_bricks
+setblock -38 -37 -35 minecraft:quartz_bricks
+setblock -37 -37 -45 minecraft:quartz_bricks
+setblock -37 -37 -35 minecraft:quartz_bricks
+setblock -36 -37 -45 minecraft:quartz_bricks
+setblock -36 -37 -35 minecraft:quartz_bricks
+setblock -35 -37 -45 minecraft:quartz_pillar
+setblock -35 -37 -44 minecraft:quartz_bricks
+setblock -35 -37 -43 minecraft:quartz_bricks
+setblock -35 -37 -42 minecraft:quartz_bricks
+setblock -35 -37 -41 minecraft:quartz_bricks
+setblock -35 -37 -40 minecraft:quartz_bricks
+setblock -35 -37 -39 minecraft:quartz_bricks
+setblock -35 -37 -38 minecraft:quartz_bricks
+setblock -35 -37 -37 minecraft:quartz_bricks
+setblock -35 -37 -36 minecraft:quartz_bricks
+setblock -35 -37 -35 minecraft:quartz_pillar
+setblock -45 -36 -45 minecraft:quartz_pillar
+setblock -45 -36 -44 minecraft:quartz_block
+setblock -45 -36 -43 minecraft:quartz_block
+setblock -45 -36 -42 minecraft:quartz_block
+setblock -45 -36 -41 minecraft:quartz_block
+setblock -45 -36 -40 minecraft:quartz_block
+setblock -45 -36 -39 minecraft:quartz_block
+setblock -45 -36 -38 minecraft:quartz_block
+setblock -45 -36 -37 minecraft:quartz_block
+setblock -45 -36 -36 minecraft:quartz_block
+setblock -45 -36 -35 minecraft:quartz_pillar
+setblock -44 -36 -45 minecraft:quartz_block
+setblock -44 -36 -35 minecraft:quartz_block
+setblock -43 -36 -45 minecraft:quartz_block
+setblock -43 -36 -35 minecraft:quartz_block
+setblock -42 -36 -45 minecraft:quartz_block
+setblock -42 -36 -35 minecraft:quartz_block
+setblock -41 -36 -45 minecraft:quartz_block
+setblock -41 -36 -35 minecraft:quartz_block
+setblock -40 -36 -45 minecraft:quartz_block
+setblock -40 -36 -35 minecraft:quartz_block
+setblock -39 -36 -45 minecraft:quartz_block
+setblock -39 -36 -35 minecraft:quartz_block
+setblock -38 -36 -45 minecraft:quartz_block
+setblock -38 -36 -35 minecraft:quartz_block
+setblock -37 -36 -45 minecraft:quartz_block
+setblock -37 -36 -35 minecraft:quartz_block
+setblock -36 -36 -45 minecraft:quartz_block
+setblock -36 -36 -35 minecraft:quartz_block
+setblock -35 -36 -45 minecraft:quartz_pillar
+setblock -35 -36 -44 minecraft:quartz_block
+setblock -35 -36 -43 minecraft:quartz_block
+setblock -35 -36 -42 minecraft:quartz_block
+setblock -35 -36 -41 minecraft:quartz_block
+setblock -35 -36 -40 minecraft:quartz_block
+setblock -35 -36 -39 minecraft:quartz_block
+setblock -35 -36 -38 minecraft:quartz_block
+setblock -35 -36 -37 minecraft:quartz_block
+setblock -35 -36 -36 minecraft:quartz_block
+setblock -35 -36 -35 minecraft:quartz_pillar
+setblock -45 -35 -45 minecraft:quartz_pillar
+setblock -45 -35 -44 minecraft:quartz_bricks
+setblock -45 -35 -43 minecraft:quartz_bricks
+setblock -45 -35 -42 minecraft:quartz_bricks
+setblock -45 -35 -41 minecraft:quartz_bricks
+setblock -45 -35 -40 minecraft:quartz_bricks
+setblock -45 -35 -39 minecraft:quartz_bricks
+setblock -45 -35 -38 minecraft:quartz_bricks
+setblock -45 -35 -37 minecraft:quartz_bricks
+setblock -45 -35 -36 minecraft:quartz_bricks
+setblock -45 -35 -35 minecraft:quartz_pillar
+setblock -44 -35 -45 minecraft:quartz_bricks
+setblock -44 -35 -35 minecraft:quartz_bricks
+setblock -43 -35 -45 minecraft:quartz_bricks
+setblock -43 -35 -35 minecraft:quartz_bricks
+setblock -42 -35 -45 minecraft:quartz_bricks
+setblock -42 -35 -35 minecraft:quartz_bricks
+setblock -41 -35 -45 minecraft:quartz_bricks
+setblock -41 -35 -35 minecraft:quartz_bricks
+setblock -40 -35 -45 minecraft:quartz_bricks
+setblock -40 -35 -35 minecraft:quartz_bricks
+setblock -39 -35 -45 minecraft:quartz_bricks
+setblock -39 -35 -35 minecraft:quartz_bricks
+setblock -38 -35 -45 minecraft:quartz_bricks
+setblock -38 -35 -35 minecraft:quartz_bricks
+setblock -37 -35 -45 minecraft:quartz_bricks
+setblock -37 -35 -35 minecraft:quartz_bricks
+setblock -36 -35 -45 minecraft:quartz_bricks
+setblock -36 -35 -35 minecraft:quartz_bricks
+setblock -35 -35 -45 minecraft:quartz_pillar
+setblock -35 -35 -44 minecraft:quartz_bricks
+setblock -35 -35 -43 minecraft:quartz_bricks
+setblock -35 -35 -42 minecraft:quartz_bricks
+setblock -35 -35 -41 minecraft:quartz_bricks
+setblock -35 -35 -40 minecraft:quartz_bricks
+setblock -35 -35 -39 minecraft:quartz_bricks
+setblock -35 -35 -38 minecraft:quartz_bricks
+setblock -35 -35 -37 minecraft:quartz_bricks
+setblock -35 -35 -36 minecraft:quartz_bricks
+setblock -35 -35 -35 minecraft:quartz_pillar
+setblock -45 -34 -45 minecraft:quartz_pillar
+setblock -45 -34 -44 minecraft:quartz_bricks
+setblock -45 -34 -43 minecraft:quartz_bricks
+setblock -45 -34 -42 minecraft:quartz_bricks
+setblock -45 -34 -41 minecraft:quartz_bricks
+setblock -45 -34 -40 minecraft:quartz_bricks
+setblock -45 -34 -39 minecraft:quartz_bricks
+setblock -45 -34 -38 minecraft:quartz_bricks
+setblock -45 -34 -37 minecraft:quartz_bricks
+setblock -45 -34 -36 minecraft:quartz_bricks
+setblock -45 -34 -35 minecraft:quartz_pillar
+setblock -44 -34 -45 minecraft:quartz_bricks
+setblock -44 -34 -35 minecraft:quartz_bricks
+setblock -43 -34 -45 minecraft:quartz_bricks
+setblock -43 -34 -35 minecraft:quartz_bricks
+setblock -42 -34 -45 minecraft:quartz_bricks
+setblock -42 -34 -35 minecraft:quartz_bricks
+setblock -41 -34 -45 minecraft:quartz_bricks
+setblock -41 -34 -35 minecraft:quartz_bricks
+setblock -40 -34 -45 minecraft:quartz_bricks
+setblock -40 -34 -35 minecraft:quartz_bricks
+setblock -39 -34 -45 minecraft:quartz_bricks
+setblock -39 -34 -35 minecraft:quartz_bricks
+setblock -38 -34 -45 minecraft:quartz_bricks
+setblock -38 -34 -35 minecraft:quartz_bricks
+setblock -37 -34 -45 minecraft:quartz_bricks
+setblock -37 -34 -35 minecraft:quartz_bricks
+setblock -36 -34 -45 minecraft:quartz_bricks
+setblock -36 -34 -35 minecraft:quartz_bricks
+setblock -35 -34 -45 minecraft:quartz_pillar
+setblock -35 -34 -44 minecraft:quartz_bricks
+setblock -35 -34 -43 minecraft:quartz_bricks
+setblock -35 -34 -42 minecraft:quartz_bricks
+setblock -35 -34 -41 minecraft:quartz_bricks
+setblock -35 -34 -40 minecraft:quartz_bricks
+setblock -35 -34 -39 minecraft:quartz_bricks
+setblock -35 -34 -38 minecraft:quartz_bricks
+setblock -35 -34 -37 minecraft:quartz_bricks
+setblock -35 -34 -36 minecraft:quartz_bricks
+setblock -35 -34 -35 minecraft:quartz_pillar
+setblock -45 -33 -45 minecraft:quartz_pillar
+setblock -45 -33 -44 minecraft:quartz_bricks
+setblock -45 -33 -43 minecraft:quartz_bricks
+setblock -45 -33 -42 minecraft:quartz_bricks
+setblock -45 -33 -41 minecraft:quartz_bricks
+setblock -45 -33 -40 minecraft:quartz_bricks
+setblock -45 -33 -39 minecraft:quartz_bricks
+setblock -45 -33 -38 minecraft:quartz_bricks
+setblock -45 -33 -37 minecraft:quartz_bricks
+setblock -45 -33 -36 minecraft:quartz_bricks
+setblock -45 -33 -35 minecraft:quartz_pillar
+setblock -44 -33 -45 minecraft:quartz_bricks
+setblock -44 -33 -35 minecraft:quartz_bricks
+setblock -43 -33 -45 minecraft:quartz_bricks
+setblock -43 -33 -35 minecraft:quartz_bricks
+setblock -42 -33 -45 minecraft:quartz_bricks
+setblock -42 -33 -35 minecraft:quartz_bricks
+setblock -41 -33 -45 minecraft:quartz_bricks
+setblock -41 -33 -35 minecraft:quartz_bricks
+setblock -40 -33 -45 minecraft:quartz_bricks
+setblock -40 -33 -35 minecraft:quartz_bricks
+setblock -39 -33 -45 minecraft:quartz_bricks
+setblock -39 -33 -35 minecraft:quartz_bricks
+setblock -38 -33 -45 minecraft:quartz_bricks
+setblock -38 -33 -35 minecraft:quartz_bricks
+setblock -37 -33 -45 minecraft:quartz_bricks
+setblock -37 -33 -35 minecraft:quartz_bricks
+setblock -36 -33 -45 minecraft:quartz_bricks
+setblock -36 -33 -35 minecraft:quartz_bricks
+setblock -35 -33 -45 minecraft:quartz_pillar
+setblock -35 -33 -44 minecraft:quartz_bricks
+setblock -35 -33 -43 minecraft:quartz_bricks
+setblock -35 -33 -42 minecraft:quartz_bricks
+setblock -35 -33 -41 minecraft:quartz_bricks
+setblock -35 -33 -40 minecraft:quartz_bricks
+setblock -35 -33 -39 minecraft:quartz_bricks
+setblock -35 -33 -38 minecraft:quartz_bricks
+setblock -35 -33 -37 minecraft:quartz_bricks
+setblock -35 -33 -36 minecraft:quartz_bricks
+setblock -35 -33 -35 minecraft:quartz_pillar
+setblock -45 -32 -45 minecraft:quartz_pillar
+setblock -45 -32 -44 minecraft:quartz_bricks
+setblock -45 -32 -43 minecraft:quartz_bricks
+setblock -45 -32 -42 minecraft:quartz_bricks
+setblock -45 -32 -38 minecraft:quartz_bricks
+setblock -45 -32 -37 minecraft:quartz_bricks
+setblock -45 -32 -36 minecraft:quartz_bricks
+setblock -45 -32 -35 minecraft:quartz_pillar
+setblock -44 -32 -45 minecraft:quartz_bricks
+setblock -44 -32 -35 minecraft:quartz_bricks
+setblock -43 -32 -45 minecraft:quartz_bricks
+setblock -43 -32 -35 minecraft:quartz_bricks
+setblock -42 -32 -45 minecraft:quartz_bricks
+setblock -42 -32 -35 minecraft:quartz_bricks
+setblock -38 -32 -45 minecraft:quartz_bricks
+setblock -38 -32 -35 minecraft:quartz_bricks
+setblock -37 -32 -45 minecraft:quartz_bricks
+setblock -37 -32 -35 minecraft:quartz_bricks
+setblock -36 -32 -45 minecraft:quartz_bricks
+setblock -36 -32 -35 minecraft:quartz_bricks
+setblock -35 -32 -45 minecraft:quartz_pillar
+setblock -35 -32 -44 minecraft:quartz_bricks
+setblock -35 -32 -43 minecraft:quartz_bricks
+setblock -35 -32 -42 minecraft:quartz_bricks
+setblock -35 -32 -38 minecraft:quartz_bricks
+setblock -35 -32 -37 minecraft:quartz_bricks
+setblock -35 -32 -36 minecraft:quartz_bricks
+setblock -35 -32 -35 minecraft:quartz_pillar
+setblock -45 -31 -45 minecraft:quartz_pillar
+setblock -45 -31 -44 minecraft:quartz_bricks
+setblock -45 -31 -43 minecraft:quartz_bricks
+setblock -45 -31 -42 minecraft:quartz_bricks
+setblock -45 -31 -38 minecraft:quartz_bricks
+setblock -45 -31 -37 minecraft:quartz_bricks
+setblock -45 -31 -36 minecraft:quartz_bricks
+setblock -45 -31 -35 minecraft:quartz_pillar
+setblock -44 -31 -45 minecraft:quartz_bricks
+setblock -44 -31 -35 minecraft:quartz_bricks
+setblock -43 -31 -45 minecraft:quartz_bricks
+setblock -43 -31 -35 minecraft:quartz_bricks
+setblock -42 -31 -45 minecraft:quartz_bricks
+setblock -42 -31 -35 minecraft:quartz_bricks
+setblock -38 -31 -45 minecraft:quartz_bricks
+setblock -38 -31 -35 minecraft:quartz_bricks
+setblock -37 -31 -45 minecraft:quartz_bricks
+setblock -37 -31 -35 minecraft:quartz_bricks
+setblock -36 -31 -45 minecraft:quartz_bricks
+setblock -36 -31 -35 minecraft:quartz_bricks
+setblock -35 -31 -45 minecraft:quartz_pillar
+setblock -35 -31 -44 minecraft:quartz_bricks
+setblock -35 -31 -43 minecraft:quartz_bricks
+setblock -35 -31 -42 minecraft:quartz_bricks
+setblock -35 -31 -38 minecraft:quartz_bricks
+setblock -35 -31 -37 minecraft:quartz_bricks
+setblock -35 -31 -36 minecraft:quartz_bricks
+setblock -35 -31 -35 minecraft:quartz_pillar
+setblock -45 -30 -45 minecraft:quartz_pillar
+setblock -45 -30 -44 minecraft:quartz_bricks
+setblock -45 -30 -43 minecraft:quartz_bricks
+setblock -45 -30 -42 minecraft:quartz_bricks
+setblock -45 -30 -38 minecraft:quartz_bricks
+setblock -45 -30 -37 minecraft:quartz_bricks
+setblock -45 -30 -36 minecraft:quartz_bricks
+setblock -45 -30 -35 minecraft:quartz_pillar
+setblock -44 -30 -45 minecraft:quartz_bricks
+setblock -44 -30 -35 minecraft:quartz_bricks
+setblock -43 -30 -45 minecraft:quartz_bricks
+setblock -43 -30 -35 minecraft:quartz_bricks
+setblock -42 -30 -45 minecraft:quartz_bricks
+setblock -42 -30 -35 minecraft:quartz_bricks
+setblock -38 -30 -45 minecraft:quartz_bricks
+setblock -38 -30 -35 minecraft:quartz_bricks
+setblock -37 -30 -45 minecraft:quartz_bricks
+setblock -37 -30 -35 minecraft:quartz_bricks
+setblock -36 -30 -45 minecraft:quartz_bricks
+setblock -36 -30 -35 minecraft:quartz_bricks
+setblock -35 -30 -45 minecraft:quartz_pillar
+setblock -35 -30 -44 minecraft:quartz_bricks
+setblock -35 -30 -43 minecraft:quartz_bricks
+setblock -35 -30 -42 minecraft:quartz_bricks
+setblock -35 -30 -38 minecraft:quartz_bricks
+setblock -35 -30 -37 minecraft:quartz_bricks
+setblock -35 -30 -36 minecraft:quartz_bricks
+setblock -35 -30 -35 minecraft:quartz_pillar
+setblock -45 -29 -45 minecraft:quartz_pillar
+setblock -45 -29 -44 minecraft:quartz_bricks
+setblock -45 -29 -43 minecraft:quartz_bricks
+setblock -45 -29 -42 minecraft:quartz_bricks
+setblock -45 -29 -41 minecraft:quartz_bricks
+setblock -45 -29 -40 minecraft:quartz_bricks
+setblock -45 -29 -39 minecraft:quartz_bricks
+setblock -45 -29 -38 minecraft:quartz_bricks
+setblock -45 -29 -37 minecraft:quartz_bricks
+setblock -45 -29 -36 minecraft:quartz_bricks
+setblock -45 -29 -35 minecraft:quartz_pillar
+setblock -44 -29 -45 minecraft:quartz_bricks
+setblock -44 -29 -35 minecraft:quartz_bricks
+setblock -43 -29 -45 minecraft:quartz_bricks
+setblock -43 -29 -35 minecraft:quartz_bricks
+setblock -42 -29 -45 minecraft:quartz_bricks
+setblock -42 -29 -35 minecraft:quartz_bricks
+setblock -41 -29 -45 minecraft:quartz_bricks
+setblock -41 -29 -35 minecraft:quartz_bricks
+setblock -40 -29 -45 minecraft:quartz_bricks
+setblock -40 -29 -35 minecraft:quartz_bricks
+setblock -39 -29 -45 minecraft:quartz_bricks
+setblock -39 -29 -35 minecraft:quartz_bricks
+setblock -38 -29 -45 minecraft:quartz_bricks
+setblock -38 -29 -35 minecraft:quartz_bricks
+setblock -37 -29 -45 minecraft:quartz_bricks
+setblock -37 -29 -35 minecraft:quartz_bricks
+setblock -36 -29 -45 minecraft:quartz_bricks
+setblock -36 -29 -35 minecraft:quartz_bricks
+setblock -35 -29 -45 minecraft:quartz_pillar
+setblock -35 -29 -44 minecraft:quartz_bricks
+setblock -35 -29 -43 minecraft:quartz_bricks
+setblock -35 -29 -42 minecraft:quartz_bricks
+setblock -35 -29 -41 minecraft:quartz_bricks
+setblock -35 -29 -40 minecraft:quartz_bricks
+setblock -35 -29 -39 minecraft:quartz_bricks
+setblock -35 -29 -38 minecraft:quartz_bricks
+setblock -35 -29 -37 minecraft:quartz_bricks
+setblock -35 -29 -36 minecraft:quartz_bricks
+setblock -35 -29 -35 minecraft:quartz_pillar
+setblock -45 -28 -45 minecraft:quartz_pillar
+setblock -45 -28 -44 minecraft:quartz_block
+setblock -45 -28 -43 minecraft:quartz_block
+setblock -45 -28 -42 minecraft:quartz_block
+setblock -45 -28 -41 minecraft:quartz_block
+setblock -45 -28 -40 minecraft:quartz_block
+setblock -45 -28 -39 minecraft:quartz_block
+setblock -45 -28 -38 minecraft:quartz_block
+setblock -45 -28 -37 minecraft:quartz_block
+setblock -45 -28 -36 minecraft:quartz_block
+setblock -45 -28 -35 minecraft:quartz_pillar
+setblock -44 -28 -45 minecraft:quartz_block
+setblock -44 -28 -35 minecraft:quartz_block
+setblock -43 -28 -45 minecraft:quartz_block
+setblock -43 -28 -35 minecraft:quartz_block
+setblock -42 -28 -45 minecraft:quartz_block
+setblock -42 -28 -35 minecraft:quartz_block
+setblock -41 -28 -45 minecraft:quartz_block
+setblock -41 -28 -35 minecraft:quartz_block
+setblock -40 -28 -45 minecraft:quartz_block
+setblock -40 -28 -35 minecraft:quartz_block
+setblock -39 -28 -45 minecraft:quartz_block
+setblock -39 -28 -35 minecraft:quartz_block
+setblock -38 -28 -45 minecraft:quartz_block
+setblock -38 -28 -35 minecraft:quartz_block
+setblock -37 -28 -45 minecraft:quartz_block
+setblock -37 -28 -35 minecraft:quartz_block
+setblock -36 -28 -45 minecraft:quartz_block
+setblock -36 -28 -35 minecraft:quartz_block
+setblock -35 -28 -45 minecraft:quartz_pillar
+setblock -35 -28 -44 minecraft:quartz_block
+setblock -35 -28 -43 minecraft:quartz_block
+setblock -35 -28 -42 minecraft:quartz_block
+setblock -35 -28 -41 minecraft:quartz_block
+setblock -35 -28 -40 minecraft:quartz_block
+setblock -35 -28 -39 minecraft:quartz_block
+setblock -35 -28 -38 minecraft:quartz_block
+setblock -35 -28 -37 minecraft:quartz_block
+setblock -35 -28 -36 minecraft:quartz_block
+setblock -35 -28 -35 minecraft:quartz_pillar
+setblock -45 -27 -45 minecraft:quartz_pillar
+setblock -45 -27 -44 minecraft:quartz_bricks
+setblock -45 -27 -43 minecraft:quartz_bricks
+setblock -45 -27 -42 minecraft:quartz_bricks
+setblock -45 -27 -41 minecraft:quartz_bricks
+setblock -45 -27 -40 minecraft:quartz_bricks
+setblock -45 -27 -39 minecraft:quartz_bricks
+setblock -45 -27 -38 minecraft:quartz_bricks
+setblock -45 -27 -37 minecraft:quartz_bricks
+setblock -45 -27 -36 minecraft:quartz_bricks
+setblock -45 -27 -35 minecraft:quartz_pillar
+setblock -44 -27 -45 minecraft:quartz_bricks
+setblock -44 -27 -35 minecraft:quartz_bricks
+setblock -43 -27 -45 minecraft:quartz_bricks
+setblock -43 -27 -35 minecraft:quartz_bricks
+setblock -42 -27 -45 minecraft:quartz_bricks
+setblock -42 -27 -35 minecraft:quartz_bricks
+setblock -41 -27 -45 minecraft:quartz_bricks
+setblock -41 -27 -35 minecraft:quartz_bricks
+setblock -40 -27 -45 minecraft:quartz_bricks
+setblock -40 -27 -35 minecraft:quartz_bricks
+setblock -39 -27 -45 minecraft:quartz_bricks
+setblock -39 -27 -35 minecraft:quartz_bricks
+setblock -38 -27 -45 minecraft:quartz_bricks
+setblock -38 -27 -35 minecraft:quartz_bricks
+setblock -37 -27 -45 minecraft:quartz_bricks
+setblock -37 -27 -35 minecraft:quartz_bricks
+setblock -36 -27 -45 minecraft:quartz_bricks
+setblock -36 -27 -35 minecraft:quartz_bricks
+setblock -35 -27 -45 minecraft:quartz_pillar
+setblock -35 -27 -44 minecraft:quartz_bricks
+setblock -35 -27 -43 minecraft:quartz_bricks
+setblock -35 -27 -42 minecraft:quartz_bricks
+setblock -35 -27 -41 minecraft:quartz_bricks
+setblock -35 -27 -40 minecraft:quartz_bricks
+setblock -35 -27 -39 minecraft:quartz_bricks
+setblock -35 -27 -38 minecraft:quartz_bricks
+setblock -35 -27 -37 minecraft:quartz_bricks
+setblock -35 -27 -36 minecraft:quartz_bricks
+setblock -35 -27 -35 minecraft:quartz_pillar
+setblock -45 -26 -45 minecraft:quartz_pillar
+setblock -45 -26 -44 minecraft:quartz_bricks
+setblock -45 -26 -43 minecraft:quartz_bricks
+setblock -45 -26 -42 minecraft:quartz_bricks
+setblock -45 -26 -41 minecraft:quartz_bricks
+setblock -45 -26 -40 minecraft:quartz_bricks
+setblock -45 -26 -39 minecraft:quartz_bricks
+setblock -45 -26 -38 minecraft:quartz_bricks
+setblock -45 -26 -37 minecraft:quartz_bricks
+setblock -45 -26 -36 minecraft:quartz_bricks
+setblock -45 -26 -35 minecraft:quartz_pillar
+setblock -44 -26 -45 minecraft:quartz_bricks
+setblock -44 -26 -35 minecraft:quartz_bricks
+setblock -43 -26 -45 minecraft:quartz_bricks
+setblock -43 -26 -35 minecraft:quartz_bricks
+setblock -42 -26 -45 minecraft:quartz_bricks
+setblock -42 -26 -35 minecraft:quartz_bricks
+setblock -41 -26 -45 minecraft:quartz_bricks
+setblock -41 -26 -35 minecraft:quartz_bricks
+setblock -40 -26 -45 minecraft:quartz_bricks
+setblock -40 -26 -35 minecraft:quartz_bricks
+setblock -39 -26 -45 minecraft:quartz_bricks
+setblock -39 -26 -35 minecraft:quartz_bricks
+setblock -38 -26 -45 minecraft:quartz_bricks
+setblock -38 -26 -35 minecraft:quartz_bricks
+setblock -37 -26 -45 minecraft:quartz_bricks
+setblock -37 -26 -35 minecraft:quartz_bricks
+setblock -36 -26 -45 minecraft:quartz_bricks
+setblock -36 -26 -35 minecraft:quartz_bricks
+setblock -35 -26 -45 minecraft:quartz_pillar
+setblock -35 -26 -44 minecraft:quartz_bricks
+setblock -35 -26 -43 minecraft:quartz_bricks
+setblock -35 -26 -42 minecraft:quartz_bricks
+setblock -35 -26 -41 minecraft:quartz_bricks
+setblock -35 -26 -40 minecraft:quartz_bricks
+setblock -35 -26 -39 minecraft:quartz_bricks
+setblock -35 -26 -38 minecraft:quartz_bricks
+setblock -35 -26 -37 minecraft:quartz_bricks
+setblock -35 -26 -36 minecraft:quartz_bricks
+setblock -35 -26 -35 minecraft:quartz_pillar
+setblock -45 -25 -45 minecraft:quartz_pillar
+setblock -45 -25 -44 minecraft:quartz_bricks
+setblock -45 -25 -43 minecraft:quartz_bricks
+setblock -45 -25 -42 minecraft:quartz_bricks
+setblock -45 -25 -41 minecraft:quartz_bricks
+setblock -45 -25 -40 minecraft:quartz_bricks
+setblock -45 -25 -39 minecraft:quartz_bricks
+setblock -45 -25 -38 minecraft:quartz_bricks
+setblock -45 -25 -37 minecraft:quartz_bricks
+setblock -45 -25 -36 minecraft:quartz_bricks
+setblock -45 -25 -35 minecraft:quartz_pillar
+setblock -44 -25 -45 minecraft:quartz_bricks
+setblock -44 -25 -35 minecraft:quartz_bricks
+setblock -43 -25 -45 minecraft:quartz_bricks
+setblock -43 -25 -35 minecraft:quartz_bricks
+setblock -42 -25 -45 minecraft:quartz_bricks
+setblock -42 -25 -35 minecraft:quartz_bricks
+setblock -41 -25 -45 minecraft:quartz_bricks
+setblock -41 -25 -35 minecraft:quartz_bricks
+setblock -40 -25 -45 minecraft:quartz_bricks
+setblock -40 -25 -35 minecraft:quartz_bricks
+setblock -39 -25 -45 minecraft:quartz_bricks
+setblock -39 -25 -35 minecraft:quartz_bricks
+setblock -38 -25 -45 minecraft:quartz_bricks
+setblock -38 -25 -35 minecraft:quartz_bricks
+setblock -37 -25 -45 minecraft:quartz_bricks
+setblock -37 -25 -35 minecraft:quartz_bricks
+setblock -36 -25 -45 minecraft:quartz_bricks
+setblock -36 -25 -35 minecraft:quartz_bricks
+setblock -35 -25 -45 minecraft:quartz_pillar
+setblock -35 -25 -44 minecraft:quartz_bricks
+setblock -35 -25 -43 minecraft:quartz_bricks
+setblock -35 -25 -42 minecraft:quartz_bricks
+setblock -35 -25 -41 minecraft:quartz_bricks
+setblock -35 -25 -40 minecraft:quartz_bricks
+setblock -35 -25 -39 minecraft:quartz_bricks
+setblock -35 -25 -38 minecraft:quartz_bricks
+setblock -35 -25 -37 minecraft:quartz_bricks
+setblock -35 -25 -36 minecraft:quartz_bricks
+setblock -35 -25 -35 minecraft:quartz_pillar
+setblock -45 -24 -45 minecraft:quartz_pillar
+setblock -45 -24 -44 minecraft:quartz_bricks
+setblock -45 -24 -43 minecraft:quartz_bricks
+setblock -45 -24 -42 minecraft:quartz_bricks
+setblock -45 -24 -41 minecraft:quartz_bricks
+setblock -45 -24 -40 minecraft:quartz_bricks
+setblock -45 -24 -39 minecraft:quartz_bricks
+setblock -45 -24 -38 minecraft:quartz_bricks
+setblock -45 -24 -37 minecraft:quartz_bricks
+setblock -45 -24 -36 minecraft:quartz_bricks
+setblock -45 -24 -35 minecraft:quartz_pillar
+setblock -44 -24 -45 minecraft:quartz_bricks
+setblock -44 -24 -35 minecraft:quartz_bricks
+setblock -43 -24 -45 minecraft:quartz_bricks
+setblock -43 -24 -35 minecraft:quartz_bricks
+setblock -42 -24 -45 minecraft:quartz_bricks
+setblock -42 -24 -35 minecraft:quartz_bricks
+setblock -41 -24 -45 minecraft:quartz_bricks
+setblock -41 -24 -35 minecraft:quartz_bricks
+setblock -40 -24 -45 minecraft:quartz_bricks
+setblock -40 -24 -35 minecraft:quartz_bricks
+setblock -39 -24 -45 minecraft:quartz_bricks
+setblock -39 -24 -35 minecraft:quartz_bricks
+setblock -38 -24 -45 minecraft:quartz_bricks
+setblock -38 -24 -35 minecraft:quartz_bricks
+setblock -37 -24 -45 minecraft:quartz_bricks
+setblock -37 -24 -35 minecraft:quartz_bricks
+setblock -36 -24 -45 minecraft:quartz_bricks
+setblock -36 -24 -35 minecraft:quartz_bricks
+setblock -35 -24 -45 minecraft:quartz_pillar
+setblock -35 -24 -44 minecraft:quartz_bricks
+setblock -35 -24 -43 minecraft:quartz_bricks
+setblock -35 -24 -42 minecraft:quartz_bricks
+setblock -35 -24 -41 minecraft:quartz_bricks
+setblock -35 -24 -40 minecraft:quartz_bricks
+setblock -35 -24 -39 minecraft:quartz_bricks
+setblock -35 -24 -38 minecraft:quartz_bricks
+setblock -35 -24 -37 minecraft:quartz_bricks
+setblock -35 -24 -36 minecraft:quartz_bricks
+setblock -35 -24 -35 minecraft:quartz_pillar
+setblock -45 -23 -45 minecraft:quartz_pillar
+setblock -45 -23 -44 minecraft:quartz_bricks
+setblock -45 -23 -43 minecraft:quartz_bricks
+setblock -45 -23 -42 minecraft:quartz_bricks
+setblock -45 -23 -41 minecraft:quartz_bricks
+setblock -45 -23 -40 minecraft:quartz_bricks
+setblock -45 -23 -39 minecraft:quartz_bricks
+setblock -45 -23 -38 minecraft:quartz_bricks
+setblock -45 -23 -37 minecraft:quartz_bricks
+setblock -45 -23 -36 minecraft:quartz_bricks
+setblock -45 -23 -35 minecraft:quartz_pillar
+setblock -44 -23 -45 minecraft:quartz_bricks
+setblock -44 -23 -35 minecraft:quartz_bricks
+setblock -43 -23 -45 minecraft:quartz_bricks
+setblock -43 -23 -35 minecraft:quartz_bricks
+setblock -42 -23 -45 minecraft:quartz_bricks
+setblock -42 -23 -35 minecraft:quartz_bricks
+setblock -41 -23 -45 minecraft:quartz_bricks
+setblock -41 -23 -35 minecraft:quartz_bricks
+setblock -40 -23 -45 minecraft:quartz_bricks
+setblock -40 -23 -35 minecraft:quartz_bricks
+setblock -39 -23 -45 minecraft:quartz_bricks
+setblock -39 -23 -35 minecraft:quartz_bricks
+setblock -38 -23 -45 minecraft:quartz_bricks
+setblock -38 -23 -35 minecraft:quartz_bricks
+setblock -37 -23 -45 minecraft:quartz_bricks
+setblock -37 -23 -35 minecraft:quartz_bricks
+setblock -36 -23 -45 minecraft:quartz_bricks
+setblock -36 -23 -35 minecraft:quartz_bricks
+setblock -35 -23 -45 minecraft:quartz_pillar
+setblock -35 -23 -44 minecraft:quartz_bricks
+setblock -35 -23 -43 minecraft:quartz_bricks
+setblock -35 -23 -42 minecraft:quartz_bricks
+setblock -35 -23 -41 minecraft:quartz_bricks
+setblock -35 -23 -40 minecraft:quartz_bricks
+setblock -35 -23 -39 minecraft:quartz_bricks
+setblock -35 -23 -38 minecraft:quartz_bricks
+setblock -35 -23 -37 minecraft:quartz_bricks
+setblock -35 -23 -36 minecraft:quartz_bricks
+setblock -35 -23 -35 minecraft:quartz_pillar
+setblock -45 -22 -45 minecraft:quartz_pillar
+setblock -45 -22 -44 minecraft:quartz_bricks
+setblock -45 -22 -43 minecraft:quartz_bricks
+setblock -45 -22 -42 minecraft:quartz_bricks
+setblock -45 -22 -41 minecraft:quartz_bricks
+setblock -45 -22 -40 minecraft:quartz_bricks
+setblock -45 -22 -39 minecraft:quartz_bricks
+setblock -45 -22 -38 minecraft:quartz_bricks
+setblock -45 -22 -37 minecraft:quartz_bricks
+setblock -45 -22 -36 minecraft:quartz_bricks
+setblock -45 -22 -35 minecraft:quartz_pillar
+setblock -44 -22 -45 minecraft:quartz_bricks
+setblock -44 -22 -35 minecraft:quartz_bricks
+setblock -43 -22 -45 minecraft:quartz_bricks
+setblock -43 -22 -35 minecraft:quartz_bricks
+setblock -42 -22 -45 minecraft:quartz_bricks
+setblock -42 -22 -35 minecraft:quartz_bricks
+setblock -41 -22 -45 minecraft:quartz_bricks
+setblock -41 -22 -35 minecraft:quartz_bricks
+setblock -40 -22 -45 minecraft:quartz_bricks
+setblock -40 -22 -35 minecraft:quartz_bricks
+setblock -39 -22 -45 minecraft:quartz_bricks
+setblock -39 -22 -35 minecraft:quartz_bricks
+setblock -38 -22 -45 minecraft:quartz_bricks
+setblock -38 -22 -35 minecraft:quartz_bricks
+setblock -37 -22 -45 minecraft:quartz_bricks
+setblock -37 -22 -35 minecraft:quartz_bricks
+setblock -36 -22 -45 minecraft:quartz_bricks
+setblock -36 -22 -35 minecraft:quartz_bricks
+setblock -35 -22 -45 minecraft:quartz_pillar
+setblock -35 -22 -44 minecraft:quartz_bricks
+setblock -35 -22 -43 minecraft:quartz_bricks
+setblock -35 -22 -42 minecraft:quartz_bricks
+setblock -35 -22 -41 minecraft:quartz_bricks
+setblock -35 -22 -40 minecraft:quartz_bricks
+setblock -35 -22 -39 minecraft:quartz_bricks
+setblock -35 -22 -38 minecraft:quartz_bricks
+setblock -35 -22 -37 minecraft:quartz_bricks
+setblock -35 -22 -36 minecraft:quartz_bricks
+setblock -35 -22 -35 minecraft:quartz_pillar
+setblock -45 -21 -45 minecraft:quartz_pillar
+setblock -45 -21 -44 minecraft:quartz_bricks
+setblock -45 -21 -43 minecraft:quartz_bricks
+setblock -45 -21 -42 minecraft:quartz_bricks
+setblock -45 -21 -41 minecraft:quartz_bricks
+setblock -45 -21 -40 minecraft:quartz_bricks
+setblock -45 -21 -39 minecraft:quartz_bricks
+setblock -45 -21 -38 minecraft:quartz_bricks
+setblock -45 -21 -37 minecraft:quartz_bricks
+setblock -45 -21 -36 minecraft:quartz_bricks
+setblock -45 -21 -35 minecraft:quartz_pillar
+setblock -44 -21 -45 minecraft:quartz_bricks
+setblock -44 -21 -35 minecraft:quartz_bricks
+setblock -43 -21 -45 minecraft:quartz_bricks
+setblock -43 -21 -35 minecraft:quartz_bricks
+setblock -42 -21 -45 minecraft:quartz_bricks
+setblock -42 -21 -35 minecraft:quartz_bricks
+setblock -41 -21 -45 minecraft:quartz_bricks
+setblock -41 -21 -35 minecraft:quartz_bricks
+setblock -40 -21 -45 minecraft:quartz_bricks
+setblock -40 -21 -35 minecraft:quartz_bricks
+setblock -39 -21 -45 minecraft:quartz_bricks
+setblock -39 -21 -35 minecraft:quartz_bricks
+setblock -38 -21 -45 minecraft:quartz_bricks
+setblock -38 -21 -35 minecraft:quartz_bricks
+setblock -37 -21 -45 minecraft:quartz_bricks
+setblock -37 -21 -35 minecraft:quartz_bricks
+setblock -36 -21 -45 minecraft:quartz_bricks
+setblock -36 -21 -35 minecraft:quartz_bricks
+setblock -35 -21 -45 minecraft:quartz_pillar
+setblock -35 -21 -44 minecraft:quartz_bricks
+setblock -35 -21 -43 minecraft:quartz_bricks
+setblock -35 -21 -42 minecraft:quartz_bricks
+setblock -35 -21 -41 minecraft:quartz_bricks
+setblock -35 -21 -40 minecraft:quartz_bricks
+setblock -35 -21 -39 minecraft:quartz_bricks
+setblock -35 -21 -38 minecraft:quartz_bricks
+setblock -35 -21 -37 minecraft:quartz_bricks
+setblock -35 -21 -36 minecraft:quartz_bricks
+setblock -35 -21 -35 minecraft:quartz_pillar
+fill -44 -21 -44 -36 -21 -36 minecraft:smooth_quartz
+setblock -45 -20 -45 minecraft:quartz_pillar
+setblock -45 -19 -45 minecraft:sea_lantern
+setblock -45 -20 -35 minecraft:quartz_pillar
+setblock -45 -19 -35 minecraft:sea_lantern
+setblock -35 -20 -45 minecraft:quartz_pillar
+setblock -35 -19 -45 minecraft:sea_lantern
+setblock -35 -20 -35 minecraft:quartz_pillar
+setblock -35 -19 -35 minecraft:sea_lantern
+setblock -45 -20 -44 minecraft:smooth_quartz_slab
+setblock -45 -20 -43 minecraft:smooth_quartz_slab
+setblock -45 -20 -42 minecraft:smooth_quartz_slab
+setblock -45 -20 -41 minecraft:smooth_quartz_slab
+setblock -45 -20 -40 minecraft:smooth_quartz_slab
+setblock -45 -20 -39 minecraft:smooth_quartz_slab
+setblock -45 -20 -38 minecraft:smooth_quartz_slab
+setblock -45 -20 -37 minecraft:smooth_quartz_slab
+setblock -45 -20 -36 minecraft:smooth_quartz_slab
+setblock -44 -20 -45 minecraft:smooth_quartz_slab
+setblock -44 -20 -35 minecraft:smooth_quartz_slab
+setblock -43 -20 -45 minecraft:smooth_quartz_slab
+setblock -43 -20 -35 minecraft:smooth_quartz_slab
+setblock -42 -20 -45 minecraft:smooth_quartz_slab
+setblock -42 -20 -35 minecraft:smooth_quartz_slab
+setblock -41 -20 -45 minecraft:smooth_quartz_slab
+setblock -41 -20 -35 minecraft:smooth_quartz_slab
+setblock -40 -20 -45 minecraft:smooth_quartz_slab
+setblock -40 -20 -35 minecraft:smooth_quartz_slab
+setblock -39 -20 -45 minecraft:smooth_quartz_slab
+setblock -39 -20 -35 minecraft:smooth_quartz_slab
+setblock -38 -20 -45 minecraft:smooth_quartz_slab
+setblock -38 -20 -35 minecraft:smooth_quartz_slab
+setblock -37 -20 -45 minecraft:smooth_quartz_slab
+setblock -37 -20 -35 minecraft:smooth_quartz_slab
+setblock -36 -20 -45 minecraft:smooth_quartz_slab
+setblock -36 -20 -35 minecraft:smooth_quartz_slab
+setblock -35 -20 -44 minecraft:smooth_quartz_slab
+setblock -35 -20 -43 minecraft:smooth_quartz_slab
+setblock -35 -20 -42 minecraft:smooth_quartz_slab
+setblock -35 -20 -41 minecraft:smooth_quartz_slab
+setblock -35 -20 -40 minecraft:smooth_quartz_slab
+setblock -35 -20 -39 minecraft:smooth_quartz_slab
+setblock -35 -20 -38 minecraft:smooth_quartz_slab
+setblock -35 -20 -37 minecraft:smooth_quartz_slab
+setblock -35 -20 -36 minecraft:smooth_quartz_slab
+fill 34 -60 -46 46 -60 -34 minecraft:quartz_block
+setblock 35 -59 -45 minecraft:quartz_pillar
+setblock 35 -59 -44 minecraft:quartz_bricks
+setblock 35 -59 -43 minecraft:quartz_bricks
+setblock 35 -59 -42 minecraft:quartz_bricks
+setblock 35 -59 -41 minecraft:quartz_bricks
+setblock 35 -59 -40 minecraft:quartz_bricks
+setblock 35 -59 -39 minecraft:quartz_bricks
+setblock 35 -59 -38 minecraft:quartz_bricks
+setblock 35 -59 -37 minecraft:quartz_bricks
+setblock 35 -59 -36 minecraft:quartz_bricks
+setblock 35 -59 -35 minecraft:quartz_pillar
+setblock 36 -59 -45 minecraft:quartz_bricks
+setblock 36 -59 -35 minecraft:quartz_bricks
+setblock 37 -59 -45 minecraft:quartz_bricks
+setblock 37 -59 -35 minecraft:quartz_bricks
+setblock 38 -59 -45 minecraft:quartz_bricks
+setblock 38 -59 -35 minecraft:quartz_bricks
+setblock 39 -59 -45 minecraft:quartz_bricks
+setblock 39 -59 -35 minecraft:quartz_bricks
+setblock 40 -59 -45 minecraft:quartz_bricks
+setblock 40 -59 -35 minecraft:quartz_bricks
+setblock 41 -59 -45 minecraft:quartz_bricks
+setblock 41 -59 -35 minecraft:quartz_bricks
+setblock 42 -59 -45 minecraft:quartz_bricks
+setblock 42 -59 -35 minecraft:quartz_bricks
+setblock 43 -59 -45 minecraft:quartz_bricks
+setblock 43 -59 -35 minecraft:quartz_bricks
+setblock 44 -59 -45 minecraft:quartz_bricks
+setblock 44 -59 -35 minecraft:quartz_bricks
+setblock 45 -59 -45 minecraft:quartz_pillar
+setblock 45 -59 -44 minecraft:quartz_bricks
+setblock 45 -59 -43 minecraft:quartz_bricks
+setblock 45 -59 -42 minecraft:quartz_bricks
+setblock 45 -59 -41 minecraft:quartz_bricks
+setblock 45 -59 -40 minecraft:quartz_bricks
+setblock 45 -59 -39 minecraft:quartz_bricks
+setblock 45 -59 -38 minecraft:quartz_bricks
+setblock 45 -59 -37 minecraft:quartz_bricks
+setblock 45 -59 -36 minecraft:quartz_bricks
+setblock 45 -59 -35 minecraft:quartz_pillar
+setblock 35 -58 -45 minecraft:quartz_pillar
+setblock 35 -58 -44 minecraft:quartz_bricks
+setblock 35 -58 -43 minecraft:quartz_bricks
+setblock 35 -58 -42 minecraft:quartz_bricks
+setblock 35 -58 -41 minecraft:quartz_bricks
+setblock 35 -58 -40 minecraft:quartz_bricks
+setblock 35 -58 -39 minecraft:quartz_bricks
+setblock 35 -58 -38 minecraft:quartz_bricks
+setblock 35 -58 -37 minecraft:quartz_bricks
+setblock 35 -58 -36 minecraft:quartz_bricks
+setblock 35 -58 -35 minecraft:quartz_pillar
+setblock 36 -58 -45 minecraft:quartz_bricks
+setblock 36 -58 -35 minecraft:quartz_bricks
+setblock 37 -58 -45 minecraft:quartz_bricks
+setblock 37 -58 -35 minecraft:quartz_bricks
+setblock 38 -58 -45 minecraft:quartz_bricks
+setblock 38 -58 -35 minecraft:quartz_bricks
+setblock 39 -58 -45 minecraft:quartz_bricks
+setblock 39 -58 -35 minecraft:quartz_bricks
+setblock 40 -58 -45 minecraft:quartz_bricks
+setblock 40 -58 -35 minecraft:quartz_bricks
+setblock 41 -58 -45 minecraft:quartz_bricks
+setblock 41 -58 -35 minecraft:quartz_bricks
+setblock 42 -58 -45 minecraft:quartz_bricks
+setblock 42 -58 -35 minecraft:quartz_bricks
+setblock 43 -58 -45 minecraft:quartz_bricks
+setblock 43 -58 -35 minecraft:quartz_bricks
+setblock 44 -58 -45 minecraft:quartz_bricks
+setblock 44 -58 -35 minecraft:quartz_bricks
+setblock 45 -58 -45 minecraft:quartz_pillar
+setblock 45 -58 -44 minecraft:quartz_bricks
+setblock 45 -58 -43 minecraft:quartz_bricks
+setblock 45 -58 -42 minecraft:quartz_bricks
+setblock 45 -58 -41 minecraft:quartz_bricks
+setblock 45 -58 -40 minecraft:quartz_bricks
+setblock 45 -58 -39 minecraft:quartz_bricks
+setblock 45 -58 -38 minecraft:quartz_bricks
+setblock 45 -58 -37 minecraft:quartz_bricks
+setblock 45 -58 -36 minecraft:quartz_bricks
+setblock 45 -58 -35 minecraft:quartz_pillar
+setblock 35 -57 -45 minecraft:quartz_pillar
+setblock 35 -57 -44 minecraft:quartz_bricks
+setblock 35 -57 -43 minecraft:quartz_bricks
+setblock 35 -57 -42 minecraft:quartz_bricks
+setblock 35 -57 -41 minecraft:quartz_bricks
+setblock 35 -57 -40 minecraft:quartz_bricks
+setblock 35 -57 -39 minecraft:quartz_bricks
+setblock 35 -57 -38 minecraft:quartz_bricks
+setblock 35 -57 -37 minecraft:quartz_bricks
+setblock 35 -57 -36 minecraft:quartz_bricks
+setblock 35 -57 -35 minecraft:quartz_pillar
+setblock 36 -57 -45 minecraft:quartz_bricks
+setblock 36 -57 -35 minecraft:quartz_bricks
+setblock 37 -57 -45 minecraft:quartz_bricks
+setblock 37 -57 -35 minecraft:quartz_bricks
+setblock 38 -57 -45 minecraft:quartz_bricks
+setblock 38 -57 -35 minecraft:quartz_bricks
+setblock 39 -57 -45 minecraft:quartz_bricks
+setblock 39 -57 -35 minecraft:quartz_bricks
+setblock 40 -57 -45 minecraft:quartz_bricks
+setblock 40 -57 -35 minecraft:quartz_bricks
+setblock 41 -57 -45 minecraft:quartz_bricks
+setblock 41 -57 -35 minecraft:quartz_bricks
+setblock 42 -57 -45 minecraft:quartz_bricks
+setblock 42 -57 -35 minecraft:quartz_bricks
+setblock 43 -57 -45 minecraft:quartz_bricks
+setblock 43 -57 -35 minecraft:quartz_bricks
+setblock 44 -57 -45 minecraft:quartz_bricks
+setblock 44 -57 -35 minecraft:quartz_bricks
+setblock 45 -57 -45 minecraft:quartz_pillar
+setblock 45 -57 -44 minecraft:quartz_bricks
+setblock 45 -57 -43 minecraft:quartz_bricks
+setblock 45 -57 -42 minecraft:quartz_bricks
+setblock 45 -57 -41 minecraft:quartz_bricks
+setblock 45 -57 -40 minecraft:quartz_bricks
+setblock 45 -57 -39 minecraft:quartz_bricks
+setblock 45 -57 -38 minecraft:quartz_bricks
+setblock 45 -57 -37 minecraft:quartz_bricks
+setblock 45 -57 -36 minecraft:quartz_bricks
+setblock 45 -57 -35 minecraft:quartz_pillar
+setblock 35 -56 -45 minecraft:quartz_pillar
+setblock 35 -56 -44 minecraft:quartz_bricks
+setblock 35 -56 -43 minecraft:quartz_bricks
+setblock 35 -56 -42 minecraft:quartz_bricks
+setblock 35 -56 -38 minecraft:quartz_bricks
+setblock 35 -56 -37 minecraft:quartz_bricks
+setblock 35 -56 -36 minecraft:quartz_bricks
+setblock 35 -56 -35 minecraft:quartz_pillar
+setblock 36 -56 -45 minecraft:quartz_bricks
+setblock 36 -56 -35 minecraft:quartz_bricks
+setblock 37 -56 -45 minecraft:quartz_bricks
+setblock 37 -56 -35 minecraft:quartz_bricks
+setblock 38 -56 -45 minecraft:quartz_bricks
+setblock 38 -56 -35 minecraft:quartz_bricks
+setblock 42 -56 -45 minecraft:quartz_bricks
+setblock 42 -56 -35 minecraft:quartz_bricks
+setblock 43 -56 -45 minecraft:quartz_bricks
+setblock 43 -56 -35 minecraft:quartz_bricks
+setblock 44 -56 -45 minecraft:quartz_bricks
+setblock 44 -56 -35 minecraft:quartz_bricks
+setblock 45 -56 -45 minecraft:quartz_pillar
+setblock 45 -56 -44 minecraft:quartz_bricks
+setblock 45 -56 -43 minecraft:quartz_bricks
+setblock 45 -56 -42 minecraft:quartz_bricks
+setblock 45 -56 -38 minecraft:quartz_bricks
+setblock 45 -56 -37 minecraft:quartz_bricks
+setblock 45 -56 -36 minecraft:quartz_bricks
+setblock 45 -56 -35 minecraft:quartz_pillar
+setblock 35 -55 -45 minecraft:quartz_pillar
+setblock 35 -55 -44 minecraft:quartz_bricks
+setblock 35 -55 -43 minecraft:quartz_bricks
+setblock 35 -55 -42 minecraft:quartz_bricks
+setblock 35 -55 -38 minecraft:quartz_bricks
+setblock 35 -55 -37 minecraft:quartz_bricks
+setblock 35 -55 -36 minecraft:quartz_bricks
+setblock 35 -55 -35 minecraft:quartz_pillar
+setblock 36 -55 -45 minecraft:quartz_bricks
+setblock 36 -55 -35 minecraft:quartz_bricks
+setblock 37 -55 -45 minecraft:quartz_bricks
+setblock 37 -55 -35 minecraft:quartz_bricks
+setblock 38 -55 -45 minecraft:quartz_bricks
+setblock 38 -55 -35 minecraft:quartz_bricks
+setblock 42 -55 -45 minecraft:quartz_bricks
+setblock 42 -55 -35 minecraft:quartz_bricks
+setblock 43 -55 -45 minecraft:quartz_bricks
+setblock 43 -55 -35 minecraft:quartz_bricks
+setblock 44 -55 -45 minecraft:quartz_bricks
+setblock 44 -55 -35 minecraft:quartz_bricks
+setblock 45 -55 -45 minecraft:quartz_pillar
+setblock 45 -55 -44 minecraft:quartz_bricks
+setblock 45 -55 -43 minecraft:quartz_bricks
+setblock 45 -55 -42 minecraft:quartz_bricks
+setblock 45 -55 -38 minecraft:quartz_bricks
+setblock 45 -55 -37 minecraft:quartz_bricks
+setblock 45 -55 -36 minecraft:quartz_bricks
+setblock 45 -55 -35 minecraft:quartz_pillar
+setblock 35 -54 -45 minecraft:quartz_pillar
+setblock 35 -54 -44 minecraft:quartz_bricks
+setblock 35 -54 -43 minecraft:quartz_bricks
+setblock 35 -54 -42 minecraft:quartz_bricks
+setblock 35 -54 -38 minecraft:quartz_bricks
+setblock 35 -54 -37 minecraft:quartz_bricks
+setblock 35 -54 -36 minecraft:quartz_bricks
+setblock 35 -54 -35 minecraft:quartz_pillar
+setblock 36 -54 -45 minecraft:quartz_bricks
+setblock 36 -54 -35 minecraft:quartz_bricks
+setblock 37 -54 -45 minecraft:quartz_bricks
+setblock 37 -54 -35 minecraft:quartz_bricks
+setblock 38 -54 -45 minecraft:quartz_bricks
+setblock 38 -54 -35 minecraft:quartz_bricks
+setblock 42 -54 -45 minecraft:quartz_bricks
+setblock 42 -54 -35 minecraft:quartz_bricks
+setblock 43 -54 -45 minecraft:quartz_bricks
+setblock 43 -54 -35 minecraft:quartz_bricks
+setblock 44 -54 -45 minecraft:quartz_bricks
+setblock 44 -54 -35 minecraft:quartz_bricks
+setblock 45 -54 -45 minecraft:quartz_pillar
+setblock 45 -54 -44 minecraft:quartz_bricks
+setblock 45 -54 -43 minecraft:quartz_bricks
+setblock 45 -54 -42 minecraft:quartz_bricks
+setblock 45 -54 -38 minecraft:quartz_bricks
+setblock 45 -54 -37 minecraft:quartz_bricks
+setblock 45 -54 -36 minecraft:quartz_bricks
+setblock 45 -54 -35 minecraft:quartz_pillar
+setblock 35 -53 -45 minecraft:quartz_pillar
+setblock 35 -53 -44 minecraft:quartz_bricks
+setblock 35 -53 -43 minecraft:quartz_bricks
+setblock 35 -53 -42 minecraft:quartz_bricks
+setblock 35 -53 -41 minecraft:quartz_bricks
+setblock 35 -53 -40 minecraft:quartz_bricks
+setblock 35 -53 -39 minecraft:quartz_bricks
+setblock 35 -53 -38 minecraft:quartz_bricks
+setblock 35 -53 -37 minecraft:quartz_bricks
+setblock 35 -53 -36 minecraft:quartz_bricks
+setblock 35 -53 -35 minecraft:quartz_pillar
+setblock 36 -53 -45 minecraft:quartz_bricks
+setblock 36 -53 -35 minecraft:quartz_bricks
+setblock 37 -53 -45 minecraft:quartz_bricks
+setblock 37 -53 -35 minecraft:quartz_bricks
+setblock 38 -53 -45 minecraft:quartz_bricks
+setblock 38 -53 -35 minecraft:quartz_bricks
+setblock 39 -53 -45 minecraft:quartz_bricks
+setblock 39 -53 -35 minecraft:quartz_bricks
+setblock 40 -53 -45 minecraft:quartz_bricks
+setblock 40 -53 -35 minecraft:quartz_bricks
+setblock 41 -53 -45 minecraft:quartz_bricks
+setblock 41 -53 -35 minecraft:quartz_bricks
+setblock 42 -53 -45 minecraft:quartz_bricks
+setblock 42 -53 -35 minecraft:quartz_bricks
+setblock 43 -53 -45 minecraft:quartz_bricks
+setblock 43 -53 -35 minecraft:quartz_bricks
+setblock 44 -53 -45 minecraft:quartz_bricks
+setblock 44 -53 -35 minecraft:quartz_bricks
+setblock 45 -53 -45 minecraft:quartz_pillar
+setblock 45 -53 -44 minecraft:quartz_bricks
+setblock 45 -53 -43 minecraft:quartz_bricks
+setblock 45 -53 -42 minecraft:quartz_bricks
+setblock 45 -53 -41 minecraft:quartz_bricks
+setblock 45 -53 -40 minecraft:quartz_bricks
+setblock 45 -53 -39 minecraft:quartz_bricks
+setblock 45 -53 -38 minecraft:quartz_bricks
+setblock 45 -53 -37 minecraft:quartz_bricks
+setblock 45 -53 -36 minecraft:quartz_bricks
+setblock 45 -53 -35 minecraft:quartz_pillar
+setblock 35 -52 -45 minecraft:quartz_pillar
+setblock 35 -52 -44 minecraft:quartz_block
+setblock 35 -52 -43 minecraft:quartz_block
+setblock 35 -52 -42 minecraft:quartz_block
+setblock 35 -52 -41 minecraft:quartz_block
+setblock 35 -52 -40 minecraft:quartz_block
+setblock 35 -52 -39 minecraft:quartz_block
+setblock 35 -52 -38 minecraft:quartz_block
+setblock 35 -52 -37 minecraft:quartz_block
+setblock 35 -52 -36 minecraft:quartz_block
+setblock 35 -52 -35 minecraft:quartz_pillar
+setblock 36 -52 -45 minecraft:quartz_block
+setblock 36 -52 -35 minecraft:quartz_block
+setblock 37 -52 -45 minecraft:quartz_block
+setblock 37 -52 -35 minecraft:quartz_block
+setblock 38 -52 -45 minecraft:quartz_block
+setblock 38 -52 -35 minecraft:quartz_block
+setblock 39 -52 -45 minecraft:quartz_block
+setblock 39 -52 -35 minecraft:quartz_block
+setblock 40 -52 -45 minecraft:quartz_block
+setblock 40 -52 -35 minecraft:quartz_block
+setblock 41 -52 -45 minecraft:quartz_block
+setblock 41 -52 -35 minecraft:quartz_block
+setblock 42 -52 -45 minecraft:quartz_block
+setblock 42 -52 -35 minecraft:quartz_block
+setblock 43 -52 -45 minecraft:quartz_block
+setblock 43 -52 -35 minecraft:quartz_block
+setblock 44 -52 -45 minecraft:quartz_block
+setblock 44 -52 -35 minecraft:quartz_block
+setblock 45 -52 -45 minecraft:quartz_pillar
+setblock 45 -52 -44 minecraft:quartz_block
+setblock 45 -52 -43 minecraft:quartz_block
+setblock 45 -52 -42 minecraft:quartz_block
+setblock 45 -52 -41 minecraft:quartz_block
+setblock 45 -52 -40 minecraft:quartz_block
+setblock 45 -52 -39 minecraft:quartz_block
+setblock 45 -52 -38 minecraft:quartz_block
+setblock 45 -52 -37 minecraft:quartz_block
+setblock 45 -52 -36 minecraft:quartz_block
+setblock 45 -52 -35 minecraft:quartz_pillar
+setblock 35 -51 -45 minecraft:quartz_pillar
+setblock 35 -51 -44 minecraft:quartz_bricks
+setblock 35 -51 -43 minecraft:quartz_bricks
+setblock 35 -51 -42 minecraft:quartz_bricks
+setblock 35 -51 -41 minecraft:quartz_bricks
+setblock 35 -51 -40 minecraft:quartz_bricks
+setblock 35 -51 -39 minecraft:quartz_bricks
+setblock 35 -51 -38 minecraft:quartz_bricks
+setblock 35 -51 -37 minecraft:quartz_bricks
+setblock 35 -51 -36 minecraft:quartz_bricks
+setblock 35 -51 -35 minecraft:quartz_pillar
+setblock 36 -51 -45 minecraft:quartz_bricks
+setblock 36 -51 -35 minecraft:quartz_bricks
+setblock 37 -51 -45 minecraft:quartz_bricks
+setblock 37 -51 -35 minecraft:quartz_bricks
+setblock 38 -51 -45 minecraft:quartz_bricks
+setblock 38 -51 -35 minecraft:quartz_bricks
+setblock 39 -51 -45 minecraft:quartz_bricks
+setblock 39 -51 -35 minecraft:quartz_bricks
+setblock 40 -51 -45 minecraft:quartz_bricks
+setblock 40 -51 -35 minecraft:quartz_bricks
+setblock 41 -51 -45 minecraft:quartz_bricks
+setblock 41 -51 -35 minecraft:quartz_bricks
+setblock 42 -51 -45 minecraft:quartz_bricks
+setblock 42 -51 -35 minecraft:quartz_bricks
+setblock 43 -51 -45 minecraft:quartz_bricks
+setblock 43 -51 -35 minecraft:quartz_bricks
+setblock 44 -51 -45 minecraft:quartz_bricks
+setblock 44 -51 -35 minecraft:quartz_bricks
+setblock 45 -51 -45 minecraft:quartz_pillar
+setblock 45 -51 -44 minecraft:quartz_bricks
+setblock 45 -51 -43 minecraft:quartz_bricks
+setblock 45 -51 -42 minecraft:quartz_bricks
+setblock 45 -51 -41 minecraft:quartz_bricks
+setblock 45 -51 -40 minecraft:quartz_bricks
+setblock 45 -51 -39 minecraft:quartz_bricks
+setblock 45 -51 -38 minecraft:quartz_bricks
+setblock 45 -51 -37 minecraft:quartz_bricks
+setblock 45 -51 -36 minecraft:quartz_bricks
+setblock 45 -51 -35 minecraft:quartz_pillar
+setblock 35 -50 -45 minecraft:quartz_pillar
+setblock 35 -50 -44 minecraft:quartz_bricks
+setblock 35 -50 -43 minecraft:quartz_bricks
+setblock 35 -50 -42 minecraft:quartz_bricks
+setblock 35 -50 -41 minecraft:quartz_bricks
+setblock 35 -50 -40 minecraft:quartz_bricks
+setblock 35 -50 -39 minecraft:quartz_bricks
+setblock 35 -50 -38 minecraft:quartz_bricks
+setblock 35 -50 -37 minecraft:quartz_bricks
+setblock 35 -50 -36 minecraft:quartz_bricks
+setblock 35 -50 -35 minecraft:quartz_pillar
+setblock 36 -50 -45 minecraft:quartz_bricks
+setblock 36 -50 -35 minecraft:quartz_bricks
+setblock 37 -50 -45 minecraft:quartz_bricks
+setblock 37 -50 -35 minecraft:quartz_bricks
+setblock 38 -50 -45 minecraft:quartz_bricks
+setblock 38 -50 -35 minecraft:quartz_bricks
+setblock 39 -50 -45 minecraft:quartz_bricks
+setblock 39 -50 -35 minecraft:quartz_bricks
+setblock 40 -50 -45 minecraft:quartz_bricks
+setblock 40 -50 -35 minecraft:quartz_bricks
+setblock 41 -50 -45 minecraft:quartz_bricks
+setblock 41 -50 -35 minecraft:quartz_bricks
+setblock 42 -50 -45 minecraft:quartz_bricks
+setblock 42 -50 -35 minecraft:quartz_bricks
+setblock 43 -50 -45 minecraft:quartz_bricks
+setblock 43 -50 -35 minecraft:quartz_bricks
+setblock 44 -50 -45 minecraft:quartz_bricks
+setblock 44 -50 -35 minecraft:quartz_bricks
+setblock 45 -50 -45 minecraft:quartz_pillar
+setblock 45 -50 -44 minecraft:quartz_bricks
+setblock 45 -50 -43 minecraft:quartz_bricks
+setblock 45 -50 -42 minecraft:quartz_bricks
+setblock 45 -50 -41 minecraft:quartz_bricks
+setblock 45 -50 -40 minecraft:quartz_bricks
+setblock 45 -50 -39 minecraft:quartz_bricks
+setblock 45 -50 -38 minecraft:quartz_bricks
+setblock 45 -50 -37 minecraft:quartz_bricks
+setblock 45 -50 -36 minecraft:quartz_bricks
+setblock 45 -50 -35 minecraft:quartz_pillar
+setblock 35 -49 -45 minecraft:quartz_pillar
+setblock 35 -49 -44 minecraft:quartz_bricks
+setblock 35 -49 -43 minecraft:quartz_bricks
+setblock 35 -49 -42 minecraft:quartz_bricks
+setblock 35 -49 -41 minecraft:quartz_bricks
+setblock 35 -49 -40 minecraft:quartz_bricks
+setblock 35 -49 -39 minecraft:quartz_bricks
+setblock 35 -49 -38 minecraft:quartz_bricks
+setblock 35 -49 -37 minecraft:quartz_bricks
+setblock 35 -49 -36 minecraft:quartz_bricks
+setblock 35 -49 -35 minecraft:quartz_pillar
+setblock 36 -49 -45 minecraft:quartz_bricks
+setblock 36 -49 -35 minecraft:quartz_bricks
+setblock 37 -49 -45 minecraft:quartz_bricks
+setblock 37 -49 -35 minecraft:quartz_bricks
+setblock 38 -49 -45 minecraft:quartz_bricks
+setblock 38 -49 -35 minecraft:quartz_bricks
+setblock 39 -49 -45 minecraft:quartz_bricks
+setblock 39 -49 -35 minecraft:quartz_bricks
+setblock 40 -49 -45 minecraft:quartz_bricks
+setblock 40 -49 -35 minecraft:quartz_bricks
+setblock 41 -49 -45 minecraft:quartz_bricks
+setblock 41 -49 -35 minecraft:quartz_bricks
+setblock 42 -49 -45 minecraft:quartz_bricks
+setblock 42 -49 -35 minecraft:quartz_bricks
+setblock 43 -49 -45 minecraft:quartz_bricks
+setblock 43 -49 -35 minecraft:quartz_bricks
+setblock 44 -49 -45 minecraft:quartz_bricks
+setblock 44 -49 -35 minecraft:quartz_bricks
+setblock 45 -49 -45 minecraft:quartz_pillar
+setblock 45 -49 -44 minecraft:quartz_bricks
+setblock 45 -49 -43 minecraft:quartz_bricks
+setblock 45 -49 -42 minecraft:quartz_bricks
+setblock 45 -49 -41 minecraft:quartz_bricks
+setblock 45 -49 -40 minecraft:quartz_bricks
+setblock 45 -49 -39 minecraft:quartz_bricks
+setblock 45 -49 -38 minecraft:quartz_bricks
+setblock 45 -49 -37 minecraft:quartz_bricks
+setblock 45 -49 -36 minecraft:quartz_bricks
+setblock 45 -49 -35 minecraft:quartz_pillar
+setblock 35 -48 -45 minecraft:quartz_pillar
+setblock 35 -48 -44 minecraft:quartz_bricks
+setblock 35 -48 -43 minecraft:quartz_bricks
+setblock 35 -48 -42 minecraft:quartz_bricks
+setblock 35 -48 -38 minecraft:quartz_bricks
+setblock 35 -48 -37 minecraft:quartz_bricks
+setblock 35 -48 -36 minecraft:quartz_bricks
+setblock 35 -48 -35 minecraft:quartz_pillar
+setblock 36 -48 -45 minecraft:quartz_bricks
+setblock 36 -48 -35 minecraft:quartz_bricks
+setblock 37 -48 -45 minecraft:quartz_bricks
+setblock 37 -48 -35 minecraft:quartz_bricks
+setblock 38 -48 -45 minecraft:quartz_bricks
+setblock 38 -48 -35 minecraft:quartz_bricks
+setblock 42 -48 -45 minecraft:quartz_bricks
+setblock 42 -48 -35 minecraft:quartz_bricks
+setblock 43 -48 -45 minecraft:quartz_bricks
+setblock 43 -48 -35 minecraft:quartz_bricks
+setblock 44 -48 -45 minecraft:quartz_bricks
+setblock 44 -48 -35 minecraft:quartz_bricks
+setblock 45 -48 -45 minecraft:quartz_pillar
+setblock 45 -48 -44 minecraft:quartz_bricks
+setblock 45 -48 -43 minecraft:quartz_bricks
+setblock 45 -48 -42 minecraft:quartz_bricks
+setblock 45 -48 -38 minecraft:quartz_bricks
+setblock 45 -48 -37 minecraft:quartz_bricks
+setblock 45 -48 -36 minecraft:quartz_bricks
+setblock 45 -48 -35 minecraft:quartz_pillar
+setblock 35 -47 -45 minecraft:quartz_pillar
+setblock 35 -47 -44 minecraft:quartz_bricks
+setblock 35 -47 -43 minecraft:quartz_bricks
+setblock 35 -47 -42 minecraft:quartz_bricks
+setblock 35 -47 -38 minecraft:quartz_bricks
+setblock 35 -47 -37 minecraft:quartz_bricks
+setblock 35 -47 -36 minecraft:quartz_bricks
+setblock 35 -47 -35 minecraft:quartz_pillar
+setblock 36 -47 -45 minecraft:quartz_bricks
+setblock 36 -47 -35 minecraft:quartz_bricks
+setblock 37 -47 -45 minecraft:quartz_bricks
+setblock 37 -47 -35 minecraft:quartz_bricks
+setblock 38 -47 -45 minecraft:quartz_bricks
+setblock 38 -47 -35 minecraft:quartz_bricks
+setblock 42 -47 -45 minecraft:quartz_bricks
+setblock 42 -47 -35 minecraft:quartz_bricks
+setblock 43 -47 -45 minecraft:quartz_bricks
+setblock 43 -47 -35 minecraft:quartz_bricks
+setblock 44 -47 -45 minecraft:quartz_bricks
+setblock 44 -47 -35 minecraft:quartz_bricks
+setblock 45 -47 -45 minecraft:quartz_pillar
+setblock 45 -47 -44 minecraft:quartz_bricks
+setblock 45 -47 -43 minecraft:quartz_bricks
+setblock 45 -47 -42 minecraft:quartz_bricks
+setblock 45 -47 -38 minecraft:quartz_bricks
+setblock 45 -47 -37 minecraft:quartz_bricks
+setblock 45 -47 -36 minecraft:quartz_bricks
+setblock 45 -47 -35 minecraft:quartz_pillar
+setblock 35 -46 -45 minecraft:quartz_pillar
+setblock 35 -46 -44 minecraft:quartz_bricks
+setblock 35 -46 -43 minecraft:quartz_bricks
+setblock 35 -46 -42 minecraft:quartz_bricks
+setblock 35 -46 -38 minecraft:quartz_bricks
+setblock 35 -46 -37 minecraft:quartz_bricks
+setblock 35 -46 -36 minecraft:quartz_bricks
+setblock 35 -46 -35 minecraft:quartz_pillar
+setblock 36 -46 -45 minecraft:quartz_bricks
+setblock 36 -46 -35 minecraft:quartz_bricks
+setblock 37 -46 -45 minecraft:quartz_bricks
+setblock 37 -46 -35 minecraft:quartz_bricks
+setblock 38 -46 -45 minecraft:quartz_bricks
+setblock 38 -46 -35 minecraft:quartz_bricks
+setblock 42 -46 -45 minecraft:quartz_bricks
+setblock 42 -46 -35 minecraft:quartz_bricks
+setblock 43 -46 -45 minecraft:quartz_bricks
+setblock 43 -46 -35 minecraft:quartz_bricks
+setblock 44 -46 -45 minecraft:quartz_bricks
+setblock 44 -46 -35 minecraft:quartz_bricks
+setblock 45 -46 -45 minecraft:quartz_pillar
+setblock 45 -46 -44 minecraft:quartz_bricks
+setblock 45 -46 -43 minecraft:quartz_bricks
+setblock 45 -46 -42 minecraft:quartz_bricks
+setblock 45 -46 -38 minecraft:quartz_bricks
+setblock 45 -46 -37 minecraft:quartz_bricks
+setblock 45 -46 -36 minecraft:quartz_bricks
+setblock 45 -46 -35 minecraft:quartz_pillar
+setblock 35 -45 -45 minecraft:quartz_pillar
+setblock 35 -45 -44 minecraft:quartz_bricks
+setblock 35 -45 -43 minecraft:quartz_bricks
+setblock 35 -45 -42 minecraft:quartz_bricks
+setblock 35 -45 -41 minecraft:quartz_bricks
+setblock 35 -45 -40 minecraft:quartz_bricks
+setblock 35 -45 -39 minecraft:quartz_bricks
+setblock 35 -45 -38 minecraft:quartz_bricks
+setblock 35 -45 -37 minecraft:quartz_bricks
+setblock 35 -45 -36 minecraft:quartz_bricks
+setblock 35 -45 -35 minecraft:quartz_pillar
+setblock 36 -45 -45 minecraft:quartz_bricks
+setblock 36 -45 -35 minecraft:quartz_bricks
+setblock 37 -45 -45 minecraft:quartz_bricks
+setblock 37 -45 -35 minecraft:quartz_bricks
+setblock 38 -45 -45 minecraft:quartz_bricks
+setblock 38 -45 -35 minecraft:quartz_bricks
+setblock 39 -45 -45 minecraft:quartz_bricks
+setblock 39 -45 -35 minecraft:quartz_bricks
+setblock 40 -45 -45 minecraft:quartz_bricks
+setblock 40 -45 -35 minecraft:quartz_bricks
+setblock 41 -45 -45 minecraft:quartz_bricks
+setblock 41 -45 -35 minecraft:quartz_bricks
+setblock 42 -45 -45 minecraft:quartz_bricks
+setblock 42 -45 -35 minecraft:quartz_bricks
+setblock 43 -45 -45 minecraft:quartz_bricks
+setblock 43 -45 -35 minecraft:quartz_bricks
+setblock 44 -45 -45 minecraft:quartz_bricks
+setblock 44 -45 -35 minecraft:quartz_bricks
+setblock 45 -45 -45 minecraft:quartz_pillar
+setblock 45 -45 -44 minecraft:quartz_bricks
+setblock 45 -45 -43 minecraft:quartz_bricks
+setblock 45 -45 -42 minecraft:quartz_bricks
+setblock 45 -45 -41 minecraft:quartz_bricks
+setblock 45 -45 -40 minecraft:quartz_bricks
+setblock 45 -45 -39 minecraft:quartz_bricks
+setblock 45 -45 -38 minecraft:quartz_bricks
+setblock 45 -45 -37 minecraft:quartz_bricks
+setblock 45 -45 -36 minecraft:quartz_bricks
+setblock 45 -45 -35 minecraft:quartz_pillar
+setblock 35 -44 -45 minecraft:quartz_pillar
+setblock 35 -44 -44 minecraft:quartz_block
+setblock 35 -44 -43 minecraft:quartz_block
+setblock 35 -44 -42 minecraft:quartz_block
+setblock 35 -44 -41 minecraft:quartz_block
+setblock 35 -44 -40 minecraft:quartz_block
+setblock 35 -44 -39 minecraft:quartz_block
+setblock 35 -44 -38 minecraft:quartz_block
+setblock 35 -44 -37 minecraft:quartz_block
+setblock 35 -44 -36 minecraft:quartz_block
+setblock 35 -44 -35 minecraft:quartz_pillar
+setblock 36 -44 -45 minecraft:quartz_block
+setblock 36 -44 -35 minecraft:quartz_block
+setblock 37 -44 -45 minecraft:quartz_block
+setblock 37 -44 -35 minecraft:quartz_block
+setblock 38 -44 -45 minecraft:quartz_block
+setblock 38 -44 -35 minecraft:quartz_block
+setblock 39 -44 -45 minecraft:quartz_block
+setblock 39 -44 -35 minecraft:quartz_block
+setblock 40 -44 -45 minecraft:quartz_block
+setblock 40 -44 -35 minecraft:quartz_block
+setblock 41 -44 -45 minecraft:quartz_block
+setblock 41 -44 -35 minecraft:quartz_block
+setblock 42 -44 -45 minecraft:quartz_block
+setblock 42 -44 -35 minecraft:quartz_block
+setblock 43 -44 -45 minecraft:quartz_block
+setblock 43 -44 -35 minecraft:quartz_block
+setblock 44 -44 -45 minecraft:quartz_block
+setblock 44 -44 -35 minecraft:quartz_block
+setblock 45 -44 -45 minecraft:quartz_pillar
+setblock 45 -44 -44 minecraft:quartz_block
+setblock 45 -44 -43 minecraft:quartz_block
+setblock 45 -44 -42 minecraft:quartz_block
+setblock 45 -44 -41 minecraft:quartz_block
+setblock 45 -44 -40 minecraft:quartz_block
+setblock 45 -44 -39 minecraft:quartz_block
+setblock 45 -44 -38 minecraft:quartz_block
+setblock 45 -44 -37 minecraft:quartz_block
+setblock 45 -44 -36 minecraft:quartz_block
+setblock 45 -44 -35 minecraft:quartz_pillar
+setblock 35 -43 -45 minecraft:quartz_pillar
+setblock 35 -43 -44 minecraft:quartz_bricks
+setblock 35 -43 -43 minecraft:quartz_bricks
+setblock 35 -43 -42 minecraft:quartz_bricks
+setblock 35 -43 -41 minecraft:quartz_bricks
+setblock 35 -43 -40 minecraft:quartz_bricks
+setblock 35 -43 -39 minecraft:quartz_bricks
+setblock 35 -43 -38 minecraft:quartz_bricks
+setblock 35 -43 -37 minecraft:quartz_bricks
+setblock 35 -43 -36 minecraft:quartz_bricks
+setblock 35 -43 -35 minecraft:quartz_pillar
+setblock 36 -43 -45 minecraft:quartz_bricks
+setblock 36 -43 -35 minecraft:quartz_bricks
+setblock 37 -43 -45 minecraft:quartz_bricks
+setblock 37 -43 -35 minecraft:quartz_bricks
+setblock 38 -43 -45 minecraft:quartz_bricks
+setblock 38 -43 -35 minecraft:quartz_bricks
+setblock 39 -43 -45 minecraft:quartz_bricks
+setblock 39 -43 -35 minecraft:quartz_bricks
+setblock 40 -43 -45 minecraft:quartz_bricks
+setblock 40 -43 -35 minecraft:quartz_bricks
+setblock 41 -43 -45 minecraft:quartz_bricks
+setblock 41 -43 -35 minecraft:quartz_bricks
+setblock 42 -43 -45 minecraft:quartz_bricks
+setblock 42 -43 -35 minecraft:quartz_bricks
+setblock 43 -43 -45 minecraft:quartz_bricks
+setblock 43 -43 -35 minecraft:quartz_bricks
+setblock 44 -43 -45 minecraft:quartz_bricks
+setblock 44 -43 -35 minecraft:quartz_bricks
+setblock 45 -43 -45 minecraft:quartz_pillar
+setblock 45 -43 -44 minecraft:quartz_bricks
+setblock 45 -43 -43 minecraft:quartz_bricks
+setblock 45 -43 -42 minecraft:quartz_bricks
+setblock 45 -43 -41 minecraft:quartz_bricks
+setblock 45 -43 -40 minecraft:quartz_bricks
+setblock 45 -43 -39 minecraft:quartz_bricks
+setblock 45 -43 -38 minecraft:quartz_bricks
+setblock 45 -43 -37 minecraft:quartz_bricks
+setblock 45 -43 -36 minecraft:quartz_bricks
+setblock 45 -43 -35 minecraft:quartz_pillar
+setblock 35 -42 -45 minecraft:quartz_pillar
+setblock 35 -42 -44 minecraft:quartz_bricks
+setblock 35 -42 -43 minecraft:quartz_bricks
+setblock 35 -42 -42 minecraft:quartz_bricks
+setblock 35 -42 -41 minecraft:quartz_bricks
+setblock 35 -42 -40 minecraft:quartz_bricks
+setblock 35 -42 -39 minecraft:quartz_bricks
+setblock 35 -42 -38 minecraft:quartz_bricks
+setblock 35 -42 -37 minecraft:quartz_bricks
+setblock 35 -42 -36 minecraft:quartz_bricks
+setblock 35 -42 -35 minecraft:quartz_pillar
+setblock 36 -42 -45 minecraft:quartz_bricks
+setblock 36 -42 -35 minecraft:quartz_bricks
+setblock 37 -42 -45 minecraft:quartz_bricks
+setblock 37 -42 -35 minecraft:quartz_bricks
+setblock 38 -42 -45 minecraft:quartz_bricks
+setblock 38 -42 -35 minecraft:quartz_bricks
+setblock 39 -42 -45 minecraft:quartz_bricks
+setblock 39 -42 -35 minecraft:quartz_bricks
+setblock 40 -42 -45 minecraft:quartz_bricks
+setblock 40 -42 -35 minecraft:quartz_bricks
+setblock 41 -42 -45 minecraft:quartz_bricks
+setblock 41 -42 -35 minecraft:quartz_bricks
+setblock 42 -42 -45 minecraft:quartz_bricks
+setblock 42 -42 -35 minecraft:quartz_bricks
+setblock 43 -42 -45 minecraft:quartz_bricks
+setblock 43 -42 -35 minecraft:quartz_bricks
+setblock 44 -42 -45 minecraft:quartz_bricks
+setblock 44 -42 -35 minecraft:quartz_bricks
+setblock 45 -42 -45 minecraft:quartz_pillar
+setblock 45 -42 -44 minecraft:quartz_bricks
+setblock 45 -42 -43 minecraft:quartz_bricks
+setblock 45 -42 -42 minecraft:quartz_bricks
+setblock 45 -42 -41 minecraft:quartz_bricks
+setblock 45 -42 -40 minecraft:quartz_bricks
+setblock 45 -42 -39 minecraft:quartz_bricks
+setblock 45 -42 -38 minecraft:quartz_bricks
+setblock 45 -42 -37 minecraft:quartz_bricks
+setblock 45 -42 -36 minecraft:quartz_bricks
+setblock 45 -42 -35 minecraft:quartz_pillar
+setblock 35 -41 -45 minecraft:quartz_pillar
+setblock 35 -41 -44 minecraft:quartz_bricks
+setblock 35 -41 -43 minecraft:quartz_bricks
+setblock 35 -41 -42 minecraft:quartz_bricks
+setblock 35 -41 -41 minecraft:quartz_bricks
+setblock 35 -41 -40 minecraft:quartz_bricks
+setblock 35 -41 -39 minecraft:quartz_bricks
+setblock 35 -41 -38 minecraft:quartz_bricks
+setblock 35 -41 -37 minecraft:quartz_bricks
+setblock 35 -41 -36 minecraft:quartz_bricks
+setblock 35 -41 -35 minecraft:quartz_pillar
+setblock 36 -41 -45 minecraft:quartz_bricks
+setblock 36 -41 -35 minecraft:quartz_bricks
+setblock 37 -41 -45 minecraft:quartz_bricks
+setblock 37 -41 -35 minecraft:quartz_bricks
+setblock 38 -41 -45 minecraft:quartz_bricks
+setblock 38 -41 -35 minecraft:quartz_bricks
+setblock 39 -41 -45 minecraft:quartz_bricks
+setblock 39 -41 -35 minecraft:quartz_bricks
+setblock 40 -41 -45 minecraft:quartz_bricks
+setblock 40 -41 -35 minecraft:quartz_bricks
+setblock 41 -41 -45 minecraft:quartz_bricks
+setblock 41 -41 -35 minecraft:quartz_bricks
+setblock 42 -41 -45 minecraft:quartz_bricks
+setblock 42 -41 -35 minecraft:quartz_bricks
+setblock 43 -41 -45 minecraft:quartz_bricks
+setblock 43 -41 -35 minecraft:quartz_bricks
+setblock 44 -41 -45 minecraft:quartz_bricks
+setblock 44 -41 -35 minecraft:quartz_bricks
+setblock 45 -41 -45 minecraft:quartz_pillar
+setblock 45 -41 -44 minecraft:quartz_bricks
+setblock 45 -41 -43 minecraft:quartz_bricks
+setblock 45 -41 -42 minecraft:quartz_bricks
+setblock 45 -41 -41 minecraft:quartz_bricks
+setblock 45 -41 -40 minecraft:quartz_bricks
+setblock 45 -41 -39 minecraft:quartz_bricks
+setblock 45 -41 -38 minecraft:quartz_bricks
+setblock 45 -41 -37 minecraft:quartz_bricks
+setblock 45 -41 -36 minecraft:quartz_bricks
+setblock 45 -41 -35 minecraft:quartz_pillar
+setblock 35 -40 -45 minecraft:quartz_pillar
+setblock 35 -40 -44 minecraft:quartz_bricks
+setblock 35 -40 -43 minecraft:quartz_bricks
+setblock 35 -40 -42 minecraft:quartz_bricks
+setblock 35 -40 -38 minecraft:quartz_bricks
+setblock 35 -40 -37 minecraft:quartz_bricks
+setblock 35 -40 -36 minecraft:quartz_bricks
+setblock 35 -40 -35 minecraft:quartz_pillar
+setblock 36 -40 -45 minecraft:quartz_bricks
+setblock 36 -40 -35 minecraft:quartz_bricks
+setblock 37 -40 -45 minecraft:quartz_bricks
+setblock 37 -40 -35 minecraft:quartz_bricks
+setblock 38 -40 -45 minecraft:quartz_bricks
+setblock 38 -40 -35 minecraft:quartz_bricks
+setblock 42 -40 -45 minecraft:quartz_bricks
+setblock 42 -40 -35 minecraft:quartz_bricks
+setblock 43 -40 -45 minecraft:quartz_bricks
+setblock 43 -40 -35 minecraft:quartz_bricks
+setblock 44 -40 -45 minecraft:quartz_bricks
+setblock 44 -40 -35 minecraft:quartz_bricks
+setblock 45 -40 -45 minecraft:quartz_pillar
+setblock 45 -40 -44 minecraft:quartz_bricks
+setblock 45 -40 -43 minecraft:quartz_bricks
+setblock 45 -40 -42 minecraft:quartz_bricks
+setblock 45 -40 -38 minecraft:quartz_bricks
+setblock 45 -40 -37 minecraft:quartz_bricks
+setblock 45 -40 -36 minecraft:quartz_bricks
+setblock 45 -40 -35 minecraft:quartz_pillar
+setblock 35 -39 -45 minecraft:quartz_pillar
+setblock 35 -39 -44 minecraft:quartz_bricks
+setblock 35 -39 -43 minecraft:quartz_bricks
+setblock 35 -39 -42 minecraft:quartz_bricks
+setblock 35 -39 -38 minecraft:quartz_bricks
+setblock 35 -39 -37 minecraft:quartz_bricks
+setblock 35 -39 -36 minecraft:quartz_bricks
+setblock 35 -39 -35 minecraft:quartz_pillar
+setblock 36 -39 -45 minecraft:quartz_bricks
+setblock 36 -39 -35 minecraft:quartz_bricks
+setblock 37 -39 -45 minecraft:quartz_bricks
+setblock 37 -39 -35 minecraft:quartz_bricks
+setblock 38 -39 -45 minecraft:quartz_bricks
+setblock 38 -39 -35 minecraft:quartz_bricks
+setblock 42 -39 -45 minecraft:quartz_bricks
+setblock 42 -39 -35 minecraft:quartz_bricks
+setblock 43 -39 -45 minecraft:quartz_bricks
+setblock 43 -39 -35 minecraft:quartz_bricks
+setblock 44 -39 -45 minecraft:quartz_bricks
+setblock 44 -39 -35 minecraft:quartz_bricks
+setblock 45 -39 -45 minecraft:quartz_pillar
+setblock 45 -39 -44 minecraft:quartz_bricks
+setblock 45 -39 -43 minecraft:quartz_bricks
+setblock 45 -39 -42 minecraft:quartz_bricks
+setblock 45 -39 -38 minecraft:quartz_bricks
+setblock 45 -39 -37 minecraft:quartz_bricks
+setblock 45 -39 -36 minecraft:quartz_bricks
+setblock 45 -39 -35 minecraft:quartz_pillar
+setblock 35 -38 -45 minecraft:quartz_pillar
+setblock 35 -38 -44 minecraft:quartz_bricks
+setblock 35 -38 -43 minecraft:quartz_bricks
+setblock 35 -38 -42 minecraft:quartz_bricks
+setblock 35 -38 -38 minecraft:quartz_bricks
+setblock 35 -38 -37 minecraft:quartz_bricks
+setblock 35 -38 -36 minecraft:quartz_bricks
+setblock 35 -38 -35 minecraft:quartz_pillar
+setblock 36 -38 -45 minecraft:quartz_bricks
+setblock 36 -38 -35 minecraft:quartz_bricks
+setblock 37 -38 -45 minecraft:quartz_bricks
+setblock 37 -38 -35 minecraft:quartz_bricks
+setblock 38 -38 -45 minecraft:quartz_bricks
+setblock 38 -38 -35 minecraft:quartz_bricks
+setblock 42 -38 -45 minecraft:quartz_bricks
+setblock 42 -38 -35 minecraft:quartz_bricks
+setblock 43 -38 -45 minecraft:quartz_bricks
+setblock 43 -38 -35 minecraft:quartz_bricks
+setblock 44 -38 -45 minecraft:quartz_bricks
+setblock 44 -38 -35 minecraft:quartz_bricks
+setblock 45 -38 -45 minecraft:quartz_pillar
+setblock 45 -38 -44 minecraft:quartz_bricks
+setblock 45 -38 -43 minecraft:quartz_bricks
+setblock 45 -38 -42 minecraft:quartz_bricks
+setblock 45 -38 -38 minecraft:quartz_bricks
+setblock 45 -38 -37 minecraft:quartz_bricks
+setblock 45 -38 -36 minecraft:quartz_bricks
+setblock 45 -38 -35 minecraft:quartz_pillar
+setblock 35 -37 -45 minecraft:quartz_pillar
+setblock 35 -37 -44 minecraft:quartz_bricks
+setblock 35 -37 -43 minecraft:quartz_bricks
+setblock 35 -37 -42 minecraft:quartz_bricks
+setblock 35 -37 -41 minecraft:quartz_bricks
+setblock 35 -37 -40 minecraft:quartz_bricks
+setblock 35 -37 -39 minecraft:quartz_bricks
+setblock 35 -37 -38 minecraft:quartz_bricks
+setblock 35 -37 -37 minecraft:quartz_bricks
+setblock 35 -37 -36 minecraft:quartz_bricks
+setblock 35 -37 -35 minecraft:quartz_pillar
+setblock 36 -37 -45 minecraft:quartz_bricks
+setblock 36 -37 -35 minecraft:quartz_bricks
+setblock 37 -37 -45 minecraft:quartz_bricks
+setblock 37 -37 -35 minecraft:quartz_bricks
+setblock 38 -37 -45 minecraft:quartz_bricks
+setblock 38 -37 -35 minecraft:quartz_bricks
+setblock 39 -37 -45 minecraft:quartz_bricks
+setblock 39 -37 -35 minecraft:quartz_bricks
+setblock 40 -37 -45 minecraft:quartz_bricks
+setblock 40 -37 -35 minecraft:quartz_bricks
+setblock 41 -37 -45 minecraft:quartz_bricks
+setblock 41 -37 -35 minecraft:quartz_bricks
+setblock 42 -37 -45 minecraft:quartz_bricks
+setblock 42 -37 -35 minecraft:quartz_bricks
+setblock 43 -37 -45 minecraft:quartz_bricks
+setblock 43 -37 -35 minecraft:quartz_bricks
+setblock 44 -37 -45 minecraft:quartz_bricks
+setblock 44 -37 -35 minecraft:quartz_bricks
+setblock 45 -37 -45 minecraft:quartz_pillar
+setblock 45 -37 -44 minecraft:quartz_bricks
+setblock 45 -37 -43 minecraft:quartz_bricks
+setblock 45 -37 -42 minecraft:quartz_bricks
+setblock 45 -37 -41 minecraft:quartz_bricks
+setblock 45 -37 -40 minecraft:quartz_bricks
+setblock 45 -37 -39 minecraft:quartz_bricks
+setblock 45 -37 -38 minecraft:quartz_bricks
+setblock 45 -37 -37 minecraft:quartz_bricks
+setblock 45 -37 -36 minecraft:quartz_bricks
+setblock 45 -37 -35 minecraft:quartz_pillar
+setblock 35 -36 -45 minecraft:quartz_pillar
+setblock 35 -36 -44 minecraft:quartz_block
+setblock 35 -36 -43 minecraft:quartz_block
+setblock 35 -36 -42 minecraft:quartz_block
+setblock 35 -36 -41 minecraft:quartz_block
+setblock 35 -36 -40 minecraft:quartz_block
+setblock 35 -36 -39 minecraft:quartz_block
+setblock 35 -36 -38 minecraft:quartz_block
+setblock 35 -36 -37 minecraft:quartz_block
+setblock 35 -36 -36 minecraft:quartz_block
+setblock 35 -36 -35 minecraft:quartz_pillar
+setblock 36 -36 -45 minecraft:quartz_block
+setblock 36 -36 -35 minecraft:quartz_block
+setblock 37 -36 -45 minecraft:quartz_block
+setblock 37 -36 -35 minecraft:quartz_block
+setblock 38 -36 -45 minecraft:quartz_block
+setblock 38 -36 -35 minecraft:quartz_block
+setblock 39 -36 -45 minecraft:quartz_block
+setblock 39 -36 -35 minecraft:quartz_block
+setblock 40 -36 -45 minecraft:quartz_block
+setblock 40 -36 -35 minecraft:quartz_block
+setblock 41 -36 -45 minecraft:quartz_block
+setblock 41 -36 -35 minecraft:quartz_block
+setblock 42 -36 -45 minecraft:quartz_block
+setblock 42 -36 -35 minecraft:quartz_block
+setblock 43 -36 -45 minecraft:quartz_block
+setblock 43 -36 -35 minecraft:quartz_block
+setblock 44 -36 -45 minecraft:quartz_block
+setblock 44 -36 -35 minecraft:quartz_block
+setblock 45 -36 -45 minecraft:quartz_pillar
+setblock 45 -36 -44 minecraft:quartz_block
+setblock 45 -36 -43 minecraft:quartz_block
+setblock 45 -36 -42 minecraft:quartz_block
+setblock 45 -36 -41 minecraft:quartz_block
+setblock 45 -36 -40 minecraft:quartz_block
+setblock 45 -36 -39 minecraft:quartz_block
+setblock 45 -36 -38 minecraft:quartz_block
+setblock 45 -36 -37 minecraft:quartz_block
+setblock 45 -36 -36 minecraft:quartz_block
+setblock 45 -36 -35 minecraft:quartz_pillar
+setblock 35 -35 -45 minecraft:quartz_pillar
+setblock 35 -35 -44 minecraft:quartz_bricks
+setblock 35 -35 -43 minecraft:quartz_bricks
+setblock 35 -35 -42 minecraft:quartz_bricks
+setblock 35 -35 -41 minecraft:quartz_bricks
+setblock 35 -35 -40 minecraft:quartz_bricks
+setblock 35 -35 -39 minecraft:quartz_bricks
+setblock 35 -35 -38 minecraft:quartz_bricks
+setblock 35 -35 -37 minecraft:quartz_bricks
+setblock 35 -35 -36 minecraft:quartz_bricks
+setblock 35 -35 -35 minecraft:quartz_pillar
+setblock 36 -35 -45 minecraft:quartz_bricks
+setblock 36 -35 -35 minecraft:quartz_bricks
+setblock 37 -35 -45 minecraft:quartz_bricks
+setblock 37 -35 -35 minecraft:quartz_bricks
+setblock 38 -35 -45 minecraft:quartz_bricks
+setblock 38 -35 -35 minecraft:quartz_bricks
+setblock 39 -35 -45 minecraft:quartz_bricks
+setblock 39 -35 -35 minecraft:quartz_bricks
+setblock 40 -35 -45 minecraft:quartz_bricks
+setblock 40 -35 -35 minecraft:quartz_bricks
+setblock 41 -35 -45 minecraft:quartz_bricks
+setblock 41 -35 -35 minecraft:quartz_bricks
+setblock 42 -35 -45 minecraft:quartz_bricks
+setblock 42 -35 -35 minecraft:quartz_bricks
+setblock 43 -35 -45 minecraft:quartz_bricks
+setblock 43 -35 -35 minecraft:quartz_bricks
+setblock 44 -35 -45 minecraft:quartz_bricks
+setblock 44 -35 -35 minecraft:quartz_bricks
+setblock 45 -35 -45 minecraft:quartz_pillar
+setblock 45 -35 -44 minecraft:quartz_bricks
+setblock 45 -35 -43 minecraft:quartz_bricks
+setblock 45 -35 -42 minecraft:quartz_bricks
+setblock 45 -35 -41 minecraft:quartz_bricks
+setblock 45 -35 -40 minecraft:quartz_bricks
+setblock 45 -35 -39 minecraft:quartz_bricks
+setblock 45 -35 -38 minecraft:quartz_bricks
+setblock 45 -35 -37 minecraft:quartz_bricks
+setblock 45 -35 -36 minecraft:quartz_bricks
+setblock 45 -35 -35 minecraft:quartz_pillar
+setblock 35 -34 -45 minecraft:quartz_pillar
+setblock 35 -34 -44 minecraft:quartz_bricks
+setblock 35 -34 -43 minecraft:quartz_bricks
+setblock 35 -34 -42 minecraft:quartz_bricks
+setblock 35 -34 -41 minecraft:quartz_bricks
+setblock 35 -34 -40 minecraft:quartz_bricks
+setblock 35 -34 -39 minecraft:quartz_bricks
+setblock 35 -34 -38 minecraft:quartz_bricks
+setblock 35 -34 -37 minecraft:quartz_bricks
+setblock 35 -34 -36 minecraft:quartz_bricks
+setblock 35 -34 -35 minecraft:quartz_pillar
+setblock 36 -34 -45 minecraft:quartz_bricks
+setblock 36 -34 -35 minecraft:quartz_bricks
+setblock 37 -34 -45 minecraft:quartz_bricks
+setblock 37 -34 -35 minecraft:quartz_bricks
+setblock 38 -34 -45 minecraft:quartz_bricks
+setblock 38 -34 -35 minecraft:quartz_bricks
+setblock 39 -34 -45 minecraft:quartz_bricks
+setblock 39 -34 -35 minecraft:quartz_bricks
+setblock 40 -34 -45 minecraft:quartz_bricks
+setblock 40 -34 -35 minecraft:quartz_bricks
+setblock 41 -34 -45 minecraft:quartz_bricks
+setblock 41 -34 -35 minecraft:quartz_bricks
+setblock 42 -34 -45 minecraft:quartz_bricks
+setblock 42 -34 -35 minecraft:quartz_bricks
+setblock 43 -34 -45 minecraft:quartz_bricks
+setblock 43 -34 -35 minecraft:quartz_bricks
+setblock 44 -34 -45 minecraft:quartz_bricks
+setblock 44 -34 -35 minecraft:quartz_bricks
+setblock 45 -34 -45 minecraft:quartz_pillar
+setblock 45 -34 -44 minecraft:quartz_bricks
+setblock 45 -34 -43 minecraft:quartz_bricks
+setblock 45 -34 -42 minecraft:quartz_bricks
+setblock 45 -34 -41 minecraft:quartz_bricks
+setblock 45 -34 -40 minecraft:quartz_bricks
+setblock 45 -34 -39 minecraft:quartz_bricks
+setblock 45 -34 -38 minecraft:quartz_bricks
+setblock 45 -34 -37 minecraft:quartz_bricks
+setblock 45 -34 -36 minecraft:quartz_bricks
+setblock 45 -34 -35 minecraft:quartz_pillar
+setblock 35 -33 -45 minecraft:quartz_pillar
+setblock 35 -33 -44 minecraft:quartz_bricks
+setblock 35 -33 -43 minecraft:quartz_bricks
+setblock 35 -33 -42 minecraft:quartz_bricks
+setblock 35 -33 -41 minecraft:quartz_bricks
+setblock 35 -33 -40 minecraft:quartz_bricks
+setblock 35 -33 -39 minecraft:quartz_bricks
+setblock 35 -33 -38 minecraft:quartz_bricks
+setblock 35 -33 -37 minecraft:quartz_bricks
+setblock 35 -33 -36 minecraft:quartz_bricks
+setblock 35 -33 -35 minecraft:quartz_pillar
+setblock 36 -33 -45 minecraft:quartz_bricks
+setblock 36 -33 -35 minecraft:quartz_bricks
+setblock 37 -33 -45 minecraft:quartz_bricks
+setblock 37 -33 -35 minecraft:quartz_bricks
+setblock 38 -33 -45 minecraft:quartz_bricks
+setblock 38 -33 -35 minecraft:quartz_bricks
+setblock 39 -33 -45 minecraft:quartz_bricks
+setblock 39 -33 -35 minecraft:quartz_bricks
+setblock 40 -33 -45 minecraft:quartz_bricks
+setblock 40 -33 -35 minecraft:quartz_bricks
+setblock 41 -33 -45 minecraft:quartz_bricks
+setblock 41 -33 -35 minecraft:quartz_bricks
+setblock 42 -33 -45 minecraft:quartz_bricks
+setblock 42 -33 -35 minecraft:quartz_bricks
+setblock 43 -33 -45 minecraft:quartz_bricks
+setblock 43 -33 -35 minecraft:quartz_bricks
+setblock 44 -33 -45 minecraft:quartz_bricks
+setblock 44 -33 -35 minecraft:quartz_bricks
+setblock 45 -33 -45 minecraft:quartz_pillar
+setblock 45 -33 -44 minecraft:quartz_bricks
+setblock 45 -33 -43 minecraft:quartz_bricks
+setblock 45 -33 -42 minecraft:quartz_bricks
+setblock 45 -33 -41 minecraft:quartz_bricks
+setblock 45 -33 -40 minecraft:quartz_bricks
+setblock 45 -33 -39 minecraft:quartz_bricks
+setblock 45 -33 -38 minecraft:quartz_bricks
+setblock 45 -33 -37 minecraft:quartz_bricks
+setblock 45 -33 -36 minecraft:quartz_bricks
+setblock 45 -33 -35 minecraft:quartz_pillar
+setblock 35 -32 -45 minecraft:quartz_pillar
+setblock 35 -32 -44 minecraft:quartz_bricks
+setblock 35 -32 -43 minecraft:quartz_bricks
+setblock 35 -32 -42 minecraft:quartz_bricks
+setblock 35 -32 -38 minecraft:quartz_bricks
+setblock 35 -32 -37 minecraft:quartz_bricks
+setblock 35 -32 -36 minecraft:quartz_bricks
+setblock 35 -32 -35 minecraft:quartz_pillar
+setblock 36 -32 -45 minecraft:quartz_bricks
+setblock 36 -32 -35 minecraft:quartz_bricks
+setblock 37 -32 -45 minecraft:quartz_bricks
+setblock 37 -32 -35 minecraft:quartz_bricks
+setblock 38 -32 -45 minecraft:quartz_bricks
+setblock 38 -32 -35 minecraft:quartz_bricks
+setblock 42 -32 -45 minecraft:quartz_bricks
+setblock 42 -32 -35 minecraft:quartz_bricks
+setblock 43 -32 -45 minecraft:quartz_bricks
+setblock 43 -32 -35 minecraft:quartz_bricks
+setblock 44 -32 -45 minecraft:quartz_bricks
+setblock 44 -32 -35 minecraft:quartz_bricks
+setblock 45 -32 -45 minecraft:quartz_pillar
+setblock 45 -32 -44 minecraft:quartz_bricks
+setblock 45 -32 -43 minecraft:quartz_bricks
+setblock 45 -32 -42 minecraft:quartz_bricks
+setblock 45 -32 -38 minecraft:quartz_bricks
+setblock 45 -32 -37 minecraft:quartz_bricks
+setblock 45 -32 -36 minecraft:quartz_bricks
+setblock 45 -32 -35 minecraft:quartz_pillar
+setblock 35 -31 -45 minecraft:quartz_pillar
+setblock 35 -31 -44 minecraft:quartz_bricks
+setblock 35 -31 -43 minecraft:quartz_bricks
+setblock 35 -31 -42 minecraft:quartz_bricks
+setblock 35 -31 -38 minecraft:quartz_bricks
+setblock 35 -31 -37 minecraft:quartz_bricks
+setblock 35 -31 -36 minecraft:quartz_bricks
+setblock 35 -31 -35 minecraft:quartz_pillar
+setblock 36 -31 -45 minecraft:quartz_bricks
+setblock 36 -31 -35 minecraft:quartz_bricks
+setblock 37 -31 -45 minecraft:quartz_bricks
+setblock 37 -31 -35 minecraft:quartz_bricks
+setblock 38 -31 -45 minecraft:quartz_bricks
+setblock 38 -31 -35 minecraft:quartz_bricks
+setblock 42 -31 -45 minecraft:quartz_bricks
+setblock 42 -31 -35 minecraft:quartz_bricks
+setblock 43 -31 -45 minecraft:quartz_bricks
+setblock 43 -31 -35 minecraft:quartz_bricks
+setblock 44 -31 -45 minecraft:quartz_bricks
+setblock 44 -31 -35 minecraft:quartz_bricks
+setblock 45 -31 -45 minecraft:quartz_pillar
+setblock 45 -31 -44 minecraft:quartz_bricks
+setblock 45 -31 -43 minecraft:quartz_bricks
+setblock 45 -31 -42 minecraft:quartz_bricks
+setblock 45 -31 -38 minecraft:quartz_bricks
+setblock 45 -31 -37 minecraft:quartz_bricks
+setblock 45 -31 -36 minecraft:quartz_bricks
+setblock 45 -31 -35 minecraft:quartz_pillar
+setblock 35 -30 -45 minecraft:quartz_pillar
+setblock 35 -30 -44 minecraft:quartz_bricks
+setblock 35 -30 -43 minecraft:quartz_bricks
+setblock 35 -30 -42 minecraft:quartz_bricks
+setblock 35 -30 -38 minecraft:quartz_bricks
+setblock 35 -30 -37 minecraft:quartz_bricks
+setblock 35 -30 -36 minecraft:quartz_bricks
+setblock 35 -30 -35 minecraft:quartz_pillar
+setblock 36 -30 -45 minecraft:quartz_bricks
+setblock 36 -30 -35 minecraft:quartz_bricks
+setblock 37 -30 -45 minecraft:quartz_bricks
+setblock 37 -30 -35 minecraft:quartz_bricks
+setblock 38 -30 -45 minecraft:quartz_bricks
+setblock 38 -30 -35 minecraft:quartz_bricks
+setblock 42 -30 -45 minecraft:quartz_bricks
+setblock 42 -30 -35 minecraft:quartz_bricks
+setblock 43 -30 -45 minecraft:quartz_bricks
+setblock 43 -30 -35 minecraft:quartz_bricks
+setblock 44 -30 -45 minecraft:quartz_bricks
+setblock 44 -30 -35 minecraft:quartz_bricks
+setblock 45 -30 -45 minecraft:quartz_pillar
+setblock 45 -30 -44 minecraft:quartz_bricks
+setblock 45 -30 -43 minecraft:quartz_bricks
+setblock 45 -30 -42 minecraft:quartz_bricks
+setblock 45 -30 -38 minecraft:quartz_bricks
+setblock 45 -30 -37 minecraft:quartz_bricks
+setblock 45 -30 -36 minecraft:quartz_bricks
+setblock 45 -30 -35 minecraft:quartz_pillar
+setblock 35 -29 -45 minecraft:quartz_pillar
+setblock 35 -29 -44 minecraft:quartz_bricks
+setblock 35 -29 -43 minecraft:quartz_bricks
+setblock 35 -29 -42 minecraft:quartz_bricks
+setblock 35 -29 -41 minecraft:quartz_bricks
+setblock 35 -29 -40 minecraft:quartz_bricks
+setblock 35 -29 -39 minecraft:quartz_bricks
+setblock 35 -29 -38 minecraft:quartz_bricks
+setblock 35 -29 -37 minecraft:quartz_bricks
+setblock 35 -29 -36 minecraft:quartz_bricks
+setblock 35 -29 -35 minecraft:quartz_pillar
+setblock 36 -29 -45 minecraft:quartz_bricks
+setblock 36 -29 -35 minecraft:quartz_bricks
+setblock 37 -29 -45 minecraft:quartz_bricks
+setblock 37 -29 -35 minecraft:quartz_bricks
+setblock 38 -29 -45 minecraft:quartz_bricks
+setblock 38 -29 -35 minecraft:quartz_bricks
+setblock 39 -29 -45 minecraft:quartz_bricks
+setblock 39 -29 -35 minecraft:quartz_bricks
+setblock 40 -29 -45 minecraft:quartz_bricks
+setblock 40 -29 -35 minecraft:quartz_bricks
+setblock 41 -29 -45 minecraft:quartz_bricks
+setblock 41 -29 -35 minecraft:quartz_bricks
+setblock 42 -29 -45 minecraft:quartz_bricks
+setblock 42 -29 -35 minecraft:quartz_bricks
+setblock 43 -29 -45 minecraft:quartz_bricks
+setblock 43 -29 -35 minecraft:quartz_bricks
+setblock 44 -29 -45 minecraft:quartz_bricks
+setblock 44 -29 -35 minecraft:quartz_bricks
+setblock 45 -29 -45 minecraft:quartz_pillar
+setblock 45 -29 -44 minecraft:quartz_bricks
+setblock 45 -29 -43 minecraft:quartz_bricks
+setblock 45 -29 -42 minecraft:quartz_bricks
+setblock 45 -29 -41 minecraft:quartz_bricks
+setblock 45 -29 -40 minecraft:quartz_bricks
+setblock 45 -29 -39 minecraft:quartz_bricks
+setblock 45 -29 -38 minecraft:quartz_bricks
+setblock 45 -29 -37 minecraft:quartz_bricks
+setblock 45 -29 -36 minecraft:quartz_bricks
+setblock 45 -29 -35 minecraft:quartz_pillar
+setblock 35 -28 -45 minecraft:quartz_pillar
+setblock 35 -28 -44 minecraft:quartz_block
+setblock 35 -28 -43 minecraft:quartz_block
+setblock 35 -28 -42 minecraft:quartz_block
+setblock 35 -28 -41 minecraft:quartz_block
+setblock 35 -28 -40 minecraft:quartz_block
+setblock 35 -28 -39 minecraft:quartz_block
+setblock 35 -28 -38 minecraft:quartz_block
+setblock 35 -28 -37 minecraft:quartz_block
+setblock 35 -28 -36 minecraft:quartz_block
+setblock 35 -28 -35 minecraft:quartz_pillar
+setblock 36 -28 -45 minecraft:quartz_block
+setblock 36 -28 -35 minecraft:quartz_block
+setblock 37 -28 -45 minecraft:quartz_block
+setblock 37 -28 -35 minecraft:quartz_block
+setblock 38 -28 -45 minecraft:quartz_block
+setblock 38 -28 -35 minecraft:quartz_block
+setblock 39 -28 -45 minecraft:quartz_block
+setblock 39 -28 -35 minecraft:quartz_block
+setblock 40 -28 -45 minecraft:quartz_block
+setblock 40 -28 -35 minecraft:quartz_block
+setblock 41 -28 -45 minecraft:quartz_block
+setblock 41 -28 -35 minecraft:quartz_block
+setblock 42 -28 -45 minecraft:quartz_block
+setblock 42 -28 -35 minecraft:quartz_block
+setblock 43 -28 -45 minecraft:quartz_block
+setblock 43 -28 -35 minecraft:quartz_block
+setblock 44 -28 -45 minecraft:quartz_block
+setblock 44 -28 -35 minecraft:quartz_block
+setblock 45 -28 -45 minecraft:quartz_pillar
+setblock 45 -28 -44 minecraft:quartz_block
+setblock 45 -28 -43 minecraft:quartz_block
+setblock 45 -28 -42 minecraft:quartz_block
+setblock 45 -28 -41 minecraft:quartz_block
+setblock 45 -28 -40 minecraft:quartz_block
+setblock 45 -28 -39 minecraft:quartz_block
+setblock 45 -28 -38 minecraft:quartz_block
+setblock 45 -28 -37 minecraft:quartz_block
+setblock 45 -28 -36 minecraft:quartz_block
+setblock 45 -28 -35 minecraft:quartz_pillar
+setblock 35 -27 -45 minecraft:quartz_pillar
+setblock 35 -27 -44 minecraft:quartz_bricks
+setblock 35 -27 -43 minecraft:quartz_bricks
+setblock 35 -27 -42 minecraft:quartz_bricks
+setblock 35 -27 -41 minecraft:quartz_bricks
+setblock 35 -27 -40 minecraft:quartz_bricks
+setblock 35 -27 -39 minecraft:quartz_bricks
+setblock 35 -27 -38 minecraft:quartz_bricks
+setblock 35 -27 -37 minecraft:quartz_bricks
+setblock 35 -27 -36 minecraft:quartz_bricks
+setblock 35 -27 -35 minecraft:quartz_pillar
+setblock 36 -27 -45 minecraft:quartz_bricks
+setblock 36 -27 -35 minecraft:quartz_bricks
+setblock 37 -27 -45 minecraft:quartz_bricks
+setblock 37 -27 -35 minecraft:quartz_bricks
+setblock 38 -27 -45 minecraft:quartz_bricks
+setblock 38 -27 -35 minecraft:quartz_bricks
+setblock 39 -27 -45 minecraft:quartz_bricks
+setblock 39 -27 -35 minecraft:quartz_bricks
+setblock 40 -27 -45 minecraft:quartz_bricks
+setblock 40 -27 -35 minecraft:quartz_bricks
+setblock 41 -27 -45 minecraft:quartz_bricks
+setblock 41 -27 -35 minecraft:quartz_bricks
+setblock 42 -27 -45 minecraft:quartz_bricks
+setblock 42 -27 -35 minecraft:quartz_bricks
+setblock 43 -27 -45 minecraft:quartz_bricks
+setblock 43 -27 -35 minecraft:quartz_bricks
+setblock 44 -27 -45 minecraft:quartz_bricks
+setblock 44 -27 -35 minecraft:quartz_bricks
+setblock 45 -27 -45 minecraft:quartz_pillar
+setblock 45 -27 -44 minecraft:quartz_bricks
+setblock 45 -27 -43 minecraft:quartz_bricks
+setblock 45 -27 -42 minecraft:quartz_bricks
+setblock 45 -27 -41 minecraft:quartz_bricks
+setblock 45 -27 -40 minecraft:quartz_bricks
+setblock 45 -27 -39 minecraft:quartz_bricks
+setblock 45 -27 -38 minecraft:quartz_bricks
+setblock 45 -27 -37 minecraft:quartz_bricks
+setblock 45 -27 -36 minecraft:quartz_bricks
+setblock 45 -27 -35 minecraft:quartz_pillar
+setblock 35 -26 -45 minecraft:quartz_pillar
+setblock 35 -26 -44 minecraft:quartz_bricks
+setblock 35 -26 -43 minecraft:quartz_bricks
+setblock 35 -26 -42 minecraft:quartz_bricks
+setblock 35 -26 -41 minecraft:quartz_bricks
+setblock 35 -26 -40 minecraft:quartz_bricks
+setblock 35 -26 -39 minecraft:quartz_bricks
+setblock 35 -26 -38 minecraft:quartz_bricks
+setblock 35 -26 -37 minecraft:quartz_bricks
+setblock 35 -26 -36 minecraft:quartz_bricks
+setblock 35 -26 -35 minecraft:quartz_pillar
+setblock 36 -26 -45 minecraft:quartz_bricks
+setblock 36 -26 -35 minecraft:quartz_bricks
+setblock 37 -26 -45 minecraft:quartz_bricks
+setblock 37 -26 -35 minecraft:quartz_bricks
+setblock 38 -26 -45 minecraft:quartz_bricks
+setblock 38 -26 -35 minecraft:quartz_bricks
+setblock 39 -26 -45 minecraft:quartz_bricks
+setblock 39 -26 -35 minecraft:quartz_bricks
+setblock 40 -26 -45 minecraft:quartz_bricks
+setblock 40 -26 -35 minecraft:quartz_bricks
+setblock 41 -26 -45 minecraft:quartz_bricks
+setblock 41 -26 -35 minecraft:quartz_bricks
+setblock 42 -26 -45 minecraft:quartz_bricks
+setblock 42 -26 -35 minecraft:quartz_bricks
+setblock 43 -26 -45 minecraft:quartz_bricks
+setblock 43 -26 -35 minecraft:quartz_bricks
+setblock 44 -26 -45 minecraft:quartz_bricks
+setblock 44 -26 -35 minecraft:quartz_bricks
+setblock 45 -26 -45 minecraft:quartz_pillar
+setblock 45 -26 -44 minecraft:quartz_bricks
+setblock 45 -26 -43 minecraft:quartz_bricks
+setblock 45 -26 -42 minecraft:quartz_bricks
+setblock 45 -26 -41 minecraft:quartz_bricks
+setblock 45 -26 -40 minecraft:quartz_bricks
+setblock 45 -26 -39 minecraft:quartz_bricks
+setblock 45 -26 -38 minecraft:quartz_bricks
+setblock 45 -26 -37 minecraft:quartz_bricks
+setblock 45 -26 -36 minecraft:quartz_bricks
+setblock 45 -26 -35 minecraft:quartz_pillar
+setblock 35 -25 -45 minecraft:quartz_pillar
+setblock 35 -25 -44 minecraft:quartz_bricks
+setblock 35 -25 -43 minecraft:quartz_bricks
+setblock 35 -25 -42 minecraft:quartz_bricks
+setblock 35 -25 -41 minecraft:quartz_bricks
+setblock 35 -25 -40 minecraft:quartz_bricks
+setblock 35 -25 -39 minecraft:quartz_bricks
+setblock 35 -25 -38 minecraft:quartz_bricks
+setblock 35 -25 -37 minecraft:quartz_bricks
+setblock 35 -25 -36 minecraft:quartz_bricks
+setblock 35 -25 -35 minecraft:quartz_pillar
+setblock 36 -25 -45 minecraft:quartz_bricks
+setblock 36 -25 -35 minecraft:quartz_bricks
+setblock 37 -25 -45 minecraft:quartz_bricks
+setblock 37 -25 -35 minecraft:quartz_bricks
+setblock 38 -25 -45 minecraft:quartz_bricks
+setblock 38 -25 -35 minecraft:quartz_bricks
+setblock 39 -25 -45 minecraft:quartz_bricks
+setblock 39 -25 -35 minecraft:quartz_bricks
+setblock 40 -25 -45 minecraft:quartz_bricks
+setblock 40 -25 -35 minecraft:quartz_bricks
+setblock 41 -25 -45 minecraft:quartz_bricks
+setblock 41 -25 -35 minecraft:quartz_bricks
+setblock 42 -25 -45 minecraft:quartz_bricks
+setblock 42 -25 -35 minecraft:quartz_bricks
+setblock 43 -25 -45 minecraft:quartz_bricks
+setblock 43 -25 -35 minecraft:quartz_bricks
+setblock 44 -25 -45 minecraft:quartz_bricks
+setblock 44 -25 -35 minecraft:quartz_bricks
+setblock 45 -25 -45 minecraft:quartz_pillar
+setblock 45 -25 -44 minecraft:quartz_bricks
+setblock 45 -25 -43 minecraft:quartz_bricks
+setblock 45 -25 -42 minecraft:quartz_bricks
+setblock 45 -25 -41 minecraft:quartz_bricks
+setblock 45 -25 -40 minecraft:quartz_bricks
+setblock 45 -25 -39 minecraft:quartz_bricks
+setblock 45 -25 -38 minecraft:quartz_bricks
+setblock 45 -25 -37 minecraft:quartz_bricks
+setblock 45 -25 -36 minecraft:quartz_bricks
+setblock 45 -25 -35 minecraft:quartz_pillar
+setblock 35 -24 -45 minecraft:quartz_pillar
+setblock 35 -24 -44 minecraft:quartz_bricks
+setblock 35 -24 -43 minecraft:quartz_bricks
+setblock 35 -24 -42 minecraft:quartz_bricks
+setblock 35 -24 -38 minecraft:quartz_bricks
+setblock 35 -24 -37 minecraft:quartz_bricks
+setblock 35 -24 -36 minecraft:quartz_bricks
+setblock 35 -24 -35 minecraft:quartz_pillar
+setblock 36 -24 -45 minecraft:quartz_bricks
+setblock 36 -24 -35 minecraft:quartz_bricks
+setblock 37 -24 -45 minecraft:quartz_bricks
+setblock 37 -24 -35 minecraft:quartz_bricks
+setblock 38 -24 -45 minecraft:quartz_bricks
+setblock 38 -24 -35 minecraft:quartz_bricks
+setblock 42 -24 -45 minecraft:quartz_bricks
+setblock 42 -24 -35 minecraft:quartz_bricks
+setblock 43 -24 -45 minecraft:quartz_bricks
+setblock 43 -24 -35 minecraft:quartz_bricks
+setblock 44 -24 -45 minecraft:quartz_bricks
+setblock 44 -24 -35 minecraft:quartz_bricks
+setblock 45 -24 -45 minecraft:quartz_pillar
+setblock 45 -24 -44 minecraft:quartz_bricks
+setblock 45 -24 -43 minecraft:quartz_bricks
+setblock 45 -24 -42 minecraft:quartz_bricks
+setblock 45 -24 -38 minecraft:quartz_bricks
+setblock 45 -24 -37 minecraft:quartz_bricks
+setblock 45 -24 -36 minecraft:quartz_bricks
+setblock 45 -24 -35 minecraft:quartz_pillar
+setblock 35 -23 -45 minecraft:quartz_pillar
+setblock 35 -23 -44 minecraft:quartz_bricks
+setblock 35 -23 -43 minecraft:quartz_bricks
+setblock 35 -23 -42 minecraft:quartz_bricks
+setblock 35 -23 -38 minecraft:quartz_bricks
+setblock 35 -23 -37 minecraft:quartz_bricks
+setblock 35 -23 -36 minecraft:quartz_bricks
+setblock 35 -23 -35 minecraft:quartz_pillar
+setblock 36 -23 -45 minecraft:quartz_bricks
+setblock 36 -23 -35 minecraft:quartz_bricks
+setblock 37 -23 -45 minecraft:quartz_bricks
+setblock 37 -23 -35 minecraft:quartz_bricks
+setblock 38 -23 -45 minecraft:quartz_bricks
+setblock 38 -23 -35 minecraft:quartz_bricks
+setblock 42 -23 -45 minecraft:quartz_bricks
+setblock 42 -23 -35 minecraft:quartz_bricks
+setblock 43 -23 -45 minecraft:quartz_bricks
+setblock 43 -23 -35 minecraft:quartz_bricks
+setblock 44 -23 -45 minecraft:quartz_bricks
+setblock 44 -23 -35 minecraft:quartz_bricks
+setblock 45 -23 -45 minecraft:quartz_pillar
+setblock 45 -23 -44 minecraft:quartz_bricks
+setblock 45 -23 -43 minecraft:quartz_bricks
+setblock 45 -23 -42 minecraft:quartz_bricks
+setblock 45 -23 -38 minecraft:quartz_bricks
+setblock 45 -23 -37 minecraft:quartz_bricks
+setblock 45 -23 -36 minecraft:quartz_bricks
+setblock 45 -23 -35 minecraft:quartz_pillar
+setblock 35 -22 -45 minecraft:quartz_pillar
+setblock 35 -22 -44 minecraft:quartz_bricks
+setblock 35 -22 -43 minecraft:quartz_bricks
+setblock 35 -22 -42 minecraft:quartz_bricks
+setblock 35 -22 -38 minecraft:quartz_bricks
+setblock 35 -22 -37 minecraft:quartz_bricks
+setblock 35 -22 -36 minecraft:quartz_bricks
+setblock 35 -22 -35 minecraft:quartz_pillar
+setblock 36 -22 -45 minecraft:quartz_bricks
+setblock 36 -22 -35 minecraft:quartz_bricks
+setblock 37 -22 -45 minecraft:quartz_bricks
+setblock 37 -22 -35 minecraft:quartz_bricks
+setblock 38 -22 -45 minecraft:quartz_bricks
+setblock 38 -22 -35 minecraft:quartz_bricks
+setblock 42 -22 -45 minecraft:quartz_bricks
+setblock 42 -22 -35 minecraft:quartz_bricks
+setblock 43 -22 -45 minecraft:quartz_bricks
+setblock 43 -22 -35 minecraft:quartz_bricks
+setblock 44 -22 -45 minecraft:quartz_bricks
+setblock 44 -22 -35 minecraft:quartz_bricks
+setblock 45 -22 -45 minecraft:quartz_pillar
+setblock 45 -22 -44 minecraft:quartz_bricks
+setblock 45 -22 -43 minecraft:quartz_bricks
+setblock 45 -22 -42 minecraft:quartz_bricks
+setblock 45 -22 -38 minecraft:quartz_bricks
+setblock 45 -22 -37 minecraft:quartz_bricks
+setblock 45 -22 -36 minecraft:quartz_bricks
+setblock 45 -22 -35 minecraft:quartz_pillar
+setblock 35 -21 -45 minecraft:quartz_pillar
+setblock 35 -21 -44 minecraft:quartz_bricks
+setblock 35 -21 -43 minecraft:quartz_bricks
+setblock 35 -21 -42 minecraft:quartz_bricks
+setblock 35 -21 -41 minecraft:quartz_bricks
+setblock 35 -21 -40 minecraft:quartz_bricks
+setblock 35 -21 -39 minecraft:quartz_bricks
+setblock 35 -21 -38 minecraft:quartz_bricks
+setblock 35 -21 -37 minecraft:quartz_bricks
+setblock 35 -21 -36 minecraft:quartz_bricks
+setblock 35 -21 -35 minecraft:quartz_pillar
+setblock 36 -21 -45 minecraft:quartz_bricks
+setblock 36 -21 -35 minecraft:quartz_bricks
+setblock 37 -21 -45 minecraft:quartz_bricks
+setblock 37 -21 -35 minecraft:quartz_bricks
+setblock 38 -21 -45 minecraft:quartz_bricks
+setblock 38 -21 -35 minecraft:quartz_bricks
+setblock 39 -21 -45 minecraft:quartz_bricks
+setblock 39 -21 -35 minecraft:quartz_bricks
+setblock 40 -21 -45 minecraft:quartz_bricks
+setblock 40 -21 -35 minecraft:quartz_bricks
+setblock 41 -21 -45 minecraft:quartz_bricks
+setblock 41 -21 -35 minecraft:quartz_bricks
+setblock 42 -21 -45 minecraft:quartz_bricks
+setblock 42 -21 -35 minecraft:quartz_bricks
+setblock 43 -21 -45 minecraft:quartz_bricks
+setblock 43 -21 -35 minecraft:quartz_bricks
+setblock 44 -21 -45 minecraft:quartz_bricks
+setblock 44 -21 -35 minecraft:quartz_bricks
+setblock 45 -21 -45 minecraft:quartz_pillar
+setblock 45 -21 -44 minecraft:quartz_bricks
+setblock 45 -21 -43 minecraft:quartz_bricks
+setblock 45 -21 -42 minecraft:quartz_bricks
+setblock 45 -21 -41 minecraft:quartz_bricks
+setblock 45 -21 -40 minecraft:quartz_bricks
+setblock 45 -21 -39 minecraft:quartz_bricks
+setblock 45 -21 -38 minecraft:quartz_bricks
+setblock 45 -21 -37 minecraft:quartz_bricks
+setblock 45 -21 -36 minecraft:quartz_bricks
+setblock 45 -21 -35 minecraft:quartz_pillar
+setblock 35 -20 -45 minecraft:quartz_pillar
+setblock 35 -20 -44 minecraft:quartz_block
+setblock 35 -20 -43 minecraft:quartz_block
+setblock 35 -20 -42 minecraft:quartz_block
+setblock 35 -20 -41 minecraft:quartz_block
+setblock 35 -20 -40 minecraft:quartz_block
+setblock 35 -20 -39 minecraft:quartz_block
+setblock 35 -20 -38 minecraft:quartz_block
+setblock 35 -20 -37 minecraft:quartz_block
+setblock 35 -20 -36 minecraft:quartz_block
+setblock 35 -20 -35 minecraft:quartz_pillar
+setblock 36 -20 -45 minecraft:quartz_block
+setblock 36 -20 -35 minecraft:quartz_block
+setblock 37 -20 -45 minecraft:quartz_block
+setblock 37 -20 -35 minecraft:quartz_block
+setblock 38 -20 -45 minecraft:quartz_block
+setblock 38 -20 -35 minecraft:quartz_block
+setblock 39 -20 -45 minecraft:quartz_block
+setblock 39 -20 -35 minecraft:quartz_block
+setblock 40 -20 -45 minecraft:quartz_block
+setblock 40 -20 -35 minecraft:quartz_block
+setblock 41 -20 -45 minecraft:quartz_block
+setblock 41 -20 -35 minecraft:quartz_block
+setblock 42 -20 -45 minecraft:quartz_block
+setblock 42 -20 -35 minecraft:quartz_block
+setblock 43 -20 -45 minecraft:quartz_block
+setblock 43 -20 -35 minecraft:quartz_block
+setblock 44 -20 -45 minecraft:quartz_block
+setblock 44 -20 -35 minecraft:quartz_block
+setblock 45 -20 -45 minecraft:quartz_pillar
+setblock 45 -20 -44 minecraft:quartz_block
+setblock 45 -20 -43 minecraft:quartz_block
+setblock 45 -20 -42 minecraft:quartz_block
+setblock 45 -20 -41 minecraft:quartz_block
+setblock 45 -20 -40 minecraft:quartz_block
+setblock 45 -20 -39 minecraft:quartz_block
+setblock 45 -20 -38 minecraft:quartz_block
+setblock 45 -20 -37 minecraft:quartz_block
+setblock 45 -20 -36 minecraft:quartz_block
+setblock 45 -20 -35 minecraft:quartz_pillar
+setblock 35 -19 -45 minecraft:quartz_pillar
+setblock 35 -19 -44 minecraft:quartz_bricks
+setblock 35 -19 -43 minecraft:quartz_bricks
+setblock 35 -19 -42 minecraft:quartz_bricks
+setblock 35 -19 -41 minecraft:quartz_bricks
+setblock 35 -19 -40 minecraft:quartz_bricks
+setblock 35 -19 -39 minecraft:quartz_bricks
+setblock 35 -19 -38 minecraft:quartz_bricks
+setblock 35 -19 -37 minecraft:quartz_bricks
+setblock 35 -19 -36 minecraft:quartz_bricks
+setblock 35 -19 -35 minecraft:quartz_pillar
+setblock 36 -19 -45 minecraft:quartz_bricks
+setblock 36 -19 -35 minecraft:quartz_bricks
+setblock 37 -19 -45 minecraft:quartz_bricks
+setblock 37 -19 -35 minecraft:quartz_bricks
+setblock 38 -19 -45 minecraft:quartz_bricks
+setblock 38 -19 -35 minecraft:quartz_bricks
+setblock 39 -19 -45 minecraft:quartz_bricks
+setblock 39 -19 -35 minecraft:quartz_bricks
+setblock 40 -19 -45 minecraft:quartz_bricks
+setblock 40 -19 -35 minecraft:quartz_bricks
+setblock 41 -19 -45 minecraft:quartz_bricks
+setblock 41 -19 -35 minecraft:quartz_bricks
+setblock 42 -19 -45 minecraft:quartz_bricks
+setblock 42 -19 -35 minecraft:quartz_bricks
+setblock 43 -19 -45 minecraft:quartz_bricks
+setblock 43 -19 -35 minecraft:quartz_bricks
+setblock 44 -19 -45 minecraft:quartz_bricks
+setblock 44 -19 -35 minecraft:quartz_bricks
+setblock 45 -19 -45 minecraft:quartz_pillar
+setblock 45 -19 -44 minecraft:quartz_bricks
+setblock 45 -19 -43 minecraft:quartz_bricks
+setblock 45 -19 -42 minecraft:quartz_bricks
+setblock 45 -19 -41 minecraft:quartz_bricks
+setblock 45 -19 -40 minecraft:quartz_bricks
+setblock 45 -19 -39 minecraft:quartz_bricks
+setblock 45 -19 -38 minecraft:quartz_bricks
+setblock 45 -19 -37 minecraft:quartz_bricks
+setblock 45 -19 -36 minecraft:quartz_bricks
+setblock 45 -19 -35 minecraft:quartz_pillar
+setblock 35 -18 -45 minecraft:quartz_pillar
+setblock 35 -18 -44 minecraft:quartz_bricks
+setblock 35 -18 -43 minecraft:quartz_bricks
+setblock 35 -18 -42 minecraft:quartz_bricks
+setblock 35 -18 -41 minecraft:quartz_bricks
+setblock 35 -18 -40 minecraft:quartz_bricks
+setblock 35 -18 -39 minecraft:quartz_bricks
+setblock 35 -18 -38 minecraft:quartz_bricks
+setblock 35 -18 -37 minecraft:quartz_bricks
+setblock 35 -18 -36 minecraft:quartz_bricks
+setblock 35 -18 -35 minecraft:quartz_pillar
+setblock 36 -18 -45 minecraft:quartz_bricks
+setblock 36 -18 -35 minecraft:quartz_bricks
+setblock 37 -18 -45 minecraft:quartz_bricks
+setblock 37 -18 -35 minecraft:quartz_bricks
+setblock 38 -18 -45 minecraft:quartz_bricks
+setblock 38 -18 -35 minecraft:quartz_bricks
+setblock 39 -18 -45 minecraft:quartz_bricks
+setblock 39 -18 -35 minecraft:quartz_bricks
+setblock 40 -18 -45 minecraft:quartz_bricks
+setblock 40 -18 -35 minecraft:quartz_bricks
+setblock 41 -18 -45 minecraft:quartz_bricks
+setblock 41 -18 -35 minecraft:quartz_bricks
+setblock 42 -18 -45 minecraft:quartz_bricks
+setblock 42 -18 -35 minecraft:quartz_bricks
+setblock 43 -18 -45 minecraft:quartz_bricks
+setblock 43 -18 -35 minecraft:quartz_bricks
+setblock 44 -18 -45 minecraft:quartz_bricks
+setblock 44 -18 -35 minecraft:quartz_bricks
+setblock 45 -18 -45 minecraft:quartz_pillar
+setblock 45 -18 -44 minecraft:quartz_bricks
+setblock 45 -18 -43 minecraft:quartz_bricks
+setblock 45 -18 -42 minecraft:quartz_bricks
+setblock 45 -18 -41 minecraft:quartz_bricks
+setblock 45 -18 -40 minecraft:quartz_bricks
+setblock 45 -18 -39 minecraft:quartz_bricks
+setblock 45 -18 -38 minecraft:quartz_bricks
+setblock 45 -18 -37 minecraft:quartz_bricks
+setblock 45 -18 -36 minecraft:quartz_bricks
+setblock 45 -18 -35 minecraft:quartz_pillar
+setblock 35 -17 -45 minecraft:quartz_pillar
+setblock 35 -17 -44 minecraft:quartz_bricks
+setblock 35 -17 -43 minecraft:quartz_bricks
+setblock 35 -17 -42 minecraft:quartz_bricks
+setblock 35 -17 -41 minecraft:quartz_bricks
+setblock 35 -17 -40 minecraft:quartz_bricks
+setblock 35 -17 -39 minecraft:quartz_bricks
+setblock 35 -17 -38 minecraft:quartz_bricks
+setblock 35 -17 -37 minecraft:quartz_bricks
+setblock 35 -17 -36 minecraft:quartz_bricks
+setblock 35 -17 -35 minecraft:quartz_pillar
+setblock 36 -17 -45 minecraft:quartz_bricks
+setblock 36 -17 -35 minecraft:quartz_bricks
+setblock 37 -17 -45 minecraft:quartz_bricks
+setblock 37 -17 -35 minecraft:quartz_bricks
+setblock 38 -17 -45 minecraft:quartz_bricks
+setblock 38 -17 -35 minecraft:quartz_bricks
+setblock 39 -17 -45 minecraft:quartz_bricks
+setblock 39 -17 -35 minecraft:quartz_bricks
+setblock 40 -17 -45 minecraft:quartz_bricks
+setblock 40 -17 -35 minecraft:quartz_bricks
+setblock 41 -17 -45 minecraft:quartz_bricks
+setblock 41 -17 -35 minecraft:quartz_bricks
+setblock 42 -17 -45 minecraft:quartz_bricks
+setblock 42 -17 -35 minecraft:quartz_bricks
+setblock 43 -17 -45 minecraft:quartz_bricks
+setblock 43 -17 -35 minecraft:quartz_bricks
+setblock 44 -17 -45 minecraft:quartz_bricks
+setblock 44 -17 -35 minecraft:quartz_bricks
+setblock 45 -17 -45 minecraft:quartz_pillar
+setblock 45 -17 -44 minecraft:quartz_bricks
+setblock 45 -17 -43 minecraft:quartz_bricks
+setblock 45 -17 -42 minecraft:quartz_bricks
+setblock 45 -17 -41 minecraft:quartz_bricks
+setblock 45 -17 -40 minecraft:quartz_bricks
+setblock 45 -17 -39 minecraft:quartz_bricks
+setblock 45 -17 -38 minecraft:quartz_bricks
+setblock 45 -17 -37 minecraft:quartz_bricks
+setblock 45 -17 -36 minecraft:quartz_bricks
+setblock 45 -17 -35 minecraft:quartz_pillar
+fill 36 -17 -44 44 -17 -36 minecraft:smooth_quartz
+setblock 35 -16 -45 minecraft:quartz_pillar
+setblock 35 -15 -45 minecraft:sea_lantern
+setblock 35 -16 -35 minecraft:quartz_pillar
+setblock 35 -15 -35 minecraft:sea_lantern
+setblock 45 -16 -45 minecraft:quartz_pillar
+setblock 45 -15 -45 minecraft:sea_lantern
+setblock 45 -16 -35 minecraft:quartz_pillar
+setblock 45 -15 -35 minecraft:sea_lantern
+setblock 35 -16 -44 minecraft:smooth_quartz_slab
+setblock 35 -16 -43 minecraft:smooth_quartz_slab
+setblock 35 -16 -42 minecraft:smooth_quartz_slab
+setblock 35 -16 -41 minecraft:smooth_quartz_slab
+setblock 35 -16 -40 minecraft:smooth_quartz_slab
+setblock 35 -16 -39 minecraft:smooth_quartz_slab
+setblock 35 -16 -38 minecraft:smooth_quartz_slab
+setblock 35 -16 -37 minecraft:smooth_quartz_slab
+setblock 35 -16 -36 minecraft:smooth_quartz_slab
+setblock 36 -16 -45 minecraft:smooth_quartz_slab
+setblock 36 -16 -35 minecraft:smooth_quartz_slab
+setblock 37 -16 -45 minecraft:smooth_quartz_slab
+setblock 37 -16 -35 minecraft:smooth_quartz_slab
+setblock 38 -16 -45 minecraft:smooth_quartz_slab
+setblock 38 -16 -35 minecraft:smooth_quartz_slab
+setblock 39 -16 -45 minecraft:smooth_quartz_slab
+setblock 39 -16 -35 minecraft:smooth_quartz_slab
+setblock 40 -16 -45 minecraft:smooth_quartz_slab
+setblock 40 -16 -35 minecraft:smooth_quartz_slab
+setblock 41 -16 -45 minecraft:smooth_quartz_slab
+setblock 41 -16 -35 minecraft:smooth_quartz_slab
+setblock 42 -16 -45 minecraft:smooth_quartz_slab
+setblock 42 -16 -35 minecraft:smooth_quartz_slab
+setblock 43 -16 -45 minecraft:smooth_quartz_slab
+setblock 43 -16 -35 minecraft:smooth_quartz_slab
+setblock 44 -16 -45 minecraft:smooth_quartz_slab
+setblock 44 -16 -35 minecraft:smooth_quartz_slab
+setblock 45 -16 -44 minecraft:smooth_quartz_slab
+setblock 45 -16 -43 minecraft:smooth_quartz_slab
+setblock 45 -16 -42 minecraft:smooth_quartz_slab
+setblock 45 -16 -41 minecraft:smooth_quartz_slab
+setblock 45 -16 -40 minecraft:smooth_quartz_slab
+setblock 45 -16 -39 minecraft:smooth_quartz_slab
+setblock 45 -16 -38 minecraft:smooth_quartz_slab
+setblock 45 -16 -37 minecraft:smooth_quartz_slab
+setblock 45 -16 -36 minecraft:smooth_quartz_slab
