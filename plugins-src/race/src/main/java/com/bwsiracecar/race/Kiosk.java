@@ -4,6 +4,7 @@ import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
 import org.bukkit.Location;
 import org.bukkit.Material;
+import org.bukkit.World;
 import org.bukkit.block.Block;
 import org.bukkit.block.Container;
 import org.bukkit.event.EventHandler;
@@ -14,48 +15,54 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.ItemStack;
 
 /**
- * The submission desk by the start line: stand on the plate holding your
- * book to submit, and take a fresh book from the chest beside it.
+ * The submission desk: stand on the plate holding your book to submit, and
+ * take a fresh book from the chest beside it.
+ *
+ * Locations are read from the config on every use, so the desk can be built
+ * and wired up with /race admin reload — no restart.
  */
 public class Kiosk implements Listener {
 
     private final RacePlugin plugin;
-    private Location plate;
-    private Location chest;
-    private int stock;
 
     public Kiosk(RacePlugin plugin) {
         this.plugin = plugin;
     }
 
     public void enable() {
-        if (!plugin.getConfig().getBoolean("kiosk.enabled", false)) {
-            return;
-        }
-        var world = plugin.raceWorld();
-        if (world == null) {
-            return;
-        }
-        plate = new Location(world,
-                plugin.getConfig().getInt("kiosk.plate.x"),
-                plugin.getConfig().getInt("kiosk.plate.y"),
-                plugin.getConfig().getInt("kiosk.plate.z"));
-        chest = new Location(world,
-                plugin.getConfig().getInt("kiosk.chest.x"),
-                plugin.getConfig().getInt("kiosk.chest.y"),
-                plugin.getConfig().getInt("kiosk.chest.z"));
-        stock = plugin.getConfig().getInt("kiosk.books", 16);
-
         plugin.getServer().getPluginManager().registerEvents(this, plugin);
         plugin.getServer().getScheduler().runTaskTimer(plugin, this::restock, 100L, 200L);
     }
 
+    private boolean off() {
+        return !plugin.getConfig().getBoolean("kiosk.enabled", false);
+    }
+
+    private Location configured(String key) {
+        World world = plugin.raceWorld();
+        if (world == null) {
+            return null;
+        }
+        return new Location(world,
+                plugin.getConfig().getInt("kiosk." + key + ".x"),
+                plugin.getConfig().getInt("kiosk." + key + ".y"),
+                plugin.getConfig().getInt("kiosk." + key + ".z"));
+    }
+
     /** Keep a stack of blank books in the chest so nobody has to craft one. */
     private void restock() {
+        if (off()) {
+            return;
+        }
+        Location chest = configured("chest");
+        if (chest == null || !chest.getChunk().isLoaded()) {
+            return;
+        }
         Block block = chest.getBlock();
         if (!(block.getState() instanceof Container container)) {
             return;
         }
+        int want = plugin.getConfig().getInt("kiosk.books", 16);
         Inventory inventory = container.getInventory();
         int have = 0;
         for (ItemStack item : inventory.getContents()) {
@@ -63,16 +70,18 @@ public class Kiosk implements Listener {
                 have += item.getAmount();
             }
         }
-        if (have < stock) {
-            inventory.addItem(new ItemStack(Material.WRITABLE_BOOK, stock - have));
+        if (have < want) {
+            inventory.addItem(new ItemStack(Material.WRITABLE_BOOK, want - have));
         }
     }
 
     @EventHandler
     public void onStep(PlayerInteractEvent event) {
-        if (event.getAction() != Action.PHYSICAL || plate == null
-                || event.getClickedBlock() == null
-                || !event.getClickedBlock().getLocation().equals(plate)) {
+        if (off() || event.getAction() != Action.PHYSICAL || event.getClickedBlock() == null) {
+            return;
+        }
+        Location plate = configured("plate");
+        if (plate == null || !event.getClickedBlock().getLocation().equals(plate)) {
             return;
         }
         ItemStack held = event.getPlayer().getInventory().getItemInMainHand();

@@ -1,0 +1,9 @@
+name: WorldPolicy
+version: '${version}'
+main: com.bwsiracecar.worldpolicy.WorldPolicyPlugin
+api-version: '1.21'
+description: Survival stays survival; the lobby allows creative; inventories never cross
+permissions:
+  worldpolicy.bypass:
+    description: May change gamemode in the survival worlds
+    default: false

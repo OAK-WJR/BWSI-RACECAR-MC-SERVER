@@ -22,7 +22,12 @@ hologram:
 
 replay:
   enabled: true
-  podium-seconds: 10
+  # put the submitting player behind a chase camera during their replay
+  spectate: true
+  podium-seconds: 5
+  # trajectory points per tick: 1 is real time, 2 plays a lap back
+  # in half the time it took
+  speed: 1.0
   # the car is 0.44 m long; scale it by the track's blocks per metre
   car-scale: 8.0
 
@@ -34,7 +39,17 @@ submit:
 # to submit, take a blank book from the chest. scripts/gen_kiosk.py builds it
 # and prints these coordinates.
 kiosk:
-  enabled: false
-  plate: {x: -94, y: -59, z: 25}
-  chest: {x: -97, y: -59, z: 23}
+  enabled: true
+  plate: {x: 8, y: -56, z: 100}
+  chest: {x: 9, y: -56, z: 100}
+  # optional: every book in this container, in slot order, is one program —
+  # for code that does not fit on the pages of a single book
+  code-box: {x: 9, y: -56, z: 101}
   books: 16
+
+# The plate that sends players back to wherever they last stood outside the
+# lobby world. Each player returns to their own spot, not a shared one.
+portals:
+  enabled: false
+  home-plate: {x: -6, y: -56, z: 101}
+  fallback: {world: "BWSI Racecar", x: 266.0, y: 70.0, z: 76.0}

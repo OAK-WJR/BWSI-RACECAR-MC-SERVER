@@ -33,11 +33,15 @@ OFFSET_X, OFFSET_Z = 0, 0   # circuit centre in the hall
 Y_FLOOR, Y_STAND = -60, -59
 MAX_TIME_S = 150
 START_RADIUS_M = 1.5
-RESOLUTION = 0.02           # simulator map, metres per pixel
+RESOLUTION = 0.04           # simulator map, metres per pixel; the raycast
+                            # marches in half-pixel steps, so this is the
+                            # single biggest lever on simulation time
 
 FUNC_DIR = os.path.join(ROOT, "data/BWSI Racecar/datapacks/lobby/data/bwsi/function")
 SIM_DIR = os.path.join(ROOT, "sim")
 
+# Road is grey, not black: the car itself is black and would vanish into
+# an asphalt-black surface when watched from the chase camera.
 # ---------------------------------------------------------------- in game
 build, clear = [], []
 
@@ -54,7 +58,7 @@ for z in range(-int(R_OUT) - 1, int(R_OUT) + 2):
             run = x
         elif not inside and run is not None:
             x1, x2, zz = run + OFFSET_X, x - 1 + OFFSET_X, z + OFFSET_Z
-            both(f"fill {x1} {Y_FLOOR} {zz} {x2} {Y_FLOOR} {zz} minecraft:black_concrete",
+            both(f"fill {x1} {Y_FLOOR} {zz} {x2} {Y_FLOOR} {zz} minecraft:gray_concrete",
                  f"fill {x1} {Y_FLOOR} {zz} {x2} {Y_FLOOR} {zz} minecraft:smooth_quartz")
             run = None
 
@@ -75,7 +79,7 @@ for x in range(int(R_IN), int(R_OUT) + 1):
     for z in (-1, 0):
         colour = "white_concrete" if (x + z) % 2 == 0 else "gray_concrete"
         both(f"setblock {x + OFFSET_X} {Y_FLOOR} {z + OFFSET_Z} minecraft:{colour}",
-             f"setblock {x + OFFSET_X} {Y_FLOOR} {z + OFFSET_Z} minecraft:black_concrete")
+             f"setblock {x + OFFSET_X} {Y_FLOOR} {z + OFFSET_Z} minecraft:gray_concrete")
 gate_in, gate_out = int(R_IN) - 1 + OFFSET_X, int(R_OUT) + 1 + OFFSET_X
 for gx in (gate_in, gate_out):
     both(f"fill {gx} {Y_STAND} {OFFSET_Z} {gx} -53 {OFFSET_Z} minecraft:quartz_pillar",

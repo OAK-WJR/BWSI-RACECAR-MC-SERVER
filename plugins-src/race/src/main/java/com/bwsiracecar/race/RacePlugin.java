@@ -6,6 +6,8 @@ import net.kyori.adventure.text.serializer.plain.PlainTextComponentSerializer;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.World;
+import org.bukkit.block.Block;
+import org.bukkit.block.Container;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
@@ -15,6 +17,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.InputStream;
 import java.nio.file.Path;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 import java.util.stream.Collectors;
@@ -28,11 +31,13 @@ public class RacePlugin extends JavaPlugin {
     public static final String CAR_TAG = "bwsi_race_car";
 
     private CarModel model;
+    private CarModel replayModel;
     private Leaderboard leaderboard;
     private SubmissionQueue queue;
     private Hologram hologram;
     private Replay replay;
     private Kiosk kiosk;
+    private Portals portals;
 
     @Override
     public void onEnable() {
@@ -44,6 +49,14 @@ public class RacePlugin extends JavaPlugin {
             getServer().getPluginManager().disablePlugin(this);
             return;
         }
+        try (InputStream stream = getResource("car_replay.json")) {
+            replayModel = CarModel.load(stream);
+        } catch (Exception e) {
+            getLogger().severe("Could not load car_replay.json: " + e.getMessage());
+            getServer().getPluginManager().disablePlugin(this);
+            return;
+        }
+        getLogger().info(String.format("Replay model: %d parts", replayModel.parts().size()));
 
         Path data = getDataFolder().toPath();
         leaderboard = new Leaderboard(data.resolve("leaderboard.json"));
@@ -53,6 +66,9 @@ public class RacePlugin extends JavaPlugin {
         replay = new Replay(this, this::onRunFinished);
         hologram = new Hologram(leaderboard, getConfig().getInt("hologram.lines", 10));
         kiosk = new Kiosk(this);
+        kiosk.enable();
+        portals = new Portals(this);
+        portals.enable();
 
         Path results = data.resolve(getConfig().getString("dirs.results", "results"));
         try {
@@ -71,7 +87,6 @@ public class RacePlugin extends JavaPlugin {
                 return;
             }
             replay.cleanup(world);
-            kiosk.enable();
             if (getConfig().getBoolean("hologram.enabled", true)) {
                 hologram.spawn(new Location(world,
                         getConfig().getDouble("hologram.x"),
@@ -90,6 +105,22 @@ public class RacePlugin extends JavaPlugin {
 
     public CarModel model() {
         return model;
+    }
+
+    public CarModel replayModel() {
+        return replayModel;
+    }
+
+    /** Beside the submission plate: where a watcher lands after the replay. */
+    public Location deskLocation() {
+        World world = raceWorld();
+        if (world == null || !getConfig().isConfigurationSection("kiosk.plate")) {
+            return null;
+        }
+        return new Location(world,
+                getConfig().getInt("kiosk.plate.x") + 0.5,
+                getConfig().getInt("kiosk.plate.y") + 1.0,
+                getConfig().getInt("kiosk.plate.z") + 2.5);
     }
 
     public World raceWorld() {
@@ -165,13 +196,21 @@ public class RacePlugin extends JavaPlugin {
         return true;
     }
 
-    /** Queue the book the player is holding. Shared by /race submit and the kiosk. */
+    /** Queue a player's code. Shared by /race submit and the kiosk. */
     public void submitHeldBook(Player player) {
+        // A book page holds a couple of hundred characters, so long code goes
+        // in the code box: every book in it, in slot order, is one program.
+        List<ItemStack> books = new ArrayList<>();
         ItemStack held = player.getInventory().getItemInMainHand();
-        if (held.getType() != Material.WRITABLE_BOOK
-                && held.getType() != Material.WRITTEN_BOOK) {
+        if (held.getType() == Material.WRITABLE_BOOK
+                || held.getType() == Material.WRITTEN_BOOK) {
+            books.add(held);
+        } else {
+            books.addAll(codeBoxBooks());
+        }
+        if (books.isEmpty()) {
             player.sendMessage(Component.text(
-                    "Hold a book with your Python code and run /race submit again.",
+                    "Hold a book with your code, or put your books in the code box.",
                     NamedTextColor.RED));
             return;
         }
@@ -188,10 +227,19 @@ public class RacePlugin extends JavaPlugin {
             return;
         }
 
-        BookMeta meta = (BookMeta) held.getItemMeta();
-        String code = meta.pages().stream()
-                .map(page -> PlainTextComponentSerializer.plainText().serialize(page))
-                .collect(Collectors.joining("\n"));
+        int pages = 0;
+        StringBuilder builder = new StringBuilder();
+        for (ItemStack book : books) {
+            BookMeta meta = (BookMeta) book.getItemMeta();
+            for (Component page : meta.pages()) {
+                if (builder.length() > 0) {
+                    builder.append('\n');
+                }
+                builder.append(PlainTextComponentSerializer.plainText().serialize(page));
+                pages++;
+            }
+        }
+        String code = builder.toString();
         int limit = getConfig().getInt("submit.max-code-bytes", 32768);
         if (code.isBlank()) {
             player.sendMessage(Component.text("That book is empty.", NamedTextColor.RED));
@@ -210,8 +258,31 @@ public class RacePlugin extends JavaPlugin {
                     NamedTextColor.RED));
             return;
         }
-        player.sendMessage(Component.text("Submitted. Simulating your lap...",
-                NamedTextColor.GREEN));
+        player.sendMessage(Component.text(String.format(
+                "Submitted %d characters from %d page%s. Simulating your lap...",
+                code.length(), pages, pages == 1 ? "" : "s"), NamedTextColor.GREEN));
+    }
+
+    /** Books sitting in the configured code box, in slot order. */
+    private List<ItemStack> codeBoxBooks() {
+        List<ItemStack> books = new ArrayList<>();
+        World world = raceWorld();
+        if (world == null || !getConfig().isConfigurationSection("kiosk.code-box")) {
+            return books;
+        }
+        Block block = new Location(world,
+                getConfig().getInt("kiosk.code-box.x"),
+                getConfig().getInt("kiosk.code-box.y"),
+                getConfig().getInt("kiosk.code-box.z")).getBlock();
+        if (block.getState() instanceof Container container) {
+            for (ItemStack item : container.getInventory().getContents()) {
+                if (item != null && (item.getType() == Material.WRITABLE_BOOK
+                        || item.getType() == Material.WRITTEN_BOOK)) {
+                    books.add(item);
+                }
+            }
+        }
+        return books;
     }
 
     private boolean top(CommandSender sender) {

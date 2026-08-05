@@ -29,8 +29,15 @@ public class Car {
     private static final float YAW_EPSILON = 1.0f;
     private static final int INTERPOLATION_TICKS = 2;
 
-    /** The model's nose points to -z, so the body renders turned around. */
-    private static final float MODEL_FLIP = (float) Math.PI;
+    /** Body re-transforms are the expensive part, so they stay throttled;
+     * the interpolation duration below hides the step. */
+
+    /**
+     * The model's nose points along +z, the same way a yaw of 0 travels, so
+     * the body needs no extra turn. (It rendered backwards until a chase
+     * camera made that obvious.)
+     */
+    private static final float MODEL_FLIP = 0f;
 
     private final CarModel model;
     private final ArmorStand base;
@@ -66,6 +73,7 @@ public class Car {
                 d.setBlock(part.blockData());
                 d.setPersistent(true);
                 d.setInterpolationDuration(INTERPOLATION_TICKS);
+                d.setTeleportDuration(INTERPOLATION_TICKS);
             });
             parts.add(display);
             base.addPassenger(display);
@@ -103,8 +111,14 @@ public class Car {
     }
 
     /**
-     * Place the car exactly at a replayed trajectory point. Bypasses tick()
-     * physics: the simulator already decided where the car is.
+     * Move the car to the next replayed trajectory point. Bypasses tick()
+     * physics: the simulator already decided where the car goes.
+     *
+     * Teleporting is the only thing that moves it: an armour stand with
+     * gravity off ignores velocity entirely, so the clever-looking version
+     * of this that set velocity instead simply left the car standing still
+     * between resyncs. Clients interpolate entity teleports, and passengers
+     * ride along, so one teleport per tick is what smooth looks like here.
      */
     public void setPose(Location target, float newYaw) {
         yaw = newYaw;
