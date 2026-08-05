@@ -13,8 +13,10 @@ whole lap.
 
 ## Writing a submission
 
-Ordinary racecar_core code. The same file runs against the real car, the
-official RacecarSim, and here:
+Ordinary racecar_core code, unchanged. The same file runs against the real
+car, the official RacecarSim, and here — `racecar_core` and `racecar_utils`
+are the official API, so `sys.path.insert(0, "../../library")` at the top of
+a lab file is harmless and every `rc_utils` helper is available:
 
 ```python
 import racecar_core
@@ -35,9 +37,13 @@ rc.go()
 `sample_wall_follower.py` is a working example: it completes the course in
 about 40 seconds and is deliberately slow.
 
-Available: `rc.drive`, `rc.lidar`, `rc.physics`, `rc.get_delta_time()`.
-`rc.camera` returns black frames and `rc.controller` reads neutral — there
-is no camera or gamepad in a scored run.
+`racecar_utils.py` is the official file from MITLLRacecar/racecar-student,
+with one edit: a stand-in for `nptyping`, which is only used for annotations.
+
+Real here: `rc.drive`, `rc.lidar`, `rc.physics`, `rc.get_delta_time()`,
+`start`/`update`/`update_slow`. Stubbed: `rc.camera` returns black frames of
+the right shape, `rc.controller` reads neutral, `rc.display` does nothing —
+a scored run has no camera, no gamepad and no window.
 
 A run counts when the car has driven most of the corridor and comes back to
 the start line, and fails if that takes longer than `max_time_s`.

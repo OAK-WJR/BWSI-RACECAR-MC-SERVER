@@ -1,14 +1,19 @@
-"""Headless racecar_core for batch lap simulation.
+"""Headless racecar_core, API-compatible with the official library.
 
-Student code written for the real car or RacecarSim runs unchanged: the API
-is the same, but instead of talking to a simulator over UDP this drives
-sim2d's dynamics in-process and returns as soon as the lap is done. Only the
-parts a lap needs are real — camera and controller return neutral values.
+Student code written for the real car or RacecarSim runs unchanged: same
+module names, same methods, same units. Instead of talking to a simulator
+over UDP this drives sim2d's dynamics in-process and returns as soon as
+the run is over.
 
     import racecar_core
+    import racecar_utils as rc_utils
+
     rc = racecar_core.create_racecar()
-    rc.set_start_update(start, update)
+    rc.set_start_update(start, update, update_slow)
     rc.go()
+
+Only what a timed run needs is real: drive, lidar and physics. There is no
+camera or gamepad here, so those read black and neutral.
 """
 import math
 import os
@@ -30,7 +35,7 @@ class LapDone(Exception):
     """Raised inside the loop to unwind out of student code."""
 
 
-class _Drive:
+class Drive:
     def __init__(self, car):
         self._car = car
 
@@ -40,11 +45,11 @@ class _Drive:
     def stop(self):
         self._car.stop()
 
-    def set_max_speed(self, max_speed):
+    def set_max_speed(self, max_speed=0.25):
         self._car.set_max_speed(max_speed)
 
 
-class _Lidar:
+class Lidar:
     def __init__(self, lidar):
         self._lidar = lidar
 
@@ -58,20 +63,22 @@ class _Lidar:
         return self.get_samples()
 
 
-class _Physics:
+class Physics:
     def __init__(self, car, state):
         self._car = car
         self._state = state
 
     def get_linear_acceleration(self):
-        return self._car.imu_linear_acceleration(self._state["realism"])
+        return np.array(self._car.imu_linear_acceleration(self._state["realism"]),
+                        dtype=np.float32)
 
     def get_angular_velocity(self):
-        return self._car.imu_angular_velocity(self._state["realism"])
+        return np.array(self._car.imu_angular_velocity(self._state["realism"]),
+                        dtype=np.float32)
 
 
-class _Camera:
-    """No camera in the 2D simulator: black frames, right shape."""
+class Camera:
+    """No camera in the 2D simulator: black frames of the right shape."""
 
     def get_width(self):
         return 640
@@ -79,39 +86,36 @@ class _Camera:
     def get_height(self):
         return 480
 
+    def get_max_range(self):
+        return 1000.0
+
     def get_color_image(self):
         return np.zeros((480, 640, 3), dtype=np.uint8)
+
+    def get_color_image_no_copy(self):
+        return self.get_color_image()
 
     def get_color_image_async(self):
         return self.get_color_image()
 
     def get_depth_image(self):
-        return np.zeros((60, 80), dtype=np.float32)
+        return np.zeros((480, 640), dtype=np.float32)
 
     def get_depth_image_async(self):
         return self.get_depth_image()
 
 
-class _Controller:
+class Controller:
     """No gamepad in a scored run: everything reads neutral."""
 
     class Button:
-        A = 0
-        B = 1
-        X = 2
-        Y = 3
-        LB = 4
-        RB = 5
-        LJOY = 6
-        RJOY = 7
+        A, B, X, Y, LB, RB, LJOY, RJOY = range(8)
 
     class Trigger:
-        LEFT = 0
-        RIGHT = 1
+        LEFT, RIGHT = 0, 1
 
     class Joystick:
-        LEFT = 0
-        RIGHT = 1
+        LEFT, RIGHT = 0, 1
 
     def is_down(self, button):
         return False
@@ -129,14 +133,17 @@ class _Controller:
         return (0.0, 0.0)
 
 
-class _Display:
+class Display:
+    def create_window(self):
+        pass
+
     def show_color_image(self, image):
         pass
 
-    def show_depth_image(self, image, *args, **kwargs):
+    def show_depth_image(self, image, max_depth=1000, points=[]):
         pass
 
-    def create_window(self):
+    def show_lidar(self, samples, radius=128, max_range=1000, highlighted_samples=[]):
         pass
 
 
@@ -149,16 +156,18 @@ class Racecar:
         self.state = {"realism": realism}
         self._lidar_sim = LidarA1(self.world, realism=realism, seed=0)
 
-        self.drive = _Drive(self.car)
-        self.lidar = _Lidar(self._lidar_sim)
-        self.physics = _Physics(self.car, self.state)
-        self.camera = _Camera()
-        self.controller = _Controller()
-        self.display = _Display()
+        self.drive = Drive(self.car)
+        self.lidar = Lidar(self._lidar_sim)
+        self.physics = Physics(self.car, self.state)
+        self.camera = Camera()
+        self.controller = Controller()
+        self.display = Display()
 
         self._start = None
         self._update = None
         self._update_slow = None
+        self._slow_time = 1.0
+        self._slow_due = 1.0
 
         self.t = 0.0
         self.max_time_s = max_time_s
@@ -188,7 +197,8 @@ class Racecar:
         self._update_slow = update_slow
 
     def set_update_slow_time(self, time=1.0):
-        pass
+        self._slow_time = time
+        self._slow_due = self.t + time
 
     def go(self):
         if self._start is not None:
@@ -198,12 +208,11 @@ class Racecar:
                 self._step()
                 if self._update is not None:
                     self._update()
+                if self._update_slow is not None and self.t >= self._slow_due:
+                    self._slow_due = self.t + self._slow_time
+                    self._update_slow()
         except LapDone:
             pass
-
-    def run(self, start, update, update_slow=None):
-        self.set_start_update(start, update, update_slow)
-        self.go()
 
     # ------------------------------------------------------------ simulation
     def _step(self):
@@ -230,8 +239,9 @@ class Racecar:
 _current = None
 
 
-def create_racecar(isSimulation=True):
-    """The harness builds the car first; student code just picks it up."""
+def create_racecar(isSimulation=None):
+    """Same call as the official library. The -s/-d/-h flags it reads are
+    ignored here: a scored run is always this simulator, never a window."""
     if _current is None:
         raise RuntimeError("no simulation running")
     return _current
