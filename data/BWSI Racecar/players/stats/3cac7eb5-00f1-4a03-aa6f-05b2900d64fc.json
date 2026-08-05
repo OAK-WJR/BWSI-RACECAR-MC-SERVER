@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:writable_book": 2,
+      "minecraft:written_book": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:written_book": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5173,
+      "minecraft:walk_one_cm": 16363,
+      "minecraft:leave_game": 3,
+      "minecraft:damage_taken": 3220,
+      "minecraft:play_time": 11876,
+      "minecraft:jump": 251,
+      "minecraft:time_since_death": 5146,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 43011,
+      "minecraft:open_chest": 4,
+      "minecraft:fall_one_cm": 34240,
+      "minecraft:total_world_time": 11876,
+      "minecraft:fly_one_cm": 80372,
+      "minecraft:crouch_one_cm": 32,
+      "minecraft:walk_on_water_one_cm": 138,
+      "minecraft:sneak_time": 18,
+      "minecraft:deaths": 3
+    }
+  },
+  "DataVersion": 4790
+}
