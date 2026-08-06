@@ -26,8 +26,12 @@ public class ReplayCar {
     public static final String ROOT_TAG = "bwsi_race_replay";
     public static final String PART_TAG = "bwsi_race_replay_part";
 
-    /** Teleports land every STEP_TICKS; the client fills the gap. */
-    public static final int STEP_TICKS = 2;
+    /**
+     * Teleports land every STEP_TICKS; the client fills the gap. Every part
+     * sends a packet per move, so this is also the throttle that makes a
+     * full-detail model affordable.
+     */
+    public static final int STEP_TICKS = 3;
 
     private static final float YAW_EPSILON = 1.0f;
 
@@ -66,13 +70,15 @@ public class ReplayCar {
     /**
      * Move the whole car to the next trajectory point. Call once every
      * STEP_TICKS; each display teleports itself and the client interpolates.
-     * The yaw rides along on the teleport so the datapack camera can use
-     * "rotated as" on the root part.
      */
     public void moveTo(Location target, float newYaw) {
         yaw = newYaw;
+        // The entity's own rotation turns a display on top of its
+        // transformation, so heading must live in exactly one of the two.
+        // It lives in the transformation; teleports stay unrotated, or the
+        // body spins twice as fast as the car does.
         Location destination = target.clone();
-        destination.setYaw(newYaw);
+        destination.setYaw(0f);
         destination.setPitch(0f);
         for (BlockDisplay display : parts) {
             display.teleport(destination);

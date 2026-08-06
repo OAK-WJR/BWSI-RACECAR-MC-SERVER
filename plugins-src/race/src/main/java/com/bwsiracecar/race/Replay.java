@@ -39,7 +39,8 @@ public class Replay {
     private final Deque<Submission.Result> pending = new ArrayDeque<>();
     private final Consumer<Submission.Result> onFinished;
 
-    private ReplayCar car;
+    private ReplayCar voxelCar;
+    private ModelCar modelCar;
     private ItemDisplay camera;
     private BukkitTask task;
     private boolean running;
@@ -87,8 +88,15 @@ public class Replay {
                 "Now racing: " + result.player_name, NamedTextColor.AQUA));
 
         Location start = plugin.startLocation();
-        car = new ReplayCar(plugin.replayModel(), start,
-                plugin.getConfig().getDouble("replay.car-scale", 1.0));
+        // One entity when the resource pack supplies the model, thousands of
+        // block displays when it does not.
+        double carScale = plugin.getConfig().getDouble("replay.car-scale", 1.0);
+        if (plugin.getConfig().getBoolean("replay.use-model-pack", false)) {
+            modelCar = new ModelCar(start, plugin.getConfig()
+                    .getDouble("replay.model-blocks-long", 3.5));
+        } else {
+            voxelCar = new ReplayCar(plugin.replayModel(), start, carScale);
+        }
         camera = world.spawn(cameraSpot(world, start.toVector(), start.getYaw()),
                 ItemDisplay.class, d -> {
                     d.setTeleportDuration(ReplayCar.STEP_TICKS);
@@ -115,7 +123,11 @@ public class Replay {
             index[0] += step;
             float yaw = p.get(2).floatValue();
             Location target = new Location(world, p.get(0), y, p.get(1));
-            car.moveTo(target, yaw);
+            if (modelCar != null) {
+                modelCar.moveTo(target, yaw);
+            } else {
+                voxelCar.moveTo(target, yaw);
+            }
             camera.teleport(cameraSpot(world, target.toVector(), yaw));
         }, 1L, (long) ReplayCar.STEP_TICKS);
     }
@@ -176,10 +188,17 @@ public class Replay {
         }
         // leave the car standing for a moment so spectators can look at it
         long podium = plugin.getConfig().getLong("replay.podium-seconds", 10) * 20L;
-        ReplayCar finished = car;
-        car = null;
+        ReplayCar finishedVoxel = voxelCar;
+        ModelCar finishedModel = modelCar;
+        voxelCar = null;
+        modelCar = null;
         plugin.getServer().getScheduler().runTaskLater(plugin, () -> {
-            finished.remove();
+            if (finishedVoxel != null) {
+                finishedVoxel.remove();
+            }
+            if (finishedModel != null) {
+                finishedModel.remove();
+            }
             running = false;
             startNext();
         }, podium);
@@ -193,8 +212,11 @@ public class Replay {
         if (camera != null) {
             camera.remove();
         }
-        if (car != null) {
-            car.remove();
+        if (voxelCar != null) {
+            voxelCar.remove();
+        }
+        if (modelCar != null) {
+            modelCar.remove();
         }
         pending.clear();
         running = false;

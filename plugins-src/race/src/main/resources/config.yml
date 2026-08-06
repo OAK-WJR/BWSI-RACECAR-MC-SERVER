@@ -30,6 +30,11 @@ replay:
   speed: 1.0
   # the car is 0.44 m long; scale it by the track's blocks per metre
   car-scale: 8.0
+  # Draw the car as one item display using the model in the resource pack
+  # instead of thousands of block displays. Players who declined the pack
+  # see nothing, so this needs the pack served to everyone.
+  use-model-pack: false
+  model-blocks-long: 3.5
 
 submit:
   max-code-bytes: 32768
