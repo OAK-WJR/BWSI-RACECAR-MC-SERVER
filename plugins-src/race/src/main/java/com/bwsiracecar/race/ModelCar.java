@@ -66,7 +66,7 @@ public class ModelCar {
 
     /** Heading and size live in the transformation, never in the entity yaw. */
     private void apply(float yaw) {
-        float radians = (float) Math.toRadians(-yaw);
+        float radians = (float) Math.toRadians(-yaw) + ReplayCar.MODEL_YAW;
         display.setInterpolationDelay(0);
         display.setTransformation(new Transformation(
                 new Vector3f(0f, scale * 1.5f, 0f),

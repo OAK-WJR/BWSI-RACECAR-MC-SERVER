@@ -35,6 +35,13 @@ public class ReplayCar {
 
     private static final float YAW_EPSILON = 1.0f;
 
+    /**
+     * The voxel grid's nose sits at low z while a yaw of 0 travels towards
+     * +z, so the body is turned around to face where it is going. Shared by
+     * ModelCar, which is built from the same grid.
+     */
+    static final float MODEL_YAW = (float) Math.PI;
+
     private final CarModel model;
     private final double scaleMultiplier;
     private final List<BlockDisplay> parts = new ArrayList<>();
@@ -90,7 +97,7 @@ public class ReplayCar {
 
     /** Same maths as Car.applyTransforms: offsets live in the transformation. */
     private void applyTransforms() {
-        float radians = (float) Math.toRadians(-yaw);
+        float radians = (float) Math.toRadians(-yaw) + MODEL_YAW;
         AxisAngle4f rotation = new AxisAngle4f(radians, 0f, 1f, 0f);
         float scale = (float) (model.voxelMetres() * scaleMultiplier);
 
