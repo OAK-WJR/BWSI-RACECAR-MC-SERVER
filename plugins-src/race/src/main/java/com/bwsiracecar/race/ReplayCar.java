@@ -36,11 +36,11 @@ public class ReplayCar {
     private static final float YAW_EPSILON = 1.0f;
 
     /**
-     * The voxel grid's nose sits at low z while a yaw of 0 travels towards
-     * +z, so the body is turned around to face where it is going. Shared by
-     * ModelCar, which is built from the same grid.
+     * The model's nose already points the way a yaw of 0 travels, so no extra
+     * turn. Checked against the car on the track, not by reasoning about the
+     * grid — that got it backwards twice.
      */
-    static final float MODEL_YAW = (float) Math.PI;
+    static final float MODEL_YAW = 0f;
 
     private final CarModel model;
     private final double scaleMultiplier;

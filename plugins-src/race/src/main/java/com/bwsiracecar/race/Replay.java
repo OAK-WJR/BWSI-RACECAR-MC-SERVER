@@ -31,9 +31,11 @@ public class Replay {
 
     public static final String TAG = ReplayCar.ROOT_TAG;
 
-    private static final double CAMERA_BACK = 7.0;
-    private static final double CAMERA_UP = 2.5;
-    private static final float CAMERA_PITCH = 12f;
+    // A 45-degree look down: the camera sits as far back as it does high, so
+    // the whole car and the road ahead of it are both in frame.
+    private static final double CAMERA_BACK = 10.0;
+    private static final double CAMERA_UP = 10.0;
+    private static final float CAMERA_PITCH = 45f;
 
     private final RacePlugin plugin;
     private final Deque<Submission.Result> pending = new ArrayDeque<>();

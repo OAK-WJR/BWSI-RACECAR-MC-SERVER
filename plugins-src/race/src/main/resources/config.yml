@@ -34,7 +34,8 @@ replay:
   # instead of thousands of block displays. Players who declined the pack
   # see nothing, so this needs the pack served to everyone.
   use-model-pack: false
-  model-blocks-long: 3.5
+  # the real car is 0.354 m and the track is 8 blocks to the metre
+  model-blocks-long: 2.83
 
 submit:
   max-code-bytes: 32768

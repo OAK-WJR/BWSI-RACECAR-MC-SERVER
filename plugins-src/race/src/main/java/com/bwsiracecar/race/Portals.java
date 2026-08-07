@@ -43,6 +43,8 @@ public class Portals implements Listener {
     private final RacePlugin plugin;
     private final Path file;
     private final Map<String, Spot> spots = new HashMap<>();
+    /** Where each player stood a moment ago, outside the lobby. */
+    private final Map<String, Spot> live = new HashMap<>();
 
     public Portals(RacePlugin plugin) {
         this.plugin = plugin;
@@ -52,16 +54,32 @@ public class Portals implements Listener {
     public void enable() {
         load();
         plugin.getServer().getPluginManager().registerEvents(this, plugin);
+        // A world-change event fires once the player is already in the new
+        // world, so their old position has to be remembered as they go.
+        plugin.getServer().getScheduler().runTaskTimer(plugin, this::track, 20L, 20L);
+    }
+
+    private void track() {
+        String lobby = plugin.getConfig().getString("world", "test");
+        for (Player player : plugin.getServer().getOnlinePlayers()) {
+            if (!player.getWorld().getName().equals(lobby)) {
+                live.put(player.getUniqueId().toString(), spotOf(player.getLocation()));
+            }
+        }
     }
 
     /** Leaving the lobby world for anywhere else is what we remember. */
     @EventHandler
     public void onWorldChange(PlayerChangedWorldEvent event) {
-        World from = event.getFrom();
-        if (!from.getName().equals(plugin.getConfig().getString("world", "test"))) {
-            // they were in a normal world and are now going elsewhere: their
-            // last location there is the one to come back to
-            remember(event.getPlayer(), event.getPlayer().getLocation());
+        if (event.getFrom().getName().equals(plugin.getConfig().getString("world", "test"))) {
+            return;
+        }
+        // The player is already standing in the new world by now, so keep the
+        // position the tracker saw a moment before they left.
+        Spot spot = live.get(event.getPlayer().getUniqueId().toString());
+        if (spot != null) {
+            spots.put(event.getPlayer().getUniqueId().toString(), spot);
+            save();
         }
     }
 
@@ -73,7 +91,7 @@ public class Portals implements Listener {
         }
     }
 
-    private void remember(Player player, Location location) {
+    private static Spot spotOf(Location location) {
         Spot spot = new Spot();
         spot.world = location.getWorld().getName();
         spot.x = location.getX();
@@ -81,7 +99,11 @@ public class Portals implements Listener {
         spot.z = location.getZ();
         spot.yaw = location.getYaw();
         spot.pitch = location.getPitch();
-        spots.put(player.getUniqueId().toString(), spot);
+        return spot;
+    }
+
+    private void remember(Player player, Location location) {
+        spots.put(player.getUniqueId().toString(), spotOf(location));
         save();
     }
 
@@ -100,7 +122,12 @@ public class Portals implements Listener {
                 plugin.getConfig().getInt("portals.home-plate.x"),
                 plugin.getConfig().getInt("portals.home-plate.y"),
                 plugin.getConfig().getInt("portals.home-plate.z"));
-        if (!event.getClickedBlock().getLocation().equals(plate)) {
+        // Compare block coordinates: a Location also carries yaw and pitch,
+        // and equals() checks those too.
+        Location clicked = event.getClickedBlock().getLocation();
+        if (clicked.getBlockX() != plate.getBlockX()
+                || clicked.getBlockY() != plate.getBlockY()
+                || clicked.getBlockZ() != plate.getBlockZ()) {
             return;
         }
         send(event.getPlayer());
@@ -108,7 +135,12 @@ public class Portals implements Listener {
 
     /** Back to where this player last stood outside the lobby. */
     public void send(Player player) {
+        plugin.getLogger().info("Return plate used by " + player.getName());
         Spot spot = spots.get(player.getUniqueId().toString());
+        String lobby = plugin.getConfig().getString("world", "test");
+        if (spot != null && lobby.equals(spot.world)) {
+            spot = null;                    // a lobby spot is not a way home
+        }
         Location target = null;
         if (spot != null) {
             World world = Bukkit.getWorld(spot.world);
