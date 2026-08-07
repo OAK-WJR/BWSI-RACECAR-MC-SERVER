@@ -57,12 +57,6 @@ def main():
         W, L = L, W
         print("rotated 90deg so length runs along z")
 
-    # This scan is stored upside down: without the flip the wheels sit on the
-    # roof, the aerials hang below, and the whole car reads as a shapeless
-    # blob. Checked by splitting the model in half and rendering each part.
-    top = max(y for _, y, _, _ in vox)
-    vox = [(x, top - y, z, n) for x, y, z, n in vox]
-    print("flipped vertically: this scan is stored upside down")
 
     out = {"size": [W, H, L], "voxel_metres": args.length_m / L,
            "voxels": [{"x": x, "y": y, "z": z, "block": n} for x, y, z, n in vox]}

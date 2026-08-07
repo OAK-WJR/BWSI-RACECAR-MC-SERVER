@@ -1,0 +1,11232 @@
+{
+"acacia_door": [
+163,
+92,
+57
+],
+"acacia_door_block": [
+163,
+92,
+57
+],
+"acacia_door_bottom": [
+163,
+92,
+57
+],
+"acacia_door_bottom_block": [
+163,
+92,
+57
+],
+"acacia_door_top": [
+168,
+95,
+61
+],
+"acacia_door_top_block": [
+168,
+95,
+61
+],
+"acacia_leaves": [
+149,
+149,
+149
+],
+"acacia_leaves_block": [
+149,
+149,
+149
+],
+"acacia_log": [
+103,
+97,
+87
+],
+"acacia_log_block": [
+103,
+97,
+87
+],
+"acacia_log_top": [
+151,
+89,
+55
+],
+"acacia_log_top_block": [
+151,
+89,
+55
+],
+"acacia_planks": [
+168,
+90,
+50
+],
+"acacia_planks_block": [
+168,
+90,
+50
+],
+"acacia_sapling": [
+119,
+118,
+24
+],
+"acacia_sapling_block": [
+119,
+118,
+24
+],
+"acacia_shelf": [
+156,
+86,
+54
+],
+"acacia_shelf_block": [
+156,
+86,
+54
+],
+"acacia_trapdoor": [
+157,
+87,
+51
+],
+"acacia_trapdoor_block": [
+157,
+87,
+51
+],
+"activator_rail": [
+115,
+87,
+74
+],
+"activator_rail_block": [
+115,
+87,
+74
+],
+"activator_rail_on": [
+143,
+87,
+74
+],
+"activator_rail_on_block": [
+143,
+87,
+74
+],
+"allium": [
+159,
+137,
+184
+],
+"allium_block": [
+159,
+137,
+184
+],
+"amethyst_block": [
+134,
+98,
+191
+],
+"amethyst_block_block": [
+134,
+98,
+191
+],
+"amethyst_cluster": [
+164,
+127,
+207
+],
+"amethyst_cluster_block": [
+164,
+127,
+207
+],
+"ancient_debris": [
+96,
+64,
+56
+],
+"ancient_debris_block": [
+96,
+64,
+56
+],
+"ancient_debris_side": [
+96,
+64,
+56
+],
+"ancient_debris_side_block": [
+96,
+64,
+56
+],
+"ancient_debris_top": [
+95,
+66,
+58
+],
+"ancient_debris_top_block": [
+95,
+66,
+58
+],
+"andesite": [
+136,
+136,
+137
+],
+"andesite_block": [
+136,
+136,
+137
+],
+"anvil": [
+69,
+69,
+69
+],
+"anvil_block": [
+69,
+69,
+69
+],
+"anvil_top": [
+45,
+45,
+45
+],
+"anvil_top_block": [
+45,
+45,
+45
+],
+"attached_melon_stem": [
+142,
+142,
+142
+],
+"attached_melon_stem_block": [
+142,
+142,
+142
+],
+"attached_pumpkin_stem": [
+18,
+18,
+18
+],
+"attached_pumpkin_stem_block": [
+18,
+18,
+18
+],
+"azalea": [
+94,
+118,
+45
+],
+"azalea_block": [
+94,
+118,
+45
+],
+"azalea_leaves": [
+90,
+115,
+44
+],
+"azalea_leaves_block": [
+90,
+115,
+44
+],
+"azalea_plant": [
+92,
+110,
+43
+],
+"azalea_plant_block": [
+92,
+110,
+43
+],
+"azalea_side": [
+94,
+118,
+45
+],
+"azalea_side_block": [
+94,
+118,
+45
+],
+"azalea_top": [
+102,
+125,
+48
+],
+"azalea_top_block": [
+102,
+125,
+48
+],
+"azure_bluet": [
+169,
+205,
+127
+],
+"azure_bluet_block": [
+169,
+205,
+127
+],
+"bamboo_block": [
+127,
+144,
+58
+],
+"bamboo_block_block": [
+127,
+144,
+58
+],
+"bamboo_block_top": [
+139,
+142,
+62
+],
+"bamboo_block_top_block": [
+139,
+142,
+62
+],
+"bamboo_door": [
+199,
+178,
+85
+],
+"bamboo_door_block": [
+199,
+178,
+85
+],
+"bamboo_door_bottom": [
+199,
+178,
+85
+],
+"bamboo_door_bottom_block": [
+199,
+178,
+85
+],
+"bamboo_door_top": [
+191,
+171,
+81
+],
+"bamboo_door_top_block": [
+191,
+171,
+81
+],
+"bamboo_fence": [
+207,
+186,
+89
+],
+"bamboo_fence_block": [
+207,
+186,
+89
+],
+"bamboo_fence_gate": [
+206,
+186,
+87
+],
+"bamboo_fence_gate_block": [
+206,
+186,
+87
+],
+"bamboo_fence_gate_particle": [
+207,
+186,
+85
+],
+"bamboo_fence_gate_particle_block": [
+207,
+186,
+85
+],
+"bamboo_fence_particle": [
+207,
+186,
+85
+],
+"bamboo_fence_particle_block": [
+207,
+186,
+85
+],
+"bamboo_large_leaves": [
+73,
+118,
+26
+],
+"bamboo_large_leaves_block": [
+73,
+118,
+26
+],
+"bamboo_mosaic": [
+190,
+170,
+78
+],
+"bamboo_mosaic_block": [
+190,
+170,
+78
+],
+"bamboo_planks": [
+193,
+173,
+80
+],
+"bamboo_planks_block": [
+193,
+173,
+80
+],
+"bamboo_shelf": [
+182,
+164,
+76
+],
+"bamboo_shelf_block": [
+182,
+164,
+76
+],
+"bamboo_singleleaf": [
+100,
+139,
+35
+],
+"bamboo_singleleaf_block": [
+100,
+139,
+35
+],
+"bamboo_small_leaves": [
+71,
+113,
+26
+],
+"bamboo_small_leaves_block": [
+71,
+113,
+26
+],
+"bamboo_stalk": [
+94,
+144,
+20
+],
+"bamboo_stalk_block": [
+94,
+144,
+20
+],
+"bamboo_trapdoor": [
+199,
+179,
+85
+],
+"bamboo_trapdoor_block": [
+199,
+179,
+85
+],
+"barrel": [
+116,
+85,
+49
+],
+"barrel_block": [
+116,
+85,
+49
+],
+"barrel_bottom": [
+116,
+85,
+49
+],
+"barrel_bottom_block": [
+116,
+85,
+49
+],
+"barrel_side": [
+108,
+81,
+50
+],
+"barrel_side_block": [
+108,
+81,
+50
+],
+"barrel_top": [
+135,
+101,
+58
+],
+"barrel_top_block": [
+135,
+101,
+58
+],
+"basalt": [
+73,
+73,
+78
+],
+"basalt_block": [
+73,
+73,
+78
+],
+"basalt_side": [
+73,
+73,
+78
+],
+"basalt_side_block": [
+73,
+73,
+78
+],
+"basalt_top": [
+81,
+81,
+86
+],
+"basalt_top_block": [
+81,
+81,
+86
+],
+"beacon": [
+118,
+221,
+215
+],
+"beacon_block": [
+118,
+221,
+215
+],
+"bedrock": [
+85,
+85,
+85
+],
+"bedrock_block": [
+85,
+85,
+85
+],
+"bee_nest": [
+161,
+127,
+88
+],
+"bee_nest_block": [
+161,
+127,
+88
+],
+"bee_nest_bottom": [
+161,
+127,
+88
+],
+"bee_nest_bottom_block": [
+161,
+127,
+88
+],
+"bee_nest_front": [
+183,
+142,
+76
+],
+"bee_nest_front_block": [
+183,
+142,
+76
+],
+"bee_nest_front_honey": [
+195,
+152,
+76
+],
+"bee_nest_front_honey_block": [
+195,
+152,
+76
+],
+"bee_nest_side": [
+196,
+151,
+77
+],
+"bee_nest_side_block": [
+196,
+151,
+77
+],
+"bee_nest_top": [
+202,
+160,
+75
+],
+"bee_nest_top_block": [
+202,
+160,
+75
+],
+"beehive": [
+159,
+128,
+78
+],
+"beehive_block": [
+159,
+128,
+78
+],
+"beehive_end": [
+181,
+146,
+90
+],
+"beehive_end_block": [
+181,
+146,
+90
+],
+"beehive_front": [
+159,
+128,
+78
+],
+"beehive_front_block": [
+159,
+128,
+78
+],
+"beehive_front_honey": [
+167,
+132,
+74
+],
+"beehive_front_honey_block": [
+167,
+132,
+74
+],
+"beehive_side": [
+157,
+126,
+76
+],
+"beehive_side_block": [
+157,
+126,
+76
+],
+"bell": [
+189,
+148,
+42
+],
+"bell_block": [
+189,
+148,
+42
+],
+"bell_bottom": [
+189,
+148,
+42
+],
+"bell_bottom_block": [
+189,
+148,
+42
+],
+"bell_side": [
+253,
+229,
+97
+],
+"bell_side_block": [
+253,
+229,
+97
+],
+"bell_top": [
+253,
+235,
+111
+],
+"bell_top_block": [
+253,
+235,
+111
+],
+"big_dripleaf": [
+75,
+98,
+44
+],
+"big_dripleaf_block": [
+75,
+98,
+44
+],
+"big_dripleaf_side": [
+75,
+98,
+44
+],
+"big_dripleaf_side_block": [
+75,
+98,
+44
+],
+"big_dripleaf_stem": [
+91,
+115,
+46
+],
+"big_dripleaf_stem_block": [
+91,
+115,
+46
+],
+"big_dripleaf_tip": [
+98,
+125,
+48
+],
+"big_dripleaf_tip_block": [
+98,
+125,
+48
+],
+"big_dripleaf_top": [
+112,
+142,
+52
+],
+"big_dripleaf_top_block": [
+112,
+142,
+52
+],
+"birch_door": [
+208,
+194,
+144
+],
+"birch_door_block": [
+208,
+194,
+144
+],
+"birch_door_bottom": [
+208,
+194,
+144
+],
+"birch_door_bottom_block": [
+208,
+194,
+144
+],
+"birch_door_top": [
+220,
+210,
+176
+],
+"birch_door_top_block": [
+220,
+210,
+176
+],
+"birch_leaves": [
+131,
+129,
+130
+],
+"birch_leaves_block": [
+131,
+129,
+130
+],
+"birch_log": [
+217,
+215,
+210
+],
+"birch_log_block": [
+217,
+215,
+210
+],
+"birch_log_top": [
+193,
+179,
+135
+],
+"birch_log_top_block": [
+193,
+179,
+135
+],
+"birch_planks": [
+192,
+175,
+121
+],
+"birch_planks_block": [
+192,
+175,
+121
+],
+"birch_sapling": [
+128,
+161,
+80
+],
+"birch_sapling_block": [
+128,
+161,
+80
+],
+"birch_shelf": [
+175,
+156,
+106
+],
+"birch_shelf_block": [
+175,
+156,
+106
+],
+"birch_trapdoor": [
+207,
+194,
+157
+],
+"birch_trapdoor_block": [
+207,
+194,
+157
+],
+"black_candle": [
+38,
+37,
+58
+],
+"black_candle_block": [
+38,
+37,
+58
+],
+"black_candle_lit": [
+74,
+49,
+52
+],
+"black_candle_lit_block": [
+74,
+49,
+52
+],
+"black_concrete": [
+8,
+10,
+15
+],
+"black_concrete_block": [
+8,
+10,
+15
+],
+"black_concrete_powder": [
+25,
+27,
+32
+],
+"black_concrete_powder_block": [
+25,
+27,
+32
+],
+"black_glazed_terracotta": [
+68,
+30,
+32
+],
+"black_glazed_terracotta_block": [
+68,
+30,
+32
+],
+"black_shulker_box": [
+25,
+25,
+30
+],
+"black_shulker_box_block": [
+25,
+25,
+30
+],
+"black_stained_glass": [
+25,
+25,
+25
+],
+"black_stained_glass_block": [
+25,
+25,
+25
+],
+"black_stained_glass_pane": [
+24,
+24,
+24
+],
+"black_stained_glass_pane_block": [
+24,
+24,
+24
+],
+"black_stained_glass_pane_top": [
+24,
+24,
+24
+],
+"black_stained_glass_pane_top_block": [
+24,
+24,
+24
+],
+"black_terracotta": [
+37,
+23,
+16
+],
+"black_terracotta_block": [
+37,
+23,
+16
+],
+"black_wool": [
+21,
+21,
+26
+],
+"black_wool_block": [
+21,
+21,
+26
+],
+"blackstone": [
+42,
+36,
+41
+],
+"blackstone_block": [
+42,
+36,
+41
+],
+"blackstone_top": [
+42,
+36,
+42
+],
+"blackstone_top_block": [
+42,
+36,
+42
+],
+"blast_furnace": [
+108,
+108,
+107
+],
+"blast_furnace_block": [
+108,
+108,
+107
+],
+"blast_furnace_front": [
+108,
+108,
+107
+],
+"blast_furnace_front_block": [
+108,
+108,
+107
+],
+"blast_furnace_side": [
+108,
+107,
+108
+],
+"blast_furnace_side_block": [
+108,
+107,
+108
+],
+"blast_furnace_top": [
+81,
+80,
+81
+],
+"blast_furnace_top_block": [
+81,
+80,
+81
+],
+"blue_candle": [
+57,
+76,
+161
+],
+"blue_candle_block": [
+57,
+76,
+161
+],
+"blue_candle_lit": [
+65,
+85,
+179
+],
+"blue_candle_lit_block": [
+65,
+85,
+179
+],
+"blue_concrete": [
+45,
+47,
+143
+],
+"blue_concrete_block": [
+45,
+47,
+143
+],
+"blue_concrete_powder": [
+70,
+73,
+167
+],
+"blue_concrete_powder_block": [
+70,
+73,
+167
+],
+"blue_glazed_terracotta": [
+47,
+65,
+139
+],
+"blue_glazed_terracotta_block": [
+47,
+65,
+139
+],
+"blue_ice": [
+116,
+168,
+253
+],
+"blue_ice_block": [
+116,
+168,
+253
+],
+"blue_orchid": [
+47,
+162,
+168
+],
+"blue_orchid_block": [
+47,
+162,
+168
+],
+"blue_shulker_box": [
+44,
+46,
+140
+],
+"blue_shulker_box_block": [
+44,
+46,
+140
+],
+"blue_stained_glass": [
+51,
+76,
+178
+],
+"blue_stained_glass_block": [
+51,
+76,
+178
+],
+"blue_stained_glass_pane": [
+49,
+74,
+171
+],
+"blue_stained_glass_pane_block": [
+49,
+74,
+171
+],
+"blue_stained_glass_pane_top": [
+49,
+74,
+171
+],
+"blue_stained_glass_pane_top_block": [
+49,
+74,
+171
+],
+"blue_terracotta": [
+74,
+60,
+91
+],
+"blue_terracotta_block": [
+74,
+60,
+91
+],
+"blue_wool": [
+53,
+57,
+157
+],
+"blue_wool_block": [
+53,
+57,
+157
+],
+"bone_block": [
+229,
+226,
+208
+],
+"bone_block_block": [
+229,
+226,
+208
+],
+"bone_block_side": [
+229,
+226,
+208
+],
+"bone_block_side_block": [
+229,
+226,
+208
+],
+"bone_block_top": [
+210,
+206,
+179
+],
+"bone_block_top_block": [
+210,
+206,
+179
+],
+"bookshelf": [
+117,
+95,
+60
+],
+"bookshelf_block": [
+117,
+95,
+60
+],
+"brain_coral": [
+198,
+85,
+152
+],
+"brain_coral_block": [
+207,
+91,
+159
+],
+"brain_coral_block_block": [
+207,
+91,
+159
+],
+"brain_coral_fan": [
+203,
+84,
+154
+],
+"brain_coral_fan_block": [
+203,
+84,
+154
+],
+"brewing_stand": [
+122,
+101,
+81
+],
+"brewing_stand_base": [
+117,
+106,
+106
+],
+"brewing_stand_base_block": [
+117,
+106,
+106
+],
+"brewing_stand_block": [
+122,
+101,
+81
+],
+"bricks": [
+151,
+98,
+83
+],
+"bricks_block": [
+151,
+98,
+83
+],
+"brown_candle": [
+112,
+70,
+41
+],
+"brown_candle_block": [
+112,
+70,
+41
+],
+"brown_candle_lit": [
+148,
+96,
+52
+],
+"brown_candle_lit_block": [
+148,
+96,
+52
+],
+"brown_concrete": [
+96,
+60,
+32
+],
+"brown_concrete_block": [
+96,
+60,
+32
+],
+"brown_concrete_powder": [
+126,
+85,
+54
+],
+"brown_concrete_powder_block": [
+126,
+85,
+54
+],
+"brown_glazed_terracotta": [
+120,
+106,
+86
+],
+"brown_glazed_terracotta_block": [
+120,
+106,
+86
+],
+"brown_mushroom": [
+154,
+117,
+92
+],
+"brown_mushroom_block": [
+149,
+112,
+81
+],
+"brown_mushroom_block_block": [
+149,
+112,
+81
+],
+"brown_shulker_box": [
+106,
+66,
+36
+],
+"brown_shulker_box_block": [
+106,
+66,
+36
+],
+"brown_stained_glass": [
+102,
+76,
+51
+],
+"brown_stained_glass_block": [
+102,
+76,
+51
+],
+"brown_stained_glass_pane": [
+98,
+74,
+49
+],
+"brown_stained_glass_pane_block": [
+98,
+74,
+49
+],
+"brown_stained_glass_pane_top": [
+98,
+74,
+49
+],
+"brown_stained_glass_pane_top_block": [
+98,
+74,
+49
+],
+"brown_terracotta": [
+77,
+51,
+36
+],
+"brown_terracotta_block": [
+77,
+51,
+36
+],
+"brown_wool": [
+114,
+72,
+41
+],
+"brown_wool_block": [
+114,
+72,
+41
+],
+"bubble_coral": [
+161,
+24,
+160
+],
+"bubble_coral_block": [
+165,
+26,
+162
+],
+"bubble_coral_block_block": [
+165,
+26,
+162
+],
+"bubble_coral_fan": [
+160,
+33,
+159
+],
+"bubble_coral_fan_block": [
+160,
+33,
+159
+],
+"budding_amethyst": [
+132,
+96,
+187
+],
+"budding_amethyst_block": [
+132,
+96,
+187
+],
+"bush": [
+120,
+121,
+120
+],
+"bush_block": [
+120,
+121,
+120
+],
+"cactus": [
+143,
+170,
+86
+],
+"cactus_block": [
+143,
+170,
+86
+],
+"cactus_bottom": [
+143,
+170,
+86
+],
+"cactus_bottom_block": [
+143,
+170,
+86
+],
+"cactus_side": [
+89,
+130,
+45
+],
+"cactus_side_block": [
+89,
+130,
+45
+],
+"cactus_top": [
+86,
+127,
+43
+],
+"cactus_top_block": [
+86,
+127,
+43
+],
+"cake": [
+134,
+62,
+33
+],
+"cake_block": [
+134,
+62,
+33
+],
+"cake_bottom": [
+134,
+62,
+33
+],
+"cake_bottom_block": [
+134,
+62,
+33
+],
+"cake_inner": [
+134,
+85,
+61
+],
+"cake_inner_block": [
+134,
+85,
+61
+],
+"cake_side": [
+203,
+152,
+122
+],
+"cake_side_block": [
+203,
+152,
+122
+],
+"cake_top": [
+248,
+223,
+214
+],
+"cake_top_block": [
+248,
+223,
+214
+],
+"calcite": [
+223,
+224,
+221
+],
+"calcite_block": [
+223,
+224,
+221
+],
+"calibrated_sculk_sensor": [
+28,
+79,
+101
+],
+"calibrated_sculk_sensor_amethyst": [
+199,
+160,
+225
+],
+"calibrated_sculk_sensor_amethyst_block": [
+199,
+160,
+225
+],
+"calibrated_sculk_sensor_block": [
+28,
+79,
+101
+],
+"calibrated_sculk_sensor_input": [
+60,
+70,
+102
+],
+"calibrated_sculk_sensor_input_block": [
+60,
+70,
+102
+],
+"calibrated_sculk_sensor_input_side": [
+60,
+70,
+102
+],
+"calibrated_sculk_sensor_input_side_block": [
+60,
+70,
+102
+],
+"calibrated_sculk_sensor_top": [
+28,
+79,
+101
+],
+"calibrated_sculk_sensor_top_block": [
+28,
+79,
+101
+],
+"candle": [
+232,
+201,
+153
+],
+"candle_block": [
+232,
+201,
+153
+],
+"candle_lit": [
+235,
+210,
+174
+],
+"candle_lit_block": [
+235,
+210,
+174
+],
+"cartography_table": [
+103,
+87,
+67
+],
+"cartography_table_block": [
+103,
+87,
+67
+],
+"cartography_table_side1": [
+70,
+50,
+34
+],
+"cartography_table_side1_block": [
+70,
+50,
+34
+],
+"cartography_table_side2": [
+82,
+62,
+42
+],
+"cartography_table_side2_block": [
+82,
+62,
+42
+],
+"cartography_table_side3": [
+68,
+44,
+20
+],
+"cartography_table_side3_block": [
+68,
+44,
+20
+],
+"cartography_table_top": [
+103,
+87,
+67
+],
+"cartography_table_top_block": [
+103,
+87,
+67
+],
+"carved_pumpkin": [
+150,
+84,
+17
+],
+"carved_pumpkin_block": [
+150,
+84,
+17
+],
+"cauldron": [
+40,
+40,
+45
+],
+"cauldron_block": [
+40,
+40,
+45
+],
+"cauldron_bottom": [
+40,
+40,
+45
+],
+"cauldron_bottom_block": [
+40,
+40,
+45
+],
+"cauldron_inner": [
+49,
+49,
+53
+],
+"cauldron_inner_block": [
+49,
+49,
+53
+],
+"cauldron_side": [
+74,
+73,
+75
+],
+"cauldron_side_block": [
+74,
+73,
+75
+],
+"cauldron_top": [
+74,
+73,
+74
+],
+"cauldron_top_block": [
+74,
+73,
+74
+],
+"cave_vines": [
+90,
+109,
+41
+],
+"cave_vines_block": [
+90,
+109,
+41
+],
+"cave_vines_lit": [
+105,
+113,
+42
+],
+"cave_vines_lit_block": [
+105,
+113,
+42
+],
+"cave_vines_plant": [
+88,
+102,
+38
+],
+"cave_vines_plant_block": [
+88,
+102,
+38
+],
+"cave_vines_plant_lit": [
+105,
+107,
+40
+],
+"cave_vines_plant_lit_block": [
+105,
+107,
+40
+],
+"chain_command_block": [
+132,
+165,
+151
+],
+"chain_command_block_back": [
+130,
+157,
+145
+],
+"chain_command_block_back_block": [
+130,
+157,
+145
+],
+"chain_command_block_block": [
+132,
+165,
+151
+],
+"chain_command_block_conditional": [
+130,
+162,
+147
+],
+"chain_command_block_conditional_block": [
+130,
+162,
+147
+],
+"chain_command_block_front": [
+132,
+165,
+151
+],
+"chain_command_block_front_block": [
+132,
+165,
+151
+],
+"chain_command_block_side": [
+131,
+161,
+147
+],
+"chain_command_block_side_block": [
+131,
+161,
+147
+],
+"cherry_door": [
+226,
+176,
+170
+],
+"cherry_door_block": [
+226,
+176,
+170
+],
+"cherry_door_bottom": [
+226,
+176,
+170
+],
+"cherry_door_bottom_block": [
+226,
+176,
+170
+],
+"cherry_door_top": [
+223,
+171,
+165
+],
+"cherry_door_top_block": [
+223,
+171,
+165
+],
+"cherry_leaves": [
+229,
+173,
+194
+],
+"cherry_leaves_block": [
+229,
+173,
+194
+],
+"cherry_log": [
+55,
+33,
+44
+],
+"cherry_log_block": [
+55,
+33,
+44
+],
+"cherry_log_top": [
+185,
+141,
+137
+],
+"cherry_log_top_block": [
+185,
+141,
+137
+],
+"cherry_planks": [
+227,
+179,
+173
+],
+"cherry_planks_block": [
+227,
+179,
+173
+],
+"cherry_sapling": [
+164,
+118,
+143
+],
+"cherry_sapling_block": [
+164,
+118,
+143
+],
+"cherry_shelf": [
+203,
+130,
+129
+],
+"cherry_shelf_block": [
+203,
+130,
+129
+],
+"cherry_trapdoor": [
+226,
+179,
+172
+],
+"cherry_trapdoor_block": [
+226,
+179,
+172
+],
+"chipped_anvil": [
+73,
+73,
+73
+],
+"chipped_anvil_block": [
+73,
+73,
+73
+],
+"chipped_anvil_top": [
+73,
+73,
+73
+],
+"chipped_anvil_top_block": [
+73,
+73,
+73
+],
+"chiseled_bookshelf": [
+175,
+142,
+86
+],
+"chiseled_bookshelf_block": [
+175,
+142,
+86
+],
+"chiseled_bookshelf_empty": [
+90,
+71,
+42
+],
+"chiseled_bookshelf_empty_block": [
+90,
+71,
+42
+],
+"chiseled_bookshelf_occupied": [
+121,
+94,
+70
+],
+"chiseled_bookshelf_occupied_block": [
+121,
+94,
+70
+],
+"chiseled_bookshelf_side": [
+175,
+142,
+86
+],
+"chiseled_bookshelf_side_block": [
+175,
+142,
+86
+],
+"chiseled_bookshelf_top": [
+178,
+145,
+89
+],
+"chiseled_bookshelf_top_block": [
+178,
+145,
+89
+],
+"chiseled_copper": [
+184,
+101,
+74
+],
+"chiseled_copper_block": [
+184,
+101,
+74
+],
+"chiseled_deepslate": [
+54,
+54,
+55
+],
+"chiseled_deepslate_block": [
+54,
+54,
+55
+],
+"chiseled_nether_bricks": [
+46,
+23,
+27
+],
+"chiseled_nether_bricks_block": [
+46,
+23,
+27
+],
+"chiseled_polished_blackstone": [
+54,
+49,
+57
+],
+"chiseled_polished_blackstone_block": [
+54,
+49,
+57
+],
+"chiseled_quartz_block": [
+232,
+227,
+218
+],
+"chiseled_quartz_block_block": [
+232,
+227,
+218
+],
+"chiseled_quartz_block_top": [
+232,
+227,
+217
+],
+"chiseled_quartz_block_top_block": [
+232,
+227,
+217
+],
+"chiseled_red_sandstone": [
+183,
+97,
+28
+],
+"chiseled_red_sandstone_block": [
+183,
+97,
+28
+],
+"chiseled_resin_bricks": [
+201,
+84,
+25
+],
+"chiseled_resin_bricks_block": [
+201,
+84,
+25
+],
+"chiseled_sandstone": [
+216,
+203,
+155
+],
+"chiseled_sandstone_block": [
+216,
+203,
+155
+],
+"chiseled_stone_bricks": [
+120,
+119,
+120
+],
+"chiseled_stone_bricks_block": [
+120,
+119,
+120
+],
+"chiseled_tuff": [
+89,
+94,
+87
+],
+"chiseled_tuff_block": [
+89,
+94,
+87
+],
+"chiseled_tuff_bricks": [
+99,
+103,
+96
+],
+"chiseled_tuff_bricks_block": [
+99,
+103,
+96
+],
+"chiseled_tuff_bricks_top": [
+111,
+114,
+107
+],
+"chiseled_tuff_bricks_top_block": [
+111,
+114,
+107
+],
+"chiseled_tuff_top": [
+94,
+99,
+91
+],
+"chiseled_tuff_top_block": [
+94,
+99,
+91
+],
+"chorus_plant": [
+94,
+57,
+94
+],
+"chorus_plant_block": [
+94,
+57,
+94
+],
+"clay": [
+161,
+166,
+179
+],
+"clay_block": [
+161,
+166,
+179
+],
+"closed_eyeblossom": [
+108,
+98,
+101
+],
+"closed_eyeblossom_block": [
+108,
+98,
+101
+],
+"coal_block": [
+16,
+16,
+16
+],
+"coal_block_block": [
+16,
+16,
+16
+],
+"coal_ore": [
+106,
+106,
+105
+],
+"coal_ore_block": [
+106,
+106,
+105
+],
+"coarse_dirt": [
+119,
+86,
+59
+],
+"coarse_dirt_block": [
+119,
+86,
+59
+],
+"cobbled_deepslate": [
+77,
+77,
+81
+],
+"cobbled_deepslate_block": [
+77,
+77,
+81
+],
+"cobblestone": [
+128,
+127,
+128
+],
+"cobblestone_block": [
+128,
+127,
+128
+],
+"cobweb": [
+229,
+233,
+234
+],
+"cobweb_block": [
+229,
+233,
+234
+],
+"command_block": [
+181,
+136,
+108
+],
+"command_block_back": [
+174,
+131,
+107
+],
+"command_block_back_block": [
+174,
+131,
+107
+],
+"command_block_block": [
+181,
+136,
+108
+],
+"command_block_conditional": [
+179,
+133,
+106
+],
+"command_block_conditional_block": [
+179,
+133,
+106
+],
+"command_block_front": [
+181,
+136,
+108
+],
+"command_block_front_block": [
+181,
+136,
+108
+],
+"command_block_side": [
+177,
+133,
+108
+],
+"command_block_side_block": [
+177,
+133,
+108
+],
+"comparator": [
+166,
+162,
+160
+],
+"comparator_block": [
+166,
+162,
+160
+],
+"comparator_on": [
+176,
+160,
+158
+],
+"comparator_on_block": [
+176,
+160,
+158
+],
+"composter": [
+117,
+72,
+32
+],
+"composter_block": [
+117,
+72,
+32
+],
+"composter_bottom": [
+117,
+72,
+32
+],
+"composter_bottom_block": [
+117,
+72,
+32
+],
+"composter_compost": [
+89,
+61,
+24
+],
+"composter_compost_block": [
+89,
+61,
+24
+],
+"composter_ready": [
+117,
+93,
+56
+],
+"composter_ready_block": [
+117,
+93,
+56
+],
+"composter_side": [
+112,
+70,
+32
+],
+"composter_side_block": [
+112,
+70,
+32
+],
+"composter_top": [
+153,
+99,
+52
+],
+"composter_top_block": [
+153,
+99,
+52
+],
+"conduit": [
+160,
+140,
+113
+],
+"conduit_block": [
+160,
+140,
+113
+],
+"copper_bars": [
+156,
+81,
+55
+],
+"copper_bars_block": [
+156,
+81,
+55
+],
+"copper_block": [
+192,
+108,
+80
+],
+"copper_block_block": [
+192,
+108,
+80
+],
+"copper_bulb": [
+156,
+87,
+57
+],
+"copper_bulb_block": [
+156,
+87,
+57
+],
+"copper_bulb_lit": [
+216,
+151,
+107
+],
+"copper_bulb_lit_block": [
+216,
+151,
+107
+],
+"copper_bulb_lit_powered": [
+216,
+150,
+106
+],
+"copper_bulb_lit_powered_block": [
+216,
+150,
+106
+],
+"copper_bulb_powered": [
+157,
+86,
+57
+],
+"copper_bulb_powered_block": [
+157,
+86,
+57
+],
+"copper_chain": [
+152,
+79,
+55
+],
+"copper_chain_block": [
+152,
+79,
+55
+],
+"copper_door": [
+181,
+103,
+77
+],
+"copper_door_block": [
+181,
+103,
+77
+],
+"copper_door_bottom": [
+181,
+103,
+77
+],
+"copper_door_bottom_block": [
+181,
+103,
+77
+],
+"copper_door_top": [
+193,
+109,
+83
+],
+"copper_door_top_block": [
+193,
+109,
+83
+],
+"copper_grate": [
+192,
+108,
+79
+],
+"copper_grate_block": [
+192,
+108,
+79
+],
+"copper_lantern": [
+158,
+108,
+76
+],
+"copper_lantern_block": [
+158,
+108,
+76
+],
+"copper_ore": [
+125,
+126,
+120
+],
+"copper_ore_block": [
+125,
+126,
+120
+],
+"copper_torch": [
+117,
+110,
+73
+],
+"copper_torch_block": [
+117,
+110,
+73
+],
+"copper_trapdoor": [
+191,
+106,
+80
+],
+"copper_trapdoor_block": [
+191,
+106,
+80
+],
+"cornflower": [
+80,
+121,
+147
+],
+"cornflower_block": [
+80,
+121,
+147
+],
+"cracked_deepslate_bricks": [
+65,
+65,
+65
+],
+"cracked_deepslate_bricks_block": [
+65,
+65,
+65
+],
+"cracked_deepslate_tiles": [
+53,
+53,
+53
+],
+"cracked_deepslate_tiles_block": [
+53,
+53,
+53
+],
+"cracked_nether_bricks": [
+40,
+20,
+24
+],
+"cracked_nether_bricks_block": [
+40,
+20,
+24
+],
+"cracked_polished_blackstone_bricks": [
+44,
+38,
+44
+],
+"cracked_polished_blackstone_bricks_block": [
+44,
+38,
+44
+],
+"cracked_stone_bricks": [
+118,
+118,
+118
+],
+"cracked_stone_bricks_block": [
+118,
+118,
+118
+],
+"crafter": [
+79,
+79,
+79
+],
+"crafter_block": [
+79,
+79,
+79
+],
+"crafter_bottom": [
+79,
+79,
+79
+],
+"crafter_bottom_block": [
+79,
+79,
+79
+],
+"crafter_east": [
+127,
+114,
+93
+],
+"crafter_east_block": [
+127,
+114,
+93
+],
+"crafter_east_crafting": [
+129,
+114,
+93
+],
+"crafter_east_crafting_block": [
+129,
+114,
+93
+],
+"crafter_east_triggered": [
+129,
+114,
+93
+],
+"crafter_east_triggered_block": [
+129,
+114,
+93
+],
+"crafter_north": [
+114,
+109,
+101
+],
+"crafter_north_block": [
+114,
+109,
+101
+],
+"crafter_north_crafting": [
+104,
+96,
+82
+],
+"crafter_north_crafting_block": [
+104,
+96,
+82
+],
+"crafter_south": [
+123,
+112,
+97
+],
+"crafter_south_block": [
+123,
+112,
+97
+],
+"crafter_south_triggered": [
+126,
+113,
+97
+],
+"crafter_south_triggered_block": [
+126,
+113,
+97
+],
+"crafter_top": [
+112,
+99,
+100
+],
+"crafter_top_block": [
+112,
+99,
+100
+],
+"crafter_west": [
+129,
+115,
+95
+],
+"crafter_west_block": [
+129,
+115,
+95
+],
+"crafter_west_crafting": [
+130,
+116,
+95
+],
+"crafter_west_crafting_block": [
+130,
+116,
+95
+],
+"crafter_west_triggered": [
+130,
+115,
+95
+],
+"crafter_west_triggered_block": [
+130,
+115,
+95
+],
+"crafting_table": [
+129,
+106,
+70
+],
+"crafting_table_block": [
+129,
+106,
+70
+],
+"crafting_table_front": [
+129,
+106,
+70
+],
+"crafting_table_front_block": [
+129,
+106,
+70
+],
+"crafting_table_side": [
+129,
+103,
+63
+],
+"crafting_table_side_block": [
+129,
+103,
+63
+],
+"crafting_table_top": [
+120,
+73,
+42
+],
+"crafting_table_top_block": [
+120,
+73,
+42
+],
+"creaking_heart": [
+82,
+68,
+63
+],
+"creaking_heart_awake": [
+150,
+84,
+49
+],
+"creaking_heart_awake_block": [
+150,
+84,
+49
+],
+"creaking_heart_block": [
+82,
+68,
+63
+],
+"creaking_heart_dormant": [
+102,
+66,
+49
+],
+"creaking_heart_dormant_block": [
+102,
+66,
+49
+],
+"creaking_heart_top": [
+73,
+60,
+54
+],
+"creaking_heart_top_block": [
+73,
+60,
+54
+],
+"crimson_door": [
+115,
+55,
+79
+],
+"crimson_door_block": [
+115,
+55,
+79
+],
+"crimson_door_bottom": [
+115,
+55,
+79
+],
+"crimson_door_bottom_block": [
+115,
+55,
+79
+],
+"crimson_door_top": [
+114,
+55,
+79
+],
+"crimson_door_top_block": [
+114,
+55,
+79
+],
+"crimson_fungus": [
+141,
+44,
+30
+],
+"crimson_fungus_block": [
+141,
+44,
+30
+],
+"crimson_nylium": [
+131,
+31,
+31
+],
+"crimson_nylium_block": [
+131,
+31,
+31
+],
+"crimson_nylium_side": [
+107,
+27,
+27
+],
+"crimson_nylium_side_block": [
+107,
+27,
+27
+],
+"crimson_planks": [
+101,
+49,
+71
+],
+"crimson_planks_block": [
+101,
+49,
+71
+],
+"crimson_roots": [
+126,
+8,
+42
+],
+"crimson_roots_block": [
+126,
+8,
+42
+],
+"crimson_roots_pot": [
+127,
+8,
+41
+],
+"crimson_roots_pot_block": [
+127,
+8,
+41
+],
+"crimson_shelf": [
+129,
+52,
+83
+],
+"crimson_shelf_block": [
+129,
+52,
+83
+],
+"crimson_stem": [
+93,
+26,
+30
+],
+"crimson_stem_block": [
+93,
+26,
+30
+],
+"crimson_stem_top": [
+113,
+50,
+70
+],
+"crimson_stem_top_block": [
+113,
+50,
+70
+],
+"crimson_trapdoor": [
+104,
+51,
+72
+],
+"crimson_trapdoor_block": [
+104,
+51,
+72
+],
+"crying_obsidian": [
+33,
+10,
+60
+],
+"crying_obsidian_block": [
+33,
+10,
+60
+],
+"cut_copper": [
+191,
+107,
+81
+],
+"cut_copper_block": [
+191,
+107,
+81
+],
+"cut_red_sandstone": [
+189,
+102,
+32
+],
+"cut_red_sandstone_block": [
+189,
+102,
+32
+],
+"cut_sandstone": [
+218,
+206,
+160
+],
+"cut_sandstone_block": [
+218,
+206,
+160
+],
+"cyan_candle": [
+17,
+124,
+124
+],
+"cyan_candle_block": [
+17,
+124,
+124
+],
+"cyan_candle_lit": [
+43,
+147,
+135
+],
+"cyan_candle_lit_block": [
+43,
+147,
+135
+],
+"cyan_concrete": [
+21,
+119,
+136
+],
+"cyan_concrete_block": [
+21,
+119,
+136
+],
+"cyan_concrete_powder": [
+37,
+148,
+157
+],
+"cyan_concrete_powder_block": [
+37,
+148,
+157
+],
+"cyan_glazed_terracotta": [
+52,
+119,
+125
+],
+"cyan_glazed_terracotta_block": [
+52,
+119,
+125
+],
+"cyan_shulker_box": [
+20,
+121,
+135
+],
+"cyan_shulker_box_block": [
+20,
+121,
+135
+],
+"cyan_stained_glass": [
+76,
+127,
+153
+],
+"cyan_stained_glass_block": [
+76,
+127,
+153
+],
+"cyan_stained_glass_pane": [
+74,
+123,
+147
+],
+"cyan_stained_glass_pane_block": [
+74,
+123,
+147
+],
+"cyan_stained_glass_pane_top": [
+74,
+123,
+147
+],
+"cyan_stained_glass_pane_top_block": [
+74,
+123,
+147
+],
+"cyan_terracotta": [
+87,
+91,
+91
+],
+"cyan_terracotta_block": [
+87,
+91,
+91
+],
+"cyan_wool": [
+21,
+138,
+145
+],
+"cyan_wool_block": [
+21,
+138,
+145
+],
+"damaged_anvil": [
+72,
+72,
+72
+],
+"damaged_anvil_block": [
+72,
+72,
+72
+],
+"damaged_anvil_top": [
+72,
+72,
+72
+],
+"damaged_anvil_top_block": [
+72,
+72,
+72
+],
+"dandelion": [
+148,
+172,
+43
+],
+"dandelion_block": [
+148,
+172,
+43
+],
+"dark_oak_door": [
+73,
+49,
+24
+],
+"dark_oak_door_block": [
+73,
+49,
+24
+],
+"dark_oak_door_bottom": [
+73,
+49,
+24
+],
+"dark_oak_door_bottom_block": [
+73,
+49,
+24
+],
+"dark_oak_door_top": [
+77,
+52,
+25
+],
+"dark_oak_door_top_block": [
+77,
+52,
+25
+],
+"dark_oak_leaves": [
+151,
+151,
+151
+],
+"dark_oak_leaves_block": [
+151,
+151,
+151
+],
+"dark_oak_log": [
+60,
+47,
+26
+],
+"dark_oak_log_block": [
+60,
+47,
+26
+],
+"dark_oak_log_top": [
+68,
+45,
+22
+],
+"dark_oak_log_top_block": [
+68,
+45,
+22
+],
+"dark_oak_planks": [
+67,
+43,
+20
+],
+"dark_oak_planks_block": [
+67,
+43,
+20
+],
+"dark_oak_sapling": [
+61,
+91,
+31
+],
+"dark_oak_sapling_block": [
+61,
+91,
+31
+],
+"dark_oak_shelf": [
+66,
+51,
+33
+],
+"dark_oak_shelf_block": [
+66,
+51,
+33
+],
+"dark_oak_trapdoor": [
+75,
+50,
+23
+],
+"dark_oak_trapdoor_block": [
+75,
+50,
+23
+],
+"dark_prismarine": [
+52,
+92,
+76
+],
+"dark_prismarine_block": [
+52,
+92,
+76
+],
+"daylight_detector": [
+67,
+55,
+36
+],
+"daylight_detector_block": [
+67,
+55,
+36
+],
+"daylight_detector_inverted": [
+106,
+109,
+113
+],
+"daylight_detector_inverted_block": [
+106,
+109,
+113
+],
+"daylight_detector_inverted_top": [
+106,
+109,
+113
+],
+"daylight_detector_inverted_top_block": [
+106,
+109,
+113
+],
+"daylight_detector_side": [
+67,
+55,
+36
+],
+"daylight_detector_side_block": [
+67,
+55,
+36
+],
+"daylight_detector_top": [
+131,
+116,
+95
+],
+"daylight_detector_top_block": [
+131,
+116,
+95
+],
+"dead_brain_coral": [
+134,
+125,
+121
+],
+"dead_brain_coral_block": [
+124,
+118,
+114
+],
+"dead_brain_coral_block_block": [
+124,
+118,
+114
+],
+"dead_brain_coral_fan": [
+133,
+125,
+121
+],
+"dead_brain_coral_fan_block": [
+133,
+125,
+121
+],
+"dead_bubble_coral": [
+133,
+125,
+121
+],
+"dead_bubble_coral_block": [
+132,
+124,
+119
+],
+"dead_bubble_coral_block_block": [
+132,
+124,
+119
+],
+"dead_bubble_coral_fan": [
+141,
+135,
+130
+],
+"dead_bubble_coral_fan_block": [
+141,
+135,
+130
+],
+"dead_bush": [
+107,
+79,
+41
+],
+"dead_bush_block": [
+107,
+79,
+41
+],
+"dead_horn_coral": [
+143,
+135,
+130
+],
+"dead_horn_coral_block": [
+134,
+126,
+122
+],
+"dead_horn_coral_block_block": [
+134,
+126,
+122
+],
+"dead_horn_coral_fan": [
+134,
+126,
+121
+],
+"dead_horn_coral_fan_block": [
+134,
+126,
+121
+],
+"dead_tube_coral": [
+118,
+111,
+108
+],
+"dead_tube_coral_block": [
+130,
+123,
+120
+],
+"dead_tube_coral_block_block": [
+130,
+123,
+120
+],
+"dead_tube_coral_fan": [
+128,
+122,
+118
+],
+"dead_tube_coral_fan_block": [
+128,
+122,
+118
+],
+"debug": [
+133,
+148,
+153
+],
+"debug2": [
+124,
+120,
+118
+],
+"debug2_block": [
+124,
+120,
+118
+],
+"debug_block": [
+133,
+148,
+153
+],
+"deepslate": [
+80,
+80,
+83
+],
+"deepslate_block": [
+80,
+80,
+83
+],
+"deepslate_bricks": [
+71,
+71,
+71
+],
+"deepslate_bricks_block": [
+71,
+71,
+71
+],
+"deepslate_coal_ore": [
+74,
+74,
+76
+],
+"deepslate_coal_ore_block": [
+74,
+74,
+76
+],
+"deepslate_copper_ore": [
+92,
+93,
+89
+],
+"deepslate_copper_ore_block": [
+92,
+93,
+89
+],
+"deepslate_diamond_ore": [
+83,
+106,
+107
+],
+"deepslate_diamond_ore_block": [
+83,
+106,
+107
+],
+"deepslate_emerald_ore": [
+78,
+104,
+88
+],
+"deepslate_emerald_ore_block": [
+78,
+104,
+88
+],
+"deepslate_gold_ore": [
+115,
+103,
+78
+],
+"deepslate_gold_ore_block": [
+115,
+103,
+78
+],
+"deepslate_iron_ore": [
+107,
+100,
+95
+],
+"deepslate_iron_ore_block": [
+107,
+100,
+95
+],
+"deepslate_lapis_ore": [
+80,
+91,
+115
+],
+"deepslate_lapis_ore_block": [
+80,
+91,
+115
+],
+"deepslate_redstone_ore": [
+105,
+73,
+75
+],
+"deepslate_redstone_ore_block": [
+105,
+73,
+75
+],
+"deepslate_tiles": [
+55,
+55,
+55
+],
+"deepslate_tiles_block": [
+55,
+55,
+55
+],
+"deepslate_top": [
+87,
+87,
+89
+],
+"deepslate_top_block": [
+87,
+87,
+89
+],
+"detector_rail": [
+123,
+105,
+90
+],
+"detector_rail_block": [
+123,
+105,
+90
+],
+"detector_rail_on": [
+137,
+103,
+89
+],
+"detector_rail_on_block": [
+137,
+103,
+89
+],
+"diamond_block": [
+98,
+237,
+228
+],
+"diamond_block_block": [
+98,
+237,
+228
+],
+"diamond_ore": [
+121,
+141,
+141
+],
+"diamond_ore_block": [
+121,
+141,
+141
+],
+"diorite": [
+189,
+188,
+189
+],
+"diorite_block": [
+189,
+188,
+189
+],
+"dirt": [
+134,
+96,
+67
+],
+"dirt_block": [
+134,
+96,
+67
+],
+"dirt_path": [
+137,
+101,
+67
+],
+"dirt_path_block": [
+137,
+101,
+67
+],
+"dirt_path_side": [
+137,
+101,
+67
+],
+"dirt_path_side_block": [
+137,
+101,
+67
+],
+"dirt_path_top": [
+148,
+122,
+65
+],
+"dirt_path_top_block": [
+148,
+122,
+65
+],
+"dispenser": [
+122,
+122,
+122
+],
+"dispenser_block": [
+122,
+122,
+122
+],
+"dispenser_front": [
+122,
+122,
+122
+],
+"dispenser_front_block": [
+122,
+122,
+122
+],
+"dispenser_front_vertical": [
+99,
+98,
+98
+],
+"dispenser_front_vertical_block": [
+99,
+98,
+98
+],
+"dragon_egg": [
+13,
+9,
+16
+],
+"dragon_egg_block": [
+13,
+9,
+16
+],
+"dried_ghast_hydration_0": [
+146,
+136,
+136
+],
+"dried_ghast_hydration_0_block": [
+146,
+136,
+136
+],
+"dried_ghast_hydration_0_bottom": [
+146,
+136,
+136
+],
+"dried_ghast_hydration_0_bottom_block": [
+146,
+136,
+136
+],
+"dried_ghast_hydration_0_east": [
+159,
+145,
+145
+],
+"dried_ghast_hydration_0_east_block": [
+159,
+145,
+145
+],
+"dried_ghast_hydration_0_north": [
+158,
+144,
+144
+],
+"dried_ghast_hydration_0_north_block": [
+158,
+144,
+144
+],
+"dried_ghast_hydration_0_south": [
+159,
+146,
+146
+],
+"dried_ghast_hydration_0_south_block": [
+159,
+146,
+146
+],
+"dried_ghast_hydration_0_tentacles": [
+119,
+117,
+117
+],
+"dried_ghast_hydration_0_tentacles_block": [
+119,
+117,
+117
+],
+"dried_ghast_hydration_0_top": [
+159,
+145,
+145
+],
+"dried_ghast_hydration_0_top_block": [
+159,
+145,
+145
+],
+"dried_ghast_hydration_0_west": [
+163,
+148,
+148
+],
+"dried_ghast_hydration_0_west_block": [
+163,
+148,
+148
+],
+"dried_ghast_hydration_1": [
+167,
+159,
+159
+],
+"dried_ghast_hydration_1_block": [
+167,
+159,
+159
+],
+"dried_ghast_hydration_1_bottom": [
+167,
+159,
+159
+],
+"dried_ghast_hydration_1_bottom_block": [
+167,
+159,
+159
+],
+"dried_ghast_hydration_1_east": [
+179,
+168,
+168
+],
+"dried_ghast_hydration_1_east_block": [
+179,
+168,
+168
+],
+"dried_ghast_hydration_1_north": [
+179,
+168,
+168
+],
+"dried_ghast_hydration_1_north_block": [
+179,
+168,
+168
+],
+"dried_ghast_hydration_1_south": [
+177,
+167,
+167
+],
+"dried_ghast_hydration_1_south_block": [
+177,
+167,
+167
+],
+"dried_ghast_hydration_1_tentacles": [
+145,
+142,
+142
+],
+"dried_ghast_hydration_1_tentacles_block": [
+145,
+142,
+142
+],
+"dried_ghast_hydration_1_top": [
+179,
+168,
+168
+],
+"dried_ghast_hydration_1_top_block": [
+179,
+168,
+168
+],
+"dried_ghast_hydration_1_west": [
+182,
+171,
+171
+],
+"dried_ghast_hydration_1_west_block": [
+182,
+171,
+171
+],
+"dried_ghast_hydration_2": [
+189,
+183,
+183
+],
+"dried_ghast_hydration_2_block": [
+189,
+183,
+183
+],
+"dried_ghast_hydration_2_bottom": [
+189,
+183,
+183
+],
+"dried_ghast_hydration_2_bottom_block": [
+189,
+183,
+183
+],
+"dried_ghast_hydration_2_east": [
+199,
+192,
+192
+],
+"dried_ghast_hydration_2_east_block": [
+199,
+192,
+192
+],
+"dried_ghast_hydration_2_north": [
+199,
+191,
+191
+],
+"dried_ghast_hydration_2_north_block": [
+199,
+191,
+191
+],
+"dried_ghast_hydration_2_south": [
+197,
+190,
+190
+],
+"dried_ghast_hydration_2_south_block": [
+197,
+190,
+190
+],
+"dried_ghast_hydration_2_tentacles": [
+171,
+169,
+169
+],
+"dried_ghast_hydration_2_tentacles_block": [
+171,
+169,
+169
+],
+"dried_ghast_hydration_2_top": [
+199,
+192,
+192
+],
+"dried_ghast_hydration_2_top_block": [
+199,
+192,
+192
+],
+"dried_ghast_hydration_2_west": [
+202,
+195,
+195
+],
+"dried_ghast_hydration_2_west_block": [
+202,
+195,
+195
+],
+"dried_ghast_hydration_3": [
+235,
+232,
+232
+],
+"dried_ghast_hydration_3_block": [
+235,
+232,
+232
+],
+"dried_ghast_hydration_3_bottom": [
+235,
+232,
+232
+],
+"dried_ghast_hydration_3_bottom_block": [
+235,
+232,
+232
+],
+"dried_ghast_hydration_3_east": [
+241,
+241,
+241
+],
+"dried_ghast_hydration_3_east_block": [
+241,
+241,
+241
+],
+"dried_ghast_hydration_3_north": [
+239,
+239,
+239
+],
+"dried_ghast_hydration_3_north_block": [
+239,
+239,
+239
+],
+"dried_ghast_hydration_3_south": [
+240,
+239,
+239
+],
+"dried_ghast_hydration_3_south_block": [
+240,
+239,
+239
+],
+"dried_ghast_hydration_3_tentacles": [
+224,
+221,
+221
+],
+"dried_ghast_hydration_3_tentacles_block": [
+224,
+221,
+221
+],
+"dried_ghast_hydration_3_top": [
+241,
+240,
+240
+],
+"dried_ghast_hydration_3_top_block": [
+241,
+240,
+240
+],
+"dried_ghast_hydration_3_west": [
+243,
+243,
+243
+],
+"dried_ghast_hydration_3_west_block": [
+243,
+243,
+243
+],
+"dried_kelp": [
+50,
+59,
+39
+],
+"dried_kelp_block": [
+50,
+59,
+39
+],
+"dried_kelp_bottom": [
+50,
+59,
+39
+],
+"dried_kelp_bottom_block": [
+50,
+59,
+39
+],
+"dried_kelp_side": [
+38,
+49,
+30
+],
+"dried_kelp_side_block": [
+38,
+49,
+30
+],
+"dried_kelp_top": [
+50,
+59,
+39
+],
+"dried_kelp_top_block": [
+50,
+59,
+39
+],
+"dripstone_block": [
+134,
+108,
+93
+],
+"dripstone_block_block": [
+134,
+108,
+93
+],
+"dropper": [
+122,
+122,
+122
+],
+"dropper_block": [
+122,
+122,
+122
+],
+"dropper_front": [
+122,
+122,
+122
+],
+"dropper_front_block": [
+122,
+122,
+122
+],
+"dropper_front_vertical": [
+98,
+97,
+97
+],
+"dropper_front_vertical_block": [
+98,
+97,
+97
+],
+"emerald_block": [
+42,
+203,
+88
+],
+"emerald_block_block": [
+42,
+203,
+88
+],
+"emerald_ore": [
+108,
+136,
+116
+],
+"emerald_ore_block": [
+108,
+136,
+116
+],
+"enchanting_table": [
+15,
+11,
+25
+],
+"enchanting_table_block": [
+15,
+11,
+25
+],
+"enchanting_table_bottom": [
+15,
+11,
+25
+],
+"enchanting_table_bottom_block": [
+15,
+11,
+25
+],
+"enchanting_table_side": [
+50,
+46,
+57
+],
+"enchanting_table_side_block": [
+50,
+46,
+57
+],
+"enchanting_table_top": [
+129,
+75,
+85
+],
+"enchanting_table_top_block": [
+129,
+75,
+85
+],
+"end_portal_frame": [
+151,
+163,
+123
+],
+"end_portal_frame_block": [
+151,
+163,
+123
+],
+"end_portal_frame_eye": [
+36,
+70,
+62
+],
+"end_portal_frame_eye_block": [
+36,
+70,
+62
+],
+"end_portal_frame_side": [
+151,
+163,
+123
+],
+"end_portal_frame_side_block": [
+151,
+163,
+123
+],
+"end_portal_frame_top": [
+91,
+121,
+97
+],
+"end_portal_frame_top_block": [
+91,
+121,
+97
+],
+"end_rod": [
+208,
+198,
+187
+],
+"end_rod_block": [
+208,
+198,
+187
+],
+"end_stone": [
+220,
+223,
+158
+],
+"end_stone_block": [
+220,
+223,
+158
+],
+"end_stone_bricks": [
+218,
+224,
+162
+],
+"end_stone_bricks_block": [
+218,
+224,
+162
+],
+"exposed_chiseled_copper": [
+155,
+119,
+101
+],
+"exposed_chiseled_copper_block": [
+155,
+119,
+101
+],
+"exposed_copper": [
+161,
+126,
+104
+],
+"exposed_copper_bars": [
+134,
+108,
+89
+],
+"exposed_copper_bars_block": [
+134,
+108,
+89
+],
+"exposed_copper_block": [
+161,
+126,
+104
+],
+"exposed_copper_bulb": [
+135,
+108,
+90
+],
+"exposed_copper_bulb_block": [
+135,
+108,
+90
+],
+"exposed_copper_bulb_lit": [
+194,
+145,
+100
+],
+"exposed_copper_bulb_lit_block": [
+194,
+145,
+100
+],
+"exposed_copper_bulb_lit_powered": [
+195,
+144,
+99
+],
+"exposed_copper_bulb_lit_powered_block": [
+195,
+144,
+99
+],
+"exposed_copper_bulb_powered": [
+136,
+106,
+89
+],
+"exposed_copper_bulb_powered_block": [
+136,
+106,
+89
+],
+"exposed_copper_chain": [
+126,
+102,
+84
+],
+"exposed_copper_chain_block": [
+126,
+102,
+84
+],
+"exposed_copper_door": [
+153,
+118,
+100
+],
+"exposed_copper_door_block": [
+153,
+118,
+100
+],
+"exposed_copper_door_bottom": [
+153,
+118,
+100
+],
+"exposed_copper_door_bottom_block": [
+153,
+118,
+100
+],
+"exposed_copper_door_top": [
+164,
+123,
+106
+],
+"exposed_copper_door_top_block": [
+164,
+123,
+106
+],
+"exposed_copper_grate": [
+162,
+126,
+105
+],
+"exposed_copper_grate_block": [
+162,
+126,
+105
+],
+"exposed_copper_lantern": [
+148,
+131,
+105
+],
+"exposed_copper_lantern_block": [
+148,
+131,
+105
+],
+"exposed_copper_trapdoor": [
+161,
+125,
+105
+],
+"exposed_copper_trapdoor_block": [
+161,
+125,
+105
+],
+"exposed_cut_copper": [
+155,
+122,
+101
+],
+"exposed_cut_copper_block": [
+155,
+122,
+101
+],
+"exposed_lightning_rod": [
+159,
+120,
+104
+],
+"exposed_lightning_rod_block": [
+159,
+120,
+104
+],
+"farmland": [
+143,
+103,
+71
+],
+"farmland_block": [
+143,
+103,
+71
+],
+"farmland_moist": [
+82,
+44,
+15
+],
+"farmland_moist_block": [
+82,
+44,
+15
+],
+"fern": [
+124,
+125,
+124
+],
+"fern_block": [
+124,
+125,
+124
+],
+"firefly_bush": [
+88,
+83,
+43
+],
+"firefly_bush_block": [
+88,
+83,
+43
+],
+"firefly_bush_emissive": [
+193,
+192,
+159
+],
+"firefly_bush_emissive_block": [
+193,
+192,
+159
+],
+"fletching_table": [
+173,
+155,
+111
+],
+"fletching_table_block": [
+173,
+155,
+111
+],
+"fletching_table_front": [
+173,
+155,
+111
+],
+"fletching_table_front_block": [
+173,
+155,
+111
+],
+"fletching_table_side": [
+192,
+167,
+130
+],
+"fletching_table_side_block": [
+192,
+167,
+130
+],
+"fletching_table_top": [
+197,
+180,
+133
+],
+"fletching_table_top_block": [
+197,
+180,
+133
+],
+"flower_pot": [
+124,
+69,
+53
+],
+"flower_pot_block": [
+124,
+69,
+53
+],
+"flowering_azalea": [
+111,
+113,
+73
+],
+"flowering_azalea_block": [
+111,
+113,
+73
+],
+"flowering_azalea_leaves": [
+100,
+111,
+61
+],
+"flowering_azalea_leaves_block": [
+100,
+111,
+61
+],
+"flowering_azalea_side": [
+111,
+113,
+73
+],
+"flowering_azalea_side_block": [
+111,
+113,
+73
+],
+"flowering_azalea_top": [
+112,
+122,
+64
+],
+"flowering_azalea_top_block": [
+112,
+122,
+64
+],
+"frogspawn": [
+110,
+95,
+87
+],
+"frogspawn_block": [
+110,
+95,
+87
+],
+"frosted_ice_0": [
+140,
+181,
+253
+],
+"frosted_ice_0_block": [
+140,
+181,
+253
+],
+"frosted_ice_1": [
+140,
+181,
+253
+],
+"frosted_ice_1_block": [
+140,
+181,
+253
+],
+"frosted_ice_2": [
+138,
+180,
+252
+],
+"frosted_ice_2_block": [
+138,
+180,
+252
+],
+"frosted_ice_3": [
+135,
+178,
+252
+],
+"frosted_ice_3_block": [
+135,
+178,
+252
+],
+"furnace": [
+92,
+91,
+91
+],
+"furnace_block": [
+92,
+91,
+91
+],
+"furnace_front": [
+92,
+91,
+91
+],
+"furnace_front_block": [
+92,
+91,
+91
+],
+"furnace_side": [
+121,
+120,
+120
+],
+"furnace_side_block": [
+121,
+120,
+120
+],
+"furnace_top": [
+110,
+110,
+110
+],
+"furnace_top_block": [
+110,
+110,
+110
+],
+"gilded_blackstone": [
+56,
+43,
+38
+],
+"gilded_blackstone_block": [
+56,
+43,
+38
+],
+"glass": [
+176,
+214,
+219
+],
+"glass_block": [
+176,
+214,
+219
+],
+"glass_pane": [
+170,
+210,
+217
+],
+"glass_pane_block": [
+170,
+210,
+217
+],
+"glass_pane_top": [
+170,
+210,
+217
+],
+"glass_pane_top_block": [
+170,
+210,
+217
+],
+"glow_item_frame": [
+148,
+103,
+64
+],
+"glow_item_frame_block": [
+148,
+103,
+64
+],
+"glow_lichen": [
+112,
+131,
+122
+],
+"glow_lichen_block": [
+112,
+131,
+122
+],
+"glowstone": [
+172,
+131,
+84
+],
+"glowstone_block": [
+172,
+131,
+84
+],
+"gold_block": [
+246,
+208,
+62
+],
+"gold_block_block": [
+246,
+208,
+62
+],
+"gold_ore": [
+145,
+134,
+107
+],
+"gold_ore_block": [
+145,
+134,
+107
+],
+"golden_dandelion": [
+160,
+102,
+37
+],
+"golden_dandelion_block": [
+160,
+102,
+37
+],
+"granite": [
+149,
+103,
+86
+],
+"granite_block": [
+149,
+103,
+86
+],
+"grass_block": [
+127,
+107,
+66
+],
+"grass_block_block": [
+127,
+107,
+66
+],
+"grass_block_side": [
+127,
+107,
+66
+],
+"grass_block_side_block": [
+127,
+107,
+66
+],
+"grass_block_snow": [
+170,
+151,
+133
+],
+"grass_block_snow_block": [
+170,
+151,
+133
+],
+"grass_block_top": [
+147,
+147,
+147
+],
+"grass_block_top_block": [
+147,
+147,
+147
+],
+"gravel": [
+132,
+127,
+127
+],
+"gravel_block": [
+132,
+127,
+127
+],
+"gray_candle": [
+80,
+94,
+97
+],
+"gray_candle_block": [
+80,
+94,
+97
+],
+"gray_candle_lit": [
+118,
+122,
+108
+],
+"gray_candle_lit_block": [
+118,
+122,
+108
+],
+"gray_concrete": [
+55,
+58,
+62
+],
+"gray_concrete_block": [
+55,
+58,
+62
+],
+"gray_concrete_powder": [
+77,
+81,
+85
+],
+"gray_concrete_powder_block": [
+77,
+81,
+85
+],
+"gray_glazed_terracotta": [
+83,
+90,
+94
+],
+"gray_glazed_terracotta_block": [
+83,
+90,
+94
+],
+"gray_shulker_box": [
+55,
+59,
+62
+],
+"gray_shulker_box_block": [
+55,
+59,
+62
+],
+"gray_stained_glass": [
+76,
+76,
+76
+],
+"gray_stained_glass_block": [
+76,
+76,
+76
+],
+"gray_stained_glass_pane": [
+74,
+74,
+74
+],
+"gray_stained_glass_pane_block": [
+74,
+74,
+74
+],
+"gray_stained_glass_pane_top": [
+74,
+74,
+74
+],
+"gray_stained_glass_pane_top_block": [
+74,
+74,
+74
+],
+"gray_terracotta": [
+58,
+42,
+36
+],
+"gray_terracotta_block": [
+58,
+42,
+36
+],
+"gray_wool": [
+63,
+68,
+72
+],
+"gray_wool_block": [
+63,
+68,
+72
+],
+"green_candle": [
+73,
+96,
+21
+],
+"green_candle_block": [
+73,
+96,
+21
+],
+"green_candle_lit": [
+101,
+115,
+22
+],
+"green_candle_lit_block": [
+101,
+115,
+22
+],
+"green_concrete": [
+73,
+91,
+36
+],
+"green_concrete_block": [
+73,
+91,
+36
+],
+"green_concrete_powder": [
+97,
+119,
+45
+],
+"green_concrete_powder_block": [
+97,
+119,
+45
+],
+"green_glazed_terracotta": [
+117,
+142,
+67
+],
+"green_glazed_terracotta_block": [
+117,
+142,
+67
+],
+"green_shulker_box": [
+79,
+101,
+32
+],
+"green_shulker_box_block": [
+79,
+101,
+32
+],
+"green_stained_glass": [
+102,
+127,
+51
+],
+"green_stained_glass_block": [
+102,
+127,
+51
+],
+"green_stained_glass_pane": [
+98,
+123,
+49
+],
+"green_stained_glass_pane_block": [
+98,
+123,
+49
+],
+"green_stained_glass_pane_top": [
+98,
+123,
+49
+],
+"green_stained_glass_pane_top_block": [
+98,
+123,
+49
+],
+"green_terracotta": [
+76,
+83,
+42
+],
+"green_terracotta_block": [
+76,
+83,
+42
+],
+"green_wool": [
+85,
+110,
+28
+],
+"green_wool_block": [
+85,
+110,
+28
+],
+"grindstone": [
+79,
+79,
+79
+],
+"grindstone_block": [
+79,
+79,
+79
+],
+"grindstone_pivot": [
+73,
+46,
+21
+],
+"grindstone_pivot_block": [
+73,
+46,
+21
+],
+"grindstone_round": [
+53,
+53,
+53
+],
+"grindstone_round_block": [
+53,
+53,
+53
+],
+"grindstone_side": [
+79,
+79,
+79
+],
+"grindstone_side_block": [
+79,
+79,
+79
+],
+"hanging_roots": [
+161,
+115,
+92
+],
+"hanging_roots_block": [
+161,
+115,
+92
+],
+"hay_block": [
+166,
+136,
+38
+],
+"hay_block_block": [
+166,
+136,
+38
+],
+"hay_block_side": [
+166,
+136,
+38
+],
+"hay_block_side_block": [
+166,
+136,
+38
+],
+"hay_block_top": [
+166,
+139,
+12
+],
+"hay_block_top_block": [
+166,
+139,
+12
+],
+"heavy_core": [
+82,
+86,
+94
+],
+"heavy_core_block": [
+82,
+86,
+94
+],
+"honey_block": [
+241,
+146,
+18
+],
+"honey_block_block": [
+241,
+146,
+18
+],
+"honey_block_bottom": [
+241,
+146,
+18
+],
+"honey_block_bottom_block": [
+241,
+146,
+18
+],
+"honey_block_side": [
+251,
+188,
+58
+],
+"honey_block_side_block": [
+251,
+188,
+58
+],
+"honey_block_top": [
+251,
+185,
+53
+],
+"honey_block_top_block": [
+251,
+185,
+53
+],
+"honeycomb_block": [
+229,
+148,
+30
+],
+"honeycomb_block_block": [
+229,
+148,
+30
+],
+"hopper": [
+76,
+74,
+76
+],
+"hopper_block": [
+76,
+74,
+76
+],
+"hopper_inside": [
+49,
+49,
+53
+],
+"hopper_inside_block": [
+49,
+49,
+53
+],
+"hopper_outside": [
+67,
+66,
+68
+],
+"hopper_outside_block": [
+67,
+66,
+68
+],
+"hopper_top": [
+76,
+74,
+76
+],
+"hopper_top_block": [
+76,
+74,
+76
+],
+"horn_coral": [
+209,
+186,
+63
+],
+"horn_coral_block": [
+216,
+200,
+66
+],
+"horn_coral_block_block": [
+216,
+200,
+66
+],
+"horn_coral_fan": [
+206,
+183,
+61
+],
+"horn_coral_fan_block": [
+206,
+183,
+61
+],
+"ice": [
+146,
+184,
+254
+],
+"ice_block": [
+146,
+184,
+254
+],
+"iron_bars": [
+137,
+139,
+136
+],
+"iron_bars_block": [
+137,
+139,
+136
+],
+"iron_block": [
+220,
+220,
+220
+],
+"iron_block_block": [
+220,
+220,
+220
+],
+"iron_chain": [
+51,
+58,
+74
+],
+"iron_chain_block": [
+51,
+58,
+74
+],
+"iron_door": [
+196,
+195,
+195
+],
+"iron_door_block": [
+196,
+195,
+195
+],
+"iron_door_bottom": [
+196,
+195,
+195
+],
+"iron_door_bottom_block": [
+196,
+195,
+195
+],
+"iron_door_top": [
+194,
+193,
+193
+],
+"iron_door_top_block": [
+194,
+193,
+193
+],
+"iron_ore": [
+136,
+129,
+123
+],
+"iron_ore_block": [
+136,
+129,
+123
+],
+"iron_trapdoor": [
+203,
+202,
+202
+],
+"iron_trapdoor_block": [
+203,
+202,
+202
+],
+"item_frame": [
+117,
+67,
+43
+],
+"item_frame_block": [
+117,
+67,
+43
+],
+"jack_o_lantern": [
+215,
+152,
+53
+],
+"jack_o_lantern_block": [
+215,
+152,
+53
+],
+"jigsaw": [
+34,
+27,
+37
+],
+"jigsaw_block": [
+34,
+27,
+37
+],
+"jigsaw_bottom": [
+34,
+27,
+37
+],
+"jigsaw_bottom_block": [
+34,
+27,
+37
+],
+"jigsaw_lock": [
+45,
+38,
+47
+],
+"jigsaw_lock_block": [
+45,
+38,
+47
+],
+"jigsaw_side": [
+62,
+54,
+63
+],
+"jigsaw_side_block": [
+62,
+54,
+63
+],
+"jigsaw_top": [
+80,
+70,
+81
+],
+"jigsaw_top_block": [
+80,
+70,
+81
+],
+"jukebox": [
+89,
+59,
+41
+],
+"jukebox_block": [
+89,
+59,
+41
+],
+"jukebox_side": [
+89,
+59,
+41
+],
+"jukebox_side_block": [
+89,
+59,
+41
+],
+"jukebox_top": [
+94,
+64,
+47
+],
+"jukebox_top_block": [
+94,
+64,
+47
+],
+"jungle_door": [
+158,
+114,
+79
+],
+"jungle_door_block": [
+158,
+114,
+79
+],
+"jungle_door_bottom": [
+158,
+114,
+79
+],
+"jungle_door_bottom_block": [
+158,
+114,
+79
+],
+"jungle_door_top": [
+164,
+120,
+85
+],
+"jungle_door_top_block": [
+164,
+120,
+85
+],
+"jungle_leaves": [
+157,
+154,
+144
+],
+"jungle_leaves_block": [
+157,
+154,
+144
+],
+"jungle_log": [
+85,
+68,
+25
+],
+"jungle_log_block": [
+85,
+68,
+25
+],
+"jungle_log_top": [
+150,
+109,
+71
+],
+"jungle_log_top_block": [
+150,
+109,
+71
+],
+"jungle_planks": [
+160,
+115,
+81
+],
+"jungle_planks_block": [
+160,
+115,
+81
+],
+"jungle_sapling": [
+48,
+81,
+17
+],
+"jungle_sapling_block": [
+48,
+81,
+17
+],
+"jungle_shelf": [
+156,
+122,
+74
+],
+"jungle_shelf_block": [
+156,
+122,
+74
+],
+"jungle_trapdoor": [
+153,
+110,
+77
+],
+"jungle_trapdoor_block": [
+153,
+110,
+77
+],
+"kelp": [
+87,
+140,
+45
+],
+"kelp_block": [
+87,
+140,
+45
+],
+"kelp_plant": [
+87,
+130,
+43
+],
+"kelp_plant_block": [
+87,
+130,
+43
+],
+"ladder": [
+125,
+97,
+55
+],
+"ladder_block": [
+125,
+97,
+55
+],
+"lantern": [
+106,
+91,
+84
+],
+"lantern_block": [
+106,
+91,
+84
+],
+"lapis_block": [
+31,
+67,
+140
+],
+"lapis_block_block": [
+31,
+67,
+140
+],
+"lapis_ore": [
+107,
+118,
+141
+],
+"lapis_ore_block": [
+107,
+118,
+141
+],
+"large_amethyst_bud": [
+161,
+126,
+203
+],
+"large_amethyst_bud_block": [
+161,
+126,
+203
+],
+"large_fern": [
+132,
+132,
+132
+],
+"large_fern_block": [
+132,
+132,
+132
+],
+"large_fern_bottom": [
+132,
+132,
+132
+],
+"large_fern_bottom_block": [
+132,
+132,
+132
+],
+"large_fern_top": [
+125,
+126,
+125
+],
+"large_fern_top_block": [
+125,
+126,
+125
+],
+"leaf_litter": [
+78,
+78,
+78
+],
+"leaf_litter_block": [
+78,
+78,
+78
+],
+"lectern": [
+130,
+101,
+56
+],
+"lectern_base": [
+163,
+121,
+74
+],
+"lectern_base_block": [
+163,
+121,
+74
+],
+"lectern_block": [
+130,
+101,
+56
+],
+"lectern_front": [
+130,
+101,
+56
+],
+"lectern_front_block": [
+130,
+101,
+56
+],
+"lectern_sides": [
+150,
+117,
+68
+],
+"lectern_sides_block": [
+150,
+117,
+68
+],
+"lectern_top": [
+174,
+138,
+83
+],
+"lectern_top_block": [
+174,
+138,
+83
+],
+"lever": [
+111,
+93,
+67
+],
+"lever_block": [
+111,
+93,
+67
+],
+"light_blue_candle": [
+35,
+138,
+197
+],
+"light_blue_candle_block": [
+35,
+138,
+197
+],
+"light_blue_candle_lit": [
+70,
+162,
+202
+],
+"light_blue_candle_lit_block": [
+70,
+162,
+202
+],
+"light_blue_concrete": [
+36,
+137,
+199
+],
+"light_blue_concrete_block": [
+36,
+137,
+199
+],
+"light_blue_concrete_powder": [
+74,
+181,
+213
+],
+"light_blue_concrete_powder_block": [
+74,
+181,
+213
+],
+"light_blue_glazed_terracotta": [
+95,
+165,
+209
+],
+"light_blue_glazed_terracotta_block": [
+95,
+165,
+209
+],
+"light_blue_shulker_box": [
+49,
+164,
+212
+],
+"light_blue_shulker_box_block": [
+49,
+164,
+212
+],
+"light_blue_stained_glass": [
+102,
+153,
+216
+],
+"light_blue_stained_glass_block": [
+102,
+153,
+216
+],
+"light_blue_stained_glass_pane": [
+98,
+147,
+209
+],
+"light_blue_stained_glass_pane_block": [
+98,
+147,
+209
+],
+"light_blue_stained_glass_pane_top": [
+98,
+147,
+209
+],
+"light_blue_stained_glass_pane_top_block": [
+98,
+147,
+209
+],
+"light_blue_terracotta": [
+113,
+109,
+138
+],
+"light_blue_terracotta_block": [
+113,
+109,
+138
+],
+"light_blue_wool": [
+58,
+175,
+217
+],
+"light_blue_wool_block": [
+58,
+175,
+217
+],
+"light_gray_candle": [
+118,
+121,
+112
+],
+"light_gray_candle_block": [
+118,
+121,
+112
+],
+"light_gray_candle_lit": [
+152,
+147,
+126
+],
+"light_gray_candle_lit_block": [
+152,
+147,
+126
+],
+"light_gray_concrete": [
+125,
+125,
+115
+],
+"light_gray_concrete_block": [
+125,
+125,
+115
+],
+"light_gray_concrete_powder": [
+155,
+155,
+148
+],
+"light_gray_concrete_powder_block": [
+155,
+155,
+148
+],
+"light_gray_glazed_terracotta": [
+144,
+166,
+168
+],
+"light_gray_glazed_terracotta_block": [
+144,
+166,
+168
+],
+"light_gray_shulker_box": [
+124,
+124,
+115
+],
+"light_gray_shulker_box_block": [
+124,
+124,
+115
+],
+"light_gray_stained_glass": [
+153,
+153,
+153
+],
+"light_gray_stained_glass_block": [
+153,
+153,
+153
+],
+"light_gray_stained_glass_pane": [
+147,
+147,
+147
+],
+"light_gray_stained_glass_pane_block": [
+147,
+147,
+147
+],
+"light_gray_stained_glass_pane_top": [
+147,
+147,
+147
+],
+"light_gray_stained_glass_pane_top_block": [
+147,
+147,
+147
+],
+"light_gray_terracotta": [
+135,
+107,
+98
+],
+"light_gray_terracotta_block": [
+135,
+107,
+98
+],
+"light_gray_wool": [
+142,
+142,
+135
+],
+"light_gray_wool_block": [
+142,
+142,
+135
+],
+"lightning_rod": [
+197,
+111,
+83
+],
+"lightning_rod_block": [
+197,
+111,
+83
+],
+"lightning_rod_on": [
+255,
+255,
+255
+],
+"lightning_rod_on_block": [
+255,
+255,
+255
+],
+"lilac": [
+137,
+124,
+127
+],
+"lilac_block": [
+137,
+124,
+127
+],
+"lilac_bottom": [
+137,
+124,
+127
+],
+"lilac_bottom_block": [
+137,
+124,
+127
+],
+"lilac_top": [
+155,
+125,
+147
+],
+"lilac_top_block": [
+155,
+125,
+147
+],
+"lily_of_the_valley": [
+123,
+175,
+95
+],
+"lily_of_the_valley_block": [
+123,
+175,
+95
+],
+"lily_pad": [
+78,
+78,
+78
+],
+"lily_pad_block": [
+78,
+78,
+78
+],
+"lime_candle": [
+98,
+172,
+23
+],
+"lime_candle_block": [
+98,
+172,
+23
+],
+"lime_candle_lit": [
+124,
+181,
+31
+],
+"lime_candle_lit_block": [
+124,
+181,
+31
+],
+"lime_concrete": [
+94,
+169,
+24
+],
+"lime_concrete_block": [
+94,
+169,
+24
+],
+"lime_concrete_powder": [
+125,
+189,
+42
+],
+"lime_concrete_powder_block": [
+125,
+189,
+42
+],
+"lime_glazed_terracotta": [
+163,
+198,
+55
+],
+"lime_glazed_terracotta_block": [
+163,
+198,
+55
+],
+"lime_shulker_box": [
+100,
+173,
+23
+],
+"lime_shulker_box_block": [
+100,
+173,
+23
+],
+"lime_stained_glass": [
+127,
+204,
+25
+],
+"lime_stained_glass_block": [
+127,
+204,
+25
+],
+"lime_stained_glass_pane": [
+123,
+197,
+24
+],
+"lime_stained_glass_pane_block": [
+123,
+197,
+24
+],
+"lime_stained_glass_pane_top": [
+123,
+197,
+24
+],
+"lime_stained_glass_pane_top_block": [
+123,
+197,
+24
+],
+"lime_terracotta": [
+104,
+118,
+53
+],
+"lime_terracotta_block": [
+104,
+118,
+53
+],
+"lime_wool": [
+112,
+185,
+26
+],
+"lime_wool_block": [
+112,
+185,
+26
+],
+"lodestone": [
+119,
+120,
+123
+],
+"lodestone_block": [
+119,
+120,
+123
+],
+"lodestone_side": [
+119,
+120,
+123
+],
+"lodestone_side_block": [
+119,
+120,
+123
+],
+"lodestone_top": [
+147,
+149,
+153
+],
+"lodestone_top_block": [
+147,
+149,
+153
+],
+"loom": [
+76,
+60,
+36
+],
+"loom_block": [
+76,
+60,
+36
+],
+"loom_bottom": [
+76,
+60,
+36
+],
+"loom_bottom_block": [
+76,
+60,
+36
+],
+"loom_front": [
+148,
+119,
+82
+],
+"loom_front_block": [
+148,
+119,
+82
+],
+"loom_side": [
+146,
+101,
+72
+],
+"loom_side_block": [
+146,
+101,
+72
+],
+"loom_top": [
+142,
+119,
+92
+],
+"loom_top_block": [
+142,
+119,
+92
+],
+"magenta_candle": [
+161,
+46,
+153
+],
+"magenta_candle_block": [
+161,
+46,
+153
+],
+"magenta_candle_lit": [
+182,
+70,
+162
+],
+"magenta_candle_lit_block": [
+182,
+70,
+162
+],
+"magenta_concrete": [
+169,
+48,
+159
+],
+"magenta_concrete_block": [
+169,
+48,
+159
+],
+"magenta_concrete_powder": [
+193,
+84,
+185
+],
+"magenta_concrete_powder_block": [
+193,
+84,
+185
+],
+"magenta_glazed_terracotta": [
+208,
+100,
+192
+],
+"magenta_glazed_terracotta_block": [
+208,
+100,
+192
+],
+"magenta_shulker_box": [
+174,
+54,
+164
+],
+"magenta_shulker_box_block": [
+174,
+54,
+164
+],
+"magenta_stained_glass": [
+178,
+76,
+216
+],
+"magenta_stained_glass_block": [
+178,
+76,
+216
+],
+"magenta_stained_glass_pane": [
+171,
+74,
+209
+],
+"magenta_stained_glass_pane_block": [
+171,
+74,
+209
+],
+"magenta_stained_glass_pane_top": [
+171,
+74,
+209
+],
+"magenta_stained_glass_pane_top_block": [
+171,
+74,
+209
+],
+"magenta_terracotta": [
+150,
+88,
+109
+],
+"magenta_terracotta_block": [
+150,
+88,
+109
+],
+"magenta_wool": [
+190,
+69,
+180
+],
+"magenta_wool_block": [
+190,
+69,
+180
+],
+"magma": [
+143,
+63,
+32
+],
+"magma_block": [
+143,
+63,
+32
+],
+"mangrove_door": [
+112,
+48,
+46
+],
+"mangrove_door_block": [
+112,
+48,
+46
+],
+"mangrove_door_bottom": [
+112,
+48,
+46
+],
+"mangrove_door_bottom_block": [
+112,
+48,
+46
+],
+"mangrove_door_top": [
+113,
+49,
+47
+],
+"mangrove_door_top_block": [
+113,
+49,
+47
+],
+"mangrove_leaves": [
+130,
+129,
+129
+],
+"mangrove_leaves_block": [
+130,
+129,
+129
+],
+"mangrove_log": [
+84,
+67,
+41
+],
+"mangrove_log_block": [
+84,
+67,
+41
+],
+"mangrove_log_top": [
+103,
+49,
+42
+],
+"mangrove_log_top_block": [
+103,
+49,
+42
+],
+"mangrove_planks": [
+118,
+54,
+49
+],
+"mangrove_planks_block": [
+118,
+54,
+49
+],
+"mangrove_propagule": [
+96,
+175,
+84
+],
+"mangrove_propagule_block": [
+96,
+175,
+84
+],
+"mangrove_propagule_hanging": [
+109,
+135,
+70
+],
+"mangrove_propagule_hanging_block": [
+109,
+135,
+70
+],
+"mangrove_roots": [
+75,
+60,
+38
+],
+"mangrove_roots_block": [
+75,
+60,
+38
+],
+"mangrove_roots_side": [
+75,
+60,
+38
+],
+"mangrove_roots_side_block": [
+75,
+60,
+38
+],
+"mangrove_roots_top": [
+75,
+60,
+39
+],
+"mangrove_roots_top_block": [
+75,
+60,
+39
+],
+"mangrove_shelf": [
+109,
+45,
+42
+],
+"mangrove_shelf_block": [
+109,
+45,
+42
+],
+"mangrove_trapdoor": [
+111,
+47,
+42
+],
+"mangrove_trapdoor_block": [
+111,
+47,
+42
+],
+"medium_amethyst_bud": [
+158,
+120,
+202
+],
+"medium_amethyst_bud_block": [
+158,
+120,
+202
+],
+"melon": [
+114,
+146,
+30
+],
+"melon_block": [
+114,
+146,
+30
+],
+"melon_side": [
+114,
+146,
+30
+],
+"melon_side_block": [
+114,
+146,
+30
+],
+"melon_stem": [
+21,
+21,
+21
+],
+"melon_stem_block": [
+21,
+21,
+21
+],
+"melon_top": [
+111,
+145,
+31
+],
+"melon_top_block": [
+111,
+145,
+31
+],
+"moss_block": [
+89,
+110,
+45
+],
+"moss_block_block": [
+89,
+110,
+45
+],
+"mossy_cobblestone": [
+110,
+118,
+95
+],
+"mossy_cobblestone_block": [
+110,
+118,
+95
+],
+"mossy_stone_bricks": [
+115,
+121,
+105
+],
+"mossy_stone_bricks_block": [
+115,
+121,
+105
+],
+"mud": [
+60,
+57,
+61
+],
+"mud_block": [
+60,
+57,
+61
+],
+"mud_bricks": [
+137,
+104,
+79
+],
+"mud_bricks_block": [
+137,
+104,
+79
+],
+"muddy_mangrove_roots": [
+68,
+59,
+48
+],
+"muddy_mangrove_roots_block": [
+68,
+59,
+48
+],
+"muddy_mangrove_roots_side": [
+68,
+59,
+48
+],
+"muddy_mangrove_roots_side_block": [
+68,
+59,
+48
+],
+"muddy_mangrove_roots_top": [
+70,
+59,
+45
+],
+"muddy_mangrove_roots_top_block": [
+70,
+59,
+45
+],
+"mushroom_block_inside": [
+202,
+170,
+120
+],
+"mushroom_block_inside_block": [
+202,
+170,
+120
+],
+"mushroom_stem": [
+203,
+197,
+186
+],
+"mushroom_stem_block": [
+203,
+197,
+186
+],
+"mycelium": [
+114,
+88,
+72
+],
+"mycelium_block": [
+114,
+88,
+72
+],
+"mycelium_side": [
+114,
+88,
+72
+],
+"mycelium_side_block": [
+114,
+88,
+72
+],
+"mycelium_top": [
+111,
+99,
+101
+],
+"mycelium_top_block": [
+111,
+99,
+101
+],
+"nether_bricks": [
+44,
+22,
+26
+],
+"nether_bricks_block": [
+44,
+22,
+26
+],
+"nether_gold_ore": [
+115,
+55,
+42
+],
+"nether_gold_ore_block": [
+115,
+55,
+42
+],
+"nether_quartz_ore": [
+118,
+66,
+62
+],
+"nether_quartz_ore_block": [
+118,
+66,
+62
+],
+"nether_sprouts": [
+20,
+151,
+133
+],
+"nether_sprouts_block": [
+20,
+151,
+133
+],
+"nether_wart_block": [
+115,
+3,
+2
+],
+"nether_wart_block_block": [
+115,
+3,
+2
+],
+"netherite_block": [
+67,
+61,
+64
+],
+"netherite_block_block": [
+67,
+61,
+64
+],
+"netherrack": [
+98,
+38,
+38
+],
+"netherrack_block": [
+98,
+38,
+38
+],
+"note_block": [
+89,
+59,
+41
+],
+"note_block_block": [
+89,
+59,
+41
+],
+"oak_door": [
+139,
+108,
+62
+],
+"oak_door_block": [
+139,
+108,
+62
+],
+"oak_door_bottom": [
+139,
+108,
+62
+],
+"oak_door_bottom_block": [
+139,
+108,
+62
+],
+"oak_door_top": [
+141,
+111,
+66
+],
+"oak_door_top_block": [
+141,
+111,
+66
+],
+"oak_leaves": [
+144,
+144,
+144
+],
+"oak_leaves_block": [
+144,
+144,
+144
+],
+"oak_log": [
+109,
+85,
+51
+],
+"oak_log_block": [
+109,
+85,
+51
+],
+"oak_log_top": [
+151,
+122,
+73
+],
+"oak_log_top_block": [
+151,
+122,
+73
+],
+"oak_planks": [
+162,
+131,
+79
+],
+"oak_planks_block": [
+162,
+131,
+79
+],
+"oak_sapling": [
+78,
+107,
+41
+],
+"oak_sapling_block": [
+78,
+107,
+41
+],
+"oak_shelf": [
+145,
+115,
+67
+],
+"oak_shelf_block": [
+145,
+115,
+67
+],
+"oak_trapdoor": [
+125,
+99,
+57
+],
+"oak_trapdoor_block": [
+125,
+99,
+57
+],
+"observer": [
+104,
+103,
+103
+],
+"observer_back": [
+72,
+70,
+70
+],
+"observer_back_block": [
+72,
+70,
+70
+],
+"observer_back_on": [
+76,
+68,
+68
+],
+"observer_back_on_block": [
+76,
+68,
+68
+],
+"observer_block": [
+104,
+103,
+103
+],
+"observer_front": [
+104,
+103,
+103
+],
+"observer_front_block": [
+104,
+103,
+103
+],
+"observer_side": [
+70,
+69,
+69
+],
+"observer_side_block": [
+70,
+69,
+69
+],
+"observer_top": [
+98,
+98,
+98
+],
+"observer_top_block": [
+98,
+98,
+98
+],
+"obsidian": [
+15,
+11,
+25
+],
+"obsidian_block": [
+15,
+11,
+25
+],
+"ochre_froglight": [
+245,
+233,
+182
+],
+"ochre_froglight_block": [
+245,
+233,
+182
+],
+"ochre_froglight_side": [
+245,
+233,
+182
+],
+"ochre_froglight_side_block": [
+245,
+233,
+182
+],
+"ochre_froglight_top": [
+251,
+245,
+206
+],
+"ochre_froglight_top_block": [
+251,
+245,
+206
+],
+"open_eyeblossom": [
+133,
+125,
+128
+],
+"open_eyeblossom_block": [
+133,
+125,
+128
+],
+"open_eyeblossom_emissive": [
+238,
+138,
+38
+],
+"open_eyeblossom_emissive_block": [
+238,
+138,
+38
+],
+"orange_candle": [
+219,
+100,
+9
+],
+"orange_candle_block": [
+219,
+100,
+9
+],
+"orange_candle_lit": [
+227,
+131,
+27
+],
+"orange_candle_lit_block": [
+227,
+131,
+27
+],
+"orange_concrete": [
+224,
+97,
+1
+],
+"orange_concrete_block": [
+224,
+97,
+1
+],
+"orange_concrete_powder": [
+227,
+132,
+32
+],
+"orange_concrete_powder_block": [
+227,
+132,
+32
+],
+"orange_glazed_terracotta": [
+155,
+147,
+92
+],
+"orange_glazed_terracotta_block": [
+155,
+147,
+92
+],
+"orange_shulker_box": [
+234,
+106,
+9
+],
+"orange_shulker_box_block": [
+234,
+106,
+9
+],
+"orange_stained_glass": [
+216,
+127,
+51
+],
+"orange_stained_glass_block": [
+216,
+127,
+51
+],
+"orange_stained_glass_pane": [
+209,
+123,
+49
+],
+"orange_stained_glass_pane_block": [
+209,
+123,
+49
+],
+"orange_stained_glass_pane_top": [
+209,
+123,
+49
+],
+"orange_stained_glass_pane_top_block": [
+209,
+123,
+49
+],
+"orange_terracotta": [
+162,
+84,
+38
+],
+"orange_terracotta_block": [
+162,
+84,
+38
+],
+"orange_tulip": [
+93,
+142,
+31
+],
+"orange_tulip_block": [
+93,
+142,
+31
+],
+"orange_wool": [
+241,
+118,
+20
+],
+"orange_wool_block": [
+241,
+118,
+20
+],
+"oxeye_daisy": [
+179,
+202,
+143
+],
+"oxeye_daisy_block": [
+179,
+202,
+143
+],
+"oxidized_chiseled_copper": [
+84,
+162,
+132
+],
+"oxidized_chiseled_copper_block": [
+84,
+162,
+132
+],
+"oxidized_copper": [
+82,
+163,
+133
+],
+"oxidized_copper_bars": [
+64,
+123,
+101
+],
+"oxidized_copper_bars_block": [
+64,
+123,
+101
+],
+"oxidized_copper_block": [
+82,
+163,
+133
+],
+"oxidized_copper_bulb": [
+70,
+132,
+109
+],
+"oxidized_copper_bulb_block": [
+70,
+132,
+109
+],
+"oxidized_copper_bulb_lit": [
+135,
+154,
+104
+],
+"oxidized_copper_bulb_lit_block": [
+135,
+154,
+104
+],
+"oxidized_copper_bulb_lit_powered": [
+136,
+153,
+103
+],
+"oxidized_copper_bulb_lit_powered_block": [
+136,
+153,
+103
+],
+"oxidized_copper_bulb_powered": [
+72,
+131,
+108
+],
+"oxidized_copper_bulb_powered_block": [
+72,
+131,
+108
+],
+"oxidized_copper_chain": [
+62,
+118,
+99
+],
+"oxidized_copper_chain_block": [
+62,
+118,
+99
+],
+"oxidized_copper_door": [
+80,
+153,
+127
+],
+"oxidized_copper_door_block": [
+80,
+153,
+127
+],
+"oxidized_copper_door_bottom": [
+80,
+153,
+127
+],
+"oxidized_copper_door_bottom_block": [
+80,
+153,
+127
+],
+"oxidized_copper_door_top": [
+82,
+160,
+133
+],
+"oxidized_copper_door_top_block": [
+82,
+160,
+133
+],
+"oxidized_copper_grate": [
+82,
+161,
+131
+],
+"oxidized_copper_grate_block": [
+82,
+161,
+131
+],
+"oxidized_copper_lantern": [
+78,
+139,
+111
+],
+"oxidized_copper_lantern_block": [
+78,
+139,
+111
+],
+"oxidized_copper_trapdoor": [
+84,
+161,
+132
+],
+"oxidized_copper_trapdoor_block": [
+84,
+161,
+132
+],
+"oxidized_cut_copper": [
+80,
+154,
+126
+],
+"oxidized_cut_copper_block": [
+80,
+154,
+126
+],
+"oxidized_lightning_rod": [
+79,
+154,
+128
+],
+"oxidized_lightning_rod_block": [
+79,
+154,
+128
+],
+"packed_ice": [
+142,
+180,
+250
+],
+"packed_ice_block": [
+142,
+180,
+250
+],
+"packed_mud": [
+142,
+107,
+80
+],
+"packed_mud_block": [
+142,
+107,
+80
+],
+"pale_hanging_moss": [
+99,
+104,
+98
+],
+"pale_hanging_moss_block": [
+99,
+104,
+98
+],
+"pale_hanging_moss_tip": [
+103,
+108,
+102
+],
+"pale_hanging_moss_tip_block": [
+103,
+108,
+102
+],
+"pale_moss_block": [
+107,
+112,
+105
+],
+"pale_moss_block_block": [
+107,
+112,
+105
+],
+"pale_moss_carpet": [
+107,
+112,
+105
+],
+"pale_moss_carpet_block": [
+107,
+112,
+105
+],
+"pale_oak_door": [
+199,
+190,
+189
+],
+"pale_oak_door_block": [
+199,
+190,
+189
+],
+"pale_oak_door_bottom": [
+199,
+190,
+189
+],
+"pale_oak_door_bottom_block": [
+199,
+190,
+189
+],
+"pale_oak_door_top": [
+216,
+208,
+207
+],
+"pale_oak_door_top_block": [
+216,
+208,
+207
+],
+"pale_oak_leaves": [
+117,
+122,
+115
+],
+"pale_oak_leaves_block": [
+117,
+122,
+115
+],
+"pale_oak_log": [
+88,
+78,
+75
+],
+"pale_oak_log_block": [
+88,
+78,
+75
+],
+"pale_oak_log_top": [
+199,
+189,
+188
+],
+"pale_oak_log_top_block": [
+199,
+189,
+188
+],
+"pale_oak_planks": [
+228,
+218,
+216
+],
+"pale_oak_planks_block": [
+228,
+218,
+216
+],
+"pale_oak_sapling": [
+110,
+106,
+100
+],
+"pale_oak_sapling_block": [
+110,
+106,
+100
+],
+"pale_oak_shelf": [
+228,
+217,
+216
+],
+"pale_oak_shelf_block": [
+228,
+217,
+216
+],
+"pale_oak_trapdoor": [
+230,
+220,
+219
+],
+"pale_oak_trapdoor_block": [
+230,
+220,
+219
+],
+"pearlescent_froglight": [
+236,
+225,
+229
+],
+"pearlescent_froglight_block": [
+236,
+225,
+229
+],
+"pearlescent_froglight_side": [
+236,
+225,
+229
+],
+"pearlescent_froglight_side_block": [
+236,
+225,
+229
+],
+"pearlescent_froglight_top": [
+246,
+240,
+240
+],
+"pearlescent_froglight_top_block": [
+246,
+240,
+240
+],
+"peony": [
+87,
+101,
+94
+],
+"peony_block": [
+87,
+101,
+94
+],
+"peony_bottom": [
+87,
+101,
+94
+],
+"peony_bottom_block": [
+87,
+101,
+94
+],
+"peony_top": [
+130,
+127,
+139
+],
+"peony_top_block": [
+130,
+127,
+139
+],
+"pink_candle": [
+208,
+102,
+142
+],
+"pink_candle_block": [
+208,
+102,
+142
+],
+"pink_candle_lit": [
+218,
+131,
+151
+],
+"pink_candle_lit_block": [
+218,
+131,
+151
+],
+"pink_concrete": [
+214,
+101,
+143
+],
+"pink_concrete_block": [
+214,
+101,
+143
+],
+"pink_concrete_powder": [
+229,
+153,
+181
+],
+"pink_concrete_powder_block": [
+229,
+153,
+181
+],
+"pink_glazed_terracotta": [
+235,
+155,
+182
+],
+"pink_glazed_terracotta_block": [
+235,
+155,
+182
+],
+"pink_petals": [
+247,
+181,
+219
+],
+"pink_petals_block": [
+247,
+181,
+219
+],
+"pink_petals_stem": [
+169,
+169,
+169
+],
+"pink_petals_stem_block": [
+169,
+169,
+169
+],
+"pink_shulker_box": [
+230,
+122,
+158
+],
+"pink_shulker_box_block": [
+230,
+122,
+158
+],
+"pink_stained_glass": [
+242,
+127,
+165
+],
+"pink_stained_glass_block": [
+242,
+127,
+165
+],
+"pink_stained_glass_pane": [
+233,
+123,
+160
+],
+"pink_stained_glass_pane_block": [
+233,
+123,
+160
+],
+"pink_stained_glass_pane_top": [
+233,
+123,
+160
+],
+"pink_stained_glass_pane_top_block": [
+233,
+123,
+160
+],
+"pink_terracotta": [
+162,
+78,
+79
+],
+"pink_terracotta_block": [
+162,
+78,
+79
+],
+"pink_tulip": [
+99,
+157,
+78
+],
+"pink_tulip_block": [
+99,
+157,
+78
+],
+"pink_wool": [
+238,
+141,
+172
+],
+"pink_wool_block": [
+238,
+141,
+172
+],
+"piston": [
+97,
+97,
+97
+],
+"piston_block": [
+97,
+97,
+97
+],
+"piston_bottom": [
+97,
+97,
+97
+],
+"piston_bottom_block": [
+97,
+97,
+97
+],
+"piston_inner": [
+97,
+97,
+97
+],
+"piston_inner_block": [
+97,
+97,
+97
+],
+"piston_side": [
+110,
+105,
+97
+],
+"piston_side_block": [
+110,
+105,
+97
+],
+"piston_top": [
+153,
+128,
+85
+],
+"piston_top_block": [
+153,
+128,
+85
+],
+"pitcher_crop": [
+100,
+58,
+37
+],
+"pitcher_crop_block": [
+100,
+58,
+37
+],
+"pitcher_crop_bottom": [
+100,
+58,
+37
+],
+"pitcher_crop_bottom_block": [
+100,
+58,
+37
+],
+"pitcher_crop_side": [
+178,
+126,
+81
+],
+"pitcher_crop_side_block": [
+178,
+126,
+81
+],
+"pitcher_crop_top": [
+194,
+166,
+103
+],
+"pitcher_crop_top_block": [
+194,
+166,
+103
+],
+"podzol": [
+123,
+88,
+57
+],
+"podzol_block": [
+123,
+88,
+57
+],
+"podzol_side": [
+123,
+88,
+57
+],
+"podzol_side_block": [
+123,
+88,
+57
+],
+"podzol_top": [
+92,
+63,
+24
+],
+"podzol_top_block": [
+92,
+63,
+24
+],
+"pointed_dripstone_down_base": [
+129,
+103,
+90
+],
+"pointed_dripstone_down_base_block": [
+129,
+103,
+90
+],
+"pointed_dripstone_down_frustum": [
+129,
+103,
+89
+],
+"pointed_dripstone_down_frustum_block": [
+129,
+103,
+89
+],
+"pointed_dripstone_down_middle": [
+130,
+104,
+90
+],
+"pointed_dripstone_down_middle_block": [
+130,
+104,
+90
+],
+"pointed_dripstone_down_tip": [
+137,
+109,
+94
+],
+"pointed_dripstone_down_tip_block": [
+137,
+109,
+94
+],
+"pointed_dripstone_down_tip_merge": [
+139,
+112,
+95
+],
+"pointed_dripstone_down_tip_merge_block": [
+139,
+112,
+95
+],
+"pointed_dripstone_up_base": [
+129,
+103,
+90
+],
+"pointed_dripstone_up_base_block": [
+129,
+103,
+90
+],
+"pointed_dripstone_up_frustum": [
+129,
+103,
+89
+],
+"pointed_dripstone_up_frustum_block": [
+129,
+103,
+89
+],
+"pointed_dripstone_up_middle": [
+130,
+104,
+90
+],
+"pointed_dripstone_up_middle_block": [
+130,
+104,
+90
+],
+"pointed_dripstone_up_tip": [
+137,
+109,
+94
+],
+"pointed_dripstone_up_tip_block": [
+137,
+109,
+94
+],
+"pointed_dripstone_up_tip_merge": [
+139,
+112,
+95
+],
+"pointed_dripstone_up_tip_merge_block": [
+139,
+112,
+95
+],
+"polished_andesite": [
+132,
+135,
+134
+],
+"polished_andesite_block": [
+132,
+135,
+134
+],
+"polished_basalt": [
+89,
+88,
+92
+],
+"polished_basalt_block": [
+89,
+88,
+92
+],
+"polished_basalt_side": [
+89,
+88,
+92
+],
+"polished_basalt_side_block": [
+89,
+88,
+92
+],
+"polished_basalt_top": [
+99,
+99,
+101
+],
+"polished_basalt_top_block": [
+99,
+99,
+101
+],
+"polished_blackstone": [
+53,
+49,
+57
+],
+"polished_blackstone_block": [
+53,
+49,
+57
+],
+"polished_blackstone_bricks": [
+48,
+43,
+50
+],
+"polished_blackstone_bricks_block": [
+48,
+43,
+50
+],
+"polished_deepslate": [
+72,
+73,
+73
+],
+"polished_deepslate_block": [
+72,
+73,
+73
+],
+"polished_diorite": [
+193,
+193,
+195
+],
+"polished_diorite_block": [
+193,
+193,
+195
+],
+"polished_granite": [
+154,
+107,
+89
+],
+"polished_granite_block": [
+154,
+107,
+89
+],
+"polished_tuff": [
+98,
+104,
+100
+],
+"polished_tuff_block": [
+98,
+104,
+100
+],
+"poppy": [
+129,
+65,
+38
+],
+"poppy_block": [
+129,
+65,
+38
+],
+"potted_azalea_bush": [
+96,
+119,
+47
+],
+"potted_azalea_bush_block": [
+96,
+119,
+47
+],
+"potted_azalea_bush_plant": [
+93,
+108,
+43
+],
+"potted_azalea_bush_plant_block": [
+93,
+108,
+43
+],
+"potted_azalea_bush_side": [
+96,
+119,
+47
+],
+"potted_azalea_bush_side_block": [
+96,
+119,
+47
+],
+"potted_azalea_bush_top": [
+101,
+123,
+48
+],
+"potted_azalea_bush_top_block": [
+101,
+123,
+48
+],
+"powder_snow": [
+248,
+253,
+253
+],
+"powder_snow_block": [
+248,
+253,
+253
+],
+"powered_rail": [
+138,
+110,
+74
+],
+"powered_rail_block": [
+138,
+110,
+74
+],
+"powered_rail_on": [
+154,
+110,
+74
+],
+"powered_rail_on_block": [
+154,
+110,
+74
+],
+"prismarine": [
+99,
+156,
+151
+],
+"prismarine_block": [
+99,
+156,
+151
+],
+"prismarine_bricks": [
+99,
+172,
+158
+],
+"prismarine_bricks_block": [
+99,
+172,
+158
+],
+"pumpkin": [
+196,
+115,
+24
+],
+"pumpkin_block": [
+196,
+115,
+24
+],
+"pumpkin_side": [
+196,
+115,
+24
+],
+"pumpkin_side_block": [
+196,
+115,
+24
+],
+"pumpkin_stem": [
+154,
+154,
+154
+],
+"pumpkin_stem_block": [
+154,
+154,
+154
+],
+"pumpkin_top": [
+198,
+119,
+24
+],
+"pumpkin_top_block": [
+198,
+119,
+24
+],
+"purple_candle": [
+105,
+34,
+159
+],
+"purple_candle_block": [
+105,
+34,
+159
+],
+"purple_candle_lit": [
+125,
+34,
+145
+],
+"purple_candle_lit_block": [
+125,
+34,
+145
+],
+"purple_concrete": [
+100,
+32,
+156
+],
+"purple_concrete_block": [
+100,
+32,
+156
+],
+"purple_concrete_powder": [
+132,
+56,
+178
+],
+"purple_concrete_powder_block": [
+132,
+56,
+178
+],
+"purple_glazed_terracotta": [
+110,
+48,
+152
+],
+"purple_glazed_terracotta_block": [
+110,
+48,
+152
+],
+"purple_shulker_box": [
+103,
+32,
+156
+],
+"purple_shulker_box_block": [
+103,
+32,
+156
+],
+"purple_stained_glass": [
+127,
+63,
+178
+],
+"purple_stained_glass_block": [
+127,
+63,
+178
+],
+"purple_stained_glass_pane": [
+123,
+61,
+171
+],
+"purple_stained_glass_pane_block": [
+123,
+61,
+171
+],
+"purple_stained_glass_pane_top": [
+123,
+61,
+171
+],
+"purple_stained_glass_pane_top_block": [
+123,
+61,
+171
+],
+"purple_terracotta": [
+118,
+70,
+86
+],
+"purple_terracotta_block": [
+118,
+70,
+86
+],
+"purple_wool": [
+122,
+42,
+173
+],
+"purple_wool_block": [
+122,
+42,
+173
+],
+"purpur_block": [
+170,
+126,
+170
+],
+"purpur_block_block": [
+170,
+126,
+170
+],
+"purpur_pillar": [
+172,
+130,
+172
+],
+"purpur_pillar_block": [
+172,
+130,
+172
+],
+"purpur_pillar_top": [
+172,
+128,
+171
+],
+"purpur_pillar_top_block": [
+172,
+128,
+171
+],
+"quartz_block": [
+237,
+230,
+224
+],
+"quartz_block_block": [
+237,
+230,
+224
+],
+"quartz_block_bottom": [
+237,
+230,
+224
+],
+"quartz_block_bottom_block": [
+237,
+230,
+224
+],
+"quartz_block_side": [
+236,
+230,
+223
+],
+"quartz_block_side_block": [
+236,
+230,
+223
+],
+"quartz_block_top": [
+236,
+230,
+223
+],
+"quartz_block_top_block": [
+236,
+230,
+223
+],
+"quartz_bricks": [
+235,
+229,
+222
+],
+"quartz_bricks_block": [
+235,
+229,
+222
+],
+"quartz_pillar": [
+236,
+231,
+224
+],
+"quartz_pillar_block": [
+236,
+231,
+224
+],
+"quartz_pillar_top": [
+235,
+230,
+223
+],
+"quartz_pillar_top_block": [
+235,
+230,
+223
+],
+"rail": [
+126,
+112,
+89
+],
+"rail_block": [
+126,
+112,
+89
+],
+"rail_corner": [
+130,
+115,
+90
+],
+"rail_corner_block": [
+130,
+115,
+90
+],
+"raw_copper_block": [
+154,
+106,
+79
+],
+"raw_copper_block_block": [
+154,
+106,
+79
+],
+"raw_gold_block": [
+222,
+169,
+47
+],
+"raw_gold_block_block": [
+222,
+169,
+47
+],
+"raw_iron_block": [
+166,
+136,
+107
+],
+"raw_iron_block_block": [
+166,
+136,
+107
+],
+"red_candle": [
+153,
+39,
+36
+],
+"red_candle_block": [
+153,
+39,
+36
+],
+"red_candle_lit": [
+181,
+65,
+47
+],
+"red_candle_lit_block": [
+181,
+65,
+47
+],
+"red_concrete": [
+142,
+33,
+33
+],
+"red_concrete_block": [
+142,
+33,
+33
+],
+"red_concrete_powder": [
+168,
+54,
+51
+],
+"red_concrete_powder_block": [
+168,
+54,
+51
+],
+"red_glazed_terracotta": [
+182,
+60,
+53
+],
+"red_glazed_terracotta_block": [
+182,
+60,
+53
+],
+"red_mushroom": [
+217,
+75,
+68
+],
+"red_mushroom_block": [
+200,
+47,
+45
+],
+"red_mushroom_block_block": [
+200,
+47,
+45
+],
+"red_nether_bricks": [
+70,
+7,
+9
+],
+"red_nether_bricks_block": [
+70,
+7,
+9
+],
+"red_sand": [
+191,
+103,
+33
+],
+"red_sand_block": [
+191,
+103,
+33
+],
+"red_sandstone": [
+187,
+99,
+29
+],
+"red_sandstone_block": [
+187,
+99,
+29
+],
+"red_sandstone_bottom": [
+186,
+98,
+28
+],
+"red_sandstone_bottom_block": [
+186,
+98,
+28
+],
+"red_sandstone_top": [
+181,
+98,
+31
+],
+"red_sandstone_top_block": [
+181,
+98,
+31
+],
+"red_shulker_box": [
+140,
+31,
+30
+],
+"red_shulker_box_block": [
+140,
+31,
+30
+],
+"red_stained_glass": [
+153,
+51,
+51
+],
+"red_stained_glass_block": [
+153,
+51,
+51
+],
+"red_stained_glass_pane": [
+147,
+49,
+49
+],
+"red_stained_glass_pane_block": [
+147,
+49,
+49
+],
+"red_stained_glass_pane_top": [
+147,
+49,
+49
+],
+"red_stained_glass_pane_top_block": [
+147,
+49,
+49
+],
+"red_terracotta": [
+143,
+61,
+47
+],
+"red_terracotta_block": [
+143,
+61,
+47
+],
+"red_tulip": [
+90,
+129,
+33
+],
+"red_tulip_block": [
+90,
+129,
+33
+],
+"red_wool": [
+161,
+39,
+35
+],
+"red_wool_block": [
+161,
+39,
+35
+],
+"redstone_block": [
+176,
+25,
+5
+],
+"redstone_block_block": [
+176,
+25,
+5
+],
+"redstone_dust_dot": [
+240,
+240,
+240
+],
+"redstone_dust_dot_block": [
+240,
+240,
+240
+],
+"redstone_dust_line0": [
+240,
+240,
+240
+],
+"redstone_dust_line0_block": [
+240,
+240,
+240
+],
+"redstone_dust_line1": [
+240,
+240,
+240
+],
+"redstone_dust_line1_block": [
+240,
+240,
+240
+],
+"redstone_lamp": [
+95,
+55,
+30
+],
+"redstone_lamp_block": [
+95,
+55,
+30
+],
+"redstone_lamp_on": [
+143,
+102,
+61
+],
+"redstone_lamp_on_block": [
+143,
+102,
+61
+],
+"redstone_ore": [
+140,
+110,
+110
+],
+"redstone_ore_block": [
+140,
+110,
+110
+],
+"redstone_torch": [
+182,
+59,
+44
+],
+"redstone_torch_block": [
+182,
+59,
+44
+],
+"redstone_torch_off": [
+101,
+70,
+44
+],
+"redstone_torch_off_block": [
+101,
+70,
+44
+],
+"reinforced_deepslate": [
+79,
+82,
+80
+],
+"reinforced_deepslate_block": [
+79,
+82,
+80
+],
+"reinforced_deepslate_bottom": [
+79,
+82,
+80
+],
+"reinforced_deepslate_bottom_block": [
+79,
+82,
+80
+],
+"reinforced_deepslate_side": [
+102,
+109,
+101
+],
+"reinforced_deepslate_side_block": [
+102,
+109,
+101
+],
+"reinforced_deepslate_top": [
+80,
+83,
+79
+],
+"reinforced_deepslate_top_block": [
+80,
+83,
+79
+],
+"repeater": [
+160,
+157,
+156
+],
+"repeater_block": [
+160,
+157,
+156
+],
+"repeater_on": [
+169,
+157,
+156
+],
+"repeater_on_block": [
+169,
+157,
+156
+],
+"repeating_command_block": [
+129,
+111,
+176
+],
+"repeating_command_block_back": [
+128,
+110,
+167
+],
+"repeating_command_block_back_block": [
+128,
+110,
+167
+],
+"repeating_command_block_block": [
+129,
+111,
+176
+],
+"repeating_command_block_conditional": [
+127,
+109,
+172
+],
+"repeating_command_block_conditional_block": [
+127,
+109,
+172
+],
+"repeating_command_block_front": [
+129,
+111,
+176
+],
+"repeating_command_block_front_block": [
+129,
+111,
+176
+],
+"repeating_command_block_side": [
+129,
+110,
+171
+],
+"repeating_command_block_side_block": [
+129,
+110,
+171
+],
+"resin_block": [
+217,
+99,
+25
+],
+"resin_block_block": [
+217,
+99,
+25
+],
+"resin_bricks": [
+206,
+88,
+24
+],
+"resin_bricks_block": [
+206,
+88,
+24
+],
+"resin_clump": [
+223,
+112,
+27
+],
+"resin_clump_block": [
+223,
+112,
+27
+],
+"respawn_anchor": [
+33,
+10,
+60
+],
+"respawn_anchor_block": [
+33,
+10,
+60
+],
+"respawn_anchor_bottom": [
+33,
+10,
+60
+],
+"respawn_anchor_bottom_block": [
+33,
+10,
+60
+],
+"respawn_anchor_side0": [
+40,
+24,
+63
+],
+"respawn_anchor_side0_block": [
+40,
+24,
+63
+],
+"respawn_anchor_side1": [
+42,
+27,
+65
+],
+"respawn_anchor_side1_block": [
+42,
+27,
+65
+],
+"respawn_anchor_side2": [
+45,
+28,
+66
+],
+"respawn_anchor_side2_block": [
+45,
+28,
+66
+],
+"respawn_anchor_side3": [
+47,
+30,
+67
+],
+"respawn_anchor_side3_block": [
+47,
+30,
+67
+],
+"respawn_anchor_side4": [
+50,
+32,
+68
+],
+"respawn_anchor_side4_block": [
+50,
+32,
+68
+],
+"respawn_anchor_top": [
+76,
+24,
+150
+],
+"respawn_anchor_top_block": [
+76,
+24,
+150
+],
+"rooted_dirt": [
+144,
+104,
+77
+],
+"rooted_dirt_block": [
+144,
+104,
+77
+],
+"rose_bush": [
+98,
+84,
+38
+],
+"rose_bush_block": [
+98,
+84,
+38
+],
+"rose_bush_bottom": [
+98,
+84,
+38
+],
+"rose_bush_bottom_block": [
+98,
+84,
+38
+],
+"rose_bush_top": [
+131,
+66,
+37
+],
+"rose_bush_top_block": [
+131,
+66,
+37
+],
+"sand": [
+219,
+207,
+163
+],
+"sand_block": [
+219,
+207,
+163
+],
+"sandstone": [
+216,
+203,
+156
+],
+"sandstone_block": [
+216,
+203,
+156
+],
+"sandstone_bottom": [
+216,
+202,
+154
+],
+"sandstone_bottom_block": [
+216,
+202,
+154
+],
+"sandstone_top": [
+224,
+214,
+170
+],
+"sandstone_top_block": [
+224,
+214,
+170
+],
+"scaffolding": [
+194,
+173,
+80
+],
+"scaffolding_block": [
+194,
+173,
+80
+],
+"scaffolding_bottom": [
+194,
+173,
+80
+],
+"scaffolding_bottom_block": [
+194,
+173,
+80
+],
+"scaffolding_side": [
+193,
+170,
+79
+],
+"scaffolding_side_block": [
+193,
+170,
+79
+],
+"scaffolding_top": [
+170,
+132,
+73
+],
+"scaffolding_top_block": [
+170,
+132,
+73
+],
+"sculk": [
+13,
+30,
+36
+],
+"sculk_block": [
+13,
+30,
+36
+],
+"sculk_catalyst": [
+89,
+109,
+109
+],
+"sculk_catalyst_block": [
+89,
+109,
+109
+],
+"sculk_catalyst_bottom": [
+89,
+109,
+109
+],
+"sculk_catalyst_bottom_block": [
+89,
+109,
+109
+],
+"sculk_catalyst_side": [
+77,
+94,
+90
+],
+"sculk_catalyst_side_block": [
+77,
+94,
+90
+],
+"sculk_catalyst_top": [
+15,
+32,
+38
+],
+"sculk_catalyst_top_block": [
+15,
+32,
+38
+],
+"sculk_sensor": [
+13,
+28,
+34
+],
+"sculk_sensor_block": [
+13,
+28,
+34
+],
+"sculk_sensor_bottom": [
+13,
+28,
+34
+],
+"sculk_sensor_bottom_block": [
+13,
+28,
+34
+],
+"sculk_sensor_side": [
+10,
+39,
+47
+],
+"sculk_sensor_side_block": [
+10,
+39,
+47
+],
+"sculk_sensor_tendril_active": [
+9,
+123,
+127
+],
+"sculk_sensor_tendril_active_block": [
+9,
+123,
+127
+],
+"sculk_sensor_tendril_inactive": [
+15,
+66,
+77
+],
+"sculk_sensor_tendril_inactive_block": [
+15,
+66,
+77
+],
+"sculk_sensor_top": [
+7,
+70,
+84
+],
+"sculk_sensor_top_block": [
+7,
+70,
+84
+],
+"sculk_shrieker": [
+13,
+28,
+34
+],
+"sculk_shrieker_block": [
+13,
+28,
+34
+],
+"sculk_shrieker_bottom": [
+13,
+28,
+34
+],
+"sculk_shrieker_bottom_block": [
+13,
+28,
+34
+],
+"sculk_shrieker_can_summon_inner": [
+31,
+65,
+66
+],
+"sculk_shrieker_can_summon_inner_block": [
+31,
+65,
+66
+],
+"sculk_shrieker_can_summon_inner_top": [
+31,
+65,
+66
+],
+"sculk_shrieker_can_summon_inner_top_block": [
+31,
+65,
+66
+],
+"sculk_shrieker_inner": [
+30,
+54,
+55
+],
+"sculk_shrieker_inner_block": [
+30,
+54,
+55
+],
+"sculk_shrieker_inner_top": [
+30,
+54,
+55
+],
+"sculk_shrieker_inner_top_block": [
+30,
+54,
+55
+],
+"sculk_shrieker_side": [
+75,
+101,
+95
+],
+"sculk_shrieker_side_block": [
+75,
+101,
+95
+],
+"sculk_shrieker_top": [
+199,
+205,
+170
+],
+"sculk_shrieker_top_block": [
+199,
+205,
+170
+],
+"sculk_vein": [
+8,
+48,
+58
+],
+"sculk_vein_block": [
+8,
+48,
+58
+],
+"sea_lantern": [
+172,
+200,
+190
+],
+"sea_lantern_block": [
+172,
+200,
+190
+],
+"sea_pickle": [
+90,
+97,
+40
+],
+"sea_pickle_block": [
+90,
+97,
+40
+],
+"seagrass": [
+51,
+127,
+8
+],
+"seagrass_block": [
+51,
+127,
+8
+],
+"short_dry_grass": [
+187,
+159,
+108
+],
+"short_dry_grass_block": [
+187,
+159,
+108
+],
+"short_grass": [
+146,
+145,
+146
+],
+"short_grass_block": [
+146,
+145,
+146
+],
+"shroomlight": [
+241,
+147,
+71
+],
+"shroomlight_block": [
+241,
+147,
+71
+],
+"shulker_box": [
+139,
+97,
+139
+],
+"shulker_box_block": [
+139,
+97,
+139
+],
+"slime_block": [
+112,
+192,
+92
+],
+"slime_block_block": [
+112,
+192,
+92
+],
+"small_amethyst_bud": [
+132,
+99,
+192
+],
+"small_amethyst_bud_block": [
+132,
+99,
+192
+],
+"small_dripleaf": [
+108,
+128,
+49
+],
+"small_dripleaf_block": [
+108,
+128,
+49
+],
+"small_dripleaf_side": [
+108,
+128,
+49
+],
+"small_dripleaf_side_block": [
+108,
+128,
+49
+],
+"small_dripleaf_stem": [
+95,
+122,
+45
+],
+"small_dripleaf_stem_block": [
+95,
+122,
+45
+],
+"small_dripleaf_stem_bottom": [
+95,
+122,
+45
+],
+"small_dripleaf_stem_bottom_block": [
+95,
+122,
+45
+],
+"small_dripleaf_stem_top": [
+97,
+121,
+46
+],
+"small_dripleaf_stem_top_block": [
+97,
+121,
+46
+],
+"small_dripleaf_top": [
+95,
+120,
+46
+],
+"small_dripleaf_top_block": [
+95,
+120,
+46
+],
+"smithing_table": [
+64,
+28,
+24
+],
+"smithing_table_block": [
+64,
+28,
+24
+],
+"smithing_table_bottom": [
+64,
+28,
+24
+],
+"smithing_table_bottom_block": [
+64,
+28,
+24
+],
+"smithing_table_front": [
+57,
+37,
+39
+],
+"smithing_table_front_block": [
+57,
+37,
+39
+],
+"smithing_table_side": [
+55,
+35,
+36
+],
+"smithing_table_side_block": [
+55,
+35,
+36
+],
+"smithing_table_top": [
+57,
+59,
+71
+],
+"smithing_table_top_block": [
+57,
+59,
+71
+],
+"smoker": [
+107,
+106,
+104
+],
+"smoker_block": [
+107,
+106,
+104
+],
+"smoker_bottom": [
+107,
+106,
+104
+],
+"smoker_bottom_block": [
+107,
+106,
+104
+],
+"smoker_front": [
+88,
+75,
+58
+],
+"smoker_front_block": [
+88,
+75,
+58
+],
+"smoker_side": [
+103,
+92,
+76
+],
+"smoker_side_block": [
+103,
+92,
+76
+],
+"smoker_top": [
+85,
+84,
+81
+],
+"smoker_top_block": [
+85,
+84,
+81
+],
+"smooth_basalt": [
+73,
+72,
+78
+],
+"smooth_basalt_block": [
+73,
+72,
+78
+],
+"smooth_stone": [
+159,
+159,
+159
+],
+"smooth_stone_block": [
+159,
+159,
+159
+],
+"smooth_stone_slab": [
+168,
+168,
+168
+],
+"smooth_stone_slab_block": [
+168,
+168,
+168
+],
+"smooth_stone_slab_side": [
+168,
+168,
+168
+],
+"smooth_stone_slab_side_block": [
+168,
+168,
+168
+],
+"sniffer_egg_not_cracked": [
+73,
+25,
+26
+],
+"sniffer_egg_not_cracked_block": [
+73,
+25,
+26
+],
+"sniffer_egg_not_cracked_bottom": [
+73,
+25,
+26
+],
+"sniffer_egg_not_cracked_bottom_block": [
+73,
+25,
+26
+],
+"sniffer_egg_not_cracked_east": [
+94,
+73,
+49
+],
+"sniffer_egg_not_cracked_east_block": [
+94,
+73,
+49
+],
+"sniffer_egg_not_cracked_north": [
+92,
+77,
+51
+],
+"sniffer_egg_not_cracked_north_block": [
+92,
+77,
+51
+],
+"sniffer_egg_not_cracked_south": [
+93,
+78,
+52
+],
+"sniffer_egg_not_cracked_south_block": [
+93,
+78,
+52
+],
+"sniffer_egg_not_cracked_top": [
+135,
+105,
+68
+],
+"sniffer_egg_not_cracked_top_block": [
+135,
+105,
+68
+],
+"sniffer_egg_not_cracked_west": [
+90,
+79,
+52
+],
+"sniffer_egg_not_cracked_west_block": [
+90,
+79,
+52
+],
+"sniffer_egg_slightly_cracked": [
+71,
+25,
+26
+],
+"sniffer_egg_slightly_cracked_block": [
+71,
+25,
+26
+],
+"sniffer_egg_slightly_cracked_bottom": [
+71,
+25,
+26
+],
+"sniffer_egg_slightly_cracked_bottom_block": [
+71,
+25,
+26
+],
+"sniffer_egg_slightly_cracked_east": [
+90,
+68,
+47
+],
+"sniffer_egg_slightly_cracked_east_block": [
+90,
+68,
+47
+],
+"sniffer_egg_slightly_cracked_north": [
+89,
+72,
+49
+],
+"sniffer_egg_slightly_cracked_north_block": [
+89,
+72,
+49
+],
+"sniffer_egg_slightly_cracked_south": [
+90,
+73,
+50
+],
+"sniffer_egg_slightly_cracked_south_block": [
+90,
+73,
+50
+],
+"sniffer_egg_slightly_cracked_top": [
+129,
+97,
+62
+],
+"sniffer_egg_slightly_cracked_top_block": [
+129,
+97,
+62
+],
+"sniffer_egg_slightly_cracked_west": [
+89,
+76,
+51
+],
+"sniffer_egg_slightly_cracked_west_block": [
+89,
+76,
+51
+],
+"sniffer_egg_very_cracked": [
+70,
+25,
+26
+],
+"sniffer_egg_very_cracked_block": [
+70,
+25,
+26
+],
+"sniffer_egg_very_cracked_bottom": [
+70,
+25,
+26
+],
+"sniffer_egg_very_cracked_bottom_block": [
+70,
+25,
+26
+],
+"sniffer_egg_very_cracked_east": [
+86,
+65,
+46
+],
+"sniffer_egg_very_cracked_east_block": [
+86,
+65,
+46
+],
+"sniffer_egg_very_cracked_north": [
+86,
+68,
+47
+],
+"sniffer_egg_very_cracked_north_block": [
+86,
+68,
+47
+],
+"sniffer_egg_very_cracked_south": [
+85,
+69,
+48
+],
+"sniffer_egg_very_cracked_south_block": [
+85,
+69,
+48
+],
+"sniffer_egg_very_cracked_top": [
+120,
+89,
+58
+],
+"sniffer_egg_very_cracked_top_block": [
+120,
+89,
+58
+],
+"sniffer_egg_very_cracked_west": [
+83,
+71,
+49
+],
+"sniffer_egg_very_cracked_west_block": [
+83,
+71,
+49
+],
+"snow": [
+249,
+254,
+254
+],
+"snow_block": [
+249,
+254,
+254
+],
+"soul_lantern": [
+72,
+99,
+115
+],
+"soul_lantern_block": [
+72,
+99,
+115
+],
+"soul_sand": [
+81,
+62,
+51
+],
+"soul_sand_block": [
+81,
+62,
+51
+],
+"soul_soil": [
+76,
+58,
+47
+],
+"soul_soil_block": [
+76,
+58,
+47
+],
+"soul_torch": [
+109,
+115,
+90
+],
+"soul_torch_block": [
+109,
+115,
+90
+],
+"spawner": [
+36,
+46,
+63
+],
+"spawner_block": [
+36,
+46,
+63
+],
+"sponge": [
+196,
+192,
+75
+],
+"sponge_block": [
+196,
+192,
+75
+],
+"spore_blossom": [
+207,
+97,
+159
+],
+"spore_blossom_base": [
+113,
+142,
+50
+],
+"spore_blossom_base_block": [
+113,
+142,
+50
+],
+"spore_blossom_block": [
+207,
+97,
+159
+],
+"spruce_door": [
+106,
+80,
+49
+],
+"spruce_door_block": [
+106,
+80,
+49
+],
+"spruce_door_bottom": [
+106,
+80,
+49
+],
+"spruce_door_bottom_block": [
+106,
+80,
+49
+],
+"spruce_door_top": [
+106,
+80,
+49
+],
+"spruce_door_top_block": [
+106,
+80,
+49
+],
+"spruce_leaves": [
+79,
+79,
+79
+],
+"spruce_leaves_block": [
+79,
+79,
+79
+],
+"spruce_log": [
+59,
+38,
+17
+],
+"spruce_log_block": [
+59,
+38,
+17
+],
+"spruce_log_top": [
+109,
+80,
+47
+],
+"spruce_log_top_block": [
+109,
+80,
+47
+],
+"spruce_planks": [
+115,
+85,
+49
+],
+"spruce_planks_block": [
+115,
+85,
+49
+],
+"spruce_sapling": [
+45,
+60,
+37
+],
+"spruce_sapling_block": [
+45,
+60,
+37
+],
+"spruce_shelf": [
+104,
+83,
+48
+],
+"spruce_shelf_block": [
+104,
+83,
+48
+],
+"spruce_trapdoor": [
+104,
+79,
+48
+],
+"spruce_trapdoor_block": [
+104,
+79,
+48
+],
+"stone": [
+126,
+126,
+126
+],
+"stone_block": [
+126,
+126,
+126
+],
+"stone_bricks": [
+122,
+122,
+122
+],
+"stone_bricks_block": [
+122,
+122,
+122
+],
+"stonecutter": [
+118,
+118,
+118
+],
+"stonecutter_block": [
+118,
+118,
+118
+],
+"stonecutter_bottom": [
+118,
+118,
+118
+],
+"stonecutter_bottom_block": [
+118,
+118,
+118
+],
+"stonecutter_saw": [
+71,
+71,
+71
+],
+"stonecutter_saw_block": [
+71,
+71,
+71
+],
+"stonecutter_side": [
+107,
+90,
+78
+],
+"stonecutter_side_block": [
+107,
+90,
+78
+],
+"stonecutter_top": [
+123,
+119,
+111
+],
+"stonecutter_top_block": [
+123,
+119,
+111
+],
+"stripped_acacia_log": [
+175,
+93,
+60
+],
+"stripped_acacia_log_block": [
+175,
+93,
+60
+],
+"stripped_acacia_log_top": [
+166,
+91,
+52
+],
+"stripped_acacia_log_top_block": [
+166,
+91,
+52
+],
+"stripped_bamboo_block": [
+193,
+173,
+80
+],
+"stripped_bamboo_block_block": [
+193,
+173,
+80
+],
+"stripped_bamboo_block_top": [
+178,
+159,
+73
+],
+"stripped_bamboo_block_top_block": [
+178,
+159,
+73
+],
+"stripped_birch_log": [
+197,
+176,
+118
+],
+"stripped_birch_log_block": [
+197,
+176,
+118
+],
+"stripped_birch_log_top": [
+191,
+172,
+116
+],
+"stripped_birch_log_top_block": [
+191,
+172,
+116
+],
+"stripped_cherry_log": [
+215,
+145,
+149
+],
+"stripped_cherry_log_block": [
+215,
+145,
+149
+],
+"stripped_cherry_log_top": [
+221,
+165,
+158
+],
+"stripped_cherry_log_top_block": [
+221,
+165,
+158
+],
+"stripped_crimson_stem": [
+137,
+57,
+90
+],
+"stripped_crimson_stem_block": [
+137,
+57,
+90
+],
+"stripped_crimson_stem_top": [
+122,
+56,
+83
+],
+"stripped_crimson_stem_top_block": [
+122,
+56,
+83
+],
+"stripped_dark_oak_log": [
+73,
+57,
+36
+],
+"stripped_dark_oak_log_block": [
+73,
+57,
+36
+],
+"stripped_dark_oak_log_top": [
+66,
+44,
+23
+],
+"stripped_dark_oak_log_top_block": [
+66,
+44,
+23
+],
+"stripped_jungle_log": [
+171,
+133,
+85
+],
+"stripped_jungle_log_block": [
+171,
+133,
+85
+],
+"stripped_jungle_log_top": [
+166,
+123,
+82
+],
+"stripped_jungle_log_top_block": [
+166,
+123,
+82
+],
+"stripped_mangrove_log": [
+120,
+54,
+48
+],
+"stripped_mangrove_log_block": [
+120,
+54,
+48
+],
+"stripped_mangrove_log_top": [
+109,
+44,
+43
+],
+"stripped_mangrove_log_top_block": [
+109,
+44,
+43
+],
+"stripped_oak_log": [
+177,
+144,
+86
+],
+"stripped_oak_log_block": [
+177,
+144,
+86
+],
+"stripped_oak_log_top": [
+160,
+130,
+77
+],
+"stripped_oak_log_top_block": [
+160,
+130,
+77
+],
+"stripped_pale_oak_log": [
+246,
+238,
+237
+],
+"stripped_pale_oak_log_block": [
+246,
+238,
+237
+],
+"stripped_pale_oak_log_top": [
+235,
+227,
+226
+],
+"stripped_pale_oak_log_top_block": [
+235,
+227,
+226
+],
+"stripped_spruce_log": [
+116,
+90,
+52
+],
+"stripped_spruce_log_block": [
+116,
+90,
+52
+],
+"stripped_spruce_log_top": [
+113,
+87,
+50
+],
+"stripped_spruce_log_top_block": [
+113,
+87,
+50
+],
+"stripped_warped_stem": [
+58,
+151,
+148
+],
+"stripped_warped_stem_block": [
+58,
+151,
+148
+],
+"stripped_warped_stem_top": [
+52,
+129,
+124
+],
+"stripped_warped_stem_top_block": [
+52,
+129,
+124
+],
+"structure_block": [
+89,
+74,
+90
+],
+"structure_block_block": [
+89,
+74,
+90
+],
+"structure_block_corner": [
+68,
+58,
+70
+],
+"structure_block_corner_block": [
+68,
+58,
+70
+],
+"structure_block_data": [
+79,
+66,
+81
+],
+"structure_block_data_block": [
+79,
+66,
+81
+],
+"structure_block_load": [
+69,
+58,
+71
+],
+"structure_block_load_block": [
+69,
+58,
+71
+],
+"structure_block_save": [
+86,
+72,
+88
+],
+"structure_block_save_block": [
+86,
+72,
+88
+],
+"sugar_cane": [
+149,
+193,
+101
+],
+"sugar_cane_block": [
+149,
+193,
+101
+],
+"sunflower": [
+57,
+135,
+31
+],
+"sunflower_back": [
+55,
+128,
+35
+],
+"sunflower_back_block": [
+55,
+128,
+35
+],
+"sunflower_block": [
+57,
+135,
+31
+],
+"sunflower_bottom": [
+57,
+135,
+31
+],
+"sunflower_bottom_block": [
+57,
+135,
+31
+],
+"sunflower_front": [
+246,
+197,
+54
+],
+"sunflower_front_block": [
+246,
+197,
+54
+],
+"sunflower_top": [
+50,
+129,
+27
+],
+"sunflower_top_block": [
+50,
+129,
+27
+],
+"suspicious_gravel_0": [
+130,
+125,
+124
+],
+"suspicious_gravel_0_block": [
+130,
+125,
+124
+],
+"suspicious_gravel_1": [
+129,
+124,
+123
+],
+"suspicious_gravel_1_block": [
+129,
+124,
+123
+],
+"suspicious_gravel_2": [
+126,
+121,
+120
+],
+"suspicious_gravel_2_block": [
+126,
+121,
+120
+],
+"suspicious_gravel_3": [
+124,
+119,
+118
+],
+"suspicious_gravel_3_block": [
+124,
+119,
+118
+],
+"suspicious_sand_0": [
+218,
+204,
+159
+],
+"suspicious_sand_0_block": [
+218,
+204,
+159
+],
+"suspicious_sand_1": [
+217,
+203,
+157
+],
+"suspicious_sand_1_block": [
+217,
+203,
+157
+],
+"suspicious_sand_2": [
+214,
+199,
+151
+],
+"suspicious_sand_2_block": [
+214,
+199,
+151
+],
+"suspicious_sand_3": [
+211,
+193,
+145
+],
+"suspicious_sand_3_block": [
+211,
+193,
+145
+],
+"tall_dry_grass": [
+197,
+172,
+123
+],
+"tall_dry_grass_block": [
+197,
+172,
+123
+],
+"tall_grass": [
+128,
+128,
+128
+],
+"tall_grass_block": [
+128,
+128,
+128
+],
+"tall_grass_bottom": [
+128,
+128,
+128
+],
+"tall_grass_bottom_block": [
+128,
+128,
+128
+],
+"tall_grass_top": [
+151,
+149,
+151
+],
+"tall_grass_top_block": [
+151,
+149,
+151
+],
+"tall_seagrass": [
+45,
+117,
+4
+],
+"tall_seagrass_block": [
+45,
+117,
+4
+],
+"tall_seagrass_bottom": [
+45,
+117,
+4
+],
+"tall_seagrass_bottom_block": [
+45,
+117,
+4
+],
+"tall_seagrass_top": [
+59,
+139,
+14
+],
+"tall_seagrass_top_block": [
+59,
+139,
+14
+],
+"target": [
+229,
+176,
+168
+],
+"target_block": [
+229,
+176,
+168
+],
+"target_side": [
+229,
+176,
+168
+],
+"target_side_block": [
+229,
+176,
+168
+],
+"target_top": [
+226,
+170,
+158
+],
+"target_top_block": [
+226,
+170,
+158
+],
+"terracotta": [
+152,
+94,
+68
+],
+"terracotta_block": [
+152,
+94,
+68
+],
+"test_block_accept": [
+132,
+191,
+117
+],
+"test_block_accept_block": [
+132,
+191,
+117
+],
+"test_block_fail": [
+125,
+113,
+171
+],
+"test_block_fail_block": [
+125,
+113,
+171
+],
+"test_block_log": [
+143,
+176,
+214
+],
+"test_block_log_block": [
+143,
+176,
+214
+],
+"test_block_start": [
+191,
+158,
+120
+],
+"test_block_start_block": [
+191,
+158,
+120
+],
+"test_instance_block": [
+127,
+121,
+119
+],
+"test_instance_block_block": [
+127,
+121,
+119
+],
+"tinted_glass": [
+47,
+34,
+52
+],
+"tinted_glass_block": [
+47,
+34,
+52
+],
+"tnt": [
+167,
+67,
+53
+],
+"tnt_block": [
+167,
+67,
+53
+],
+"tnt_bottom": [
+167,
+67,
+53
+],
+"tnt_bottom_block": [
+167,
+67,
+53
+],
+"tnt_side": [
+182,
+88,
+84
+],
+"tnt_side_block": [
+182,
+88,
+84
+],
+"tnt_top": [
+143,
+62,
+54
+],
+"tnt_top_block": [
+143,
+62,
+54
+],
+"torch": [
+139,
+113,
+64
+],
+"torch_block": [
+139,
+113,
+64
+],
+"torchflower": [
+101,
+101,
+77
+],
+"torchflower_block": [
+101,
+101,
+77
+],
+"trial_spawner": [
+42,
+59,
+76
+],
+"trial_spawner_block": [
+42,
+59,
+76
+],
+"trial_spawner_bottom": [
+42,
+59,
+76
+],
+"trial_spawner_bottom_block": [
+42,
+59,
+76
+],
+"tripwire": [
+129,
+129,
+129
+],
+"tripwire_block": [
+129,
+129,
+129
+],
+"tripwire_hook": [
+143,
+133,
+118
+],
+"tripwire_hook_block": [
+143,
+133,
+118
+],
+"tube_coral": [
+48,
+83,
+197
+],
+"tube_coral_block": [
+49,
+87,
+207
+],
+"tube_coral_block_block": [
+49,
+87,
+207
+],
+"tube_coral_fan": [
+51,
+92,
+209
+],
+"tube_coral_fan_block": [
+51,
+92,
+209
+],
+"tuff": [
+108,
+109,
+103
+],
+"tuff_block": [
+108,
+109,
+103
+],
+"tuff_bricks": [
+98,
+103,
+95
+],
+"tuff_bricks_block": [
+98,
+103,
+95
+],
+"turtle_egg": [
+228,
+227,
+192
+],
+"turtle_egg_block": [
+228,
+227,
+192
+],
+"turtle_egg_slightly_cracked": [
+218,
+215,
+178
+],
+"turtle_egg_slightly_cracked_block": [
+218,
+215,
+178
+],
+"turtle_egg_very_cracked": [
+208,
+204,
+165
+],
+"turtle_egg_very_cracked_block": [
+208,
+204,
+165
+],
+"twisting_vines": [
+20,
+143,
+124
+],
+"twisting_vines_block": [
+20,
+143,
+124
+],
+"twisting_vines_plant": [
+20,
+136,
+122
+],
+"twisting_vines_plant_block": [
+20,
+136,
+122
+],
+"vault": [
+44,
+43,
+56
+],
+"vault_block": [
+44,
+43,
+56
+],
+"vault_bottom": [
+44,
+43,
+56
+],
+"vault_bottom_block": [
+44,
+43,
+56
+],
+"vault_bottom_ominous": [
+44,
+43,
+56
+],
+"vault_bottom_ominous_block": [
+44,
+43,
+56
+],
+"vault_front_ejecting": [
+60,
+64,
+66
+],
+"vault_front_ejecting_block": [
+60,
+64,
+66
+],
+"vault_front_ejecting_ominous": [
+50,
+67,
+72
+],
+"vault_front_ejecting_ominous_block": [
+50,
+67,
+72
+],
+"vault_front_off": [
+51,
+66,
+74
+],
+"vault_front_off_block": [
+51,
+66,
+74
+],
+"vault_front_off_ominous": [
+56,
+65,
+70
+],
+"vault_front_off_ominous_block": [
+56,
+65,
+70
+],
+"vault_top": [
+55,
+70,
+79
+],
+"vault_top_block": [
+55,
+70,
+79
+],
+"verdant_froglight": [
+211,
+235,
+208
+],
+"verdant_froglight_block": [
+211,
+235,
+208
+],
+"verdant_froglight_side": [
+211,
+235,
+208
+],
+"verdant_froglight_side_block": [
+211,
+235,
+208
+],
+"verdant_froglight_top": [
+229,
+244,
+228
+],
+"verdant_froglight_top_block": [
+229,
+244,
+228
+],
+"vine": [
+66,
+66,
+66
+],
+"vine_block": [
+66,
+66,
+66
+],
+"warped_door": [
+43,
+119,
+112
+],
+"warped_door_block": [
+43,
+119,
+112
+],
+"warped_door_bottom": [
+43,
+119,
+112
+],
+"warped_door_bottom_block": [
+43,
+119,
+112
+],
+"warped_door_top": [
+45,
+127,
+121
+],
+"warped_door_top_block": [
+45,
+127,
+121
+],
+"warped_fungus": [
+74,
+109,
+88
+],
+"warped_fungus_block": [
+74,
+109,
+88
+],
+"warped_nylium": [
+43,
+114,
+101
+],
+"warped_nylium_block": [
+43,
+114,
+101
+],
+"warped_nylium_side": [
+73,
+62,
+60
+],
+"warped_nylium_side_block": [
+73,
+62,
+60
+],
+"warped_planks": [
+43,
+105,
+99
+],
+"warped_planks_block": [
+43,
+105,
+99
+],
+"warped_roots": [
+20,
+138,
+124
+],
+"warped_roots_block": [
+20,
+138,
+124
+],
+"warped_roots_pot": [
+21,
+137,
+123
+],
+"warped_roots_pot_block": [
+21,
+137,
+123
+],
+"warped_shelf": [
+51,
+141,
+134
+],
+"warped_shelf_block": [
+51,
+141,
+134
+],
+"warped_stem": [
+58,
+59,
+78
+],
+"warped_stem_block": [
+58,
+59,
+78
+],
+"warped_stem_top": [
+53,
+110,
+110
+],
+"warped_stem_top_block": [
+53,
+110,
+110
+],
+"warped_trapdoor": [
+47,
+120,
+112
+],
+"warped_trapdoor_block": [
+47,
+120,
+112
+],
+"warped_wart_block": [
+23,
+120,
+121
+],
+"warped_wart_block_block": [
+23,
+120,
+121
+],
+"weathered_chiseled_copper": [
+105,
+151,
+111
+],
+"weathered_chiseled_copper_block": [
+105,
+151,
+111
+],
+"weathered_copper": [
+108,
+153,
+110
+],
+"weathered_copper_bars": [
+85,
+123,
+94
+],
+"weathered_copper_bars_block": [
+85,
+123,
+94
+],
+"weathered_copper_block": [
+108,
+153,
+110
+],
+"weathered_copper_bulb": [
+92,
+127,
+99
+],
+"weathered_copper_bulb_block": [
+92,
+127,
+99
+],
+"weathered_copper_bulb_lit": [
+156,
+157,
+99
+],
+"weathered_copper_bulb_lit_block": [
+156,
+157,
+99
+],
+"weathered_copper_bulb_lit_powered": [
+158,
+156,
+98
+],
+"weathered_copper_bulb_lit_powered_block": [
+158,
+156,
+98
+],
+"weathered_copper_bulb_powered": [
+94,
+125,
+98
+],
+"weathered_copper_bulb_powered_block": [
+94,
+125,
+98
+],
+"weathered_copper_chain": [
+73,
+109,
+92
+],
+"weathered_copper_chain_block": [
+73,
+109,
+92
+],
+"weathered_copper_door": [
+107,
+143,
+102
+],
+"weathered_copper_door_block": [
+107,
+143,
+102
+],
+"weathered_copper_door_bottom": [
+107,
+143,
+102
+],
+"weathered_copper_door_bottom_block": [
+107,
+143,
+102
+],
+"weathered_copper_door_top": [
+110,
+151,
+110
+],
+"weathered_copper_door_top_block": [
+110,
+151,
+110
+],
+"weathered_copper_grate": [
+106,
+153,
+111
+],
+"weathered_copper_grate_block": [
+106,
+153,
+111
+],
+"weathered_copper_lantern": [
+96,
+134,
+100
+],
+"weathered_copper_lantern_block": [
+96,
+134,
+100
+],
+"weathered_copper_trapdoor": [
+109,
+153,
+110
+],
+"weathered_copper_trapdoor_block": [
+109,
+153,
+110
+],
+"weathered_cut_copper": [
+109,
+145,
+108
+],
+"weathered_cut_copper_block": [
+109,
+145,
+108
+],
+"weathered_lightning_rod": [
+97,
+142,
+105
+],
+"weathered_lightning_rod_block": [
+97,
+142,
+105
+],
+"weeping_vines": [
+105,
+1,
+0
+],
+"weeping_vines_block": [
+105,
+1,
+0
+],
+"weeping_vines_plant": [
+133,
+16,
+12
+],
+"weeping_vines_plant_block": [
+133,
+16,
+12
+],
+"wet_sponge": [
+171,
+181,
+70
+],
+"wet_sponge_block": [
+171,
+181,
+70
+],
+"white_candle": [
+210,
+217,
+218
+],
+"white_candle_block": [
+210,
+217,
+218
+],
+"white_candle_lit": [
+218,
+217,
+206
+],
+"white_candle_lit_block": [
+218,
+217,
+206
+],
+"white_concrete": [
+207,
+213,
+214
+],
+"white_concrete_block": [
+207,
+213,
+214
+],
+"white_concrete_powder": [
+226,
+227,
+228
+],
+"white_concrete_powder_block": [
+226,
+227,
+228
+],
+"white_glazed_terracotta": [
+188,
+212,
+203
+],
+"white_glazed_terracotta_block": [
+188,
+212,
+203
+],
+"white_shulker_box": [
+216,
+221,
+221
+],
+"white_shulker_box_block": [
+216,
+221,
+221
+],
+"white_stained_glass": [
+255,
+255,
+255
+],
+"white_stained_glass_block": [
+255,
+255,
+255
+],
+"white_stained_glass_pane": [
+246,
+246,
+246
+],
+"white_stained_glass_pane_block": [
+246,
+246,
+246
+],
+"white_stained_glass_pane_top": [
+246,
+246,
+246
+],
+"white_stained_glass_pane_top_block": [
+246,
+246,
+246
+],
+"white_terracotta": [
+210,
+178,
+161
+],
+"white_terracotta_block": [
+210,
+178,
+161
+],
+"white_tulip": [
+94,
+165,
+71
+],
+"white_tulip_block": [
+94,
+165,
+71
+],
+"white_wool": [
+234,
+236,
+237
+],
+"white_wool_block": [
+234,
+236,
+237
+],
+"wildflowers": [
+237,
+214,
+117
+],
+"wildflowers_block": [
+237,
+214,
+117
+],
+"wildflowers_stem": [
+169,
+169,
+169
+],
+"wildflowers_stem_block": [
+169,
+169,
+169
+],
+"wither_rose": [
+41,
+45,
+23
+],
+"wither_rose_block": [
+41,
+45,
+23
+],
+"yellow_candle": [
+209,
+165,
+50
+],
+"yellow_candle_block": [
+209,
+165,
+50
+],
+"yellow_candle_lit": [
+217,
+184,
+75
+],
+"yellow_candle_lit_block": [
+217,
+184,
+75
+],
+"yellow_concrete": [
+241,
+175,
+21
+],
+"yellow_concrete_block": [
+241,
+175,
+21
+],
+"yellow_concrete_powder": [
+233,
+199,
+55
+],
+"yellow_concrete_powder_block": [
+233,
+199,
+55
+],
+"yellow_glazed_terracotta": [
+234,
+192,
+89
+],
+"yellow_glazed_terracotta_block": [
+234,
+192,
+89
+],
+"yellow_shulker_box": [
+248,
+189,
+29
+],
+"yellow_shulker_box_block": [
+248,
+189,
+29
+],
+"yellow_stained_glass": [
+229,
+229,
+51
+],
+"yellow_stained_glass_block": [
+229,
+229,
+51
+],
+"yellow_stained_glass_pane": [
+221,
+221,
+49
+],
+"yellow_stained_glass_pane_block": [
+221,
+221,
+49
+],
+"yellow_stained_glass_pane_top": [
+221,
+221,
+49
+],
+"yellow_stained_glass_pane_top_block": [
+221,
+221,
+49
+],
+"yellow_terracotta": [
+186,
+133,
+35
+],
+"yellow_terracotta_block": [
+186,
+133,
+35
+],
+"yellow_wool": [
+249,
+198,
+40
+],
+"yellow_wool_block": [
+249,
+198,
+40
+]
+}
